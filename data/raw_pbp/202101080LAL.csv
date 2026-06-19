@@ -1,0 +1,434 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202101080LAL,1,11:45.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass; steal by P. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,11:38.0,,,,,,C. White,Turnover by C. White (lost ball; steal by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,11:25.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:22.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,11:07.0,,,,,,O. Porter,O. Porter misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:04.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,10:49.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 15 ft (assist by L. James ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:32.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 9 ft (assist by O. Porter ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:18.0,,,,,,Z. LaVine,Shooting foul by Z. LaVine (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,10:18.0,,,,,,W. Matthews,W. Matthews makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:18.0,,,,,,W. Matthews,W. Matthews makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:04.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt dunk from 1 ft (assist by O. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:49.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:47.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,9:34.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 18 ft (assist by Z. LaVine ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:15.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:12.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,9:07.0,,,,,,C. White,C. White misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:01.0,,,,,,O. Porter,Offensive rebound by O. Porter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:01.0,,,,,,O. Porter,O. Porter makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:52.0,,,,,,L. James,L. James makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:40.0,,,,,,C. White,C. White misses 2-pt layup from 1 ft (block by M. Gasol ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,8:37.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,8:32.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:16.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:04.0,,,,,,M. Gasol,M. Gasol makes 2-pt jump shot from 20 ft (assist by D. SchrÃ¶der ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:40.0,,,,,,P. Williams,P. Williams misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:39.0,,,,,,P. Williams,Offensive rebound by P. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:37.0,,,,,,P. Williams,P. Williams makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:20.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:01.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:58.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,6:50.0,,,,,,M. Gasol,M. Gasol misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:49.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,6:49.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,6:49.0,,,,,,G. Temple,G. Temple enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,6:24.0,,,,,,G. Temple,G. Temple misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:24.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,6:07.0,,,,,,L. James,L. James makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:52.0,,,,,,P. Williams,P. Williams misses 2-pt hook shot from 5 ft (block by M. Gasol ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,5:49.0,,,,,,P. Williams,Offensive rebound by P. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:48.0,,,,,,P. Williams,P. Williams makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:36.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:35.0,,,,,,M. Gasol,Offensive rebound by M. Gasol,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:35.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by M. Gasol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,5:35.0,,,,,,M. Gasol,M. Gasol makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:35.0,,,,,,T. Young,T. Young enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,5:35.0,,,,,,K. Kuzma,K. Kuzma enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,5:35.0,,,,,,M. Gasol,M. Gasol makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:21.0,,,,,,P. Williams,Turnover by P. Williams (dbl dribble),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,5:21.0,,,,,,D. Valentine,D. Valentine enters the game for P. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,5:00.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 3 ft (assist by K. Kuzma ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:48.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 1 ft (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:39.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,4:39.0,,,,,,D. Gafford,D. Gafford enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,4:39.0,,,,,,M. Harrell,M. Harrell enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,4:24.0,,,,,,D. Valentine,D. Valentine misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:21.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,4:08.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:04.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:01.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass; steal by D. Gafford ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,3:49.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:49.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,3:49.0,,,,,,A. Caruso,A. Caruso enters the game for W. Matthews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:49.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:49.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:36.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:34.0,,,,,,D. Gafford,Defensive rebound by D. Gafford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,3:24.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:24.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,3:02.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 26 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:43.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 25 ft (assist by D. Gafford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:22.0,,,,,,A. Caruso,A. Caruso misses 2-pt layup from 4 ft (block by D. Gafford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,2:19.0,,,,,,D. Gafford,Defensive rebound by D. Gafford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,2:06.0,,,,,,T. Young,T. Young makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:41.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt jump shot from 7 ft (assist by D. SchrÃ¶der ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:21.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:03.0,,,,,,M. Harrell,M. Harrell makes 2-pt jump shot from 10 ft (assist by T. Horton-Tucker ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:51.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:51.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,0:51.0,,,,,,C. White,C. White enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:51.0,,,,,,L. James,L. James enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:39.0,,,,,,M. Harrell,M. Harrell misses 2-pt hook shot from 8 ft (block by D. Gafford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,0:36.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,0:21.0,,,,,,C. White,C. White misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:21.0,,,,,,M. Harrell,Loose ball foul by M. Harrell (drawn by D. Gafford ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,0:21.0,,,,,,Z. LaVine,Z. LaVine enters the game for D. Valentine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:10.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 24 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:00.0,,,,,,,Instant Replay (Request: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:37.0,,,,,,T. Young,T. Young misses 2-pt hook shot from 10 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:35.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,11:19.0,,,,,,L. James,L. James misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:17.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,11:10.0,,,,,,C. White,Turnover by C. White (bad pass; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,11:10.0,,,,,,T. Young,Personal take foul by T. Young (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,10:58.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:53.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:53.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:53.0,,,,,,D. Valentine,Defensive rebound by D. Valentine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,10:50.0,,,,,,C. White,C. White makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:33.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 25 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:18.0,,,,,,C. White,C. White makes 2-pt jump shot from 18 ft (assist by D. Gafford ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:06.0,,,,,,D. Gafford,Shooting foul by D. Gafford (drawn by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,10:06.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:06.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:57.0,,,,,,C. White,C. White makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:47.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:43.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,9:36.0,,,,,,C. White,C. White makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:35.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,9:35.0,,,,,,G. Temple,G. Temple enters the game for D. Valentine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,9:19.0,,,,,,A. Caruso,Turnover by A. Caruso (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,9:10.0,,,,,,C. White,C. White misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:05.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,8:59.0,,,,,,L. James,L. James makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:40.0,,,,,,P. Williams,P. Williams misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:36.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,8:33.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:31.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,8:24.0,,,,,,D. Gafford,Offensive foul by D. Gafford (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,8:24.0,,,,,,D. Gafford,Turnover by D. Gafford (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101080LAL,1,8:24.0,,,,,,,Instant Replay (Request: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:24.0,,,,,,M. Morris,M. Morris enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,8:15.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 24 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:57.0,,,,,,P. Williams,P. Williams misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:54.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,7:46.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:28.0,,,,,,T. Young,T. Young makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:12.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:12.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:12.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:12.0,,,,,,T. Young,Shooting foul by T. Young (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,7:12.0,,,,,,W. Carter,W. Carter enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,7:12.0,,,,,,Z. LaVine,Z. LaVine enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,7:12.0,,,,,,W. Matthews,W. Matthews enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,7:12.0,,,,,,M. Harrell,M. Harrell makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:58.0,,,,,,W. Carter,W. Carter misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:54.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:54.0,,,,,,W. Carter,W. Carter misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:54.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,6:45.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:41.0,,,,,,G. Temple,Defensive rebound by G. Temple,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,6:26.0,,,,,,T. Young,T. Young makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:15.0,,,,,,L. James,Turnover by L. James (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,6:15.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,6:15.0,,,,,,D. Valentine,D. Valentine enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,6:15.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,6:06.0,,,,,,P. Williams,Offensive foul by P. Williams (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,6:06.0,,,,,,P. Williams,Turnover by P. Williams (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101080LAL,1,5:51.0,,,,,,M. Harrell,M. Harrell misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:49.0,,,,,,D. Valentine,Defensive rebound by D. Valentine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,5:41.0,,,,,,D. Valentine,D. Valentine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:36.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:35.0,,,,,,W. Carter,Turnover by W. Carter (bad pass; steal by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,5:32.0,,,,,,M. Harrell,Turnover by M. Harrell (bad pass; steal by Z. LaVine ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,5:22.0,,,,,,D. Valentine,D. Valentine misses 2-pt layup from 1 ft (block by T. Horton-Tucker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,5:20.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:20.0,,,,,,W. Carter,W. Carter misses 2-pt layup from 3 ft (block by M. Morris ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,5:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:08.0,,,,,,W. Carter,W. Carter misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:06.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,4:51.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:48.0,,,,,,D. Valentine,Defensive rebound by D. Valentine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,4:37.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 9 ft (assist by G. Temple ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:13.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:01.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt layup from 2 ft (block by W. Matthews ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,3:57.0,,,,,,W. Matthews,Defensive rebound by W. Matthews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,3:56.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:52.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,3:50.0,,,,,,G. Temple,Turnover by G. Temple (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,3:50.0,,,,,,C. White,C. White enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:50.0,,,,,,T. Young,T. Young enters the game for P. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:50.0,,,,,,M. Gasol,M. Gasol enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:31.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 2 ft (assist by W. Matthews ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:15.0,,,,,,D. Valentine,D. Valentine makes 3-pt jump shot from 23 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:02.0,,,,,,D. Valentine,Personal foul by D. Valentine (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,3:02.0,,,,,,L. James,L. James enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,2:59.0,,,,,,C. White,Personal foul by C. White (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,2:59.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:59.0,,,,,,P. Williams,P. Williams enters the game for G. Temple,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,2:59.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:39.0,,,,,,P. Williams,P. Williams makes 2-pt jump shot from 17 ft (assist by T. Young ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:24.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 3 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:24.0,,,,,,C. White,Shooting foul by C. White (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,2:24.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:11.0,,,,,,T. Young,T. Young misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:09.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,2:04.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:02.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:56.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:52.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:51.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:32.0,,,,,,C. White,C. White makes 2-pt layup from 2 ft (assist by D. Valentine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:16.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:12.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:07.0,,,,,,C. White,C. White misses 2-pt layup from 2 ft (block by M. Gasol ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,1:04.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:02.0,,,,,,M. Morris,Offensive foul by M. Morris (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,1:02.0,,,,,,M. Morris,Turnover by M. Morris (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101080LAL,1,1:02.0,,,,,,K. Kuzma,K. Kuzma enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:55.0,,,,,,T. Young,Turnover by T. Young (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,0:43.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:24.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:02.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 23 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:41.0,,,,,,W. Carter,W. Carter makes 2-pt dunk from 2 ft (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:24.0,,,,,,L. James,Turnover by L. James (bad pass; steal by G. Temple ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,11:24.0,,,,,,D. SchrÃ¶der,Personal foul by D. SchrÃ¶der (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,11:10.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 10 ft (assist by Z. LaVine ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:56.0,,,,,,L. James,Turnover by L. James (bad pass; steal by P. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,10:51.0,,,,,,G. Temple,G. Temple makes 2-pt layup from 2 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:51.0,,,,,,D. SchrÃ¶der,Shooting foul by D. SchrÃ¶der (drawn by G. Temple ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,10:51.0,,,,,,G. Temple,G. Temple makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:30.0,,,,,,L. James,L. James makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:17.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 2 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:03.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:50.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:46.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,9:36.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,9:36.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:25.0,,,,,,L. James,L. James makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:18.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 26 ft (assist by C. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:15.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,9:00.0,,,,,,W. Matthews,W. Matthews makes 3-pt jump shot from 24 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:54.0,,,,,,D. SchrÃ¶der,Personal foul by D. SchrÃ¶der (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,8:39.0,,,,,,P. Williams,P. Williams misses 2-pt hook shot from 5 ft (block by M. Gasol ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,8:39.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:30.0,,,,,,C. White,C. White makes 2-pt jump shot from 17 ft (assist by W. Carter ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:09.0,,,,,,M. Morris,M. Morris misses 2-pt layup from 3 ft (block by G. Temple ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,8:07.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,8:04.0,,,,,,W. Matthews,Shooting foul by W. Matthews (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,8:04.0,,,,,,W. Carter,W. Carter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:04.0,,,,,,W. Carter,W. Carter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:52.0,,,,,,M. Gasol,M. Gasol misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:49.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,7:39.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:36.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,7:15.0,,,,,,L. James,L. James makes 2-pt hook shot from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:56.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt dunk from 2 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:56.0,,,,,,D. SchrÃ¶der,Shooting foul by D. SchrÃ¶der (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,6:56.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:47.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by M. Gasol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,6:47.0,,,,,,M. Gasol,M. Gasol makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:47.0,,,,,,M. Gasol,M. Gasol makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:25.0,,,,,,C. White,C. White misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:23.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,6:19.0,,,,,,G. Temple,Personal foul by G. Temple (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,6:04.0,,,,,,P. Williams,Shooting foul by P. Williams (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,6:04.0,,,,,,L. James,L. James makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:04.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:47.0,,,,,,P. Williams,P. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:43.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,5:39.0,,,,,,W. Matthews,W. Matthews makes 3-pt jump shot from 27 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:38.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,5:38.0,,,,,,T. Young,T. Young enters the game for P. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,5:27.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:24.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,5:12.0,,,,,,W. Matthews,W. Matthews makes 3-pt jump shot from 25 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:51.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:46.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,4:33.0,,,,,,T. Young,Shooting foul by T. Young (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,4:33.0,,,,,,L. James,L. James makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:33.0,,,,,,A. Mokoka,A. Mokoka enters the game for G. Temple,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,4:33.0,,,,,,D. Valentine,D. Valentine enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,4:33.0,,,,,,M. Harrell,M. Harrell enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,4:33.0,,,,,,K. Kuzma,K. Kuzma enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,4:33.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:18.0,,,,,,W. Carter,W. Carter makes 2-pt dunk from 2 ft (assist by A. Mokoka ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:00.0,,,,,,W. Matthews,W. Matthews makes 3-pt jump shot from 22 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:49.0,,,,,,M. Harrell,Shooting foul by M. Harrell (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,3:49.0,,,,,,W. Carter,W. Carter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:49.0,,,,,,A. Caruso,A. Caruso enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:49.0,,,,,,W. Carter,W. Carter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:49.0,,,,,,D. Gafford,D. Gafford enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:28.0,,,,,,A. Caruso,Turnover by A. Caruso (bad pass; steal by D. Gafford ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,3:19.0,,,,,,A. Mokoka,A. Mokoka makes 3-pt jump shot from 23 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:08.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:05.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:04.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:51.0,,,,,,A. Mokoka,A. Mokoka misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:49.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,2:44.0,,,,,,K. Kuzma,Turnover by K. Kuzma (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,2:31.0,,,,,,T. Young,T. Young makes 2-pt hook shot from 7 ft (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:05.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:01.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:57.0,,,,,,K. Kuzma,Shooting foul by K. Kuzma (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,1:57.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:57.0,,,,,,J. Dudley,J. Dudley enters the game for W. Matthews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,1:57.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,1:57.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:44.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:42.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:41.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:41.0,,,,,,K. Kuzma,Offensive rebound by K. Kuzma,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:34.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:29.0,,,,,,A. Mokoka,Defensive rebound by A. Mokoka,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:18.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:15.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:04.0,,,,,,M. Harrell,M. Harrell makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:48.0,,,,,,T. Young,Turnover by T. Young (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,0:48.0,,,,,,C. White,C. White enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:40.0,,,,,,D. Gafford,Shooting foul by D. Gafford (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,0:40.0,,,,,,M. Harrell,M. Harrell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:40.0,,,,,,M. Harrell,M. Harrell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:28.0,,,,,,C. White,C. White misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:23.0,,,,,,J. Dudley,Defensive rebound by J. Dudley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,0:23.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,0:23.0,,,,,,P. Williams,P. Williams enters the game for D. Valentine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:02.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (lost ball; steal by P. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,0:00.0,,,,,,D. Gafford,Turnover by D. Gafford (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,11:36.0,,,,,,M. Harrell,M. Harrell makes 2-pt hook shot from 4 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:17.0,,,,,,T. Young,T. Young misses 2-pt hook shot from 6 ft (block by M. Harrell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101080LAL,1,11:13.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,11:10.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,11:06.0,,,,,,D. Valentine,Defensive rebound by D. Valentine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,10:59.0,,,,,,A. Mokoka,A. Mokoka misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:57.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:56.0,,,,,,T. Young,T. Young makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:38.0,,,,,,M. Harrell,Turnover by M. Harrell (bad pass; steal by T. Young ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,10:24.0,,,,,,D. Valentine,D. Valentine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,10:21.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,10:13.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 22 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:55.0,,,,,,A. Mokoka,Turnover by A. Mokoka (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,9:55.0,,,,,,L. James,L. James enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,9:43.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:42.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,9:42.0,,,,,,P. Williams,P. Williams enters the game for A. Mokoka,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,9:31.0,,,,,,T. Horton-Tucker,Personal foul by T. Horton-Tucker (drawn by D. Valentine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,9:31.0,,,,,,W. Carter,W. Carter enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,9:20.0,,,,,,C. White,C. White misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:16.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:16.0,,,,,,T. Young,T. Young misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,9:16.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,9:01.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:57.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:54.0,,,,,,M. Harrell,M. Harrell misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:50.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,8:43.0,,,,,,W. Carter,W. Carter misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:40.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,8:29.0,,,,,,P. Williams,Personal foul by P. Williams (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,8:29.0,,,,,,Z. LaVine,Z. LaVine enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,8:29.0,,,,,,W. Matthews,W. Matthews enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,8:20.0,,,,,,T. Young,Personal foul by T. Young (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,8:10.0,,,,,,L. James,L. James misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:07.0,,,,,,W. Matthews,Offensive rebound by W. Matthews,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:01.0,,,,,,L. James,L. James makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,8:01.0,,,,,,P. Williams,Shooting foul by P. Williams (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,8:01.0,,,,,,L. James,L. James makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:44.0,,,,,,D. Valentine,D. Valentine makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:21.0,,,,,,L. James,L. James misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:21.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:18.0,,,,,,M. Harrell,M. Harrell misses 2-pt hook shot from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,7:18.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,7:10.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 2 ft (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:58.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:55.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,6:50.0,,,,,,D. Valentine,D. Valentine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:49.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:49.0,,,,,,T. Young,T. Young makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:49.0,,,,,,W. Matthews,Shooting foul by W. Matthews (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,6:49.0,,,,,,M. Morris,M. Morris enters the game for J. Dudley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,6:49.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,6:49.0,,,,,,T. Young,T. Young makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:30.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt jump shot from 9 ft (assist by L. James ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,6:17.0,,,,,,W. Matthews,Personal foul by W. Matthews (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,6:17.0,,,,,,G. Temple,G. Temple enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,6:11.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:50.0,,,,,,W. Carter,Personal foul by W. Carter (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,5:44.0,,,,,,L. James,L. James misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:41.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,5:31.0,,,,,,D. Valentine,D. Valentine misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:27.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,5:19.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,5:19.0,,,,,,L. James,L. James misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:19.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,5:19.0,,,,,,C. White,C. White enters the game for D. Valentine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,5:19.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:03.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,5:01.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,4:46.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass; steal by P. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,4:42.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt dunk from 2 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:22.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:09.0,,,,,,L. James,Shooting foul by L. James (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,4:09.0,,,,,,W. Carter,W. Carter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:09.0,,,,,,W. Carter,W. Carter misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,4:06.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,3:55.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 23 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:35.0,,,,,,P. Williams,P. Williams misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:32.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,3:25.0,,,,,,L. James,Turnover by L. James (lost ball; steal by Z. LaVine ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101080LAL,1,3:21.0,,,,,,D. SchrÃ¶der,Personal foul by D. SchrÃ¶der (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,3:21.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:21.0,,,,,,T. Young,T. Young enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,3:21.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:05.0,,,,,,L. James,L. James misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,3:02.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,2:56.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 3 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:39.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:24.0,,,,,,C. White,Turnover by C. White (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101080LAL,1,2:11.0,,,,,,C. White,Shooting foul by C. White (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,2:11.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:11.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,2:08.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:58.0,,,,,,G. Temple,G. Temple makes 3-pt jump shot from 25 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:42.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:37.0,,,,,,G. Temple,Defensive rebound by G. Temple,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:32.0,,,,,,T. Young,T. Young makes 2-pt layup from 2 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:32.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,1:21.0,,,,,,L. James,L. James misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:19.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,1:04.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,1:02.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,0:46.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:46.0,,,,,,P. Williams,Shooting foul by P. Williams (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,0:46.0,,,,,,A. Caruso,A. Caruso enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:46.0,,,,,,L. James,L. James misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:45.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,0:45.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,0:37.0,,,,,,G. Temple,G. Temple makes 3-pt jump shot from 23 ft (assist by C. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:20.0,,,,,,L. James,L. James misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:16.0,,,,,,G. Temple,Defensive rebound by G. Temple,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,0:12.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,0:04.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:04.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101080LAL,1,0:04.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101080LAL,1,0:04.0,,,,,,M. Morris,M. Morris enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101080LAL,1,0:00.0,,,,,,G. Temple,Personal take foul by G. Temple (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101080LAL,1,0:00.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:00.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101080LAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False

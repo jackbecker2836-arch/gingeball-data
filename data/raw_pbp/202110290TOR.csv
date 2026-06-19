@@ -1,0 +1,435 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202110290TOR,1,11:39.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:33.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:26.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:23.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:14.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 17 ft (assist by F. VanVleet ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:56.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:53.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:50.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:43.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:33.0,,,,,,C. Anthony,C. Anthony misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:27.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:27.0,,,,,,M. Bamba,M. Bamba misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:24.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:24.0,,,,,,M. Bamba,M. Bamba makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:18.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:10.0,,,,,,S. Barnes,S. Barnes makes 3-pt jump shot from 26 ft (assist by P. Achiuwa ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:59.0,,,,,,W. Carter,Turnover by W. Carter (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,9:49.0,,,,,,S. Barnes,S. Barnes misses 2-pt jump shot from 11 ft (block by M. Bamba ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202110290TOR,1,9:45.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:43.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 25 ft (assist by J. Suggs ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:34.0,,,,,,F. Wagner,Personal foul by F. Wagner (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,9:17.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:13.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,8:58.0,,,,,,J. Suggs,J. Suggs misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:55.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,8:51.0,,,,,,S. Barnes,Turnover by S. Barnes (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,8:36.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:33.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:30.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:26.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,8:11.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:08.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,7:52.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:50.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,7:41.0,,,,,,F. VanVleet,F. VanVleet misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:38.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:36.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:33.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,7:26.0,,,,,,J. Suggs,Turnover by J. Suggs (lost ball; steal by S. Barnes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,7:09.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 12 ft (assist by O. Anunoby ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:47.0,,,,,,J. Suggs,J. Suggs makes 3-pt jump shot from 27 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:31.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:28.0,,,,,,J. Suggs,Defensive rebound by J. Suggs,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,6:19.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:17.0,,,,,,G. Trent,Defensive rebound by G. Trent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,6:09.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:06.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,5:47.0,,,,,,J. Suggs,J. Suggs makes 3-pt jump shot from 23 ft (assist by M. Bamba ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:34.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,5:34.0,,,,,,G. Harris,G. Harris enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:34.0,,,,,,T. Ross,T. Ross enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:20.0,,,,,,S. Barnes,S. Barnes misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:17.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:16.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,M. Bamba,M. Bamba makes 3-pt jump shot from 23 ft (assist by W. Carter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,R. Lopez,R. Lopez enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:02.0,,,,,,D. Banton,D. Banton enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:02.0,,,,,,K. Birch,K. Birch enters the game for F. VanVleet,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,4:36.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,4:16.0,,,,,,G. Harris,G. Harris makes 2-pt jump shot from 19 ft (assist by R. Lopez ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:02.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 27 ft (assist by K. Birch ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:38.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:33.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:33.0,,,,,,M. Bamba,M. Bamba makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:23.0,,,,,,S. Barnes,S. Barnes misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:22.0,,,,,,T. Ross,Loose ball foul by T. Ross (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,3:22.0,,,,,,F. Wagner,F. Wagner enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,3:22.0,,,,,,C. Boucher,C. Boucher enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,3:17.0,,,,,,C. Anthony,Personal foul by C. Anthony (drawn by D. Banton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,3:03.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:02.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:02.0,,,,,,R. Lopez,Shooting foul by R. Lopez (drawn by K. Birch ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,3:02.0,,,,,,K. Birch,K. Birch makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:02.0,,,,,,R. Hampton,R. Hampton enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,3:02.0,,,,,,K. Birch,K. Birch makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:41.0,,,,,,R. Hampton,Turnover by R. Hampton (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,2:41.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,2:41.0,,,,,,F. VanVleet,F. VanVleet enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,2:29.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:10.0,,,,,,K. Birch,Personal foul by K. Birch (drawn by R. Lopez ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,2:03.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:59.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,1:53.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:50.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:37.0,,,,,,K. Birch,K. Birch misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:31.0,,,,,,D. Banton,Offensive rebound by D. Banton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:31.0,,,,,,D. Banton,D. Banton makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:18.0,,,,,,R. Hampton,Turnover by R. Hampton (lost ball; steal by K. Birch ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,1:12.0,,,,,,D. Banton,D. Banton misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:08.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:08.0,,,,,,C. Boucher,C. Boucher makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:47.0,,,,,,R. Lopez,Turnover by R. Lopez (lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,0:47.0,,,,,,R. Lopez,Loose ball foul by R. Lopez (drawn by K. Birch ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,0:47.0,,,,,,K. Birch,K. Birch misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:47.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:47.0,,,,,,K. Birch,K. Birch makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:26.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:23.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,0:02.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 34 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:02.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:47.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:44.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:23.0,,,,,,C. Boucher,C. Boucher misses 2-pt jump shot from 8 ft (block by M. Bamba ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202110290TOR,1,11:20.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:10.0,,,,,,R. Lopez,R. Lopez misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:08.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,10:56.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:52.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:52.0,,,,,,R. Hampton,Personal foul by R. Hampton (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,10:46.0,,,,,,D. Banton,D. Banton misses 2-pt layup from 5 ft (block by R. Lopez ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202110290TOR,1,10:46.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:46.0,,,,,,K. Birch,K. Birch makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:46.0,,,,,,J. Suggs,Shooting foul by J. Suggs (drawn by K. Birch ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,10:46.0,,,,,,K. Birch,K. Birch makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:25.0,,,,,,M. Bamba,M. Bamba makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:16.0,,,,,,D. Banton,D. Banton makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:00.0,,,,,,R. Hampton,R. Hampton makes 3-pt jump shot from 26 ft (assist by M. Bamba ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:48.0,,,,,,R. Hampton,Personal foul by R. Hampton (drawn by D. Banton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,9:41.0,,,,,,F. VanVleet,F. VanVleet misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:39.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:19.0,,,,,,R. Hampton,R. Hampton misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:17.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:15.0,,,,,,S. Barnes,S. Barnes makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:15.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,9:15.0,,,,,,C. Anthony,C. Anthony enters the game for R. Hampton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,9:15.0,,,,,,W. Carter,W. Carter enters the game for R. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,9:15.0,,,,,,S. Mykhailiuk,S. Mykhailiuk enters the game for C. Boucher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,9:06.0,,,,,,C. Anthony,C. Anthony makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:06.0,,,,,,D. Banton,Shooting foul by D. Banton (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,9:06.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:51.0,,,,,,F. VanVleet,Turnover by F. VanVleet (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,8:41.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:12.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:51.0,,,,,,T. Ross,T. Ross makes 2-pt jump shot from 15 ft (assist by J. Suggs ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:39.0,,,,,,K. Birch,K. Birch misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:36.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,7:19.0,,,,,,W. Carter,W. Carter misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:17.0,,,,,,D. Banton,Defensive rebound by D. Banton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,7:12.0,,,,,,J. Suggs,Shooting foul by J. Suggs (drawn by S. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,7:12.0,,,,,,S. Barnes,S. Barnes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:12.0,,,,,,F. Wagner,F. Wagner enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,7:12.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for D. Banton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,7:12.0,,,,,,O. Anunoby,O. Anunoby enters the game for K. Birch,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,7:12.0,,,,,,G. Trent,G. Trent enters the game for F. VanVleet,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,7:12.0,,,,,,S. Barnes,S. Barnes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:57.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:54.0,,,,,,F. Wagner,Offensive rebound by F. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:53.0,,,,,,W. Carter,W. Carter makes 2-pt dunk at rim (assist by F. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:35.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:33.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,6:23.0,,,,,,M. Bamba,Turnover by M. Bamba (bad pass; steal by S. Barnes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,6:18.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:12.0,,,,,,W. Carter,Turnover by W. Carter (bad pass; steal by S. Mykhailiuk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,6:11.0,,,,,,C. Anthony,Personal foul by C. Anthony (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,6:11.0,,,,,,G. Trent,G. Trent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:11.0,,,,,,G. Trent,G. Trent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:50.0,,,,,,P. Achiuwa,Flagrant foul type 1 by P. Achiuwa (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,5:50.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:50.0,,,,,,C. Anthony,C. Anthony makes flagrant free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:50.0,,,,,,C. Anthony,C. Anthony makes flagrant free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:50.0,,,,,,C. Anthony,C. Anthony misses flagrant free throw 3 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:50.0,,,,,,G. Harris,G. Harris enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:40.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 13 ft (assist by G. Harris ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:27.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:17.0,,,,,,M. Bamba,M. Bamba makes 3-pt jump shot from 23 ft (assist by F. Wagner ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,G. Harris,Shooting foul by G. Harris (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,5:02.0,,,,,,G. Trent,G. Trent makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:49.0,,,,,,M. Bamba,M. Bamba misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:43.0,,,,,,S. Mykhailiuk,Defensive rebound by S. Mykhailiuk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,4:37.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:35.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,4:31.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:28.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,4:16.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 13 ft (assist by O. Anunoby ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:04.0,,,,,,G. Harris,G. Harris makes 2-pt layup from 2 ft (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:48.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:31.0,,,,,,G. Harris,Turnover by G. Harris (lost ball; steal by S. Mykhailiuk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,3:25.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:22.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,3:08.0,,,,,,W. Carter,W. Carter makes 2-pt dunk at rim (assist by G. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:08.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,3:08.0,,,,,,J. Suggs,J. Suggs enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,3:08.0,,,,,,F. VanVleet,F. VanVleet enters the game for S. Mykhailiuk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,2:51.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:47.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,2:33.0,,,,,,F. VanVleet,Personal foul by F. VanVleet (drawn by J. Suggs ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,2:33.0,,,,,,T. Ross,T. Ross enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,2:18.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 32 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:13.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,1:53.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:35.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:31.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:31.0,,,,,,W. Carter,W. Carter makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:08.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 27 ft (assist by O. Anunoby ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:57.0,,,,,,W. Carter,W. Carter makes 3-pt jump shot from 27 ft (assist by J. Suggs ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:46.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 19 ft (assist by F. VanVleet ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:34.0,,,,,,J. Suggs,J. Suggs misses 2-pt layup from 6 ft (block by G. Trent ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202110290TOR,1,0:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:34.0,,,,,,F. Wagner,Offensive foul by F. Wagner (drawn by S. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,0:34.0,,,,,,F. Wagner,Turnover by F. Wagner (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202110290TOR,1,0:34.0,,,,,,C. Boucher,C. Boucher enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,0:30.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:27.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,0:06.0,,,,,,G. Harris,G. Harris misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:02.0,,,,,,G. Harris,Offensive rebound by G. Harris,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:02.0,,,,,,G. Harris,G. Harris misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:01.0,,,,,,F. Wagner,Offensive rebound by F. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:01.0,,,,,,F. Wagner,Turnover by F. Wagner (bad pass; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,11:39.0,,,,,,F. Wagner,F. Wagner misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:37.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:26.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:23.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:15.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:12.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,11:09.0,,,,,,J. Suggs,Personal foul by J. Suggs (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,10:57.0,,,,,,F. VanVleet,F. VanVleet makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:36.0,,,,,,F. Wagner,F. Wagner makes 2-pt hook shot from 5 ft (assist by M. Bamba ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:30.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:28.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,10:15.0,,,,,,J. Suggs,J. Suggs makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:07.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:06.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:06.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:06.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by P. Achiuwa ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,10:06.0,,,,,,P. Achiuwa,P. Achiuwa misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:03.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:48.0,,,,,,M. Bamba,M. Bamba misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:46.0,,,,,,G. Trent,Defensive rebound by G. Trent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:39.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:32.0,,,,,,M. Bamba,Turnover by M. Bamba (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,9:22.0,,,,,,S. Barnes,S. Barnes misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:20.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:11.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:56.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:53.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,8:48.0,,,,,,M. Bamba,M. Bamba misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:46.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,8:43.0,,,,,,F. Wagner,Personal take foul by F. Wagner (drawn by P. Achiuwa ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,8:31.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:12.0,,,,,,J. Suggs,J. Suggs makes 3-pt jump shot from 30 ft (assist by M. Bamba ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:55.0,,,,,,P. Achiuwa,Turnover by P. Achiuwa (lost ball; steal by F. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,7:50.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:50.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,7:50.0,,,,,,P. Achiuwa,Turnover by P. Achiuwa (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,7:36.0,,,,,,J. Suggs,J. Suggs makes 2-pt layup from 2 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:24.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,7:24.0,,,,,,G. Harris,G. Harris enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,7:18.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt dunk from 2 ft (block by M. Bamba ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202110290TOR,1,7:15.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,7:05.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:02.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,6:46.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:29.0,,,,,,G. Harris,G. Harris misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:27.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,6:15.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt hook shot from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:58.0,,,,,,F. Wagner,F. Wagner misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:58.0,,,,,,F. Wagner,Offensive rebound by F. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:58.0,,,,,,F. Wagner,F. Wagner makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:58.0,,,,,,P. Achiuwa,Shooting foul by P. Achiuwa (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,5:58.0,,,,,,M. Wagner,M. Wagner enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:58.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:42.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:38.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,5:28.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 24 ft (assist by G. Harris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:15.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:15.0,,,,,,M. Wagner,Defensive rebound by M. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,S. Barnes,Shooting foul by S. Barnes (drawn by M. Bamba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,5:02.0,,,,,,M. Bamba,M. Bamba misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,D. Banton,D. Banton enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:02.0,,,,,,K. Birch,K. Birch enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:02.0,,,,,,C. Boucher,C. Boucher enters the game for F. VanVleet,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:02.0,,,,,,M. Bamba,M. Bamba misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:59.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,4:48.0,,,,,,F. Wagner,Personal foul by F. Wagner (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,4:48.0,,,,,,T. Ross,T. Ross enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,4:39.0,,,,,,D. Banton,D. Banton makes 2-pt dunk at rim (assist by K. Birch ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:31.0,,,,,,G. Trent,Personal foul by G. Trent (drawn by T. Ross ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,4:23.0,,,,,,G. Harris,G. Harris makes 2-pt jump shot from 22 ft (assist by M. Bamba ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:00.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:44.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:41.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,3:31.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:28.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,3:25.0,,,,,,M. Bamba,M. Bamba makes 2-pt dunk from 2 ft (assist by T. Ross ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:06.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:04.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,2:47.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:43.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,2:39.0,,,,,,O. Anunoby,Offensive foul by O. Anunoby (drawn by M. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,2:39.0,,,,,,O. Anunoby,Turnover by O. Anunoby (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202110290TOR,1,2:39.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,2:39.0,,,,,,W. Carter,W. Carter enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,2:39.0,,,,,,J. Suggs,J. Suggs enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,2:39.0,,,,,,S. Barnes,S. Barnes enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,2:39.0,,,,,,F. VanVleet,F. VanVleet enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,2:25.0,,,,,,T. Ross,T. Ross makes 2-pt jump shot from 15 ft (assist by J. Suggs ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:10.0,,,,,,T. Ross,Personal foul by T. Ross (drawn by D. Banton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,2:10.0,,,,,,D. Banton,D. Banton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:10.0,,,,,,D. Banton,D. Banton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:52.0,,,,,,G. Harris,G. Harris makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:32.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,1:32.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:32.0,,,,,,C. Boucher,C. Boucher misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:29.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,1:12.0,,,,,,T. Ross,T. Ross makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:12.0,,,,,,C. Boucher,Shooting foul by C. Boucher (drawn by T. Ross ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,1:12.0,,,,,,T. Ross,T. Ross misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:09.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,1:02.0,,,,,,D. Banton,D. Banton makes 2-pt layup from 2 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:48.0,,,,,,J. Suggs,Turnover by J. Suggs (bad pass; steal by C. Boucher ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,0:48.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,0:48.0,,,,,,C. Boucher,C. Boucher misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:48.0,,,,,,C. Boucher,C. Boucher makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:32.0,,,,,,M. Wagner,M. Wagner misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:29.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,0:17.0,,,,,,S. Barnes,S. Barnes misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:17.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,0:00.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:46.0,,,,,,O. Anunoby,Turnover by O. Anunoby (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,11:32.0,,,,,,F. VanVleet,Shooting foul by F. VanVleet (drawn by J. Suggs ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,11:32.0,,,,,,J. Suggs,J. Suggs makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:32.0,,,,,,J. Suggs,J. Suggs makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,11:14.0,,,,,,F. VanVleet,F. VanVleet makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:52.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:49.0,,,,,,D. Banton,Defensive rebound by D. Banton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,10:41.0,,,,,,C. Boucher,C. Boucher makes 3-pt jump shot from 25 ft (assist by F. VanVleet ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:32.0,,,,,,K. Birch,Personal foul by K. Birch (drawn by M. Bamba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,10:17.0,,,,,,G. Harris,G. Harris misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:17.0,,,,,,O. Anunoby,Loose ball foul by O. Anunoby (drawn by M. Bamba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,10:04.0,,,,,,M. Wagner,Turnover by M. Wagner (bad pass; steal by D. Banton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,10:02.0,,,,,,J. Suggs,Shooting foul by J. Suggs (drawn by D. Banton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,10:02.0,,,,,,D. Banton,D. Banton misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:02.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,10:02.0,,,,,,D. Banton,D. Banton misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:59.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:34.0,,,,,,J. Suggs,J. Suggs misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:32.0,,,,,,D. Banton,Defensive rebound by D. Banton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,9:29.0,,,,,,O. Anunoby,O. Anunoby makes 3-pt jump shot from 23 ft (assist by D. Banton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,9:29.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,9:29.0,,,,,,C. Anthony,C. Anthony enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,9:29.0,,,,,,W. Carter,W. Carter enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,9:29.0,,,,,,F. Wagner,F. Wagner enters the game for M. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,9:06.0,,,,,,C. Anthony,Turnover by C. Anthony (bad pass; steal by C. Boucher ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,8:54.0,,,,,,O. Anunoby,O. Anunoby makes 3-pt jump shot from 23 ft (assist by F. VanVleet ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:39.0,,,,,,C. Anthony,Turnover by C. Anthony (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202110290TOR,1,8:37.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt dunk at rim (assist by F. VanVleet ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:19.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 15 ft (assist by C. Anthony ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,8:01.0,,,,,,K. Birch,Offensive foul by K. Birch (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,8:01.0,,,,,,K. Birch,Turnover by K. Birch (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202110290TOR,1,7:50.0,,,,,,G. Harris,G. Harris makes 3-pt jump shot from 23 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:38.0,,,,,,W. Carter,Personal foul by W. Carter (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,7:30.0,,,,,,C. Boucher,C. Boucher makes 2-pt hook shot from 3 ft (assist by F. VanVleet ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:21.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,7:06.0,,,,,,C. Anthony,Personal foul by C. Anthony (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,7:06.0,,,,,,S. Barnes,S. Barnes enters the game for D. Banton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,7:01.0,,,,,,F. VanVleet,F. VanVleet makes 2-pt jump shot from 17 ft (assist by K. Birch ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:48.0,,,,,,O. Anunoby,Personal foul by O. Anunoby (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,6:34.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:18.0,,,,,,F. VanVleet,F. VanVleet makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,6:18.0,,,,,,G. Trent,G. Trent enters the game for C. Boucher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,5:52.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:26.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:23.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,5:06.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,5:02.0,,,,,,G. Trent,Defensive rebound by G. Trent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,4:56.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 13 ft (assist by G. Trent ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:29.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:27.0,,,,,,C. Anthony,Offensive rebound by C. Anthony,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:23.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:18.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,4:18.0,,,,,,F. VanVleet,F. VanVleet makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,4:18.0,,,,,,C. Anthony,Shooting foul by C. Anthony (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,4:18.0,,,,,,T. Ross,T. Ross enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,4:18.0,,,,,,J. Suggs,J. Suggs enters the game for G. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,4:18.0,,,,,,F. VanVleet,F. VanVleet makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:57.0,,,,,,J. Suggs,Turnover by J. Suggs (lost ball; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,3:53.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt dunk from 1 ft (assist by G. Trent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:34.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:20.0,,,,,,J. Suggs,Personal foul by J. Suggs (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,3:20.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,3:20.0,,,,,,D. Banton,D. Banton enters the game for K. Birch,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,3:20.0,,,,,,F. VanVleet,F. VanVleet misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:20.0,,,,,,F. VanVleet,F. VanVleet makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:02.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,3:01.0,,,,,,W. Carter,W. Carter enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202110290TOR,1,3:01.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,3:01.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,2:56.0,,,,,,O. Anunoby,Personal foul by O. Anunoby (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,2:56.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:56.0,,,,,,C. Anthony,C. Anthony makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:43.0,,,,,,F. VanVleet,F. VanVleet makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:29.0,,,,,,M. Bamba,M. Bamba misses 2-pt layup from 4 ft (block by S. Barnes ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202110290TOR,1,2:29.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,2:29.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,2:29.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:09.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,2:07.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,2:06.0,,,,,,M. Bamba,Turnover by M. Bamba (lost ball; steal by D. Banton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202110290TOR,1,2:04.0,,,,,,F. VanVleet,F. VanVleet makes 3-pt jump shot from 24 ft (assist by D. Banton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:54.0,,,,,,D. Banton,Personal foul by D. Banton (drawn by J. Suggs ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,1:54.0,,,,,,J. Suggs,J. Suggs makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:54.0,,,,,,J. Suggs,J. Suggs makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:35.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:30.0,,,,,,J. Suggs,Defensive rebound by J. Suggs,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,1:26.0,,,,,,J. Suggs,J. Suggs misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:25.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:25.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:25.0,,,,,,F. VanVleet,Shooting foul by F. VanVleet (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,1:25.0,,,,,,W. Carter,W. Carter misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:21.0,,,,,,D. Banton,Defensive rebound by D. Banton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,1:03.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,1:01.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,0:52.0,,,,,,J. Suggs,J. Suggs makes 3-pt jump shot from 27 ft (assist by W. Carter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:52.0,,,,,,O. Anunoby,Shooting foul by O. Anunoby (drawn by J. Suggs ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202110290TOR,1,0:52.0,,,,,,J. Suggs,J. Suggs makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:52.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,0:42.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt dunk from 2 ft (block by J. Suggs ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202110290TOR,1,0:38.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,0:33.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 24 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:13.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:10.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202110290TOR,1,0:05.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202110290TOR,1,0:00.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 46 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202110290TOR,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False

@@ -1,0 +1,442 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202112180OKC,1,11:46.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,11:35.0,,,,,,J. Giddey,Turnover by J. Giddey (bad pass; steal by I. Zubac ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,11:28.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 24 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:02.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 24 ft (assist by S. Gilgeous-Alexander ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:40.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:37.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:28.0,,,,,,J. Robinson-Earl,J. Robinson-Earl misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:25.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:18.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:15.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:10.0,,,,,,J. Giddey,J. Giddey makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:51.0,,,,,,T. Mann,T. Mann makes 3-pt jump shot from 25 ft (assist by I. Zubac ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:34.0,,,,,,L. Dort,L. Dort misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:32.0,,,,,,J. Giddey,Offensive rebound by J. Giddey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:25.0,,,,,,J. Robinson-Earl,Turnover by J. Robinson-Earl (lost ball; steal by R. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,9:19.0,,,,,,A. Wiggins,Personal foul by A. Wiggins (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,9:05.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:02.0,,,,,,T. Mann,Offensive rebound by T. Mann,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:59.0,,,,,,J. Winslow,J. Winslow misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:57.0,,,,,,J. Winslow,Offensive rebound by J. Winslow,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:57.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:47.0,,,,,,J. Giddey,J. Giddey misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:44.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,8:40.0,,,,,,S. Gilgeous-Alexander,Shooting foul by S. Gilgeous-Alexander (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,8:40.0,,,,,,I. Zubac,I. Zubac misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:40.0,,,,,,I. Zubac,I. Zubac misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:38.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,8:19.0,,,,,,J. Robinson-Earl,J. Robinson-Earl misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:17.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,8:08.0,,,,,,L. Dort,Personal foul by L. Dort (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,7:57.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:54.0,,,,,,J. Robinson-Earl,Defensive rebound by J. Robinson-Earl,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,7:37.0,,,,,,J. Giddey,J. Giddey makes 2-pt jump shot from 23 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:17.0,,,,,,J. Winslow,J. Winslow makes 3-pt jump shot from 23 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:03.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:01.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,6:51.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,6:46.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:42.0,,,,,,J. Robinson-Earl,Defensive rebound by J. Robinson-Earl,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,6:27.0,,,,,,I. Zubac,Personal foul by I. Zubac (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,6:23.0,,,,,,T. Mann,Personal foul by T. Mann (drawn by L. Dort ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,6:14.0,,,,,,L. Dort,L. Dort makes 3-pt jump shot from 26 ft (assist by J. Robinson-Earl ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:47.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:28.0,,,,,,J. Robinson-Earl,Offensive foul by J. Robinson-Earl (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,5:28.0,,,,,,J. Robinson-Earl,Turnover by J. Robinson-Earl (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180OKC,1,5:09.0,,,,,,J. Robinson-Earl,Personal foul by J. Robinson-Earl (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,5:09.0,,,,,,T. Mann,T. Mann enters the game for J. Giddey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,5:00.0,,,,,,L. Kennard,L. Kennard misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:57.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:43.0,,,,,,T. Mann,T. Mann makes 3-pt jump shot from 30 ft (assist by S. Gilgeous-Alexander ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:40.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,4:40.0,,,,,,N. Batum,N. Batum enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,4:40.0,,,,,,E. Bledsoe,E. Bledsoe enters the game for J. Winslow,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,4:22.0,,,,,,S. Gilgeous-Alexander,Shooting foul by S. Gilgeous-Alexander (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,4:22.0,,,,,,T. Mann,T. Mann makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:22.0,,,,,,I. Hartenstein,I. Hartenstein enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,4:22.0,,,,,,T. Mann,T. Mann makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:59.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:44.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:42.0,,,,,,I. Hartenstein,Offensive rebound by I. Hartenstein,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:29.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:26.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,3:21.0,,,,,,L. Dort,L. Dort makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:13.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:10.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,2:56.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:52.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,2:46.0,,,,,,I. Hartenstein,I. Hartenstein makes 2-pt layup from 2 ft (assist by N. Batum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:35.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:21.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:19.0,,,,,,I. Hartenstein,Offensive rebound by I. Hartenstein,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:16.0,,,,,,I. Hartenstein,Turnover by I. Hartenstein (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,2:16.0,,,,,,B. Boston,B. Boston enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:16.0,,,,,,D. Bazley,D. Bazley enters the game for L. Dort,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:16.0,,,,,,D. Favors,D. Favors enters the game for J. Robinson-Earl,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:16.0,,,,,,K. Williams,K. Williams enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:06.0,,,,,,K. Williams,Turnover by K. Williams (bad pass; steal by B. Boston ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,1:54.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:52.0,,,,,,D. Favors,Defensive rebound by D. Favors,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,1:39.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:37.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,1:29.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:13.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:01.0,,,,,,I. Hartenstein,I. Hartenstein misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:59.0,,,,,,K. Williams,Defensive rebound by K. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,0:43.0,,,,,,T. Mann,T. Mann misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:40.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,0:31.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 7 ft (block by T. Mann ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180OKC,1,0:28.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,0:16.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:13.0,,,,,,K. Williams,Offensive rebound by K. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:04.0,,,,,,I. Hartenstein,Personal take foul by I. Hartenstein (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,0:04.0,,,,,,A. Coffey,A. Coffey enters the game for I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:04.0,,,,,,M. Muscala,M. Muscala enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:00.0,,,,,,T. Mann,T. Mann makes 3-pt jump shot from 23 ft (assist by S. Gilgeous-Alexander ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:00.0,,,,,,,Instant Replay (Request: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:45.0,,,,,,T. Mann,Turnover by T. Mann (bad pass; steal by N. Batum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,11:39.0,,,,,,N. Batum,Turnover by N. Batum (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,11:15.0,,,,,,D. Bazley,D. Bazley misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:12.0,,,,,,K. Williams,Offensive rebound by K. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:10.0,,,,,,A. Pokusevski,A. Pokusevski makes 2-pt dunk from 1 ft (assist by K. Williams ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:58.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 28 ft (assist by E. Bledsoe ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:42.0,,,,,,K. Williams,K. Williams misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:38.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:24.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:21.0,,,,,,D. Favors,Defensive rebound by D. Favors,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:15.0,,,,,,T. Mann,T. Mann makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:55.0,,,,,,B. Boston,Turnover by B. Boston (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,9:42.0,,,,,,T. Mann,T. Mann makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:33.0,,,,,,T. Mann,Shooting foul by T. Mann (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,9:33.0,,,,,,E. Bledsoe,E. Bledsoe makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:33.0,,,,,,L. Kennard,L. Kennard enters the game for B. Boston,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,9:33.0,,,,,,E. Bledsoe,E. Bledsoe makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:16.0,,,,,,I. Hartenstein,Shooting foul by I. Hartenstein (drawn by D. Bazley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,9:16.0,,,,,,D. Bazley,D. Bazley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:16.0,,,,,,R. Jackson,R. Jackson enters the game for N. Batum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,9:16.0,,,,,,I. Zubac,I. Zubac enters the game for I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,9:16.0,,,,,,D. Bazley,D. Bazley misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:15.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,9:04.0,,,,,,L. Kennard,L. Kennard makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:52.0,,,,,,A. Pokusevski,A. Pokusevski makes 2-pt jump shot from 15 ft (assist by T. Mann ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:34.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,8:34.0,,,,,,L. Kennard,L. Kennard makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:26.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:10.0,,,,,,A. Pokusevski,A. Pokusevski misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:06.0,,,,,,K. Williams,Offensive rebound by K. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:05.0,,,,,,K. Williams,K. Williams misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:03.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,7:59.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (palming),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,7:46.0,,,,,,D. Bazley,D. Bazley misses 2-pt dunk from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:42.0,,,,,,A. Pokusevski,Offensive rebound by A. Pokusevski,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:42.0,,,,,,A. Pokusevski,A. Pokusevski makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:31.0,,,,,,A. Coffey,A. Coffey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:29.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,7:15.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:11.0,,,,,,D. Bazley,Offensive rebound by D. Bazley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:03.0,,,,,,D. Bazley,D. Bazley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:00.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,6:52.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft (assist by L. Kennard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:51.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,6:51.0,,,,,,T. Mann,T. Mann enters the game for E. Bledsoe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,6:51.0,,,,,,J. Giddey,J. Giddey enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,6:51.0,,,,,,M. Muscala,M. Muscala enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,6:31.0,,,,,,M. Muscala,M. Muscala misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:27.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,6:20.0,,,,,,R. Jackson,R. Jackson misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:19.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,6:19.0,,,,,,L. Dort,L. Dort enters the game for A. Pokusevski,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,6:07.0,,,,,,D. Bazley,D. Bazley makes 2-pt layup from 4 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:07.0,,,,,,I. Zubac,Shooting foul by I. Zubac (drawn by D. Bazley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,6:07.0,,,,,,D. Bazley,D. Bazley makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:47.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 24 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:38.0,,,,,,L. Kennard,Personal foul by L. Kennard (drawn by M. Muscala ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,5:38.0,,,,,,J. Winslow,J. Winslow enters the game for A. Coffey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,5:33.0,,,,,,K. Williams,K. Williams misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:31.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,5:21.0,,,,,,J. Winslow,J. Winslow makes 2-pt jump shot from 8 ft (assist by L. Kennard ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:13.0,,,,,,L. Dort,L. Dort makes 2-pt layup from 4 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:55.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:52.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:48.0,,,,,,K. Williams,K. Williams makes 2-pt layup from 1 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:48.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,4:48.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander enters the game for K. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,4:31.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:26.0,,,,,,M. Muscala,Defensive rebound by M. Muscala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:17.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:15.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:10.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:06.0,,,,,,L. Dort,Defensive rebound by L. Dort,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:01.0,,,,,,L. Dort,L. Dort makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:42.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:42.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:24.0,,,,,,J. Giddey,J. Giddey makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:13.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 26 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:59.0,,,,,,D. Bazley,D. Bazley makes 2-pt hook shot from 3 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:37.0,,,,,,L. Kennard,L. Kennard misses 2-pt jump shot from 15 ft (block by D. Bazley ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180OKC,1,2:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:37.0,,,,,,N. Batum,N. Batum enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:37.0,,,,,,T. Mann,T. Mann enters the game for D. Bazley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:35.0,,,,,,L. Kennard,L. Kennard misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:31.0,,,,,,S. Gilgeous-Alexander,Defensive rebound by S. Gilgeous-Alexander,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,2:30.0,,,,,,S. Gilgeous-Alexander,Turnover by S. Gilgeous-Alexander (bad pass; steal by R. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,2:25.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 4 ft (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:25.0,,,,,,S. Gilgeous-Alexander,Shooting foul by S. Gilgeous-Alexander (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,2:25.0,,,,,,T. Mann,T. Mann makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:17.0,,,,,,J. Giddey,J. Giddey misses 2-pt layup from 3 ft (block by T. Mann ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180OKC,1,2:13.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,1:56.0,,,,,,N. Batum,Offensive foul by N. Batum (drawn by L. Dort ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,1:56.0,,,,,,N. Batum,Turnover by N. Batum (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180OKC,1,1:56.0,,,,,,E. Bledsoe,E. Bledsoe enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,1:39.0,,,,,,T. Mann,T. Mann misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:36.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,1:30.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:23.0,,,,,,L. Dort,L. Dort makes 2-pt layup from 2 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:11.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:04.0,,,,,,L. Kennard,L. Kennard makes 2-pt jump shot from 13 ft (assist by E. Bledsoe ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:04.0,,,,,,T. Mann,Shooting foul by T. Mann (drawn by L. Kennard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,1:04.0,,,,,,L. Kennard,L. Kennard makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:57.0,,,,,,M. Muscala,M. Muscala makes 2-pt dunk from 1 ft (assist by S. Gilgeous-Alexander ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:40.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:37.0,,,,,,J. Winslow,Offensive rebound by J. Winslow,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:36.0,,,,,,J. Winslow,J. Winslow misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:34.0,,,,,,J. Winslow,Offensive rebound by J. Winslow,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:33.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:27.0,,,,,,L. Dort,L. Dort makes 2-pt jump shot from 2 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:27.0,,,,,,T. Mann,Shooting foul by T. Mann (drawn by L. Dort ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,0:27.0,,,,,,R. Jackson,R. Jackson enters the game for J. Winslow,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:27.0,,,,,,D. Bazley,D. Bazley enters the game for S. Gilgeous-Alexander,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:27.0,,,,,,A. Wiggins,A. Wiggins enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:27.0,,,,,,L. Dort,L. Dort makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:03.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 35 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:03.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,11:43.0,,,,,,J. Robinson-Earl,J. Robinson-Earl misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:39.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,11:35.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:32.0,,,,,,J. Robinson-Earl,Defensive rebound by J. Robinson-Earl,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,11:28.0,,,,,,J. Giddey,Turnover by J. Giddey (bad pass; steal by J. Winslow ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,11:08.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:05.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,11:01.0,,,,,,J. Robinson-Earl,J. Robinson-Earl makes 2-pt dunk from 1 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:40.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:37.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:29.0,,,,,,L. Dort,L. Dort misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:25.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:20.0,,,,,,I. Zubac,I. Zubac makes 2-pt layup from 1 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:56.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:52.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,9:49.0,,,,,,L. Dort,Shooting foul by L. Dort (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,9:49.0,,,,,,T. Mann,T. Mann misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:49.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:49.0,,,,,,T. Mann,T. Mann makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:36.0,,,,,,J. Giddey,J. Giddey misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:34.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,9:31.0,,,,,,T. Mann,T. Mann misses 2-pt layup from 2 ft (block by A. Wiggins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180OKC,1,9:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:27.0,,,,,,J. Robinson-Earl,Shooting foul by J. Robinson-Earl (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,9:27.0,,,,,,T. Mann,T. Mann makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:27.0,,,,,,T. Mann,T. Mann misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:26.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,9:22.0,,,,,,L. Dort,L. Dort makes 2-pt dunk at rim (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:01.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:50.0,,,,,,J. Winslow,Personal foul by J. Winslow (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,8:38.0,,,,,,J. Robinson-Earl,J. Robinson-Earl makes 2-pt dunk from 1 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:21.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass; steal by J. Robinson-Earl ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,8:15.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:13.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,8:03.0,,,,,,S. Gilgeous-Alexander,Personal foul by S. Gilgeous-Alexander (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,7:59.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:55.0,,,,,,J. Robinson-Earl,Defensive rebound by J. Robinson-Earl,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,7:49.0,,,,,,J. Giddey,J. Giddey misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:45.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,7:43.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 26 ft (assist by J. Winslow ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:25.0,,,,,,L. Dort,L. Dort misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:23.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:20.0,,,,,,L. Dort,L. Dort makes 2-pt layup from 6 ft (assist by A. Wiggins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:04.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 27 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:47.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt layup from 2 ft (assist by S. Gilgeous-Alexander ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:35.0,,,,,,I. Zubac,Turnover by I. Zubac (bad pass; steal by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,6:35.0,,,,,,I. Zubac,Personal take foul by I. Zubac (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,6:35.0,,,,,,N. Batum,N. Batum enters the game for J. Winslow,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,6:35.0,,,,,,I. Hartenstein,I. Hartenstein enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,6:20.0,,,,,,I. Hartenstein,Shooting foul by I. Hartenstein (drawn by J. Robinson-Earl ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,6:20.0,,,,,,J. Robinson-Earl,J. Robinson-Earl misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:20.0,,,,,,J. Robinson-Earl,J. Robinson-Earl makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:01.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:57.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,5:54.0,,,,,,J. Giddey,J. Giddey makes 2-pt jump shot from 2 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:39.0,,,,,,T. Mann,T. Mann makes 2-pt dunk from 1 ft (assist by N. Batum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:29.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:27.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,5:18.0,,,,,,I. Hartenstein,I. Hartenstein makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:17.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,5:17.0,,,,,,E. Bledsoe,E. Bledsoe enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,5:04.0,,,,,,J. Robinson-Earl,J. Robinson-Earl misses 2-pt layup from 7 ft (block by I. Hartenstein ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180OKC,1,5:01.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:49.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:47.0,,,,,,L. Dort,Defensive rebound by L. Dort,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:36.0,,,,,,J. Robinson-Earl,J. Robinson-Earl makes 2-pt layup from 2 ft (assist by J. Giddey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:14.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt layup from 5 ft (assist by I. Hartenstein ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:52.0,,,,,,J. Giddey,Turnover by J. Giddey (bad pass; steal by E. Bledsoe ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,3:52.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:52.0,,,,,,D. Bazley,D. Bazley enters the game for J. Robinson-Earl,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,3:52.0,,,,,,T. Mann,T. Mann enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,3:42.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 23 ft (block by D. Bazley ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180OKC,1,3:39.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,3:35.0,,,,,,L. Dort,L. Dort makes 3-pt jump shot from 24 ft (assist by J. Giddey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:07.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,2:49.0,,,,,,J. Giddey,J. Giddey misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:47.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,2:30.0,,,,,,E. Bledsoe,E. Bledsoe makes 3-pt jump shot from 26 ft (assist by L. Kennard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:15.0,,,,,,E. Bledsoe,Shooting foul by E. Bledsoe (drawn by D. Bazley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,2:15.0,,,,,,D. Bazley,D. Bazley misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:15.0,,,,,,J. Winslow,J. Winslow enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:15.0,,,,,,K. Williams,K. Williams enters the game for J. Giddey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:15.0,,,,,,D. Bazley,D. Bazley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:54.0,,,,,,E. Bledsoe,Offensive foul by E. Bledsoe (drawn by K. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,1:54.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180OKC,1,1:37.0,,,,,,D. Bazley,D. Bazley makes 3-pt jump shot from 24 ft (assist by L. Dort ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:25.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 23 ft (assist by E. Bledsoe ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:00.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:57.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,0:47.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:41.0,,,,,,L. Dort,Defensive rebound by L. Dort,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,0:34.0,,,,,,K. Williams,K. Williams misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:32.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,0:21.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:39.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:35.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,11:24.0,,,,,,J. Giddey,J. Giddey misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,11:23.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,11:01.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:56.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:55.0,,,,,,D. Bazley,Turnover by D. Bazley (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,10:39.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:35.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:25.0,,,,,,K. Williams,K. Williams misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:21.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:17.0,,,,,,J. Winslow,J. Winslow misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:15.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:12.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,10:05.0,,,,,,J. Giddey,J. Giddey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,10:02.0,,,,,,D. Bazley,Offensive rebound by D. Bazley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:49.0,,,,,,D. Bazley,D. Bazley misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:48.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,9:48.0,,,,,,I. Zubac,I. Zubac enters the game for I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,9:40.0,,,,,,D. Favors,Shooting foul by D. Favors (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,9:40.0,,,,,,I. Zubac,I. Zubac makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:40.0,,,,,,I. Zubac,I. Zubac makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:21.0,,,,,,A. Pokusevski,A. Pokusevski misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:19.0,,,,,,A. Pokusevski,Offensive rebound by A. Pokusevski,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:19.0,,,,,,J. Winslow,Shooting foul by J. Winslow (drawn by A. Pokusevski ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,9:19.0,,,,,,A. Pokusevski,A. Pokusevski makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:19.0,,,,,,A. Pokusevski,A. Pokusevski misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:15.0,,,,,,A. Pokusevski,Offensive rebound by A. Pokusevski,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:08.0,,,,,,K. Williams,K. Williams misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,9:05.0,,,,,,J. Giddey,Offensive rebound by J. Giddey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:55.0,,,,,,A. Pokusevski,A. Pokusevski makes 3-pt jump shot from 26 ft (assist by D. Favors ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:36.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:34.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,8:30.0,,,,,,A. Pokusevski,Offensive foul by A. Pokusevski (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,8:30.0,,,,,,A. Pokusevski,Turnover by A. Pokusevski (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180OKC,1,8:30.0,,,,,,N. Batum,N. Batum enters the game for E. Bledsoe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,8:30.0,,,,,,L. Kennard,L. Kennard enters the game for J. Winslow,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,8:30.0,,,,,,L. Dort,L. Dort enters the game for A. Pokusevski,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,8:20.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:18.0,,,,,,J. Giddey,Defensive rebound by J. Giddey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,8:14.0,,,,,,J. Giddey,J. Giddey misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,8:11.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,8:08.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 2 ft (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:42.0,,,,,,L. Dort,Turnover by L. Dort (bad pass; steal by N. Batum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,7:29.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 27 ft (assist by I. Zubac ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,7:28.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,7:28.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,7:28.0,,,,,,M. Muscala,M. Muscala enters the game for J. Giddey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,7:15.0,,,,,,L. Dort,L. Dort makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:49.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:47.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:38.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:35.0,,,,,,K. Williams,Defensive rebound by K. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,6:27.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:24.0,,,,,,S. Gilgeous-Alexander,Offensive rebound by S. Gilgeous-Alexander,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:14.0,,,,,,D. Bazley,D. Bazley misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,6:11.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,6:03.0,,,,,,T. Mann,Turnover by T. Mann (lost ball; steal by L. Dort ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,5:56.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:41.0,,,,,,I. Zubac,Offensive foul by I. Zubac (drawn by L. Dort ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,5:41.0,,,,,,I. Zubac,Turnover by I. Zubac (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180OKC,1,5:41.0,,,,,,T. Mann,T. Mann enters the game for K. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,5:28.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,5:25.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,5:25.0,,,,,,I. Hartenstein,I. Hartenstein enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,5:14.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 27 ft (assist by I. Hartenstein ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:58.0,,,,,,S. Gilgeous-Alexander,Turnover by S. Gilgeous-Alexander (bad pass; steal by R. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,4:44.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:42.0,,,,,,M. Muscala,Defensive rebound by M. Muscala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:34.0,,,,,,L. Dort,L. Dort misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:33.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,4:25.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:07.0,,,,,,M. Muscala,M. Muscala misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:05.0,,,,,,L. Dort,Offensive rebound by L. Dort,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,4:01.0,,,,,,L. Dort,L. Dort makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:42.0,,,,,,I. Hartenstein,I. Hartenstein makes 2-pt dunk from 2 ft (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:34.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,3:34.0,,,,,,J. Giddey,J. Giddey enters the game for D. Bazley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,3:34.0,,,,,,K. Williams,K. Williams enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,3:27.0,,,,,,L. Dort,L. Dort misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:24.0,,,,,,K. Williams,Offensive rebound by K. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:24.0,,,,,,K. Williams,K. Williams makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,3:16.0,,,,,,L. Dort,Personal foul by L. Dort (drawn by L. Kennard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,3:07.0,,,,,,I. Hartenstein,I. Hartenstein makes 2-pt dunk at rim (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:43.0,,,,,,J. Giddey,J. Giddey misses 2-pt layup from 5 ft (block by I. Hartenstein ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180OKC,1,2:39.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,2:37.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 25 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:17.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:13.0,,,,,,J. Giddey,Offensive rebound by J. Giddey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:13.0,,,,,,J. Giddey,J. Giddey misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:12.0,,,,,,K. Williams,Offensive rebound by K. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:11.0,,,,,,L. Dort,L. Dort misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:09.0,,,,,,J. Giddey,Offensive rebound by J. Giddey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,2:09.0,,,,,,J. Winslow,J. Winslow enters the game for I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,2:04.0,,,,,,J. Giddey,Turnover by J. Giddey (lost ball; steal by R. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,1:43.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:41.0,,,,,,L. Dort,Defensive rebound by L. Dort,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,1:34.0,,,,,,L. Dort,L. Dort misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:32.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,1:27.0,,,,,,R. Jackson,R. Jackson misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,1:24.0,,,,,,M. Muscala,Defensive rebound by M. Muscala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,1:23.0,,,,,,M. Muscala,Turnover by M. Muscala (bad pass; steal by L. Kennard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,1:22.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,1:08.0,,,,,,K. Williams,Personal take foul by K. Williams (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,0:52.0,,,,,,R. Jackson,Turnover by R. Jackson (lost ball; steal by L. Dort ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180OKC,1,0:49.0,,,,,,L. Dort,Turnover by L. Dort (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180OKC,1,0:33.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 25 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:32.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,0:32.0,,,,,,E. Bledsoe,E. Bledsoe enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:31.0,,,,,,E. Bledsoe,Personal take foul by E. Bledsoe (drawn by M. Muscala ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,0:25.0,,,,,,L. Dort,L. Dort makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:25.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,0:25.0,,,,,,L. Kennard,L. Kennard enters the game for J. Winslow,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:25.0,,,,,,A. Wiggins,A. Wiggins enters the game for M. Muscala,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:17.0,,,,,,L. Dort,Personal foul by L. Dort (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,0:17.0,,,,,,R. Jackson,R. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:17.0,,,,,,J. Winslow,J. Winslow enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:17.0,,,,,,M. Muscala,M. Muscala enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:17.0,,,,,,R. Jackson,R. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:10.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:07.0,,,,,,S. Gilgeous-Alexander,Personal take foul by S. Gilgeous-Alexander (drawn by J. Winslow ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180OKC,1,0:07.0,,,,,,J. Winslow,J. Winslow misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:07.0,,,,,,D. Favors,D. Favors enters the game for J. Giddey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:07.0,,,,,,J. Winslow,J. Winslow misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:06.0,,,,,,S. Gilgeous-Alexander,Defensive rebound by S. Gilgeous-Alexander,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180OKC,1,0:06.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180OKC,1,0:06.0,,,,,,J. Giddey,J. Giddey enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180OKC,1,0:00.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 3-pt jump shot from 28 ft (assist by M. Muscala ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180OKC,1,0:00.0,,,,,,,Instant Replay (Request: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False

@@ -1,0 +1,409 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202101300CHI,1,11:47.0,,,,,,P. Williams,P. Williams makes 2-pt jump shot from 18 ft (assist by C. White ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:26.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 25 ft (assist by R. Covington ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:11.0,,,,,,D. Gafford,D. Gafford makes 2-pt layup from 1 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:56.0,,,,,,D. Lillard,Turnover by D. Lillard (bad pass; steal by Z. LaVine ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,10:51.0,,,,,,C. White,C. White makes 3-pt jump shot from 26 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:35.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:32.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,10:27.0,,,,,,Z. LaVine,Turnover by Z. LaVine (lost ball; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,10:10.0,,,,,,E. Freedom,E. Freedom makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:47.0,,,,,,E. Freedom,Shooting foul by E. Freedom (drawn by P. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,9:47.0,,,,,,P. Williams,P. Williams makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:47.0,,,,,,P. Williams,P. Williams makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:35.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 29 ft (assist by D. Lillard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:17.0,,,,,,C. White,C. White misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:15.0,,,,,,N. Little,Defensive rebound by N. Little,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,9:07.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:03.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:49.0,,,,,,L. Markkanen,Turnover by L. Markkanen (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101300CHI,1,8:37.0,,,,,,E. Freedom,E. Freedom makes 2-pt layup from 1 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:37.0,,,,,,D. Gafford,Shooting foul by D. Gafford (drawn by E. Freedom ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,8:37.0,,,,,,E. Freedom,E. Freedom misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:34.0,,,,,,D. Gafford,Defensive rebound by D. Gafford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:21.0,,,,,,L. Markkanen,Turnover by L. Markkanen (lost ball; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,8:16.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:13.0,,,,,,D. Gafford,Defensive rebound by D. Gafford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:06.0,,,,,,C. White,C. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:05.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,7:53.0,,,,,,C. White,Shooting foul by C. White (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,7:53.0,,,,,,D. Lillard,D. Lillard makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:53.0,,,,,,D. Lillard,D. Lillard makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:53.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,7:53.0,,,,,,T. Young,T. Young enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,7:53.0,,,,,,D. Lillard,D. Lillard makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:42.0,,,,,,Z. LaVine,Turnover by Z. LaVine (lost ball; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,7:42.0,,,,,,Z. LaVine,Personal foul by Z. LaVine (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,7:28.0,,,,,,E. Freedom,E. Freedom makes 2-pt layup from 2 ft (assist by G. Trent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:07.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 22 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:53.0,,,,,,D. Lillard,D. Lillard makes 2-pt jump shot from 23 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:44.0,,,,,,P. Williams,P. Williams makes 2-pt jump shot from 15 ft (assist by T. Young ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:29.0,,,,,,D. Lillard,D. Lillard makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:14.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 23 ft (assist by C. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:56.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:53.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,5:50.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:47.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:45.0,,,,,,C. White,C. White makes 3-pt jump shot from 26 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:27.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:27.0,,,,,,T. Young,Loose ball foul by T. Young (drawn by E. Freedom ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,5:27.0,,,,,,C. Anthony,C. Anthony enters the game for N. Little,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,5:27.0,,,,,,G. Temple,G. Temple enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,5:15.0,,,,,,R. Covington,R. Covington makes 2-pt layup from 4 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:57.0,,,,,,G. Temple,Turnover by G. Temple (lost ball; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,4:57.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:56.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,4:40.0,,,,,,G. Temple,G. Temple misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:37.0,,,,,,E. Freedom,Defensive rebound by E. Freedom,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,4:32.0,,,,,,E. Freedom,E. Freedom makes 2-pt layup from 1 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:11.0,,,,,,P. Williams,P. Williams makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:58.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:55.0,,,,,,E. Freedom,Offensive rebound by E. Freedom,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:54.0,,,,,,E. Freedom,E. Freedom misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:52.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:43.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:40.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:33.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:30.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:24.0,,,,,,C. White,C. White misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:22.0,,,,,,D. Lillard,Defensive rebound by D. Lillard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:13.0,,,,,,E. Freedom,Turnover by E. Freedom (lost ball; steal by T. Young ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,3:07.0,,,,,,T. Young,T. Young makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:07.0,,,,,,G. Trent,Shooting foul by G. Trent (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,3:07.0,,,,,,H. Giles,H. Giles enters the game for E. Freedom,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:07.0,,,,,,A. Simons,A. Simons enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:07.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,3:07.0,,,,,,R. Hood,R. Hood enters the game for R. Covington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:07.0,,,,,,T. Young,T. Young makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:52.0,,,,,,A. Simons,A. Simons misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:50.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,2:37.0,,,,,,G. Temple,G. Temple makes 3-pt jump shot from 24 ft (assist by C. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:20.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:17.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,1:59.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:57.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:55.0,,,,,,P. Williams,P. Williams misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:52.0,,,,,,D. Lillard,Defensive rebound by D. Lillard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,1:47.0,,,,,,H. Giles,H. Giles makes 2-pt dunk at rim (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:31.0,,,,,,G. Temple,G. Temple misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:29.0,,,,,,H. Giles,Defensive rebound by H. Giles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,1:19.0,,,,,,H. Giles,H. Giles makes 2-pt layup at rim (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:06.0,,,,,,C. White,C. White makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:06.0,,,,,,H. Giles,Shooting foul by H. Giles (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,1:06.0,,,,,,O. Porter,O. Porter enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,1:06.0,,,,,,D. Valentine,D. Valentine enters the game for P. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,1:06.0,,,,,,C. White,C. White makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:53.0,,,,,,R. Hood,R. Hood makes 2-pt jump shot from 16 ft (assist by H. Giles ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:35.0,,,,,,O. Porter,O. Porter makes 3-pt jump shot from 24 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:30.0,,,,,,D. Lillard,D. Lillard makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:30.0,,,,,,G. Temple,Shooting foul by G. Temple (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,0:30.0,,,,,,Z. LaVine,Z. LaVine enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,0:30.0,,,,,,D. Lillard,D. Lillard makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:10.0,,,,,,D. Valentine,D. Valentine misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:03.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:02.0,,,,,,T. Young,T. Young misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:01.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,11:39.0,,,,,,H. Giles,H. Giles misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:37.0,,,,,,C. FelÃ­cio,Defensive rebound by C. FelÃ­cio,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,11:21.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 27 ft (assist by O. Porter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:06.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:03.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,10:55.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:54.0,,,,,,H. Giles,Loose ball foul by H. Giles (drawn by C. FelÃ­cio ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,10:46.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 25 ft (assist by D. Valentine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:25.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:05.0,,,,,,O. Porter,O. Porter makes 2-pt layup from 1 ft (assist by C. FelÃ­cio ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:52.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:51.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,9:47.0,,,,,,O. Porter,Turnover by O. Porter (bad pass; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,9:42.0,,,,,,A. Simons,Turnover by A. Simons (bad pass; steal by C. FelÃ­cio ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,9:32.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:29.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,9:19.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:08.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt layup from 5 ft (block by G. Trent ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101300CHI,1,9:07.0,,,,,,R. Hood,Defensive rebound by R. Hood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,9:03.0,,,,,,R. Hood,R. Hood misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:59.0,,,,,,C. FelÃ­cio,Defensive rebound by C. FelÃ­cio,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:40.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:36.0,,,,,,R. Hood,Defensive rebound by R. Hood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:34.0,,,,,,D. Valentine,Personal foul by D. Valentine (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,8:28.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:24.0,,,,,,C. FelÃ­cio,Defensive rebound by C. FelÃ­cio,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:13.0,,,,,,D. Valentine,D. Valentine misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:10.0,,,,,,O. Porter,Offensive rebound by O. Porter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:10.0,,,,,,O. Porter,O. Porter misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:10.0,,,,,,O. Porter,Offensive rebound by O. Porter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:10.0,,,,,,R. Hood,Shooting foul by R. Hood (drawn by O. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,8:10.0,,,,,,O. Porter,O. Porter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:10.0,,,,,,R. Covington,R. Covington enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,8:10.0,,,,,,E. Freedom,E. Freedom enters the game for H. Giles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,8:10.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ enters the game for D. Valentine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,8:10.0,,,,,,O. Porter,O. Porter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:01.0,,,,,,C. FelÃ­cio,Shooting foul by C. FelÃ­cio (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,8:01.0,,,,,,G. Trent,G. Trent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:01.0,,,,,,G. Trent,G. Trent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:50.0,,,,,,Z. LaVine,Turnover by Z. LaVine (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101300CHI,1,7:33.0,,,,,,R. Hood,R. Hood makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:24.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:19.0,,,,,,G. Trent,Defensive rebound by G. Trent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,7:13.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:12.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,7:12.0,,,,,,D. Gafford,D. Gafford enters the game for C. FelÃ­cio,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,7:12.0,,,,,,C. White,C. White enters the game for G. Temple,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,6:56.0,,,,,,C. White,C. White misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:53.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,6:53.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:35.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 27 ft (assist by R. Covington ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:35.0,,,,,,P. Williams,P. Williams enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,6:20.0,,,,,,Z. LaVine,Turnover by Z. LaVine (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101300CHI,1,6:20.0,,,,,,L. Markkanen,L. Markkanen enters the game for T. SatoranskÃ½,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,6:02.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 25 ft (assist by R. Hood ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:44.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 1 ft (assist by D. Gafford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:24.0,,,,,,R. Hood,R. Hood misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:20.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,5:11.0,,,,,,D. Gafford,D. Gafford misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:08.0,,,,,,D. Gafford,Offensive rebound by D. Gafford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:08.0,,,,,,D. Gafford,D. Gafford misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:07.0,,,,,,R. Hood,Defensive rebound by R. Hood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,5:04.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:39.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:37.0,,,,,,E. Freedom,Defensive rebound by E. Freedom,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,4:29.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:29.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,4:29.0,,,,,,D. Lillard,D. Lillard enters the game for R. Hood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,4:29.0,,,,,,O. Porter,O. Porter enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,4:29.0,,,,,,T. Young,T. Young enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,4:05.0,,,,,,P. Williams,P. Williams misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:03.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:54.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:51.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:45.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:40.0,,,,,,E. Freedom,Defensive rebound by E. Freedom,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:27.0,,,,,,D. Lillard,Turnover by D. Lillard (bad pass; steal by P. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,3:15.0,,,,,,R. Covington,Personal foul by R. Covington (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,3:15.0,,,,,,R. Hood,R. Hood enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:08.0,,,,,,C. White,C. White makes 2-pt jump shot from 10 ft (assist by T. Young ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:47.0,,,,,,A. Simons,A. Simons makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:33.0,,,,,,L. Markkanen,L. Markkanen misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:29.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,2:19.0,,,,,,E. Freedom,E. Freedom makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:54.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:51.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,1:35.0,,,,,,E. Freedom,E. Freedom makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:26.0,,,,,,A. Simons,Shooting foul by A. Simons (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,1:26.0,,,,,,C. White,C. White makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:26.0,,,,,,C. White,C. White makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:11.0,,,,,,T. Young,Shooting foul by T. Young (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,1:11.0,,,,,,R. Covington,R. Covington makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:11.0,,,,,,R. Covington,R. Covington makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:47.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:44.0,,,,,,E. Freedom,Defensive rebound by E. Freedom,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,0:35.0,,,,,,D. Lillard,D. Lillard makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:23.0,,,,,,C. White,C. White makes 3-pt jump shot from 25 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:02.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:02.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,11:37.0,,,,,,D. Lillard,D. Lillard makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:08.0,,,,,,O. Porter,O. Porter misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:06.0,,,,,,D. Lillard,Defensive rebound by D. Lillard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,10:57.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:57.0,,,,,,E. Freedom,Offensive rebound by E. Freedom,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:57.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by E. Freedom ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,10:57.0,,,,,,E. Freedom,E. Freedom misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:57.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:57.0,,,,,,E. Freedom,E. Freedom makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:44.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 29 ft (assist by P. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:25.0,,,,,,E. Freedom,E. Freedom makes 2-pt hook shot from 2 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:11.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 1 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:57.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:41.0,,,,,,P. Williams,Turnover by P. Williams (lost ball; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,9:35.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 33 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:34.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,9:22.0,,,,,,C. White,C. White misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:19.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,9:08.0,,,,,,D. Lillard,D. Lillard misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:08.0,,,,,,N. Little,Offensive rebound by N. Little,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:08.0,,,,,,C. White,Shooting foul by C. White (drawn by N. Little ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,9:08.0,,,,,,N. Little,N. Little makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:08.0,,,,,,N. Little,N. Little makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:47.0,,,,,,C. White,C. White makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:30.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:30.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:19.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 1 ft (assist by O. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:02.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:00.0,,,,,,N. Little,Offensive rebound by N. Little,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:50.0,,,,,,E. Freedom,E. Freedom misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:48.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,7:40.0,,,,,,Z. LaVine,Turnover by Z. LaVine (bad pass; steal by N. Little ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,7:34.0,,,,,,E. Freedom,E. Freedom misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:30.0,,,,,,E. Freedom,Offensive rebound by E. Freedom,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:30.0,,,,,,E. Freedom,E. Freedom makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:08.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 1 ft (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:52.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:50.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,6:40.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 26 ft (assist by C. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:40.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,6:40.0,,,,,,D. Gafford,D. Gafford enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,6:40.0,,,,,,T. Young,T. Young enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,6:27.0,,,,,,N. Little,N. Little makes 3-pt jump shot from 24 ft (assist by R. Covington ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:00.0,,,,,,C. White,Turnover by C. White (lost ball; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,5:52.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 25 ft (assist by G. Trent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:24.0,,,,,,P. Williams,P. Williams misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:22.0,,,,,,D. Gafford,Offensive rebound by D. Gafford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:14.0,,,,,,P. Williams,P. Williams makes 3-pt jump shot from 27 ft (assist by O. Porter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:56.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 26 ft (assist by D. Lillard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:56.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,4:56.0,,,,,,C. Anthony,C. Anthony enters the game for N. Little,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,4:56.0,,,,,,A. Simons,A. Simons enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,4:56.0,,,,,,Z. LaVine,Z. LaVine enters the game for P. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,4:45.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:44.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:44.0,,,,,,T. Young,T. Young makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:44.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,4:44.0,,,,,,G. Temple,G. Temple enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,4:44.0,,,,,,T. Young,T. Young makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:31.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:27.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,4:14.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:12.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,4:07.0,,,,,,A. Simons,Turnover by A. Simons (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101300CHI,1,4:07.0,,,,,,L. Markkanen,L. Markkanen enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:46.0,,,,,,D. Gafford,D. Gafford makes 2-pt layup from 1 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:38.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:37.0,,,,,,E. Freedom,Offensive rebound by E. Freedom,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:37.0,,,,,,T. Young,Shooting foul by T. Young (drawn by E. Freedom ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,3:37.0,,,,,,E. Freedom,E. Freedom makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:37.0,,,,,,R. Hood,R. Hood enters the game for R. Covington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:37.0,,,,,,E. Freedom,E. Freedom misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:34.0,,,,,,D. Gafford,Defensive rebound by D. Gafford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:24.0,,,,,,D. Lillard,Personal foul by D. Lillard (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,3:24.0,,,,,,H. Giles,H. Giles enters the game for E. Freedom,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:24.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:13.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:10.0,,,,,,H. Giles,Defensive rebound by H. Giles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,2:54.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:47.0,,,,,,A. Simons,Offensive rebound by A. Simons,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:38.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:36.0,,,,,,T. SatoranskÃ½,Defensive rebound by T. SatoranskÃ½,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,2:31.0,,,,,,T. SatoranskÃ½,Turnover by T. SatoranskÃ½ (bad pass; steal by D. Lillard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,2:23.0,,,,,,T. Young,Shooting foul by T. Young (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,2:23.0,,,,,,D. Lillard,D. Lillard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:23.0,,,,,,D. Lillard,D. Lillard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:06.0,,,,,,H. Giles,Shooting foul by H. Giles (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,2:06.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:06.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:42.0,,,,,,D. Lillard,D. Lillard misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:40.0,,,,,,H. Giles,Offensive rebound by H. Giles,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:37.0,,,,,,H. Giles,H. Giles misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:35.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,1:29.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ makes 2-pt layup from 1 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:29.0,,,,,,R. Hood,Shooting foul by R. Hood (drawn by T. SatoranskÃ½ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,1:29.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:10.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:07.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,0:54.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 32 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:30.0,,,,,,D. Lillard,D. Lillard makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:13.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:01.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:43.0,,,,,,T. Young,Turnover by T. Young (lost ball; steal by R. Hood ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,11:29.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:27.0,,,,,,G. Temple,Defensive rebound by G. Temple,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,11:16.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:12.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,11:09.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 27 ft (assist by T. SatoranskÃ½ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:42.0,,,,,,H. Giles,H. Giles makes 3-pt jump shot from 24 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:26.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:08.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,10:05.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,9:48.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:33.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 27 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:15.0,,,,,,G. Temple,G. Temple makes 3-pt jump shot from 23 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:02.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,9:00.0,,,,,,T. SatoranskÃ½,Defensive rebound by T. SatoranskÃ½,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,8:57.0,,,,,,T. SatoranskÃ½,Turnover by T. SatoranskÃ½ (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101300CHI,1,8:57.0,,,,,,R. Covington,R. Covington enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,8:57.0,,,,,,E. Freedom,E. Freedom enters the game for H. Giles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,8:57.0,,,,,,O. Porter,O. Porter enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,8:40.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 20 ft (assist by E. Freedom ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:22.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 1 ft (assist by T. SatoranskÃ½ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:22.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,8:22.0,,,,,,L. Markkanen,L. Markkanen makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:10.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,8:07.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,7:59.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ makes 3-pt jump shot from 24 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:58.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,7:58.0,,,,,,D. Lillard,D. Lillard enters the game for R. Hood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,7:58.0,,,,,,C. White,C. White enters the game for G. Temple,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,7:42.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:39.0,,,,,,T. SatoranskÃ½,Defensive rebound by T. SatoranskÃ½,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,7:29.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:14.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,7:00.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:57.0,,,,,,D. Lillard,Defensive rebound by D. Lillard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,6:52.0,,,,,,O. Porter,Shooting foul by O. Porter (drawn by E. Freedom ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,6:52.0,,,,,,E. Freedom,E. Freedom makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:52.0,,,,,,T. Young,T. Young enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,6:52.0,,,,,,E. Freedom,E. Freedom makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:31.0,,,,,,T. Young,T. Young makes 2-pt jump shot from 6 ft (assist by T. SatoranskÃ½ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,6:19.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:50.0,,,,,,T. Young,T. Young misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:50.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,5:50.0,,,,,,O. Porter,Loose ball foul by O. Porter (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,5:50.0,,,,,,R. Hood,R. Hood enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,5:50.0,,,,,,G. Temple,G. Temple enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,5:32.0,,,,,,E. Freedom,E. Freedom makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,5:23.0,,,,,,G. Trent,Personal foul by G. Trent (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,5:12.0,,,,,,G. Temple,G. Temple makes 3-pt jump shot from 23 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:55.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:53.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,4:39.0,,,,,,T. Young,T. Young misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:39.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,4:19.0,,,,,,D. Lillard,Offensive foul by D. Lillard (drawn by G. Temple ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,4:19.0,,,,,,D. Lillard,Turnover by D. Lillard (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101300CHI,1,4:07.0,,,,,,T. Young,T. Young misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,4:05.0,,,,,,E. Freedom,Defensive rebound by E. Freedom,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:56.0,,,,,,E. Freedom,Offensive foul by E. Freedom (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,3:56.0,,,,,,E. Freedom,Turnover by E. Freedom (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101300CHI,1,3:56.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,3:56.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:56.0,,,,,,Z. LaVine,Z. LaVine enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:56.0,,,,,,L. Markkanen,L. Markkanen enters the game for T. SatoranskÃ½,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,3:39.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:33.0,,,,,,D. Lillard,Defensive rebound by D. Lillard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,3:27.0,,,,,,R. Hood,R. Hood makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,3:08.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 24 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:45.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:42.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,2:34.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,2:31.0,,,,,,E. Freedom,Defensive rebound by E. Freedom,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,2:11.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 29 ft (block by G. Temple ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202101300CHI,1,2:06.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,2:00.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt dunk from 1 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:43.0,,,,,,R. Hood,R. Hood misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:41.0,,,,,,E. Freedom,Offensive rebound by E. Freedom,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:39.0,,,,,,E. Freedom,E. Freedom misses 2-pt layup from 1 ft (block by L. Markkanen ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101300CHI,1,1:37.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,1:31.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,1:29.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101300CHI,1,1:19.0,,,,,,D. Lillard,Turnover by D. Lillard (bad pass; steal by Z. LaVine ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,0:58.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:58.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,0:58.0,,,,,,A. Simons,A. Simons enters the game for E. Freedom,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,0:50.0,,,,,,D. Lillard,D. Lillard makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:32.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 30 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:18.0,,,,,,R. Covington,R. Covington makes 2-pt layup from 2 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:16.0,,,,,,R. Hood,Personal take foul by R. Hood (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,0:16.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,0:11.0,,,,,,R. Hood,Personal take foul by R. Hood (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101300CHI,1,0:11.0,,,,,,C. White,C. White makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:11.0,,,,,,E. Freedom,E. Freedom enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,0:11.0,,,,,,C. White,C. White makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:11.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101300CHI,1,0:11.0,,,,,,A. Simons,A. Simons enters the game for E. Freedom,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,0:08.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 37 ft (assist by R. Covington ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:08.0,,,,,,E. Freedom,E. Freedom enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101300CHI,1,0:00.0,,,,,,Z. LaVine,Turnover by Z. LaVine (lost ball; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101300CHI,1,0:00.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101300CHI,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False

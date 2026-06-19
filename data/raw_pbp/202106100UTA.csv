@@ -1,0 +1,432 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202106100UTA,1,11:46.0,,,,,,J. Ingles,J. Ingles makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:32.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 13 ft (assist by P. George ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:22.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:08.0,,,,,,P. George,P. George misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:06.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:59.0,,,,,,D. Mitchell,D. Mitchell makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:39.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:35.0,,,,,,M. Morris,Offensive rebound by M. Morris,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:33.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:27.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:18.0,,,,,,D. Mitchell,D. Mitchell makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:18.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,9:53.0,,,,,,P. George,P. George misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:50.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,9:43.0,,,,,,R. Gobert,Turnover by R. Gobert (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,9:37.0,,,,,,I. Zubac,Offensive foul by I. Zubac (drawn by R. O'Neale ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,9:37.0,,,,,,I. Zubac,Turnover by I. Zubac (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202106100UTA,1,9:18.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:15.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,8:58.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:46.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt layup from 4 ft (assist by J. Ingles ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:27.0,,,,,,I. Zubac,I. Zubac makes 2-pt dunk from 3 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:27.0,,,,,,B. BogdanoviÄ,Shooting foul by B. BogdanoviÄ (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,8:27.0,,,,,,I. Zubac,I. Zubac makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:13.0,,,,,,I. Zubac,Shooting foul by I. Zubac (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,8:13.0,,,,,,R. Gobert,R. Gobert misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:13.0,,,,,,N. Batum,N. Batum enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,8:13.0,,,,,,R. Gobert,R. Gobert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:56.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:54.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,7:41.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:38.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,7:33.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:30.0,,,,,,D. Mitchell,Defensive rebound by D. Mitchell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,7:25.0,,,,,,R. Gobert,R. Gobert makes 2-pt layup from 2 ft (assist by B. BogdanoviÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:07.0,,,,,,P. George,P. George makes 2-pt jump shot from 18 ft (assist by N. Batum ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:55.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:52.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,6:42.0,,,,,,M. Morris,M. Morris misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:40.0,,,,,,M. Morris,Offensive rebound by M. Morris,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:38.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 22 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:38.0,,,,,,J. Clarkson,J. Clarkson enters the game for R. Gobert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,6:38.0,,,,,,D. Favors,D. Favors enters the game for J. Ingles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,6:15.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:47.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:25.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:12.0,,,,,,P. George,P. George misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:10.0,,,,,,R. O'Neale,Defensive rebound by R. O'Neale,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,5:03.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:03.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,5:03.0,,,,,,P. Beverley,P. Beverley enters the game for P. George,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,5:03.0,,,,,,D. Cousins,D. Cousins enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,4:48.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:37.0,,,,,,N. Batum,Personal foul by N. Batum (drawn by J. Clarkson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,4:29.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:01.0,,,,,,P. Beverley,P. Beverley misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:58.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:49.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:45.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:34.0,,,,,,D. Cousins,D. Cousins makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:21.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:16.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:13.0,,,,,,R. O'Neale,Shooting foul by R. O'Neale (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,3:13.0,,,,,,K. Leonard,K. Leonard misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:13.0,,,,,,R. Gobert,R. Gobert enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,3:13.0,,,,,,G. Niang,G. Niang enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,3:13.0,,,,,,K. Leonard,K. Leonard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:00.0,,,,,,J. Clarkson,Turnover by J. Clarkson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,2:45.0,,,,,,D. Cousins,D. Cousins makes 2-pt layup from 4 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:33.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:31.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,2:19.0,,,,,,K. Leonard,K. Leonard misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:15.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,1:59.0,,,,,,D. Mitchell,Turnover by D. Mitchell (lost ball; steal by P. Beverley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,1:56.0,,,,,,G. Niang,Shooting foul by G. Niang (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,1:56.0,,,,,,P. Beverley,P. Beverley misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:56.0,,,,,,P. George,P. George enters the game for K. Leonard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,1:56.0,,,,,,L. Kennard,L. Kennard enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,1:56.0,,,,,,J. Ingles,J. Ingles enters the game for D. Mitchell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,1:56.0,,,,,,M. Oni,M. Oni enters the game for R. O'Neale,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,1:56.0,,,,,,P. Beverley,P. Beverley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:43.0,,,,,,P. Beverley,Personal foul by P. Beverley (drawn by J. Ingles ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,1:30.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:11.0,,,,,,G. Niang,Shooting foul by G. Niang (drawn by N. Batum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,1:11.0,,,,,,N. Batum,N. Batum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:11.0,,,,,,N. Batum,N. Batum misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:09.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,1:04.0,,,,,,L. Kennard,Personal foul by L. Kennard (drawn by J. Ingles ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,1:04.0,,,,,,J. Ingles,J. Ingles makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:04.0,,,,,,J. Ingles,J. Ingles misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:02.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:52.0,,,,,,P. George,P. George misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:49.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:40.0,,,,,,R. Gobert,Offensive foul by R. Gobert (drawn by D. Cousins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,0:40.0,,,,,,R. Gobert,Turnover by R. Gobert (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202106100UTA,1,0:34.0,,,,,,P. George,P. George makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:16.0,,,,,,J. Ingles,J. Ingles makes 3-pt jump shot from 24 ft (assist by G. Niang ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:00.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 23 ft (assist by P. George ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:42.0,,,,,,D. Cousins,D. Cousins misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:42.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,11:42.0,,,,,,D. Cousins,Loose ball foul by D. Cousins (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,11:28.0,,,,,,G. Niang,Turnover by G. Niang (bad pass; steal by N. Batum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,11:24.0,,,,,,N. Batum,N. Batum misses 2-pt layup from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:21.0,,,,,,P. Beverley,Offensive rebound by P. Beverley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:19.0,,,,,,P. Beverley,P. Beverley misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:19.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,11:10.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:55.0,,,,,,P. George,Turnover by P. George (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,10:47.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:43.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:37.0,,,,,,D. Cousins,D. Cousins makes 2-pt layup from 2 ft (assist by P. George ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:23.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:20.0,,,,,,M. Oni,Offensive rebound by M. Oni,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:16.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:12.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:03.0,,,,,,P. George,P. George misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:01.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,9:52.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:34.0,,,,,,M. Oni,Personal foul by M. Oni (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,9:34.0,,,,,,R. Jackson,R. Jackson enters the game for N. Batum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,9:34.0,,,,,,K. Leonard,K. Leonard enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,9:34.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,9:20.0,,,,,,D. Cousins,D. Cousins misses 2-pt layup from 6 ft (block by R. Gobert ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202106100UTA,1,9:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:20.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,9:09.0,,,,,,R. Jackson,Personal foul by R. Jackson (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,9:09.0,,,,,,M. Morris,M. Morris enters the game for D. Cousins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,9:09.0,,,,,,I. Zubac,I. Zubac enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,9:09.0,,,,,,D. Favors,D. Favors enters the game for R. Gobert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,9:09.0,,,,,,D. Mitchell,D. Mitchell enters the game for J. Ingles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,8:59.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:51.0,,,,,,B. BogdanoviÄ,Personal foul by B. BogdanoviÄ (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,8:51.0,,,,,,R. O'Neale,R. O'Neale enters the game for M. Oni,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,8:44.0,,,,,,I. Zubac,I. Zubac makes 2-pt hook shot from 5 ft (assist by P. George ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:27.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:11.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:09.0,,,,,,K. Leonard,Offensive rebound by K. Leonard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:08.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:55.0,,,,,,D. Favors,Offensive foul by D. Favors (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,7:55.0,,,,,,D. Favors,Turnover by D. Favors (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202106100UTA,1,7:46.0,,,,,,I. Zubac,Offensive foul by I. Zubac (drawn by R. O'Neale ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,7:46.0,,,,,,I. Zubac,Turnover by I. Zubac (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202106100UTA,1,7:46.0,,,,,,N. Batum,N. Batum enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,7:34.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 24 ft (assist by R. O'Neale ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:21.0,,,,,,D. Favors,Shooting foul by D. Favors (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,7:21.0,,,,,,P. George,P. George makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:21.0,,,,,,P. George,P. George makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:11.0,,,,,,R. O'Neale,R. O'Neale misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:08.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,6:54.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 25 ft (assist by N. Batum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:43.0,,,,,,D. Mitchell,D. Mitchell makes 3-pt jump shot from 29 ft (assist by R. O'Neale ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:32.0,,,,,,K. Leonard,K. Leonard makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:17.0,,,,,,P. George,Personal foul by P. George (drawn by D. Mitchell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,6:17.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,6:08.0,,,,,,R. O'Neale,R. O'Neale makes 2-pt layup from 2 ft (assist by D. Mitchell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:49.0,,,,,,P. George,P. George makes 2-pt jump shot from 21 ft (assist by M. Morris ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:28.0,,,,,,J. Clarkson,Turnover by J. Clarkson (bad pass; steal by N. Batum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,5:24.0,,,,,,J. Clarkson,Personal foul by J. Clarkson (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,5:14.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 5 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:00.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,5:00.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:00.0,,,,,,R. Gobert,R. Gobert enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,5:00.0,,,,,,J. Ingles,J. Ingles enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,5:00.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:44.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:41.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,4:35.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:33.0,,,,,,N. Batum,Loose ball foul by N. Batum (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,4:33.0,,,,,,R. Gobert,R. Gobert makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:33.0,,,,,,D. Cousins,D. Cousins enters the game for P. George,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,4:33.0,,,,,,R. Gobert,R. Gobert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:15.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:50.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:41.0,,,,,,R. O'Neale,Personal foul by R. O'Neale (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,3:41.0,,,,,,K. Leonard,K. Leonard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:41.0,,,,,,K. Leonard,K. Leonard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:29.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt layup from 5 ft (block by N. Batum ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202106100UTA,1,3:27.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:22.0,,,,,,R. Jackson,R. Jackson misses 2-pt layup from 4 ft (block by R. Gobert ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202106100UTA,1,3:19.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:16.0,,,,,,D. Cousins,Personal foul by D. Cousins (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,3:16.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:16.0,,,,,,P. Beverley,P. Beverley enters the game for N. Batum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,3:16.0,,,,,,P. George,P. George enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,3:16.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:02.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:00.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,2:51.0,,,,,,J. Ingles,J. Ingles misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:46.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,2:35.0,,,,,,D. Cousins,Turnover by D. Cousins (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,2:35.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,2:25.0,,,,,,R. Gobert,Turnover by R. Gobert (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,2:11.0,,,,,,D. Cousins,D. Cousins misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:08.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,1:48.0,,,,,,D. Mitchell,D. Mitchell makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:29.0,,,,,,D. Cousins,D. Cousins misses 2-pt layup from 1 ft (block by R. Gobert ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202106100UTA,1,1:28.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,1:19.0,,,,,,J. Ingles,J. Ingles makes 3-pt jump shot from 25 ft (assist by R. O'Neale ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:17.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,1:17.0,,,,,,N. Batum,N. Batum enters the game for D. Cousins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,1:05.0,,,,,,K. Leonard,K. Leonard makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:50.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:37.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:36.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:36.0,,,,,,K. Leonard,Loose ball foul by K. Leonard (drawn by R. O'Neale ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,0:36.0,,,,,,R. O'Neale,R. O'Neale misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:36.0,,,,,,R. O'Neale,R. O'Neale makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:28.0,,,,,,P. George,P. George misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:26.0,,,,,,D. Mitchell,Defensive rebound by D. Mitchell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:07.0,,,,,,D. Mitchell,D. Mitchell makes 3-pt jump shot from 31 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:01.0,,,,,,P. George,Turnover by P. George (lost ball; steal by J. Ingles ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,0:00.0,,,,,,J. Ingles,J. Ingles misses 3-pt jump shot from 42 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:45.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:41.0,,,,,,P. George,Offensive rebound by P. George,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:32.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:20.0,,,,,,K. Leonard,Personal foul by K. Leonard (drawn by D. Mitchell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,11:11.0,,,,,,R. Gobert,R. Gobert makes 2-pt dunk from 2 ft (assist by D. Mitchell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:58.0,,,,,,K. Leonard,Offensive foul by K. Leonard (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,10:58.0,,,,,,K. Leonard,Turnover by K. Leonard (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202106100UTA,1,10:36.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 26 ft (assist by D. Mitchell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:14.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:12.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:03.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:00.0,,,,,,K. Leonard,Loose ball foul by K. Leonard (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,9:53.0,,,,,,D. Mitchell,D. Mitchell makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:51.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,9:39.0,,,,,,P. George,P. George misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:36.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,9:27.0,,,,,,J. Ingles,J. Ingles makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:15.0,,,,,,R. Gobert,Shooting foul by R. Gobert (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,9:15.0,,,,,,P. George,P. George makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:15.0,,,,,,P. George,P. George makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:57.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:53.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,8:48.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:34.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt layup from 4 ft (block by I. Zubac ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202106100UTA,1,8:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:20.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:17.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,8:12.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:12.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,8:00.0,,,,,,R. O'Neale,R. O'Neale misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:57.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,7:45.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:20.0,,,,,,P. George,Personal foul by P. George (drawn by D. Mitchell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,7:06.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:06.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,7:06.0,,,,,,J. Clarkson,J. Clarkson enters the game for R. Gobert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,7:06.0,,,,,,D. Favors,D. Favors enters the game for J. Ingles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,6:50.0,,,,,,D. Mitchell,Personal foul by D. Mitchell (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,6:42.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:39.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,6:29.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:26.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,6:11.0,,,,,,K. Leonard,K. Leonard makes 3-pt jump shot from 26 ft (assist by P. George ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:56.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 28 ft (assist by D. Mitchell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:34.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 13 ft (assist by R. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:17.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:57.0,,,,,,J. Clarkson,Shooting foul by J. Clarkson (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,4:57.0,,,,,,R. Jackson,R. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:57.0,,,,,,N. Batum,N. Batum enters the game for K. Leonard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,4:57.0,,,,,,R. Jackson,R. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:43.0,,,,,,D. Favors,D. Favors misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:40.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,4:36.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 5 ft (assist by P. George ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:36.0,,,,,,D. Favors,Shooting foul by D. Favors (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,4:36.0,,,,,,R. Jackson,R. Jackson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:21.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:19.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,4:12.0,,,,,,P. George,P. George misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:09.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:50.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:48.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:33.0,,,,,,I. Zubac,I. Zubac makes 2-pt dunk from 2 ft (assist by M. Morris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:33.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,3:33.0,,,,,,J. Ingles,J. Ingles enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,3:33.0,,,,,,G. Niang,G. Niang enters the game for D. Mitchell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,3:21.0,,,,,,I. Zubac,Shooting foul by I. Zubac (drawn by D. Favors ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,3:21.0,,,,,,D. Favors,D. Favors misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:21.0,,,,,,L. Kennard,L. Kennard enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,3:21.0,,,,,,D. Favors,D. Favors misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:19.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:04.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:50.0,,,,,,J. Ingles,J. Ingles makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:34.0,,,,,,P. George,P. George makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:34.0,,,,,,D. Favors,Shooting foul by D. Favors (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,2:34.0,,,,,,R. Gobert,R. Gobert enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,2:34.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,2:34.0,,,,,,D. Favors,D. Favors enters the game for R. Gobert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,2:34.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:34.0,,,,,,R. Gobert,R. Gobert enters the game for D. Favors,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,2:34.0,,,,,,P. George,P. George makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:11.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:48.0,,,,,,P. George,P. George misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:44.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,1:28.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 26 ft (assist by J. Ingles ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:13.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:07.0,,,,,,L. Kennard,Personal foul by L. Kennard (drawn by R. O'Neale ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,1:07.0,,,,,,R. O'Neale,R. O'Neale makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:07.0,,,,,,P. Beverley,P. Beverley enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,1:07.0,,,,,,T. Mann,T. Mann enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,1:07.0,,,,,,R. O'Neale,R. O'Neale makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:55.0,,,,,,P. George,P. George makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:55.0,,,,,,R. Gobert,Shooting foul by R. Gobert (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,0:55.0,,,,,,P. George,P. George makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:35.0,,,,,,G. Niang,G. Niang misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:33.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:28.0,,,,,,P. George,Turnover by P. George (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,0:03.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,0:00.0,,,,,,P. Beverley,P. Beverley misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:00.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,11:45.0,,,,,,P. Beverley,Personal foul by P. Beverley (drawn by J. Ingles ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,11:45.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:45.0,,,,,,J. Ingles,Flagrant foul type 1 by J. Ingles (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,11:45.0,,,,,,J. Ingles,Turnover by J. Ingles (turnover),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,11:45.0,,,,,,P. Beverley,P. Beverley makes flagrant free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:45.0,,,,,,P. Beverley,P. Beverley makes flagrant free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:39.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 23 ft (assist by K. Leonard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,11:16.0,,,,,,B. BogdanoviÄ,Offensive foul by B. BogdanoviÄ (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,11:16.0,,,,,,B. BogdanoviÄ,Turnover by B. BogdanoviÄ (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202106100UTA,1,11:02.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:59.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:50.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:26.0,,,,,,R. Jackson,R. Jackson misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:25.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:17.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,10:11.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,10:08.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass; steal by R. Gobert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,9:50.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:48.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,9:40.0,,,,,,P. George,Turnover by P. George (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,9:40.0,,,,,,R. O'Neale,R. O'Neale enters the game for J. Ingles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,9:28.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:25.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,9:16.0,,,,,,P. George,P. George makes 2-pt layup from 3 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,9:16.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,8:59.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:55.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,8:43.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:41.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,8:28.0,,,,,,R. Gobert,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:03.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,8:00.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,7:53.0,,,,,,P. George,Personal foul by P. George (drawn by D. Mitchell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,7:43.0,,,,,,B. BogdanoviÄ,Turnover by B. BogdanoviÄ (bad pass; steal by K. Leonard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,7:37.0,,,,,,K. Leonard,K. Leonard makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,7:12.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:55.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 29 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:41.0,,,,,,D. Mitchell,Turnover by D. Mitchell (lost ball; steal by P. Beverley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,6:37.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:37.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,6:37.0,,,,,,J. Ingles,J. Ingles enters the game for D. Mitchell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,6:26.0,,,,,,J. Ingles,J. Ingles makes 2-pt layup from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,6:02.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:59.0,,,,,,R. O'Neale,Defensive rebound by R. O'Neale,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,5:55.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 25 ft (assist by J. Clarkson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:54.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,5:54.0,,,,,,M. Morris,M. Morris enters the game for N. Batum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,5:54.0,,,,,,D. Mitchell,D. Mitchell enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,5:46.0,,,,,,R. O'Neale,Personal foul by R. O'Neale (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,5:35.0,,,,,,R. O'Neale,Shooting foul by R. O'Neale (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,5:35.0,,,,,,P. George,P. George makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:35.0,,,,,,P. George,P. George makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:22.0,,,,,,D. Mitchell,Turnover by D. Mitchell (bad pass; steal by K. Leonard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,5:16.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:12.0,,,,,,P. Beverley,Offensive rebound by P. Beverley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:09.0,,,,,,P. Beverley,P. Beverley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,5:05.0,,,,,,D. Mitchell,Defensive rebound by D. Mitchell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,5:02.0,,,,,,P. Beverley,Personal foul by P. Beverley (drawn by D. Mitchell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,4:52.0,,,,,,R. Gobert,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Ingles ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:52.0,,,,,,P. George,Shooting foul by P. George (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,4:52.0,,,,,,R. Gobert,R. Gobert makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:36.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,4:30.0,,,,,,R. O'Neale,Defensive rebound by R. O'Neale,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,4:12.0,,,,,,R. O'Neale,R. O'Neale makes 3-pt jump shot from 24 ft (assist by J. Ingles ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:51.0,,,,,,P. Beverley,P. Beverley misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:49.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:37.0,,,,,,J. Ingles,Turnover by J. Ingles (lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202106100UTA,1,3:37.0,,,,,,J. Ingles,Loose ball foul by J. Ingles (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,3:20.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:16.0,,,,,,K. Leonard,Offensive rebound by K. Leonard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:15.0,,,,,,K. Leonard,K. Leonard misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:14.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,3:07.0,,,,,,J. Ingles,J. Ingles makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,3:07.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,3:07.0,,,,,,L. Kennard,L. Kennard enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,2:53.0,,,,,,K. Leonard,Turnover by K. Leonard (lost ball; steal by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202106100UTA,1,2:35.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt layup from 10 ft (block by M. Morris ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202106100UTA,1,2:33.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,2:30.0,,,,,,P. George,P. George misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:28.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,2:10.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,2:06.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,2:01.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:59.0,,,,,,R. Gobert,Defensive rebound by R. Gobert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,1:38.0,,,,,,J. Ingles,J. Ingles misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:34.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,1:30.0,,,,,,R. Jackson,R. Jackson makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:07.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:02.0,,,,,,R. Gobert,Offensive rebound by R. Gobert,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:02.0,,,,,,R. Gobert,R. Gobert misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,1:01.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:59.0,,,,,,P. George,P. George makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:59.0,,,,,,R. Gobert,Shooting foul by R. Gobert (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,0:59.0,,,,,,P. George,P. George makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:43.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:29.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:26.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:12.0,,,,,,P. George,Personal foul by P. George (drawn by D. Mitchell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,0:12.0,,,,,,D. Mitchell,D. Mitchell misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:12.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:12.0,,,,,,D. Mitchell,D. Mitchell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:08.0,,,,,,P. George,P. George makes 3-pt jump shot from 25 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:07.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202106100UTA,1,0:07.0,,,,,,P. Beverley,P. Beverley enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202106100UTA,1,0:05.0,,,,,,P. Beverley,Shooting foul by P. Beverley (drawn by R. Gobert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202106100UTA,1,0:05.0,,,,,,R. Gobert,R. Gobert makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:05.0,,,,,,R. Gobert,R. Gobert misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202106100UTA,1,0:03.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202106100UTA,1,0:00.0,,,,,,K. Leonard,Turnover by K. Leonard (bad pass; steal by R. Gobert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False

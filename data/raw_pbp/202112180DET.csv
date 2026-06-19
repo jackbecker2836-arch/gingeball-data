@@ -1,0 +1,469 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202112180DET,1,11:59.0,,,,,,C. Wood,Loose ball foul by C. Wood (drawn by I. Stewart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,11:42.0,,,,,,H. Diallo,H. Diallo misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:38.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,11:36.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:20.0,,,,,,S. Bey,S. Bey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:01.0,,,,,,C. Cunningham,Personal foul by C. Cunningham (drawn by J. Christopher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,10:50.0,,,,,,E. Gordon,E. Gordon misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:48.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:47.0,,,,,,C. Wood,C. Wood misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:45.0,,,,,,C. Cunningham,Defensive rebound by C. Cunningham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,10:43.0,,,,,,K. Hayes,Turnover by K. Hayes (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,10:30.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:27.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,10:16.0,,,,,,I. Stewart,I. Stewart makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:04.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:54.0,,,,,,S. Bey,S. Bey makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:45.0,,,,,,E. Gordon,E. Gordon makes 3-pt jump shot from 32 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:35.0,,,,,,K. Hayes,K. Hayes makes 2-pt layup from 2 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:15.0,,,,,,G. Mathews,G. Mathews makes 3-pt jump shot from 27 ft (assist by J. Christopher ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:58.0,,,,,,I. Stewart,Turnover by I. Stewart (bad pass; steal by J. Tate ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,8:52.0,,,,,,J. Christopher,J. Christopher makes 3-pt jump shot from 26 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:38.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:36.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,8:28.0,,,,,,I. Stewart,Shooting foul by I. Stewart (drawn by E. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,8:28.0,,,,,,E. Gordon,E. Gordon misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:28.0,,,,,,E. Gordon,E. Gordon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:22.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,8:10.0,,,,,,S. Bey,S. Bey makes 3-pt jump shot from 24 ft (assist by K. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:56.0,,,,,,G. Mathews,G. Mathews makes 3-pt jump shot from 30 ft (assist by E. Gordon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:47.0,,,,,,J. Tate,Personal foul by J. Tate (drawn by K. Hayes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,7:37.0,,,,,,I. Stewart,Turnover by I. Stewart (bad pass; steal by E. Gordon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,7:28.0,,,,,,J. Tate,J. Tate misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:28.0,,,,,,I. Stewart,Defensive rebound by I. Stewart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,7:28.0,,,,,,J. Christopher,Loose ball foul by J. Christopher (drawn by I. Stewart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,7:19.0,,,,,,C. Cunningham,C. Cunningham makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:07.0,,,,,,C. Wood,C. Wood misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:05.0,,,,,,I. Stewart,Defensive rebound by I. Stewart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,7:00.0,,,,,,H. Diallo,H. Diallo makes 3-pt jump shot from 24 ft (assist by C. Cunningham ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:38.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:23.0,,,,,,H. Diallo,H. Diallo misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:20.0,,,,,,J. Christopher,Defensive rebound by J. Christopher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:15.0,,,,,,J. Christopher,J. Christopher misses 2-pt layup from 2 ft (block by K. Hayes ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,6:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:12.0,,,,,,G. Mathews,G. Mathews makes 2-pt layup from 1 ft (assist by J. Christopher ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:01.0,,,,,,H. Diallo,H. Diallo makes 2-pt layup from 2 ft (assist by I. Stewart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:44.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 2 ft (assist by E. Gordon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:37.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:33.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,5:28.0,,,,,,S. Bey,Personal foul by S. Bey (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,5:28.0,,,,,,F. Jackson,F. Jackson enters the game for C. Cunningham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,5:16.0,,,,,,J. Tate,J. Tate misses 2-pt layup from 3 ft (block by I. Stewart ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,5:13.0,,,,,,I. Stewart,Defensive rebound by I. Stewart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,5:11.0,,,,,,K. Hayes,Turnover by K. Hayes (bad pass; steal by J. Tate ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,5:08.0,,,,,,J. Tate,Turnover by J. Tate (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,4:51.0,,,,,,I. Stewart,I. Stewart makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:50.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,4:50.0,,,,,,K. Martin,K. Martin enters the game for G. Mathews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:50.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:25.0,,,,,,E. Gordon,E. Gordon misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:25.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,4:25.0,,,,,,H. Diallo,Turnover by H. Diallo (lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,4:25.0,,,,,,H. Diallo,Loose ball foul by H. Diallo (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,4:15.0,,,,,,J. Christopher,J. Christopher makes 3-pt jump shot from 23 ft (assist by E. Gordon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:01.0,,,,,,I. Stewart,I. Stewart makes 2-pt dunk from 2 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:51.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:51.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:51.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:36.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:33.0,,,,,,J. Christopher,Defensive rebound by J. Christopher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,3:28.0,,,,,,K. Martin,K. Martin makes 2-pt dunk from 3 ft (assist by J. Christopher ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:21.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:21.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,3:15.0,,,,,,S. Bey,Shooting foul by S. Bey (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,3:15.0,,,,,,C. Wood,C. Wood misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:15.0,,,,,,T. Lyles,T. Lyles enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,3:15.0,,,,,,R. McGruder,R. McGruder enters the game for H. Diallo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,3:15.0,,,,,,C. Wood,C. Wood makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:55.0,,,,,,I. Stewart,I. Stewart misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:54.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:51.0,,,,,,R. McGruder,R. McGruder misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:49.0,,,,,,R. McGruder,Offensive rebound by R. McGruder,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:44.0,,,,,,R. McGruder,Turnover by R. McGruder (bad pass; steal by E. Gordon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,2:40.0,,,,,,T. Lyles,Shooting foul by T. Lyles (drawn by K. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,2:40.0,,,,,,K. Martin,K. Martin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:40.0,,,,,,G. Mathews,G. Mathews enters the game for J. Christopher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:40.0,,,,,,D. Nwaba,D. Nwaba enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:40.0,,,,,,C. Cunningham,C. Cunningham enters the game for K. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:40.0,,,,,,S. Lee,S. Lee enters the game for I. Stewart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:40.0,,,,,,K. Martin,K. Martin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:23.0,,,,,,T. Lyles,T. Lyles makes 2-pt layup from 3 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:06.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:04.0,,,,,,F. Jackson,Defensive rebound by F. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,2:03.0,,,,,,F. Jackson,F. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:03.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by F. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,2:03.0,,,,,,D. Augustin,D. Augustin enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:03.0,,,,,,F. Jackson,F. Jackson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:46.0,,,,,,D. Augustin,D. Augustin makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:21.0,,,,,,C. Cunningham,C. Cunningham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:18.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:12.0,,,,,,D. Nwaba,D. Nwaba misses 2-pt layup from 2 ft (block by R. McGruder ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,1:08.0,,,,,,D. Nwaba,Offensive rebound by D. Nwaba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:07.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:05.0,,,,,,R. McGruder,Defensive rebound by R. McGruder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:00.0,,,,,,C. Cunningham,C. Cunningham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:57.0,,,,,,T. Lyles,Offensive rebound by T. Lyles,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:57.0,,,,,,T. Lyles,T. Lyles misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:56.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,0:47.0,,,,,,K. Martin,K. Martin makes 2-pt dunk from 3 ft (assist by D. Augustin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:38.0,,,,,,A. ÅengÃ¼n,Personal foul by A. ÅengÃ¼n (drawn by C. Cunningham ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,0:38.0,,,,,,C. Cunningham,C. Cunningham makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:38.0,,,,,,C. Cunningham,C. Cunningham makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:18.0,,,,,,D. Augustin,D. Augustin makes 2-pt layup from 2 ft (assist by A. ÅengÃ¼n ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:00.0,,,,,,C. Cunningham,Turnover by C. Cunningham (bad pass; steal by D. Nwaba ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,11:38.0,,,,,,D. Augustin,D. Augustin makes 3-pt jump shot from 27 ft (assist by A. ÅengÃ¼n ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:23.0,,,,,,C. Cunningham,C. Cunningham misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:20.0,,,,,,C. Cunningham,Offensive rebound by C. Cunningham,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:20.0,,,,,,C. Cunningham,C. Cunningham misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:20.0,,,,,,C. Cunningham,Offensive rebound by C. Cunningham,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:19.0,,,,,,R. McGruder,Offensive foul by R. McGruder (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,11:19.0,,,,,,R. McGruder,Turnover by R. McGruder (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180DET,1,11:06.0,,,,,,D. Augustin,D. Augustin misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:03.0,,,,,,R. McGruder,Defensive rebound by R. McGruder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,10:52.0,,,,,,F. Jackson,F. Jackson makes 3-pt jump shot from 23 ft (assist by C. Cunningham ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:37.0,,,,,,D. Nwaba,D. Nwaba misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:34.0,,,,,,D. Augustin,Offensive rebound by D. Augustin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:32.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 2-pt layup from 2 ft (block by C. Cunningham ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,10:32.0,,,,,,A. ÅengÃ¼n,Offensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:22.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:22.0,,,,,,C. Cunningham,Shooting foul by C. Cunningham (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,10:22.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:04.0,,,,,,F. Jackson,F. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:02.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,9:44.0,,,,,,J. Tate,J. Tate misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:44.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,9:44.0,,,,,,A. ÅengÃ¼n,Loose ball foul by A. ÅengÃ¼n (drawn by T. Lyles ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,9:26.0,,,,,,T. Lyles,T. Lyles misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:23.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,9:22.0,,,,,,D. Nwaba,D. Nwaba misses 2-pt layup from 2 ft (block by T. Lyles ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,9:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:15.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt layup from 1 ft (assist by D. Augustin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:04.0,,,,,,C. Cunningham,Turnover by C. Cunningham (bad pass; steal by D. Augustin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,8:55.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:52.0,,,,,,T. Lyles,Defensive rebound by T. Lyles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,8:52.0,,,,,,S. Bey,S. Bey enters the game for C. Cunningham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,8:47.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,8:47.0,,,,,,J. Jackson,J. Jackson enters the game for R. McGruder,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,8:32.0,,,,,,T. Lyles,T. Lyles makes 3-pt jump shot from 27 ft (assist by S. Lee ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:10.0,,,,,,J. Tate,J. Tate misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:07.0,,,,,,A. ÅengÃ¼n,Offensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:05.0,,,,,,D. Augustin,D. Augustin misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:05.0,,,,,,S. Lee,Defensive rebound by S. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,7:52.0,,,,,,J. Jackson,J. Jackson misses 2-pt layup from 3 ft (block by A. ÅengÃ¼n ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,7:51.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,7:51.0,,,,,,S. Lee,Personal take foul by S. Lee (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,7:51.0,,,,,,J. Christopher,J. Christopher enters the game for G. Mathews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,7:51.0,,,,,,K. Martin,K. Martin enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,7:42.0,,,,,,J. Christopher,Turnover by J. Christopher (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,7:23.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:23.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,7:23.0,,,,,,K. Hayes,K. Hayes enters the game for S. Lee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,7:12.0,,,,,,A. ÅengÃ¼n,Offensive foul by A. ÅengÃ¼n (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,7:12.0,,,,,,A. ÅengÃ¼n,Turnover by A. ÅengÃ¼n (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180DET,1,7:12.0,,,,,,C. Wood,C. Wood enters the game for A. ÅengÃ¼n,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,6:57.0,,,,,,F. Jackson,F. Jackson misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:55.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:39.0,,,,,,D. Augustin,D. Augustin misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:37.0,,,,,,F. Jackson,Defensive rebound by F. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:32.0,,,,,,F. Jackson,F. Jackson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:29.0,,,,,,J. Christopher,Defensive rebound by J. Christopher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:24.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 1 ft (assist by J. Christopher ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:02.0,,,,,,T. Lyles,Turnover by T. Lyles (lost ball; steal by J. Tate ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,5:56.0,,,,,,K. Martin,K. Martin misses 2-pt layup from 2 ft (block by S. Bey ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,5:52.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,5:48.0,,,,,,K. Hayes,K. Hayes makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:27.0,,,,,,J. Tate,J. Tate makes 2-pt hook shot from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:14.0,,,,,,F. Jackson,F. Jackson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:11.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,5:03.0,,,,,,C. Wood,C. Wood makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:50.0,,,,,,F. Jackson,F. Jackson makes 2-pt layup from 3 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:42.0,,,,,,C. Wood,Offensive foul by C. Wood (drawn by T. Lyles ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,4:42.0,,,,,,C. Wood,Turnover by C. Wood (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180DET,1,4:42.0,,,,,,E. Gordon,E. Gordon enters the game for D. Augustin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:42.0,,,,,,C. Cunningham,C. Cunningham enters the game for F. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:42.0,,,,,,I. Stewart,I. Stewart enters the game for T. Lyles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:20.0,,,,,,I. Stewart,I. Stewart misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:18.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:14.0,,,,,,I. Stewart,I. Stewart makes 2-pt layup from 2 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:53.0,,,,,,E. Gordon,Turnover by E. Gordon (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,3:39.0,,,,,,S. Bey,S. Bey makes 2-pt dunk from 2 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:39.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,3:39.0,,,,,,G. Mathews,G. Mathews enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,3:39.0,,,,,,H. Diallo,H. Diallo enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,3:14.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:11.0,,,,,,C. Cunningham,Defensive rebound by C. Cunningham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,2:58.0,,,,,,I. Stewart,Offensive foul by I. Stewart (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,2:58.0,,,,,,I. Stewart,Turnover by I. Stewart (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180DET,1,2:41.0,,,,,,E. Gordon,E. Gordon misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:37.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,2:33.0,,,,,,H. Diallo,H. Diallo misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:30.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,2:19.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 1 ft (assist by G. Mathews ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:00.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:56.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:56.0,,,,,,K. Martin,Turnover by K. Martin (bad pass; steal by H. Diallo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,1:52.0,,,,,,C. Cunningham,C. Cunningham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:49.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:43.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:41.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:26.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:23.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:19.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:19.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:03.0,,,,,,C. Cunningham,C. Cunningham makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:54.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:43.0,,,,,,K. Hayes,K. Hayes misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:42.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:42.0,,,,,,H. Diallo,H. Diallo makes 2-pt layup from 2 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:42.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by H. Diallo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,0:42.0,,,,,,H. Diallo,H. Diallo misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:39.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,0:28.0,,,,,,K. Martin,K. Martin makes 2-pt dunk from 2 ft (assist by E. Gordon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:08.0,,,,,,G. Mathews,Shooting foul by G. Mathews (drawn by H. Diallo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,0:08.0,,,,,,H. Diallo,H. Diallo misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:08.0,,,,,,I. Stewart,Personal foul by I. Stewart (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,0:08.0,,,,,,H. Diallo,H. Diallo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:08.0,,,,,,L. Garza,L. Garza enters the game for I. Stewart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,0:00.0,,,,,,J. Christopher,J. Christopher makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:35.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:32.0,,,,,,K. Hayes,Defensive rebound by K. Hayes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,11:25.0,,,,,,C. Cunningham,C. Cunningham makes 2-pt layup from 4 ft (assist by S. Bey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:13.0,,,,,,J. Tate,Turnover by J. Tate (bad pass; steal by C. Cunningham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,11:10.0,,,,,,C. Cunningham,C. Cunningham makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:56.0,,,,,,E. Gordon,E. Gordon makes 3-pt jump shot from 31 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:37.0,,,,,,J. Tate,Shooting foul by J. Tate (drawn by I. Stewart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,10:37.0,,,,,,I. Stewart,I. Stewart makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:37.0,,,,,,I. Stewart,I. Stewart makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:26.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:11.0,,,,,,E. Gordon,E. Gordon misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:09.0,,,,,,K. Hayes,Defensive rebound by K. Hayes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,10:04.0,,,,,,S. Bey,S. Bey makes 3-pt jump shot from 24 ft (assist by K. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:04.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,9:50.0,,,,,,C. Wood,C. Wood makes 3-pt jump shot from 26 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:30.0,,,,,,I. Stewart,I. Stewart makes 2-pt layup from 2 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:08.0,,,,,,J. Christopher,J. Christopher misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:06.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,8:53.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 4 ft (block by G. Mathews ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,8:49.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,8:44.0,,,,,,H. Diallo,Personal take foul by H. Diallo (drawn by J. Christopher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,8:37.0,,,,,,J. Christopher,J. Christopher makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:25.0,,,,,,I. Stewart,Offensive foul by I. Stewart (drawn by J. Christopher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,8:25.0,,,,,,I. Stewart,Turnover by I. Stewart (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180DET,1,8:25.0,,,,,,T. Lyles,T. Lyles enters the game for I. Stewart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,8:10.0,,,,,,J. Tate,J. Tate misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:07.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,8:03.0,,,,,,H. Diallo,H. Diallo misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:01.0,,,,,,J. Christopher,Defensive rebound by J. Christopher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,7:59.0,,,,,,J. Christopher,Turnover by J. Christopher (lost ball; steal by H. Diallo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,7:50.0,,,,,,K. Hayes,K. Hayes makes 2-pt jump shot from 19 ft (assist by S. Bey ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:29.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 1 ft (assist by J. Christopher ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:13.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:11.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,7:04.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:04.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:46.0,,,,,,H. Diallo,H. Diallo misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:44.0,,,,,,K. Hayes,Offensive rebound by K. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:35.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:32.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:30.0,,,,,,J. Tate,J. Tate makes 2-pt dunk from 3 ft (assist by J. Christopher ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:29.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,6:05.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,5:56.0,,,,,,S. Bey,Personal foul by S. Bey (drawn by E. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,5:46.0,,,,,,G. Mathews,G. Mathews makes 3-pt jump shot from 24 ft (assist by C. Wood ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:28.0,,,,,,C. Cunningham,C. Cunningham makes 3-pt jump shot from 23 ft (assist by T. Lyles ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:23.0,,,,,,J. Tate,Turnover by J. Tate (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,5:23.0,,,,,,F. Jackson,F. Jackson enters the game for H. Diallo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,5:01.0,,,,,,S. Bey,S. Bey makes 3-pt jump shot from 26 ft (assist by K. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:51.0,,,,,,T. Lyles,Personal foul by T. Lyles (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,4:51.0,,,,,,K. Martin,K. Martin enters the game for G. Mathews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:51.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:51.0,,,,,,C. Wood,Turnover by C. Wood (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,4:40.0,,,,,,F. Jackson,F. Jackson makes 2-pt layup from 2 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:23.0,,,,,,J. Christopher,Turnover by J. Christopher (bad pass; steal by K. Hayes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,4:17.0,,,,,,T. Lyles,Turnover by T. Lyles (lost ball; steal by J. Christopher ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,4:17.0,,,,,,D. Nwaba,D. Nwaba enters the game for J. Christopher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,3:51.0,,,,,,K. Martin,K. Martin misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:51.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:51.0,,,,,,C. Wood,C. Wood misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:51.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:51.0,,,,,,C. Cunningham,Personal foul by C. Cunningham (drawn by K. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,3:36.0,,,,,,K. Martin,K. Martin makes 3-pt jump shot from 27 ft (assist by D. Nwaba ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:24.0,,,,,,K. Hayes,Turnover by K. Hayes (bad pass; steal by C. Wood ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,3:18.0,,,,,,C. Wood,C. Wood misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:17.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:16.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:00.0,,,,,,C. Cunningham,C. Cunningham misses 2-pt layup from 2 ft (block by D. Nwaba ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,2:56.0,,,,,,E. Gordon,Defensive rebound by E. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,2:54.0,,,,,,E. Gordon,Turnover by E. Gordon (lost ball; steal by S. Bey ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,2:52.0,,,,,,S. Bey,S. Bey makes 2-pt dunk from 1 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:29.0,,,,,,T. Lyles,Shooting foul by T. Lyles (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,2:29.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:29.0,,,,,,D. Augustin,D. Augustin enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:29.0,,,,,,S. Lee,S. Lee enters the game for C. Cunningham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:29.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:16.0,,,,,,K. Hayes,K. Hayes misses 2-pt dunk from 2 ft (block by A. ÅengÃ¼n ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,2:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:11.0,,,,,,A. ÅengÃ¼n,Personal foul by A. ÅengÃ¼n (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,2:02.0,,,,,,F. Jackson,F. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:00.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:51.0,,,,,,D. Augustin,D. Augustin misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:48.0,,,,,,K. Hayes,Defensive rebound by K. Hayes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:44.0,,,,,,S. Lee,S. Lee misses 2-pt layup from 3 ft (block by C. Wood ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112180DET,1,1:44.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:44.0,,,,,,G. Mathews,G. Mathews enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,1:36.0,,,,,,F. Jackson,Turnover by F. Jackson (bad pass; steal by G. Mathews ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,1:28.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt dunk from 2 ft (assist by A. ÅengÃ¼n ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:09.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by T. Lyles ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,1:09.0,,,,,,T. Lyles,T. Lyles makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:09.0,,,,,,J. Jackson,J. Jackson enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,1:09.0,,,,,,T. Lyles,T. Lyles misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:07.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,0:53.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:52.0,,,,,,D. Nwaba,Offensive rebound by D. Nwaba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:40.0,,,,,,G. Mathews,G. Mathews misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:39.0,,,,,,A. ÅengÃ¼n,Offensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:32.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:12.0,,,,,,K. Hayes,K. Hayes makes 2-pt layup from 2 ft (assist by T. Lyles ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:01.0,,,,,,D. Augustin,D. Augustin misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:01.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:00.0,,,,,,K. Martin,K. Martin misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:00.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,11:42.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:38.0,,,,,,A. ÅengÃ¼n,Defensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,11:33.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:32.0,,,,,,L. Garza,Personal foul by L. Garza (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,11:20.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt layup from 2 ft (assist by G. Mathews ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,11:11.0,,,,,,R. McGruder,Turnover by R. McGruder (bad pass; steal by G. Mathews ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,11:05.0,,,,,,G. Mathews,G. Mathews makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:53.0,,,,,,F. Jackson,Turnover by F. Jackson (lost ball; steal by D. Augustin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,10:51.0,,,,,,F. Jackson,Shooting foul by F. Jackson (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,10:51.0,,,,,,D. Nwaba,D. Nwaba misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:51.0,,,,,,G. Mathews,Turnover by G. Mathews (turnover),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,10:51.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,10:36.0,,,,,,J. Jackson,Turnover by J. Jackson (bad pass; steal by K. Martin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,10:34.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt layup from 2 ft (assist by K. Martin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:34.0,,,,,,F. Jackson,Shooting foul by F. Jackson (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,10:34.0,,,,,,D. Nwaba,D. Nwaba makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:16.0,,,,,,F. Jackson,F. Jackson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:14.0,,,,,,L. Garza,Offensive rebound by L. Garza,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:13.0,,,,,,L. Garza,Turnover by L. Garza (bad pass; steal by D. Augustin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,10:05.0,,,,,,D. Augustin,D. Augustin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,10:02.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,9:57.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:55.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,9:43.0,,,,,,L. Garza,Personal foul by L. Garza (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,9:43.0,,,,,,C. Cunningham,C. Cunningham enters the game for R. McGruder,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,9:41.0,,,,,,D. Augustin,Turnover by D. Augustin (bad pass; steal by S. Lee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,9:39.0,,,,,,K. Martin,Shooting foul by K. Martin (drawn by S. Lee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,9:39.0,,,,,,S. Lee,S. Lee makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:39.0,,,,,,S. Lee,S. Lee makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:30.0,,,,,,S. Lee,Personal foul by S. Lee (drawn by D. Augustin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,9:30.0,,,,,,D. Augustin,D. Augustin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:30.0,,,,,,D. Augustin,D. Augustin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:15.0,,,,,,F. Jackson,F. Jackson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:10.0,,,,,,L. Garza,Offensive rebound by L. Garza,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,9:10.0,,,,,,L. Garza,L. Garza makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:55.0,,,,,,D. Nwaba,D. Nwaba misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:52.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,8:42.0,,,,,,F. Jackson,F. Jackson misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:39.0,,,,,,F. Jackson,Offensive rebound by F. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:35.0,,,,,,C. Cunningham,C. Cunningham misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:31.0,,,,,,S. Lee,Offensive rebound by S. Lee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:31.0,,,,,,S. Lee,S. Lee misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:30.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,8:21.0,,,,,,D. Augustin,Turnover by D. Augustin (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,8:21.0,,,,,,J. Tate,J. Tate enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,8:21.0,,,,,,S. Bey,S. Bey enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,8:07.0,,,,,,L. Garza,L. Garza misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:00.0,,,,,,F. Jackson,F. Jackson makes 2-pt layup from 2 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,8:00.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:39.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:27.0,,,,,,C. Cunningham,C. Cunningham misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:24.0,,,,,,L. Garza,Offensive rebound by L. Garza,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:24.0,,,,,,L. Garza,L. Garza makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:14.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,7:00.0,,,,,,L. Garza,L. Garza misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:58.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:51.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:51.0,,,,,,E. Gordon,E. Gordon enters the game for D. Augustin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,6:51.0,,,,,,K. Hayes,K. Hayes enters the game for F. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,6:26.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:26.0,,,,,,C. Cunningham,Defensive rebound by C. Cunningham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:26.0,,,,,,L. Garza,L. Garza makes 3-pt jump shot from 27 ft (assist by C. Cunningham ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:11.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,6:10.0,,,,,,C. Cunningham,Defensive rebound by C. Cunningham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,6:10.0,,,,,,J. Tate,Personal take foul by J. Tate (drawn by C. Cunningham ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,6:10.0,,,,,,C. Wood,C. Wood enters the game for K. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,5:58.0,,,,,,C. Cunningham,C. Cunningham makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:32.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:29.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,5:23.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,5:20.0,,,,,,S. Lee,Defensive rebound by S. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,5:13.0,,,,,,L. Garza,L. Garza makes 2-pt hook shot from 4 ft (assist by S. Lee ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:56.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:54.0,,,,,,A. ÅengÃ¼n,Offensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:50.0,,,,,,E. Gordon,E. Gordon makes 3-pt jump shot from 26 ft (assist by A. ÅengÃ¼n ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:35.0,,,,,,C. Cunningham,Turnover by C. Cunningham (bad pass; steal by G. Mathews ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,4:30.0,,,,,,G. Mathews,Turnover by G. Mathews (lost ball; steal by K. Hayes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,4:24.0,,,,,,C. Cunningham,C. Cunningham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:23.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,4:23.0,,,,,,S. Lee,Personal foul by S. Lee (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,4:23.0,,,,,,J. Tate,J. Tate misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:23.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:23.0,,,,,,K. Martin,K. Martin enters the game for A. ÅengÃ¼n,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,4:23.0,,,,,,J. Tate,J. Tate makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,4:09.0,,,,,,C. Cunningham,C. Cunningham makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:45.0,,,,,,G. Mathews,G. Mathews makes 3-pt jump shot from 27 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:33.0,,,,,,J. Tate,Shooting foul by J. Tate (drawn by L. Garza ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,3:33.0,,,,,,L. Garza,L. Garza misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:33.0,,,,,,L. Garza,L. Garza misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:29.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,3:12.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 3 ft (assist by E. Gordon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,3:02.0,,,,,,S. Lee,S. Lee makes 2-pt dunk from 2 ft (assist by S. Bey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:47.0,,,,,,C. Wood,C. Wood makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:46.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112180DET,1,2:46.0,,,,,,J. Christopher,J. Christopher enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:46.0,,,,,,U. Garuba,U. Garuba enters the game for G. Mathews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:46.0,,,,,,D. Nwaba,D. Nwaba enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:46.0,,,,,,T. Queen,T. Queen enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:46.0,,,,,,H. Diallo,H. Diallo enters the game for L. Garza,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:46.0,,,,,,I. Stewart,I. Stewart enters the game for S. Lee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112180DET,1,2:34.0,,,,,,C. Cunningham,C. Cunningham misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:30.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:30.0,,,,,,I. Stewart,I. Stewart makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:19.0,,,,,,T. Queen,T. Queen misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:16.0,,,,,,I. Stewart,Defensive rebound by I. Stewart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,2:09.0,,,,,,K. Martin,Shooting foul by K. Martin (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,2:09.0,,,,,,S. Bey,S. Bey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,2:09.0,,,,,,S. Bey,S. Bey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:46.0,,,,,,D. Nwaba,D. Nwaba makes 3-pt jump shot from 28 ft (assist by J. Christopher ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:34.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:34.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,1:27.0,,,,,,K. Hayes,Personal foul by K. Hayes (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,1:27.0,,,,,,D. Nwaba,D. Nwaba misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:27.0,,,,,,D. Nwaba,D. Nwaba makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:20.0,,,,,,C. Cunningham,C. Cunningham makes 3-pt jump shot from 27 ft (assist by K. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,1:07.0,,,,,,U. Garuba,Offensive foul by U. Garuba (drawn by H. Diallo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112180DET,1,1:07.0,,,,,,U. Garuba,Turnover by U. Garuba (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112180DET,1,0:51.0,,,,,,S. Bey,S. Bey makes 2-pt layup from 2 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:35.0,,,,,,T. Queen,T. Queen misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:31.0,,,,,,C. Cunningham,Defensive rebound by C. Cunningham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112180DET,1,0:29.0,,,,,,I. Stewart,I. Stewart makes 2-pt dunk from 1 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:23.0,,,,,,J. Christopher,Turnover by J. Christopher (bad pass; steal by C. Cunningham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112180DET,1,0:20.0,,,,,,S. Bey,S. Bey makes 2-pt dunk from 2 ft (assist by C. Cunningham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:13.0,,,,,,J. Christopher,Turnover by J. Christopher (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112180DET,1,0:06.0,,,,,,C. Cunningham,C. Cunningham misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:04.0,,,,,,S. Bey,Offensive rebound by S. Bey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:00.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112180DET,1,0:00.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

@@ -1,0 +1,452 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202112220ATL,1,11:39.0,,,,,,J. Collins,J. Collins makes 2-pt hook shot from 5 ft (assist by D. Wright ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:20.0,,,,,,G. Harris,G. Harris makes 3-pt jump shot from 25 ft (assist by F. Wagner ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:05.0,,,,,,J. Collins,J. Collins makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:44.0,,,,,,R. Lopez,R. Lopez misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:39.0,,,,,,G. Dieng,Defensive rebound by G. Dieng,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,10:26.0,,,,,,C. Reddish,C. Reddish makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:08.0,,,,,,C. Okeke,C. Okeke makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:51.0,,,,,,C. Reddish,C. Reddish makes 3-pt jump shot from 27 ft (assist by J. Collins ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:39.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:39.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:28.0,,,,,,R. Lopez,Shooting foul by R. Lopez (drawn by C. Reddish ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,9:28.0,,,,,,C. Reddish,C. Reddish misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:28.0,,,,,,C. Reddish,C. Reddish makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:05.0,,,,,,H. Gravett,H. Gravett misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:01.0,,,,,,D. Wright,Defensive rebound by D. Wright,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,8:43.0,,,,,,D. Wright,Turnover by D. Wright (bad pass; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,8:32.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:16.0,,,,,,C. Reddish,C. Reddish misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:13.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,8:04.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft (assist by H. Gravett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:50.0,,,,,,J. Collins,Turnover by J. Collins (bad pass; steal by G. Harris ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,7:49.0,,,,,,C. Reddish,Clear path foul by C. Reddish,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,7:49.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:49.0,,,,,,G. Harris,G. Harris makes clear path free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:49.0,,,,,,G. Harris,G. Harris makes clear path free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:39.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 5 ft (block by C. Reddish ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,7:36.0,,,,,,S. Mays,Defensive rebound by S. Mays,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,7:34.0,,,,,,D. Wright,Turnover by D. Wright (lost ball; steal by F. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,7:18.0,,,,,,H. Gravett,H. Gravett makes 3-pt jump shot from 26 ft (assist by C. Okeke ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:53.0,,,,,,S. Mays,S. Mays misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:49.0,,,,,,R. Lopez,Defensive rebound by R. Lopez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,6:37.0,,,,,,G. Harris,G. Harris misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:35.0,,,,,,R. Lopez,Offensive rebound by R. Lopez,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:33.0,,,,,,R. Lopez,R. Lopez makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:32.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,6:32.0,,,,,,T. Frazier,T. Frazier enters the game for H. Gravett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,6:32.0,,,,,,O. Okongwu,O. Okongwu enters the game for G. Dieng,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,6:15.0,,,,,,C. Reddish,C. Reddish misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:12.0,,,,,,O. Okongwu,Offensive rebound by O. Okongwu,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:10.0,,,,,,C. Reddish,C. Reddish misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:07.0,,,,,,J. Collins,Offensive rebound by J. Collins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:07.0,,,,,,J. Collins,J. Collins misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:07.0,,,,,,G. Harris,Defensive rebound by G. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,6:00.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:57.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:48.0,,,,,,S. Mays,Turnover by S. Mays (bad pass; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,5:43.0,,,,,,T. Frazier,Turnover by T. Frazier (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112220ATL,1,5:43.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for S. Mays,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,5:26.0,,,,,,G. Harris,Shooting foul by G. Harris (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,5:26.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:26.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:24.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:07.0,,,,,,R. Lopez,Offensive foul by R. Lopez (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,5:07.0,,,,,,R. Lopez,Turnover by R. Lopez (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112220ATL,1,4:56.0,,,,,,C. Reddish,C. Reddish makes 2-pt jump shot from 12 ft (assist by O. Okongwu ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:43.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:40.0,,,,,,C. Reddish,Defensive rebound by C. Reddish,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,4:36.0,,,,,,O. Okongwu,Offensive foul by O. Okongwu (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,4:36.0,,,,,,O. Okongwu,Turnover by O. Okongwu (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112220ATL,1,4:36.0,,,,,,F. Gillespie,F. Gillespie enters the game for R. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:23.0,,,,,,B. BogdanoviÄ,Shooting foul by B. BogdanoviÄ (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,4:23.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:23.0,,,,,,A. Schofield,A. Schofield enters the game for C. Okeke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:23.0,,,,,,L. Stephenson,L. Stephenson enters the game for C. Reddish,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:23.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:14.0,,,,,,A. Schofield,Personal foul by A. Schofield (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:59.0,,,,,,L. Stephenson,L. Stephenson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:56.0,,,,,,F. Gillespie,Defensive rebound by F. Gillespie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,3:49.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:47.0,,,,,,O. Okongwu,Defensive rebound by O. Okongwu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,3:41.0,,,,,,T. Frazier,Personal foul by T. Frazier (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:33.0,,,,,,O. Okongwu,Offensive foul by O. Okongwu (drawn by F. Gillespie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:33.0,,,,,,O. Okongwu,Turnover by O. Okongwu (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112220ATL,1,3:33.0,,,,,,J. Johnson,J. Johnson enters the game for O. Okongwu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,3:16.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:13.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,3:06.0,,,,,,J. Collins,J. Collins misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:03.0,,,,,,F. Gillespie,Defensive rebound by F. Gillespie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:58.0,,,,,,G. Harris,G. Harris misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:54.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:41.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:38.0,,,,,,F. Gillespie,Defensive rebound by F. Gillespie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:38.0,,,,,,F. Gillespie,Turnover by F. Gillespie (bad pass; steal by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,2:29.0,,,,,,L. Stephenson,Turnover by L. Stephenson (lost ball; steal by T. Frazier ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,2:20.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,2:20.0,,,,,,A. Ford,A. Ford enters the game for G. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,2:20.0,,,,,,B. Johnson,B. Johnson enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,2:20.0,,,,,,S. Cooper,S. Cooper enters the game for D. Wright,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,2:13.0,,,,,,T. Frazier,T. Frazier misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:12.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:00.0,,,,,,F. Gillespie,Personal foul by F. Gillespie (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,2:00.0,,,,,,J. Collins,J. Collins misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:00.0,,,,,,J. Collins,J. Collins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:46.0,,,,,,A. Schofield,Turnover by A. Schofield (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112220ATL,1,1:28.0,,,,,,S. Cooper,S. Cooper misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:26.0,,,,,,A. Ford,Defensive rebound by A. Ford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,1:19.0,,,,,,F. Gillespie,F. Gillespie misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:16.0,,,,,,S. Cooper,Defensive rebound by S. Cooper,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,1:13.0,,,,,,A. Ford,Personal foul by A. Ford (drawn by J. Johnson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,1:13.0,,,,,,J. Johnson,J. Johnson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:13.0,,,,,,J. Johnson,J. Johnson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:10.0,,,,,,J. Collins,Offensive rebound by J. Collins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:09.0,,,,,,J. Collins,J. Collins misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:05.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,0:56.0,,,,,,A. Schofield,Turnover by A. Schofield (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112220ATL,1,0:39.0,,,,,,F. Gillespie,Shooting foul by F. Gillespie (drawn by J. Johnson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,0:39.0,,,,,,J. Johnson,J. Johnson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:39.0,,,,,,J. Johnson,J. Johnson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:32.0,,,,,,J. Johnson,Shooting foul by J. Johnson (drawn by T. Frazier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,0:32.0,,,,,,T. Frazier,T. Frazier misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:32.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:32.0,,,,,,T. Frazier,T. Frazier makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:19.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:00.0,,,,,,A. Ford,A. Ford misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:49.0,,,,,,B. Johnson,B. Johnson makes 2-pt jump shot from 21 ft (assist by H. Gravett ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:28.0,,,,,,L. Stephenson,L. Stephenson misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:24.0,,,,,,B. Johnson,Defensive rebound by B. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,11:13.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:10.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,11:06.0,,,,,,C. Reddish,C. Reddish misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:03.0,,,,,,F. Gillespie,Defensive rebound by F. Gillespie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,10:56.0,,,,,,O. Okongwu,Shooting foul by O. Okongwu (drawn by F. Gillespie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,10:56.0,,,,,,F. Gillespie,F. Gillespie misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:56.0,,,,,,G. Dieng,G. Dieng enters the game for O. Okongwu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,10:56.0,,,,,,F. Gillespie,F. Gillespie makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:42.0,,,,,,S. Cooper,S. Cooper misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:29.0,,,,,,G. Dieng,G. Dieng makes 3-pt jump shot from 25 ft (assist by J. Johnson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:09.0,,,,,,C. Okeke,C. Okeke makes 3-pt jump shot from 25 ft (assist by H. Gravett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:56.0,,,,,,C. Reddish,C. Reddish misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:54.0,,,,,,B. Johnson,Defensive rebound by B. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,9:47.0,,,,,,B. Johnson,B. Johnson makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:32.0,,,,,,G. Dieng,G. Dieng makes 2-pt dunk from 1 ft (assist by L. Stephenson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:10.0,,,,,,H. Gravett,H. Gravett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:07.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,8:58.0,,,,,,S. Cooper,S. Cooper misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:55.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,8:42.0,,,,,,F. Gillespie,F. Gillespie makes 2-pt jump shot from 12 ft (assist by A. Ford ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:18.0,,,,,,G. Dieng,G. Dieng misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:16.0,,,,,,H. Gravett,Defensive rebound by H. Gravett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,8:06.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:03.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,7:53.0,,,,,,G. Dieng,G. Dieng misses 2-pt jump shot from 6 ft (block by F. Gillespie ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,7:49.0,,,,,,H. Gravett,Defensive rebound by H. Gravett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,7:46.0,,,,,,A. Ford,A. Ford makes 2-pt dunk from 1 ft (assist by H. Gravett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:45.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,7:45.0,,,,,,R. Lopez,R. Lopez enters the game for F. Gillespie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,7:45.0,,,,,,F. Wagner,F. Wagner enters the game for B. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,7:45.0,,,,,,J. Collins,J. Collins enters the game for S. Cooper,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,7:45.0,,,,,,D. Wright,D. Wright enters the game for J. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,7:33.0,,,,,,D. Wright,Turnover by D. Wright (bad pass; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,7:11.0,,,,,,R. Lopez,R. Lopez misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:08.0,,,,,,D. Wright,Defensive rebound by D. Wright,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,6:57.0,,,,,,G. Dieng,G. Dieng makes 2-pt layup from 3 ft (assist by J. Collins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:57.0,,,,,,R. Lopez,Shooting foul by R. Lopez (drawn by G. Dieng ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,6:57.0,,,,,,G. Dieng,G. Dieng makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:42.0,,,,,,C. Okeke,C. Okeke makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:27.0,,,,,,J. Collins,J. Collins makes 2-pt jump shot from 12 ft (assist by D. Wright ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:12.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:08.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:56.0,,,,,,G. Dieng,G. Dieng misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:50.0,,,,,,A. Ford,Defensive rebound by A. Ford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:43.0,,,,,,A. Ford,A. Ford misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:40.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:28.0,,,,,,C. Reddish,C. Reddish misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:28.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:28.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for L. Stephenson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,5:18.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 2 ft (block by G. Dieng ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,5:14.0,,,,,,C. Reddish,Defensive rebound by C. Reddish,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:09.0,,,,,,J. Collins,J. Collins misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:05.0,,,,,,G. Dieng,Offensive rebound by G. Dieng,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:02.0,,,,,,D. Wright,D. Wright misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:58.0,,,,,,H. Gravett,Defensive rebound by H. Gravett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,4:58.0,,,,,,G. Harris,G. Harris enters the game for A. Ford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:40.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:38.0,,,,,,G. Dieng,Defensive rebound by G. Dieng,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,4:35.0,,,,,,G. Dieng,Turnover by G. Dieng (bad pass; steal by G. Harris ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,4:20.0,,,,,,H. Gravett,H. Gravett makes 2-pt jump shot from 10 ft (assist by R. Lopez ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:05.0,,,,,,G. Dieng,G. Dieng misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:01.0,,,,,,D. Wright,Offensive rebound by D. Wright,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:56.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 4 ft (assist by C. Reddish ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:56.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,3:56.0,,,,,,T. Frazier,T. Frazier enters the game for H. Gravett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,3:37.0,,,,,,F. Wagner,F. Wagner makes 2-pt jump shot from 10 ft (assist by R. Lopez ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:21.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:19.0,,,,,,J. Collins,Offensive rebound by J. Collins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:13.0,,,,,,D. Wright,D. Wright makes 2-pt layup from 1 ft (assist by G. Dieng ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:55.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:53.0,,,,,,F. Wagner,Offensive rebound by F. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:51.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:48.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:43.0,,,,,,J. Collins,J. Collins misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:39.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:26.0,,,,,,R. Lopez,R. Lopez makes 2-pt jump shot from 7 ft (assist by G. Harris ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:13.0,,,,,,C. Reddish,C. Reddish makes 3-pt jump shot from 27 ft (assist by D. Wright ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:51.0,,,,,,F. Wagner,Turnover by F. Wagner (bad pass; steal by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,1:32.0,,,,,,D. Wright,Turnover by D. Wright (bad pass; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,1:28.0,,,,,,J. Collins,Shooting foul by J. Collins (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,1:28.0,,,,,,J. Collins,Technical foul by J. Collins,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,1:28.0,,,,,,G. Harris,G. Harris makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:28.0,,,,,,G. Harris,G. Harris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:28.0,,,,,,G. Harris,G. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:15.0,,,,,,C. Reddish,C. Reddish misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:12.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,1:05.0,,,,,,C. Reddish,Personal foul by C. Reddish (drawn by T. Frazier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,1:05.0,,,,,,T. Frazier,T. Frazier misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:05.0,,,,,,F. Gillespie,F. Gillespie enters the game for R. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,1:05.0,,,,,,T. Frazier,T. Frazier misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:03.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,0:52.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt layup from 6 ft (block by F. Gillespie ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,0:48.0,,,,,,F. Gillespie,Defensive rebound by F. Gillespie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,0:47.0,,,,,,F. Wagner,Turnover by F. Wagner (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112220ATL,1,0:24.0,,,,,,C. Reddish,Turnover by C. Reddish (bad pass; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,0:02.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:01.0,,,,,,F. Gillespie,Offensive rebound by F. Gillespie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:00.0,,,,,,F. Gillespie,F. Gillespie makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,12:00.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:37.0,,,,,,R. Lopez,R. Lopez makes 2-pt hook shot from 9 ft (assist by G. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:20.0,,,,,,C. Okeke,Personal foul by C. Okeke (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,11:09.0,,,,,,S. Cooper,S. Cooper misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:04.0,,,,,,R. Lopez,Defensive rebound by R. Lopez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,10:53.0,,,,,,G. Harris,G. Harris makes 3-pt jump shot from 26 ft (assist by H. Gravett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:36.0,,,,,,G. Dieng,G. Dieng misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:32.0,,,,,,G. Harris,Defensive rebound by G. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,10:29.0,,,,,,R. Lopez,R. Lopez makes 2-pt dunk from 2 ft (assist by G. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:14.0,,,,,,C. Reddish,C. Reddish makes 2-pt jump shot from 18 ft (assist by S. Cooper ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:00.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:57.0,,,,,,S. Cooper,Defensive rebound by S. Cooper,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,9:49.0,,,,,,J. Collins,Turnover by J. Collins (lost ball; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,9:49.0,,,,,,G. Dieng,Personal take foul by G. Dieng (drawn by C. Okeke ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,9:24.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:21.0,,,,,,G. Dieng,Defensive rebound by G. Dieng,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,9:11.0,,,,,,J. Collins,J. Collins misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:07.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,9:00.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:54.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,8:54.0,,,,,,S. Mays,S. Mays enters the game for S. Cooper,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,8:54.0,,,,,,O. Okongwu,O. Okongwu enters the game for G. Dieng,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,8:42.0,,,,,,H. Gravett,Shooting foul by H. Gravett (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,8:42.0,,,,,,J. Collins,J. Collins makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:42.0,,,,,,J. Collins,J. Collins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:29.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft (assist by R. Lopez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:06.0,,,,,,D. Wright,D. Wright misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:03.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,7:59.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:57.0,,,,,,O. Okongwu,Defensive rebound by O. Okongwu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,7:51.0,,,,,,J. Collins,J. Collins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:46.0,,,,,,H. Gravett,Defensive rebound by H. Gravett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,7:24.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:22.0,,,,,,C. Reddish,Defensive rebound by C. Reddish,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,7:15.0,,,,,,C. Reddish,C. Reddish makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:58.0,,,,,,C. Okeke,C. Okeke makes 2-pt jump shot from 5 ft (assist by R. Lopez ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:44.0,,,,,,C. Reddish,C. Reddish misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:44.0,,,,,,H. Gravett,Defensive rebound by H. Gravett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,6:28.0,,,,,,H. Gravett,H. Gravett makes 3-pt jump shot from 26 ft (assist by R. Lopez ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:11.0,,,,,,C. Okeke,Personal foul by C. Okeke (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,6:11.0,,,,,,A. Ford,A. Ford enters the game for C. Okeke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,6:11.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for S. Mays,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,6:05.0,,,,,,C. Reddish,C. Reddish makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:43.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:40.0,,,,,,A. Ford,Offensive rebound by A. Ford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:37.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:33.0,,,,,,F. Gillespie,F. Gillespie enters the game for R. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,5:22.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:20.0,,,,,,F. Gillespie,Offensive rebound by F. Gillespie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:19.0,,,,,,F. Gillespie,F. Gillespie misses 2-pt layup from 2 ft (block by J. Collins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,5:16.0,,,,,,D. Wright,Defensive rebound by D. Wright,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:12.0,,,,,,C. Reddish,C. Reddish makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:12.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,4:58.0,,,,,,A. Ford,A. Ford misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:55.0,,,,,,O. Okongwu,Defensive rebound by O. Okongwu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,4:37.0,,,,,,J. Collins,Turnover by J. Collins (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202112220ATL,1,4:37.0,,,,,,T. Frazier,T. Frazier enters the game for H. Gravett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:15.0,,,,,,T. Frazier,T. Frazier misses 2-pt jump shot from 8 ft (block by O. Okongwu ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,4:13.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,4:13.0,,,,,,F. Gillespie,Personal foul by F. Gillespie (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,4:13.0,,,,,,L. Stephenson,L. Stephenson enters the game for C. Reddish,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:00.0,,,,,,L. Stephenson,L. Stephenson misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:59.0,,,,,,F. Wagner,Loose ball foul by F. Wagner (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:59.0,,,,,,J. Collins,J. Collins makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:59.0,,,,,,J. Collins,J. Collins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:36.0,,,,,,A. Ford,Offensive foul by A. Ford (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:36.0,,,,,,A. Ford,Turnover by A. Ford (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202112220ATL,1,3:23.0,,,,,,T. Frazier,Personal foul by T. Frazier (drawn by O. Okongwu ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:23.0,,,,,,O. Okongwu,O. Okongwu makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:23.0,,,,,,O. Okongwu,O. Okongwu makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:09.0,,,,,,A. Ford,A. Ford misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:05.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:59.0,,,,,,J. Collins,J. Collins makes 3-pt jump shot from 26 ft (assist by B. BogdanoviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:59.0,,,,,,O. Okongwu,Loose ball foul by O. Okongwu (drawn by F. Gillespie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,2:59.0,,,,,,C. Reddish,C. Reddish enters the game for O. Okongwu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,2:34.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:29.0,,,,,,F. Gillespie,Offensive rebound by F. Gillespie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:29.0,,,,,,B. Johnson,B. Johnson enters the game for G. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,2:20.0,,,,,,B. Johnson,B. Johnson misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:17.0,,,,,,D. Wright,Defensive rebound by D. Wright,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:05.0,,,,,,D. Wright,D. Wright misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:00.0,,,,,,J. Collins,Offensive rebound by J. Collins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:00.0,,,,,,J. Collins,J. Collins makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:43.0,,,,,,F. Wagner,F. Wagner makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:29.0,,,,,,C. Reddish,C. Reddish makes 3-pt jump shot from 25 ft (assist by L. Stephenson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:18.0,,,,,,J. Collins,Personal foul by J. Collins (drawn by F. Gillespie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,1:08.0,,,,,,F. Wagner,F. Wagner makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:54.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:51.0,,,,,,B. Johnson,Defensive rebound by B. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,0:32.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:27.0,,,,,,B. Johnson,Offensive rebound by B. Johnson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:24.0,,,,,,B. Johnson,B. Johnson makes 3-pt jump shot from 23 ft (assist by T. Frazier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:05.0,,,,,,F. Wagner,Personal foul by F. Wagner (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,0:05.0,,,,,,J. Collins,J. Collins makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:05.0,,,,,,J. Collins,J. Collins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:00.0,,,,,,T. Frazier,Turnover by T. Frazier (lost ball; steal by D. Wright ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,12:00.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:38.0,,,,,,J. Johnson,J. Johnson misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:34.0,,,,,,R. Lopez,Defensive rebound by R. Lopez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,11:19.0,,,,,,R. Lopez,R. Lopez misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:16.0,,,,,,G. Dieng,Defensive rebound by G. Dieng,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,11:05.0,,,,,,C. Reddish,C. Reddish misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,11:01.0,,,,,,A. Ford,Defensive rebound by A. Ford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,10:54.0,,,,,,A. Schofield,A. Schofield makes 2-pt layup from 1 ft (assist by R. Lopez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:54.0,,,,,,C. Reddish,Shooting foul by C. Reddish (drawn by A. Schofield ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,10:54.0,,,,,,A. Schofield,A. Schofield misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:51.0,,,,,,C. Reddish,Defensive rebound by C. Reddish,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,10:44.0,,,,,,A. Ford,Personal foul by A. Ford (drawn by G. Dieng ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,10:38.0,,,,,,S. Cooper,Turnover by S. Cooper (lost ball; steal by R. Lopez ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,10:33.0,,,,,,A. Ford,A. Ford makes 2-pt layup from 1 ft (assist by T. Frazier ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,10:09.0,,,,,,J. Johnson,J. Johnson makes 2-pt layup from 1 ft (assist by L. Stephenson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:53.0,,,,,,B. Johnson,B. Johnson makes 2-pt jump shot from 22 ft (assist by T. Frazier ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:40.0,,,,,,J. Johnson,J. Johnson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:37.0,,,,,,T. Frazier,Defensive rebound by T. Frazier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,9:20.0,,,,,,R. Lopez,R. Lopez makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,9:12.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,9:12.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for S. Cooper,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,9:12.0,,,,,,J. Collins,J. Collins enters the game for G. Dieng,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,9:12.0,,,,,,O. Okongwu,O. Okongwu enters the game for J. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,9:12.0,,,,,,D. Wright,D. Wright enters the game for L. Stephenson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,8:54.0,,,,,,D. Wright,D. Wright makes 3-pt jump shot from 26 ft (assist by C. Reddish ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:36.0,,,,,,T. Frazier,Turnover by T. Frazier (bad pass; steal by D. Wright ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202112220ATL,1,8:19.0,,,,,,J. Collins,J. Collins misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:14.0,,,,,,D. Wright,Offensive rebound by D. Wright,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:14.0,,,,,,D. Wright,D. Wright makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,8:00.0,,,,,,B. Johnson,B. Johnson makes 2-pt jump shot from 17 ft (assist by R. Lopez ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:47.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:43.0,,,,,,D. Wright,Offensive rebound by D. Wright,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:43.0,,,,,,D. Wright,D. Wright makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:25.0,,,,,,A. Schofield,A. Schofield makes 3-pt jump shot from 24 ft (assist by R. Lopez ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,7:11.0,,,,,,O. Okongwu,O. Okongwu makes 2-pt dunk at rim (assist by B. BogdanoviÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:56.0,,,,,,B. Johnson,B. Johnson makes 3-pt jump shot from 26 ft (assist by T. Frazier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:42.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:42.0,,,,,,O. Okongwu,Offensive rebound by O. Okongwu,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:42.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by O. Okongwu ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,6:42.0,,,,,,O. Okongwu,O. Okongwu makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:42.0,,,,,,G. Harris,G. Harris enters the game for A. Ford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,6:42.0,,,,,,F. Wagner,F. Wagner enters the game for T. Frazier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,6:42.0,,,,,,O. Okongwu,O. Okongwu makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:29.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft (assist by R. Lopez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:29.0,,,,,,C. Reddish,Shooting foul by C. Reddish (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,6:29.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,6:17.0,,,,,,C. Reddish,C. Reddish makes 3-pt jump shot from 25 ft (assist by D. Wright ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:56.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 4 ft (block by C. Reddish ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,5:53.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:49.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:48.0,,,,,,O. Okongwu,Offensive rebound by O. Okongwu,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:48.0,,,,,,O. Okongwu,O. Okongwu misses 2-pt layup from 1 ft (block by R. Lopez ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,5:47.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,5:46.0,,,,,,J. Collins,Personal foul by J. Collins (drawn by A. Schofield ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,5:35.0,,,,,,A. Schofield,A. Schofield makes 3-pt jump shot from 25 ft (assist by G. Harris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:26.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,5:23.0,,,,,,A. Schofield,Personal foul by A. Schofield (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,5:08.0,,,,,,C. Reddish,C. Reddish misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,5:05.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,4:49.0,,,,,,F. Wagner,F. Wagner makes 2-pt jump shot from 4 ft (assist by R. Lopez ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:40.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by C. Reddish ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,4:40.0,,,,,,C. Reddish,C. Reddish misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:40.0,,,,,,H. Gravett,H. Gravett enters the game for B. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:40.0,,,,,,C. Okeke,C. Okeke enters the game for A. Schofield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:40.0,,,,,,L. Stephenson,L. Stephenson enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,4:40.0,,,,,,C. Reddish,C. Reddish makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:25.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,4:23.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,4:09.0,,,,,,J. Collins,J. Collins makes 3-pt jump shot from 23 ft (assist by C. Reddish ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:49.0,,,,,,O. Okongwu,Personal foul by O. Okongwu (drawn by R. Lopez ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:40.0,,,,,,R. Lopez,R. Lopez misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:36.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,3:30.0,,,,,,C. Reddish,C. Reddish makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:29.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,3:16.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 2 ft (block by J. Collins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,3:12.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,3:09.0,,,,,,R. Lopez,Shooting foul by R. Lopez (drawn by C. Reddish ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,3:09.0,,,,,,C. Reddish,C. Reddish makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,3:09.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,3:09.0,,,,,,C. Reddish,C. Reddish makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:52.0,,,,,,L. Stephenson,Shooting foul by L. Stephenson (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,2:52.0,,,,,,G. Harris,G. Harris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:52.0,,,,,,G. Harris,G. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:41.0,,,,,,R. Lopez,Shooting foul by R. Lopez (drawn by C. Reddish ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,2:41.0,,,,,,C. Reddish,C. Reddish makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:41.0,,,,,,C. Reddish,C. Reddish makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:22.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 1 ft (block by O. Okongwu ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,2:19.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,2:11.0,,,,,,C. Reddish,C. Reddish misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,2:07.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,1:51.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:51.0,,,,,,R. Lopez,Offensive rebound by R. Lopez,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:46.0,,,,,,C. Okeke,C. Okeke makes 3-pt jump shot from 23 ft (assist by R. Lopez ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:33.0,,,,,,O. Okongwu,O. Okongwu makes 2-pt dunk at rim (assist by L. Stephenson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:16.0,,,,,,H. Gravett,H. Gravett misses 2-pt layup from 2 ft (block by O. Okongwu ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,1:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:14.0,,,,,,R. Lopez,R. Lopez misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:11.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,1:05.0,,,,,,C. Reddish,C. Reddish misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,1:04.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,1:04.0,,,,,,A. Schofield,A. Schofield enters the game for R. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,0:46.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:44.0,,,,,,O. Okongwu,Defensive rebound by O. Okongwu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202112220ATL,1,0:30.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by L. Stephenson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,0:30.0,,,,,,L. Stephenson,L. Stephenson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:30.0,,,,,,R. Lopez,R. Lopez enters the game for A. Schofield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,0:30.0,,,,,,L. Stephenson,L. Stephenson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:28.0,,,,,,C. Reddish,Personal take foul by C. Reddish (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,0:28.0,,,,,,F. Wagner,F. Wagner misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:28.0,,,,,,A. Ford,A. Ford enters the game for H. Gravett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,0:28.0,,,,,,A. Schofield,A. Schofield enters the game for R. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,0:28.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:28.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202112220ATL,1,0:28.0,,,,,,G. Dieng,G. Dieng enters the game for O. Okongwu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202112220ATL,1,0:25.0,,,,,,J. Collins,J. Collins makes 2-pt dunk from 1 ft (assist by C. Reddish ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:24.0,,,,,,D. Wright,Personal take foul by D. Wright (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,0:24.0,,,,,,G. Harris,G. Harris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:24.0,,,,,,G. Harris,G. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:14.0,,,,,,D. Wright,D. Wright misses 2-pt jump shot from 10 ft (block by F. Wagner ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,0:10.0,,,,,,L. Stephenson,Offensive rebound by L. Stephenson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:10.0,,,,,,L. Stephenson,L. Stephenson misses 2-pt layup from 1 ft (block by F. Wagner ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202112220ATL,1,0:09.0,,,,,,J. Collins,Offensive rebound by J. Collins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:09.0,,,,,,J. Collins,J. Collins makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:09.0,,,,,,D. Wright,Personal take foul by D. Wright (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202112220ATL,1,0:09.0,,,,,,G. Harris,G. Harris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:09.0,,,,,,G. Harris,G. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:00.0,,,,,,J. Collins,J. Collins makes 3-pt jump shot from 27 ft (assist by L. Stephenson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202112220ATL,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False

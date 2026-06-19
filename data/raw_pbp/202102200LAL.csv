@@ -1,0 +1,441 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202102200LAL,1,11:41.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk from 2 ft (assist by K. Olynyk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:24.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:22.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,11:17.0,,,,,,L. James,Shooting foul by L. James (drawn by D. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,11:17.0,,,,,,D. Robinson,D. Robinson makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:17.0,,,,,,D. Robinson,D. Robinson misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:17.0,,,,,,D. Robinson,D. Robinson makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:07.0,,,,,,L. James,L. James misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:04.0,,,,,,W. Matthews,Offensive rebound by W. Matthews,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:50.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:25.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk from 1 ft (assist by K. Olynyk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:19.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,10:19.0,,,,,,L. James,L. James makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:19.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:06.0,,,,,,K. Nunn,K. Nunn misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:02.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:56.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:46.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:43.0,,,,,,W. Matthews,Defensive rebound by W. Matthews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:39.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 2 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:19.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:17.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt layup from 2 ft (block by K. Olynyk ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,9:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:08.0,,,,,,K. Nunn,Shooting foul by K. Nunn (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,9:08.0,,,,,,K. Kuzma,K. Kuzma makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:08.0,,,,,,K. Kuzma,K. Kuzma misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:05.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,8:53.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk from 1 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:40.0,,,,,,M. Gasol,M. Gasol misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:37.0,,,,,,K. Nunn,Defensive rebound by K. Nunn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,8:30.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 2 ft (assist by K. Nunn ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:22.0,,,,,,L. James,Turnover by L. James (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,8:06.0,,,,,,K. Nunn,K. Nunn makes 2-pt layup from 3 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:52.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:52.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:38.0,,,,,,D. Robinson,D. Robinson makes 2-pt layup from 2 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:38.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,7:17.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:16.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:50.0,,,,,,K. Nunn,K. Nunn makes 3-pt jump shot from 25 ft (assist by J. Butler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:28.0,,,,,,L. James,L. James misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:25.0,,,,,,K. Nunn,Defensive rebound by K. Nunn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:14.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:11.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,5:56.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:36.0,,,,,,K. Nunn,K. Nunn makes 2-pt jump shot from 13 ft (assist by B. Adebayo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:19.0,,,,,,L. James,L. James makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:02.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:59.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:48.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,4:48.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,4:48.0,,,,,,T. Herro,T. Herro enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,4:48.0,,,,,,A. Caruso,A. Caruso enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,4:28.0,,,,,,K. Olynyk,K. Olynyk misses 2-pt jump shot from 2 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:23.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:23.0,,,,,,J. Butler,J. Butler makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:18.0,,,,,,M. Gasol,M. Gasol misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:15.0,,,,,,K. Nunn,Defensive rebound by K. Nunn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:07.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 2 ft (block by M. Gasol ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,4:04.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:57.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,3:47.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 26 ft (assist by M. Gasol ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:45.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,3:45.0,,,,,,M. Harrell,M. Harrell enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:45.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:45.0,,,,,,M. Morris,M. Morris enters the game for W. Matthews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:34.0,,,,,,M. Morris,Personal foul by M. Morris (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,3:34.0,,,,,,A. Iguodala,A. Iguodala enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:27.0,,,,,,T. Herro,Turnover by T. Herro (bad pass; steal by M. Harrell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,3:26.0,,,,,,K. Olynyk,Personal take foul by K. Olynyk (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,3:14.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 3 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:55.0,,,,,,K. Olynyk,K. Olynyk misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:51.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:51.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:42.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:38.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,2:27.0,,,,,,K. Nunn,K. Nunn makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:09.0,,,,,,M. Harrell,M. Harrell misses 2-pt jump shot from 2 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:06.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,2:01.0,,,,,,K. Nunn,K. Nunn makes 3-pt jump shot from 23 ft (assist by A. Iguodala ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:01.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,2:01.0,,,,,,L. James,L. James enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,1:47.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 2 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:33.0,,,,,,K. Nunn,K. Nunn makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:11.0,,,,,,A. Caruso,Turnover by A. Caruso (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,0:56.0,,,,,,A. Iguodala,A. Iguodala makes 3-pt jump shot from 23 ft (assist by K. Olynyk ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:44.0,,,,,,L. James,Turnover by L. James (lost ball; steal by A. Iguodala ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,0:40.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt layup from 3 ft (block by T. Horton-Tucker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,0:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:39.0,,,,,,K. Olynyk,K. Olynyk misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:34.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:28.0,,,,,,K. Olynyk,Shooting foul by K. Olynyk (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,0:28.0,,,,,,M. Morris,M. Morris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:28.0,,,,,,D. Robinson,D. Robinson enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,0:28.0,,,,,,M. Morris,M. Morris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:06.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:03.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:00.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 40 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:47.0,,,,,,L. James,L. James misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:46.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:46.0,,,,,,L. James,L. James misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:45.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,11:38.0,,,,,,A. Iguodala,Turnover by A. Iguodala (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,11:25.0,,,,,,L. James,L. James makes 3-pt jump shot from 26 ft (assist by M. Harrell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:03.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:00.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:00.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:58.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,10:58.0,,,,,,M. Harrell,M. Harrell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:58.0,,,,,,M. Harrell,M. Harrell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:49.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:46.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,10:39.0,,,,,,L. James,Turnover by L. James (bad pass; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,10:31.0,,,,,,T. Herro,T. Herro misses 2-pt layup from 7 ft (block by L. James ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,10:30.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,10:30.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:30.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,10:30.0,,,,,,L. James,L. James makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:14.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:13.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,10:05.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:02.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:58.0,,,,,,T. Horton-Tucker,Personal foul by T. Horton-Tucker (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,9:58.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,9:52.0,,,,,,K. Caldwell-Pope,Shooting foul by K. Caldwell-Pope (drawn by D. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,9:52.0,,,,,,D. Robinson,D. Robinson makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:52.0,,,,,,D. Robinson,D. Robinson misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:52.0,,,,,,D. Robinson,D. Robinson makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:34.0,,,,,,L. James,L. James misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:32.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:24.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 3 ft (assist by T. Herro ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:17.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:17.0,,,,,,A. Iguodala,Shooting foul by A. Iguodala (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,9:17.0,,,,,,L. James,L. James makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:57.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 3 ft (assist by D. Robinson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:42.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:40.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,8:36.0,,,,,,G. Vincent,G. Vincent misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:30.0,,,,,,D. Robinson,D. Robinson misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:28.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,8:03.0,,,,,,M. Harrell,M. Harrell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:01.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:57.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,7:57.0,,,,,,J. Butler,J. Butler enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,7:57.0,,,,,,A. Caruso,A. Caruso enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,7:57.0,,,,,,K. Kuzma,K. Kuzma enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,7:57.0,,,,,,W. Matthews,W. Matthews enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,7:40.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 9 ft (block by W. Matthews ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,7:37.0,,,,,,W. Matthews,Defensive rebound by W. Matthews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:26.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:23.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:10.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 17 ft (assist by T. Herro ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:51.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 26 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:36.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:33.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:22.0,,,,,,D. Robinson,Personal foul by D. Robinson (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,6:22.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,6:22.0,,,,,,K. Nunn,K. Nunn enters the game for A. Iguodala,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,6:22.0,,,,,,K. Olynyk,K. Olynyk enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,6:13.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:10.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:06.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt dunk from 1 ft (assist by T. Herro ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:40.0,,,,,,W. Matthews,W. Matthews misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:37.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,5:18.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:16.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,5:08.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 3 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:50.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by M. Harrell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,4:44.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:42.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:37.0,,,,,,T. Herro,T. Herro makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:37.0,,,,,,A. Caruso,Shooting foul by A. Caruso (drawn by T. Herro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,4:37.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,4:37.0,,,,,,T. Herro,T. Herro misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:34.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:14.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:11.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,3:59.0,,,,,,T. Herro,T. Herro makes 3-pt jump shot from 28 ft (assist by K. Nunn ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:36.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by W. Matthews ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:14.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:11.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,3:03.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 2 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:03.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,3:03.0,,,,,,B. Adebayo,B. Adebayo enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:03.0,,,,,,D. Robinson,D. Robinson enters the game for T. Herro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:03.0,,,,,,M. Gasol,M. Gasol enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:03.0,,,,,,L. James,L. James enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,2:48.0,,,,,,L. James,Shooting foul by L. James (drawn by K. Olynyk ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,2:48.0,,,,,,K. Olynyk,K. Olynyk makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:48.0,,,,,,K. Olynyk,K. Olynyk makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:25.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:22.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,2:10.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:58.0,,,,,,D. Robinson,Personal foul by D. Robinson (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:58.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:58.0,,,,,,A. Iguodala,A. Iguodala enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,1:58.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:41.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:31.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:28.0,,,,,,A. Iguodala,Defensive rebound by A. Iguodala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,1:23.0,,,,,,K. Olynyk,Offensive foul by K. Olynyk (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:23.0,,,,,,K. Olynyk,Turnover by K. Olynyk (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202102200LAL,1,1:23.0,,,,,,G. Vincent,G. Vincent enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,1:01.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:58.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:53.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:45.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:45.0,,,,,,J. Butler,J. Butler misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:45.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:44.0,,,,,,J. Butler,J. Butler misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:43.0,,,,,,W. Matthews,Defensive rebound by W. Matthews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:40.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by M. Gasol ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:25.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:23.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:05.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:05.0,,,,,,K. Caldwell-Pope,Offensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:00.0,,,,,,M. Gasol,M. Gasol makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:45.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:42.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,11:21.0,,,,,,K. Nunn,K. Nunn misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:18.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,10:56.0,,,,,,W. Matthews,W. Matthews makes 3-pt jump shot from 27 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:42.0,,,,,,K. Nunn,Offensive foul by K. Nunn (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,10:42.0,,,,,,K. Nunn,Turnover by K. Nunn (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202102200LAL,1,10:30.0,,,,,,W. Matthews,W. Matthews makes 2-pt layup from 2 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:13.0,,,,,,K. Nunn,K. Nunn misses 2-pt layup from 1 ft (block by M. Gasol ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,10:11.0,,,,,,W. Matthews,Defensive rebound by W. Matthews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,10:08.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:08.0,,,,,,K. Nunn,Defensive rebound by K. Nunn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,10:00.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:57.0,,,,,,W. Matthews,Defensive rebound by W. Matthews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:55.0,,,,,,L. James,Turnover by L. James (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,9:37.0,,,,,,K. Olynyk,K. Olynyk makes 2-pt layup from 1 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:26.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt dunk from 1 ft (block by K. Nunn ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,9:22.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:22.0,,,,,,L. James,Personal foul by L. James (drawn by K. Olynyk ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,9:15.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 2 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:15.0,,,,,,M. Gasol,Shooting foul by M. Gasol (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,9:15.0,,,,,,J. Butler,J. Butler misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:12.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:07.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:57.0,,,,,,J. Butler,Offensive foul by J. Butler (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,8:57.0,,,,,,J. Butler,Turnover by J. Butler (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202102200LAL,1,8:45.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:42.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,8:25.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:24.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,8:17.0,,,,,,M. Gasol,M. Gasol makes 3-pt jump shot from 26 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:17.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,7:56.0,,,,,,K. Olynyk,K. Olynyk misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:54.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:44.0,,,,,,W. Matthews,W. Matthews makes 3-pt jump shot from 23 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:16.0,,,,,,K. Nunn,K. Nunn misses 2-pt hook shot from 10 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:14.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:54.0,,,,,,L. James,L. James misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:52.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:51.0,,,,,,K. Kuzma,Personal take foul by K. Kuzma (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,6:43.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:40.0,,,,,,W. Matthews,Defensive rebound by W. Matthews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:37.0,,,,,,L. James,L. James misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:31.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:26.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:24.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:23.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:03.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (bad pass; steal by K. Nunn ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,5:59.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 2 ft (assist by K. Nunn ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:57.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,5:57.0,,,,,,A. Caruso,A. Caruso enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,5:42.0,,,,,,M. Gasol,Turnover by M. Gasol (bad pass; steal by K. Nunn ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,5:30.0,,,,,,K. Nunn,K. Nunn makes 3-pt jump shot from 26 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:03.0,,,,,,M. Gasol,M. Gasol misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:03.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,5:03.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,5:03.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,5:03.0,,,,,,M. Harrell,M. Harrell enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,5:03.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,5:03.0,,,,,,M. Morris,M. Morris enters the game for W. Matthews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,4:49.0,,,,,,K. Nunn,K. Nunn makes 2-pt layup from 2 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:27.0,,,,,,M. Harrell,M. Harrell misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:25.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:13.0,,,,,,P. Achiuwa,Offensive foul by P. Achiuwa (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,4:13.0,,,,,,P. Achiuwa,Turnover by P. Achiuwa (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202102200LAL,1,4:03.0,,,,,,M. Harrell,Turnover by M. Harrell (lost ball; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,4:02.0,,,,,,J. Butler,Offensive foul by J. Butler (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,4:02.0,,,,,,J. Butler,Turnover by J. Butler (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202102200LAL,1,3:54.0,,,,,,T. Horton-Tucker,Offensive foul by T. Horton-Tucker (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,3:54.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202102200LAL,1,3:41.0,,,,,,J. Butler,J. Butler makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:18.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:16.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,3:05.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,3:05.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:05.0,,,,,,L. James,L. James enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,3:05.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:57.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:54.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,2:37.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:34.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,2:28.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 27 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:08.0,,,,,,M. Strus,M. Strus makes 2-pt layup from 3 ft (assist by K. Olynyk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:46.0,,,,,,A. Caruso,Turnover by A. Caruso (lost ball; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,1:41.0,,,,,,M. Harrell,Shooting foul by M. Harrell (drawn by P. Achiuwa ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:41.0,,,,,,A. Caruso,Technical foul by A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:41.0,,,,,,J. Butler,J. Butler makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:41.0,,,,,,P. Achiuwa,P. Achiuwa misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:41.0,,,,,,A. Iguodala,A. Iguodala enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,1:41.0,,,,,,P. Achiuwa,P. Achiuwa misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:37.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,1:34.0,,,,,,K. Nunn,Shooting foul by K. Nunn (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:34.0,,,,,,M. Harrell,M. Harrell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:34.0,,,,,,B. Adebayo,B. Adebayo enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,1:34.0,,,,,,M. Harrell,M. Harrell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:20.0,,,,,,A. Caruso,Personal foul by A. Caruso (drawn by K. Nunn ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:20.0,,,,,,K. Nunn,K. Nunn makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:20.0,,,,,,K. Nunn,K. Nunn makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:03.0,,,,,,L. James,L. James makes 2-pt layup from 3 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:48.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:46.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:40.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 2 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:24.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:24.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:03.0,,,,,,M. Harrell,M. Harrell makes 2-pt dunk from 2 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:03.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:01.0,,,,,,B. Adebayo,B. Adebayo misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:36.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:33.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,11:17.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:14.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,11:04.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,11:02.0,,,,,,K. Nunn,Offensive rebound by K. Nunn,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:59.0,,,,,,K. Nunn,K. Nunn makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:50.0,,,,,,L. James,L. James misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:47.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,10:38.0,,,,,,K. Nunn,K. Nunn makes 3-pt jump shot from 27 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:13.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:09.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:08.0,,,,,,L. James,L. James misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,10:08.0,,,,,,D. Robinson,Loose ball foul by D. Robinson (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,10:08.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,9:56.0,,,,,,M. Harrell,M. Harrell makes 2-pt jump shot from 12 ft (assist by T. Horton-Tucker ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:42.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,9:38.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,9:21.0,,,,,,M. Morris,Turnover by M. Morris (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,9:02.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 28 ft (assist by A. Iguodala ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:38.0,,,,,,M. Harrell,M. Harrell makes 2-pt jump shot from 10 ft (assist by L. James ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:15.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:12.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:05.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,8:01.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:48.0,,,,,,M. Morris,Turnover by M. Morris (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,7:37.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,7:32.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:28.0,,,,,,L. James,L. James misses 2-pt layup from 5 ft (block by B. Adebayo ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,7:23.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,7:23.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,7:23.0,,,,,,J. Butler,J. Butler enters the game for K. Nunn,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,7:23.0,,,,,,K. Kuzma,K. Kuzma enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,7:23.0,,,,,,W. Matthews,W. Matthews enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,7:11.0,,,,,,B. Adebayo,Turnover by B. Adebayo (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,6:53.0,,,,,,M. Harrell,M. Harrell misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:49.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:40.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:38.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:23.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:20.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,6:14.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 10 ft (block by K. Caldwell-Pope ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202102200LAL,1,6:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:14.0,,,,,,M. Gasol,M. Gasol enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,6:01.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,6:00.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,5:38.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,5:14.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by W. Matthews ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,5:09.0,,,,,,L. James,Turnover by L. James (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,5:02.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:57.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:51.0,,,,,,L. James,L. James misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:51.0,,,,,,K. Kuzma,Offensive rebound by K. Kuzma,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:51.0,,,,,,A. Iguodala,Shooting foul by A. Iguodala (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,4:51.0,,,,,,K. Kuzma,K. Kuzma makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:51.0,,,,,,K. Nunn,K. Nunn enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,4:51.0,,,,,,K. Kuzma,K. Kuzma misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:46.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:34.0,,,,,,D. Robinson,D. Robinson makes 2-pt layup from 2 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:20.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,4:18.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,4:07.0,,,,,,B. Adebayo,Turnover by B. Adebayo (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202102200LAL,1,3:47.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 23 ft (assist by M. Gasol ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:27.0,,,,,,K. Caldwell-Pope,Personal foul by K. Caldwell-Pope (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,3:14.0,,,,,,A. Iguodala,A. Iguodala misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:08.0,,,,,,D. Robinson,Offensive rebound by D. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:05.0,,,,,,W. Matthews,Shooting foul by W. Matthews (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,3:05.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:05.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,3:05.0,,,,,,J. Butler,J. Butler misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,3:02.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,2:41.0,,,,,,L. James,L. James makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:17.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:14.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,2:08.0,,,,,,M. Gasol,M. Gasol misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,2:08.0,,,,,,K. Nunn,Loose ball foul by K. Nunn (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:56.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:53.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,1:39.0,,,,,,K. Kuzma,Shooting foul by K. Kuzma (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:39.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:39.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:28.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 4 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:28.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,1:28.0,,,,,,K. Kuzma,K. Kuzma makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:06.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,1:04.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:47.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:44.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:25.0,,,,,,D. Robinson,Offensive foul by D. Robinson (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,0:25.0,,,,,,D. Robinson,Turnover by D. Robinson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202102200LAL,1,0:25.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,0:25.0,,,,,,K. Olynyk,K. Olynyk enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,0:16.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:14.0,,,,,,A. Iguodala,Defensive rebound by A. Iguodala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202102200LAL,1,0:12.0,,,,,,K. Kuzma,Personal take foul by K. Kuzma (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202102200LAL,1,0:12.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:12.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:12.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,0:12.0,,,,,,A. Caruso,A. Caruso enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202102200LAL,1,0:09.0,,,,,,L. James,L. James misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:08.0,,,,,,W. Matthews,Offensive rebound by W. Matthews,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:08.0,,,,,,W. Matthews,W. Matthews makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:08.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202102200LAL,1,0:05.0,,,,,,A. Iguodala,Turnover by A. Iguodala (bad pass; steal by L. James ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202102200LAL,1,0:01.0,,,,,,A. Caruso,A. Caruso misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202102200LAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False

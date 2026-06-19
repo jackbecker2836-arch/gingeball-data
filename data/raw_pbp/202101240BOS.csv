@@ -1,0 +1,483 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202101240BOS,1,11:43.0,,,,,,A. Drummond,A. Drummond makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:20.0,,,,,,T. Thompson,T. Thompson makes 2-pt dunk from 2 ft (assist by K. Walker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:00.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:58.0,,,,,,K. Walker,Defensive rebound by K. Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,10:54.0,,,,,,K. Walker,K. Walker makes 2-pt jump shot from 23 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:33.0,,,,,,C. Osman,C. Osman misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:33.0,,,,,,K. Walker,Defensive rebound by K. Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,10:27.0,,,,,,C. Sexton,Shooting foul by C. Sexton (drawn by K. Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,10:27.0,,,,,,K. Walker,K. Walker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:27.0,,,,,,K. Walker,K. Walker makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:10.0,,,,,,C. Sexton,Turnover by C. Sexton (bad pass; steal by K. Walker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,10:09.0,,,,,,L. Nance,Personal foul by L. Nance (drawn by K. Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,10:04.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 27 ft (assist by K. Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:01.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,9:49.0,,,,,,C. Osman,Turnover by C. Osman (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,9:41.0,,,,,,D. Theis,D. Theis misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:39.0,,,,,,C. Sexton,Defensive rebound by C. Sexton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,9:31.0,,,,,,A. Drummond,A. Drummond misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:28.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,9:21.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:11.0,,,,,,C. Sexton,C. Sexton misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:11.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,9:11.0,,,,,,A. Drummond,Loose ball foul by A. Drummond (drawn by T. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,9:11.0,,,,,,J. Allen,J. Allen enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,9:11.0,,,,,,D. Dotson,D. Dotson enters the game for L. Nance,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,9:11.0,,,,,,D. Garland,D. Garland enters the game for I. Okoro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,9:11.0,,,,,,T. Prince,T. Prince enters the game for C. Osman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,9:11.0,,,,,,D. Windler,D. Windler enters the game for C. Sexton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:56.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:55.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:53.0,,,,,,T. Thompson,T. Thompson misses 2-pt layup from 2 ft (block by J. Allen ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,8:51.0,,,,,,J. Allen,Defensive rebound by J. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,8:47.0,,,,,,D. Dotson,D. Dotson makes 3-pt jump shot from 22 ft (assist by T. Prince ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:28.0,,,,,,T. Thompson,T. Thompson makes 2-pt jump shot from 7 ft (assist by J. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:12.0,,,,,,J. Allen,J. Allen misses 2-pt layup from 3 ft (block by D. Theis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,8:10.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,8:05.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 3 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:50.0,,,,,,K. Walker,Shooting foul by K. Walker (drawn by J. Allen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,7:50.0,,,,,,J. Allen,J. Allen makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:50.0,,,,,,J. Allen,J. Allen makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:35.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:32.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:32.0,,,,,,T. Thompson,T. Thompson misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:32.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:31.0,,,,,,T. Thompson,T. Thompson misses 2-pt layup from 4 ft (block by D. Garland ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,7:29.0,,,,,,D. Windler,Defensive rebound by D. Windler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,7:26.0,,,,,,D. Dotson,D. Dotson makes 3-pt jump shot from 24 ft (assist by D. Windler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:17.0,,,,,,K. Walker,K. Walker makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:58.0,,,,,,T. Prince,T. Prince misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:56.0,,,,,,K. Walker,Defensive rebound by K. Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,6:44.0,,,,,,D. Garland,Personal foul by D. Garland (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,6:44.0,,,,,,J. Teague,J. Teague enters the game for K. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,6:41.0,,,,,,T. Prince,Personal foul by T. Prince (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,6:41.0,,,,,,D. Theis,D. Theis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:41.0,,,,,,D. Theis,D. Theis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:26.0,,,,,,D. Garland,Turnover by D. Garland (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,6:14.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 16 ft (assist by M. Smart ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:57.0,,,,,,J. Brown,Personal foul by J. Brown (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,5:53.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:50.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,5:36.0,,,,,,M. Smart,M. Smart makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:23.0,,,,,,J. Allen,J. Allen misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:20.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,5:14.0,,,,,,D. Theis,D. Theis misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:11.0,,,,,,D. Garland,Defensive rebound by D. Garland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:57.0,,,,,,D. Windler,D. Windler misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:53.0,,,,,,D. Theis,Defensive rebound by D. Theis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:40.0,,,,,,D. Theis,D. Theis makes 2-pt jump shot from 14 ft (assist by M. Smart ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:33.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,4:33.0,,,,,,A. Drummond,A. Drummond enters the game for D. Garland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,4:33.0,,,,,,C. Sexton,C. Sexton enters the game for D. Windler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,4:19.0,,,,,,T. Thompson,Shooting foul by T. Thompson (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,4:19.0,,,,,,A. Drummond,A. Drummond makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:19.0,,,,,,A. Drummond,A. Drummond misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:19.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:01.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:47.0,,,,,,C. Sexton,C. Sexton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:44.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:44.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,3:44.0,,,,,,A. Drummond,A. Drummond makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:44.0,,,,,,J. Green,J. Green enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,3:44.0,,,,,,R. Williams,R. Williams enters the game for T. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,3:44.0,,,,,,A. Drummond,A. Drummond makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:32.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:30.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,3:19.0,,,,,,T. Prince,Turnover by T. Prince (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,3:06.0,,,,,,D. Theis,D. Theis makes 3-pt jump shot from 23 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:55.0,,,,,,D. Dotson,D. Dotson misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:53.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:50.0,,,,,,A. Drummond,A. Drummond makes 2-pt hook shot from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:36.0,,,,,,J. Teague,Turnover by J. Teague (bad pass; steal by D. Dotson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,2:32.0,,,,,,A. Drummond,A. Drummond makes 2-pt dunk from 1 ft (assist by D. Dotson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:12.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 2 ft (assist by J. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:51.0,,,,,,C. Sexton,C. Sexton makes 2-pt jump shot from 17 ft (assist by J. Allen ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:30.0,,,,,,M. Smart,M. Smart makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:18.0,,,,,,T. Prince,T. Prince misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:16.0,,,,,,J. Allen,Offensive rebound by J. Allen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:15.0,,,,,,T. Prince,T. Prince misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:14.0,,,,,,J. Allen,Offensive rebound by J. Allen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:08.0,,,,,,D. Theis,Shooting foul by D. Theis (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,1:08.0,,,,,,C. Sexton,C. Sexton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:08.0,,,,,,L. Nance,L. Nance enters the game for J. Allen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,1:08.0,,,,,,I. Okoro,I. Okoro enters the game for D. Dotson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,1:08.0,,,,,,C. Osman,C. Osman enters the game for T. Prince,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,1:08.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for D. Theis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,1:08.0,,,,,,C. Sexton,C. Sexton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:56.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:54.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,0:51.0,,,,,,C. Osman,C. Osman misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:49.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,0:46.0,,,,,,M. Smart,M. Smart makes 2-pt jump shot from 17 ft (assist by J. Teague ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:36.0,,,,,,L. Nance,L. Nance misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:34.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:29.0,,,,,,A. Drummond,A. Drummond misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:27.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,0:10.0,,,,,,L. Nance,Shooting foul by L. Nance (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,0:10.0,,,,,,M. Smart,M. Smart misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:10.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:10.0,,,,,,M. Smart,M. Smart makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:04.0,,,,,,C. Sexton,Turnover by C. Sexton (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,0:00.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:41.0,,,,,,K. Walker,K. Walker makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:20.0,,,,,,A. Drummond,A. Drummond makes 2-pt jump shot from 6 ft (assist by D. Garland ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:05.0,,,,,,C. Edwards,C. Edwards makes 2-pt jump shot from 12 ft (assist by R. Williams ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:40.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 3 ft (block by R. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,10:38.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,10:33.0,,,,,,K. Walker,K. Walker misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:32.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:26.0,,,,,,A. Drummond,Personal foul by A. Drummond (drawn by K. Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,10:13.0,,,,,,S. Ojeleye,S. Ojeleye makes 2-pt layup from 3 ft (assist by K. Walker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:47.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 6 ft (block by R. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,9:43.0,,,,,,C. Osman,Offensive rebound by C. Osman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:42.0,,,,,,C. Osman,C. Osman makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:29.0,,,,,,R. Williams,R. Williams misses 2-pt layup from 3 ft (block by A. Drummond ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,9:28.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,9:24.0,,,,,,C. Osman,C. Osman misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:20.0,,,,,,L. Nance,Offensive rebound by L. Nance,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:19.0,,,,,,L. Nance,L. Nance makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:01.0,,,,,,J. Green,J. Green misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:59.0,,,,,,I. Okoro,Defensive rebound by I. Okoro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,8:56.0,,,,,,I. Okoro,I. Okoro misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:56.0,,,,,,I. Okoro,I. Okoro makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:56.0,,,,,,R. Williams,Shooting foul by R. Williams (drawn by I. Okoro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,8:56.0,,,,,,J. Allen,J. Allen enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:56.0,,,,,,A. Nesmith,A. Nesmith enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:48.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:47.0,,,,,,D. Garland,Defensive rebound by D. Garland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,8:37.0,,,,,,I. Okoro,I. Okoro makes 2-pt layup from 1 ft (assist by J. Allen ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:17.0,,,,,,A. Nesmith,A. Nesmith makes 3-pt jump shot from 27 ft (assist by K. Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:03.0,,,,,,I. Okoro,I. Okoro misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:03.0,,,,,,S. Ojeleye,Defensive rebound by S. Ojeleye,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,7:55.0,,,,,,C. Edwards,C. Edwards makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:41.0,,,,,,I. Okoro,Turnover by I. Okoro (lost ball; steal by K. Walker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,7:34.0,,,,,,A. Nesmith,A. Nesmith misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:32.0,,,,,,C. Osman,Defensive rebound by C. Osman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,7:27.0,,,,,,C. Osman,C. Osman makes 3-pt jump shot from 27 ft (assist by L. Nance ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:10.0,,,,,,C. Edwards,C. Edwards misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:10.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:10.0,,,,,,R. Williams,R. Williams makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:10.0,,,,,,J. Allen,Shooting foul by J. Allen (drawn by R. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,7:10.0,,,,,,T. Prince,T. Prince enters the game for I. Okoro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,7:10.0,,,,,,R. Williams,R. Williams makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:58.0,,,,,,D. Garland,D. Garland misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:55.0,,,,,,K. Walker,Defensive rebound by K. Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,6:51.0,,,,,,C. Osman,Personal foul by C. Osman (drawn by K. Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,6:51.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,6:51.0,,,,,,J. Teague,J. Teague enters the game for C. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,6:51.0,,,,,,T. Thompson,T. Thompson enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,6:37.0,,,,,,L. Nance,Shooting foul by L. Nance (drawn by S. Ojeleye ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,6:37.0,,,,,,S. Ojeleye,S. Ojeleye misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:37.0,,,,,,J. McGee,J. McGee enters the game for L. Nance,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,6:37.0,,,,,,J. Brown,J. Brown enters the game for K. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,6:37.0,,,,,,S. Ojeleye,S. Ojeleye makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:25.0,,,,,,J. Allen,J. Allen makes 2-pt dunk from 2 ft (assist by D. Garland ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:04.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:56.0,,,,,,A. Nesmith,Offensive rebound by A. Nesmith,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:51.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 5 ft (assist by S. Ojeleye ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:38.0,,,,,,C. Osman,C. Osman misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:34.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,5:33.0,,,,,,C. Osman,Personal foul by C. Osman (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,5:33.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:33.0,,,,,,D. Dotson,D. Dotson enters the game for D. Garland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,5:33.0,,,,,,C. Sexton,C. Sexton enters the game for C. Osman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,5:33.0,,,,,,D. Windler,D. Windler enters the game for T. Prince,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,5:33.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:26.0,,,,,,J. Brown,Personal foul by J. Brown (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,5:26.0,,,,,,M. Smart,M. Smart enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,5:14.0,,,,,,J. McGee,J. McGee makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:57.0,,,,,,A. Nesmith,A. Nesmith misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:54.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:39.0,,,,,,D. Dotson,D. Dotson makes 3-pt jump shot from 23 ft (assist by D. Windler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:13.0,,,,,,S. Ojeleye,S. Ojeleye misses 2-pt layup from 2 ft (block by J. McGee ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,4:10.0,,,,,,A. Nesmith,Offensive rebound by A. Nesmith,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:09.0,,,,,,T. Thompson,T. Thompson misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:06.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,3:57.0,,,,,,D. Dotson,D. Dotson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:52.0,,,,,,A. Nesmith,Defensive rebound by A. Nesmith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,3:49.0,,,,,,S. Ojeleye,S. Ojeleye makes 3-pt jump shot from 24 ft (assist by A. Nesmith ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:37.0,,,,,,J. Allen,J. Allen makes 2-pt hook shot from 5 ft (assist by C. Sexton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:24.0,,,,,,M. Smart,Turnover by M. Smart (lost ball; steal by J. McGee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,3:22.0,,,,,,S. Ojeleye,Shooting foul by S. Ojeleye (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,3:22.0,,,,,,C. Sexton,C. Sexton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:22.0,,,,,,I. Okoro,I. Okoro enters the game for J. Allen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,3:22.0,,,,,,D. Theis,D. Theis enters the game for A. Nesmith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,3:22.0,,,,,,K. Walker,K. Walker enters the game for J. Teague,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,3:22.0,,,,,,C. Sexton,C. Sexton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:08.0,,,,,,K. Walker,K. Walker makes 2-pt layup from 2 ft (assist by D. Theis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:49.0,,,,,,C. Sexton,Turnover by C. Sexton (lost ball; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,2:41.0,,,,,,M. Smart,M. Smart makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:26.0,,,,,,D. Windler,D. Windler makes 2-pt layup from 2 ft (assist by J. McGee ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:14.0,,,,,,K. Walker,K. Walker makes 2-pt jump shot from 22 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:59.0,,,,,,D. Theis,Shooting foul by D. Theis (drawn by J. McGee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,1:59.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,1:59.0,,,,,,J. McGee,J. McGee misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:59.0,,,,,,J. McGee,J. McGee misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:57.0,,,,,,D. Theis,Defensive rebound by D. Theis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,1:35.0,,,,,,K. Walker,K. Walker misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:33.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,1:13.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:11.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,1:04.0,,,,,,D. Dotson,Shooting foul by D. Dotson (drawn by T. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,1:04.0,,,,,,T. Thompson,T. Thompson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:04.0,,,,,,T. Thompson,T. Thompson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:57.0,,,,,,C. Sexton,Turnover by C. Sexton (lost ball; steal by K. Walker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,0:54.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:50.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,0:48.0,,,,,,J. McGee,J. McGee makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:32.0,,,,,,K. Walker,K. Walker misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:30.0,,,,,,D. Theis,Offensive rebound by D. Theis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:29.0,,,,,,I. Okoro,Personal foul by I. Okoro (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,0:29.0,,,,,,D. Theis,D. Theis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:29.0,,,,,,J. Green,J. Green enters the game for T. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,0:29.0,,,,,,D. Theis,D. Theis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:10.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 4 ft (block by M. Smart ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,0:09.0,,,,,,C. Sexton,Offensive rebound by C. Sexton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:09.0,,,,,,D. Theis,Shooting foul by D. Theis (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,0:09.0,,,,,,C. Sexton,C. Sexton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:09.0,,,,,,C. Sexton,C. Sexton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:01.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 3 ft (block by I. Okoro ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,0:00.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:00.0,,,,,,J. Green,J. Green makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:49.0,,,,,,C. Sexton,Personal foul by C. Sexton (drawn by K. Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,11:42.0,,,,,,T. Thompson,T. Thompson misses 2-pt hook shot from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:40.0,,,,,,L. Nance,Defensive rebound by L. Nance,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,11:27.0,,,,,,C. Osman,Turnover by C. Osman (bad pass; steal by D. Theis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,11:23.0,,,,,,J. Brown,Turnover by J. Brown (lost ball; steal by I. Okoro ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,11:20.0,,,,,,C. Sexton,C. Sexton makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:20.0,,,,,,K. Walker,Shooting foul by K. Walker (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,11:20.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,11:20.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:20.0,,,,,,C. Sexton,C. Sexton makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:08.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 1 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:54.0,,,,,,C. Osman,C. Osman misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:52.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,10:47.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:29.0,,,,,,C. Sexton,C. Sexton makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:05.0,,,,,,D. Theis,D. Theis makes 2-pt layup from 4 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:50.0,,,,,,C. Sexton,Turnover by C. Sexton (bad pass; steal by J. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,9:48.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:48.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,9:35.0,,,,,,C. Osman,C. Osman makes 3-pt jump shot from 28 ft (assist by C. Sexton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:22.0,,,,,,J. Brown,J. Brown misses 2-pt dunk from 3 ft (block by A. Drummond ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,9:20.0,,,,,,L. Nance,Defensive rebound by L. Nance,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,9:15.0,,,,,,A. Drummond,Turnover by A. Drummond (lost ball; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,9:10.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 4 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:45.0,,,,,,C. Sexton,Turnover by C. Sexton (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,8:44.0,,,,,,C. Osman,Shooting foul by C. Osman (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,8:44.0,,,,,,D. Theis,D. Theis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:44.0,,,,,,J. Allen,J. Allen enters the game for L. Nance,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:44.0,,,,,,D. Garland,D. Garland enters the game for C. Sexton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:44.0,,,,,,D. Theis,D. Theis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:21.0,,,,,,I. Okoro,I. Okoro misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:19.0,,,,,,D. Theis,Defensive rebound by D. Theis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,8:14.0,,,,,,J. Allen,Shooting foul by J. Allen (drawn by K. Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,8:14.0,,,,,,K. Walker,K. Walker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:14.0,,,,,,K. Walker,K. Walker makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:00.0,,,,,,D. Garland,Turnover by D. Garland (bad pass; steal by J. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,7:54.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:38.0,,,,,,T. Thompson,Shooting foul by T. Thompson (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,7:38.0,,,,,,A. Drummond,A. Drummond misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:38.0,,,,,,A. Drummond,A. Drummond misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:38.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,7:25.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:12.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:10.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,7:04.0,,,,,,C. Osman,Personal foul by C. Osman (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,6:58.0,,,,,,K. Walker,K. Walker makes 3-pt jump shot from 25 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:42.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 4 ft (block by D. Theis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,6:40.0,,,,,,K. Walker,Defensive rebound by K. Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,6:34.0,,,,,,D. Theis,D. Theis makes 2-pt dunk from 2 ft (assist by T. Thompson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:16.0,,,,,,C. Osman,C. Osman misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:13.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,6:05.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:04.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,6:04.0,,,,,,T. Thompson,Loose ball foul by T. Thompson (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,6:04.0,,,,,,T. Prince,T. Prince enters the game for I. Okoro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,5:52.0,,,,,,C. Osman,C. Osman makes 3-pt jump shot from 25 ft (assist by D. Garland ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:36.0,,,,,,T. Prince,Shooting foul by T. Prince (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,5:36.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:36.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:28.0,,,,,,A. Drummond,Turnover by A. Drummond (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,5:20.0,,,,,,K. Walker,K. Walker makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:00.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:56.0,,,,,,D. Theis,Defensive rebound by D. Theis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:53.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 2 ft (block by T. Prince ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,4:52.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:42.0,,,,,,A. Drummond,Turnover by A. Drummond (lost ball; steal by D. Theis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,4:41.0,,,,,,A. Drummond,Personal take foul by A. Drummond (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,4:41.0,,,,,,D. Theis,D. Theis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:41.0,,,,,,D. Dotson,D. Dotson enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,4:41.0,,,,,,D. Windler,D. Windler enters the game for C. Osman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,4:41.0,,,,,,D. Theis,D. Theis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:32.0,,,,,,D. Garland,D. Garland makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:23.0,,,,,,M. Smart,Turnover by M. Smart (bad pass; steal by T. Prince ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,4:12.0,,,,,,D. Dotson,D. Dotson makes 2-pt jump shot from 9 ft (assist by T. Prince ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:12.0,,,,,,K. Walker,Shooting foul by K. Walker (drawn by D. Dotson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,4:12.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for T. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,4:12.0,,,,,,D. Dotson,D. Dotson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:47.0,,,,,,S. Ojeleye,S. Ojeleye misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:45.0,,,,,,J. Allen,Defensive rebound by J. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,3:37.0,,,,,,T. Prince,T. Prince makes 3-pt jump shot from 27 ft (assist by D. Garland ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:22.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 27 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:06.0,,,,,,D. Dotson,D. Dotson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:04.0,,,,,,D. Theis,Defensive rebound by D. Theis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,2:59.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:44.0,,,,,,D. Garland,D. Garland misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:41.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,2:35.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:33.0,,,,,,T. Prince,Defensive rebound by T. Prince,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,2:26.0,,,,,,D. Windler,D. Windler misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:24.0,,,,,,J. Allen,Offensive rebound by J. Allen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:22.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:19.0,,,,,,D. Windler,Offensive rebound by D. Windler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:17.0,,,,,,T. Prince,T. Prince makes 3-pt jump shot from 27 ft (assist by D. Windler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:13.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,2:13.0,,,,,,C. Edwards,C. Edwards enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,2:13.0,,,,,,J. Green,J. Green enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,2:13.0,,,,,,J. Teague,J. Teague enters the game for D. Theis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,2:13.0,,,,,,R. Williams,R. Williams enters the game for K. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,2:02.0,,,,,,R. Williams,Turnover by R. Williams (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,1:50.0,,,,,,T. Prince,T. Prince misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:45.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,1:29.0,,,,,,C. Edwards,C. Edwards misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:27.0,,,,,,D. Dotson,Defensive rebound by D. Dotson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,1:24.0,,,,,,C. Edwards,Shooting foul by C. Edwards (drawn by T. Prince ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,1:24.0,,,,,,T. Prince,T. Prince makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:24.0,,,,,,T. Prince,T. Prince misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:24.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,1:05.0,,,,,,J. Green,J. Green makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:05.0,,,,,,D. Windler,Shooting foul by D. Windler (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,1:05.0,,,,,,J. Green,J. Green makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:53.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:50.0,,,,,,C. Edwards,Defensive rebound by C. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,0:41.0,,,,,,R. Williams,R. Williams misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:41.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:41.0,,,,,,R. Williams,R. Williams makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:31.0,,,,,,J. Allen,J. Allen makes 2-pt dunk from 3 ft (assist by D. Dotson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:16.0,,,,,,J. Green,Turnover by J. Green (bad pass; steal by D. Windler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,0:10.0,,,,,,T. Prince,T. Prince misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:09.0,,,,,,D. Windler,Offensive rebound by D. Windler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:09.0,,,,,,J. Green,Personal foul by J. Green (drawn by D. Windler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,0:09.0,,,,,,D. Windler,D. Windler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:09.0,,,,,,I. Okoro,I. Okoro enters the game for D. Garland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,0:09.0,,,,,,D. Windler,D. Windler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:00.0,,,,,,J. Teague,Turnover by J. Teague (bad pass; steal by I. Okoro ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,11:48.0,,,,,,T. Prince,T. Prince misses 2-pt layup from 4 ft (block by R. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,11:48.0,,,,,,C. Edwards,Defensive rebound by C. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,11:40.0,,,,,,C. Edwards,C. Edwards misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:39.0,,,,,,D. Windler,Defensive rebound by D. Windler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,11:31.0,,,,,,R. Williams,Shooting foul by R. Williams (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,11:31.0,,,,,,D. Garland,D. Garland makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:31.0,,,,,,D. Garland,D. Garland makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:25.0,,,,,,G. Williams,Offensive foul by G. Williams (drawn by T. Prince ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,11:25.0,,,,,,G. Williams,Turnover by G. Williams (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101240BOS,1,11:07.0,,,,,,D. Dotson,D. Dotson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,11:05.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,11:05.0,,,,,,C. Edwards,Turnover by C. Edwards (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,11:05.0,,,,,,I. Okoro,I. Okoro enters the game for D. Dotson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,11:05.0,,,,,,A. Nesmith,A. Nesmith enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,10:56.0,,,,,,J. Allen,J. Allen makes 2-pt dunk from 2 ft (assist by T. Prince ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:45.0,,,,,,T. Waters,Turnover by T. Waters (bad pass; steal by T. Prince ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,10:41.0,,,,,,T. Prince,T. Prince makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:27.0,,,,,,T. Waters,T. Waters misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,10:24.0,,,,,,J. Allen,Defensive rebound by J. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,10:16.0,,,,,,D. Windler,D. Windler makes 3-pt jump shot from 24 ft (assist by D. Garland ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:53.0,,,,,,T. Prince,Shooting foul by T. Prince (drawn by C. Edwards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,9:53.0,,,,,,C. Edwards,C. Edwards makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:53.0,,,,,,C. Edwards,C. Edwards makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:36.0,,,,,,J. Allen,J. Allen makes 2-pt dunk from 2 ft (assist by T. Prince ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:18.0,,,,,,T. Waters,T. Waters misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,9:16.0,,,,,,J. Allen,Defensive rebound by J. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,8:57.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:55.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,8:49.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 1 ft (assist by T. Waters ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,8:33.0,,,,,,C. Edwards,Personal foul by C. Edwards (drawn by I. Okoro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,8:33.0,,,,,,D. Dotson,D. Dotson enters the game for J. Allen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:33.0,,,,,,J. McGee,J. McGee enters the game for D. Garland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:33.0,,,,,,T. Fall,T. Fall enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,8:21.0,,,,,,J. McGee,J. McGee makes 2-pt dunk from 3 ft (assist by T. Prince ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:58.0,,,,,,T. Waters,Turnover by T. Waters (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,7:49.0,,,,,,D. Dotson,Turnover by D. Dotson (bad pass; steal by G. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,7:32.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,7:32.0,,,,,,D. Wade,D. Wade enters the game for D. Windler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,7:29.0,,,,,,G. Williams,Turnover by G. Williams (bad pass; steal by T. Prince ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,7:22.0,,,,,,J. McGee,J. McGee misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:20.0,,,,,,A. Nesmith,Defensive rebound by A. Nesmith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,7:15.0,,,,,,A. Nesmith,A. Nesmith makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:01.0,,,,,,A. Nesmith,Shooting foul by A. Nesmith (drawn by I. Okoro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,7:01.0,,,,,,I. Okoro,I. Okoro misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,7:01.0,,,,,,I. Okoro,I. Okoro makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:51.0,,,,,,T. Waters,T. Waters misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:50.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,6:38.0,,,,,,T. Fall,Shooting foul by T. Fall (drawn by J. McGee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,6:38.0,,,,,,J. McGee,J. McGee misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:38.0,,,,,,J. McGee,J. McGee makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:24.0,,,,,,G. Williams,Turnover by G. Williams (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,6:24.0,,,,,,D. Windler,D. Windler enters the game for T. Prince,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101240BOS,1,6:24.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101240BOS,1,6:06.0,,,,,,J. McGee,J. McGee misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,6:04.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,5:45.0,,,,,,T. Fall,Turnover by T. Fall (lost ball; steal by I. Okoro ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,5:43.0,,,,,,I. Okoro,Turnover by I. Okoro (lost ball; steal by C. Edwards ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,5:31.0,,,,,,C. Edwards,C. Edwards misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:28.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,5:28.0,,,,,,A. Nesmith,Loose ball foul by A. Nesmith (drawn by D. Windler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,5:28.0,,,,,,D. Windler,D. Windler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:28.0,,,,,,D. Windler,D. Windler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:14.0,,,,,,G. Williams,G. Williams misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,5:13.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:59.0,,,,,,J. McGee,J. McGee misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:57.0,,,,,,T. Waters,Defensive rebound by T. Waters,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,4:52.0,,,,,,J. McGee,Personal foul by J. McGee (drawn by T. Fall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,4:45.0,,,,,,T. Waters,T. Waters makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:30.0,,,,,,T. Waters,Personal foul by T. Waters (drawn by I. Okoro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,4:30.0,,,,,,I. Okoro,I. Okoro makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:30.0,,,,,,I. Okoro,I. Okoro makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:16.0,,,,,,G. Williams,G. Williams misses 2-pt jump shot from 13 ft (block by J. McGee ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,4:14.0,,,,,,C. Edwards,Offensive rebound by C. Edwards,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:12.0,,,,,,C. Edwards,C. Edwards misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:11.0,,,,,,T. Fall,Offensive rebound by T. Fall,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:06.0,,,,,,T. Fall,T. Fall misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,4:03.0,,,,,,T. Waters,Offensive rebound by T. Waters,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:57.0,,,,,,C. Edwards,C. Edwards makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:57.0,,,,,,J. McGee,Shooting foul by J. McGee (drawn by C. Edwards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101240BOS,1,3:57.0,,,,,,C. Edwards,C. Edwards misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:55.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,3:40.0,,,,,,J. McGee,J. McGee misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:36.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,3:20.0,,,,,,G. Williams,G. Williams makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:20.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,3:08.0,,,,,,I. Okoro,I. Okoro misses 2-pt layup from 6 ft (block by T. Fall ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,3:05.0,,,,,,A. Nesmith,Defensive rebound by A. Nesmith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,3:02.0,,,,,,C. Edwards,C. Edwards makes 2-pt layup from 2 ft (assist by T. Waters ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:51.0,,,,,,I. Okoro,I. Okoro misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:48.0,,,,,,T. Fall,Defensive rebound by T. Fall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,2:39.0,,,,,,C. Edwards,C. Edwards makes 2-pt layup from 1 ft (assist by T. Waters ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:23.0,,,,,,D. Windler,D. Windler misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,2:20.0,,,,,,C. Edwards,Defensive rebound by C. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,2:13.0,,,,,,C. Edwards,C. Edwards makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:51.0,,,,,,J. McGee,J. McGee makes 2-pt layup from 3 ft (assist by D. Wade ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:43.0,,,,,,T. Waters,Turnover by T. Waters (lost ball; steal by D. Dotson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101240BOS,1,1:40.0,,,,,,D. Windler,D. Windler makes 2-pt layup from 2 ft (assist by D. Dotson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:30.0,,,,,,A. Nesmith,A. Nesmith makes 3-pt jump shot from 25 ft (assist by G. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:16.0,,,,,,J. McGee,J. McGee makes 2-pt hook shot from 10 ft (assist by D. Wade ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,1:08.0,,,,,,C. Edwards,C. Edwards makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:51.0,,,,,,D. Dotson,D. Dotson misses 2-pt jump shot from 9 ft (block by T. Fall ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202101240BOS,1,0:49.0,,,,,,C. Edwards,Defensive rebound by C. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,0:41.0,,,,,,A. Nesmith,A. Nesmith makes 3-pt jump shot from 25 ft (assist by C. Edwards ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:29.0,,,,,,I. Okoro,I. Okoro misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:26.0,,,,,,A. Nesmith,Defensive rebound by A. Nesmith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101240BOS,1,0:03.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101240BOS,1,0:00.0,,,,,,J. McGee,J. McGee misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101240BOS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False

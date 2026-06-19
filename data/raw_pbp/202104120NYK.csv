@@ -1,0 +1,458 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202104120NYK,1,11:39.0,,,,,,A. Drummond,A. Drummond misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:35.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 2 ft (assist by M. Morris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:18.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 11 ft (block by K. Kuzma ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,11:16.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,11:15.0,,,,,,K. Kuzma,Turnover by K. Kuzma (bad pass; steal by R. Barrett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,11:04.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 25 ft (assist by R. Bullock ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:38.0,,,,,,A. Drummond,Turnover by A. Drummond (lost ball; steal by N. Noel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,10:26.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:17.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 25 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:07.0,,,,,,E. Payton,E. Payton makes 2-pt layup from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:52.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:50.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,9:43.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 3 ft (block by K. Kuzma ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,9:41.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,9:38.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 1 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:26.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:24.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,9:11.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,9:04.0,,,,,,D. SchrÃ¶der,Personal foul by D. SchrÃ¶der (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,9:04.0,,,,,,W. Matthews,W. Matthews enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,8:56.0,,,,,,E. Payton,E. Payton misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:55.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:46.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 25 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:27.0,,,,,,E. Payton,E. Payton misses 2-pt layup from 3 ft (block by A. Drummond ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,8:25.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:25.0,,,,,,E. Payton,Loose ball foul by E. Payton (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,8:04.0,,,,,,A. Drummond,Turnover by A. Drummond (bad pass; steal by R. Bullock ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,7:59.0,,,,,,N. Noel,N. Noel makes 2-pt dunk from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:39.0,,,,,,K. Kuzma,Offensive foul by K. Kuzma (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,7:39.0,,,,,,K. Kuzma,Turnover by K. Kuzma (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,7:20.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:01.0,,,,,,R. Bullock,Personal foul by R. Bullock (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,6:54.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:53.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,6:46.0,,,,,,E. Payton,E. Payton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:35.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:33.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,6:23.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:22.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,6:02.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,5:48.0,,,,,,W. Matthews,Shooting foul by W. Matthews (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,5:48.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,5:48.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:48.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:32.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:30.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,5:25.0,,,,,,N. Noel,Offensive foul by N. Noel (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,5:25.0,,,,,,N. Noel,Turnover by N. Noel (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,5:07.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 17 ft (assist by T. Horton-Tucker ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:43.0,,,,,,A. Drummond,Shooting foul by A. Drummond (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,4:43.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:43.0,,,,,,D. Rose,D. Rose enters the game for E. Payton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,4:43.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:31.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:15.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:13.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:56.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:54.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:42.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:40.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:33.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:33.0,,,,,,R. Barrett,Shooting foul by R. Barrett (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,3:33.0,,,,,,A. Caruso,A. Caruso enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,3:33.0,,,,,,M. Harrell,M. Harrell enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,3:33.0,,,,,,A. Burks,A. Burks enters the game for R. Bullock,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,3:33.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:19.0,,,,,,D. Rose,D. Rose makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:08.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:08.0,,,,,,A. Burks,Shooting foul by A. Burks (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,3:08.0,,,,,,T. Gibson,T. Gibson enters the game for N. Noel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,3:08.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:53.0,,,,,,T. Gibson,T. Gibson makes 2-pt dunk at rim (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:42.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:22.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:20.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,2:05.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup from 4 ft (block by R. Barrett ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,2:03.0,,,,,,A. Caruso,Offensive rebound by A. Caruso,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:58.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup from 2 ft (block by A. Burks ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,1:56.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,1:52.0,,,,,,J. Randle,Turnover by J. Randle (lost ball; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,1:47.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (bad pass; steal by J. Randle ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,1:46.0,,,,,,J. Randle,Turnover by J. Randle (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,1:46.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,1:46.0,,,,,,M. Morris,M. Morris enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,1:46.0,,,,,,I. Quickley,I. Quickley enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,1:46.0,,,,,,O. Toppin,O. Toppin enters the game for J. Randle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,1:40.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:38.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,1:24.0,,,,,,M. Harrell,Shooting foul by M. Harrell (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,1:24.0,,,,,,O. Toppin,O. Toppin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:24.0,,,,,,O. Toppin,O. Toppin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:15.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 28 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:57.0,,,,,,I. Quickley,Turnover by I. Quickley (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,0:44.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:35.0,,,,,,D. Rose,D. Rose makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:28.0,,,,,,A. Caruso,Turnover by A. Caruso (bad pass; steal by T. Gibson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,0:24.0,,,,,,I. Quickley,Offensive foul by I. Quickley (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,0:24.0,,,,,,I. Quickley,Turnover by I. Quickley (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,0:03.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:48.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:46.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,11:34.0,,,,,,T. Gibson,Personal foul by T. Gibson (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,11:32.0,,,,,,B. McLemore,B. McLemore misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:30.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,11:23.0,,,,,,D. Rose,D. Rose makes 2-pt layup from 1 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:09.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:07.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,10:55.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:53.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:52.0,,,,,,T. Gibson,T. Gibson makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:36.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:34.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,10:29.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:27.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,10:09.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 23 ft (block by D. Rose ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,10:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:03.0,,,,,,A. Caruso,A. Caruso misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:01.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,9:58.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk from 1 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:58.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,9:39.0,,,,,,M. Harrell,M. Harrell misses 2-pt dunk from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:37.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,9:23.0,,,,,,B. McLemore,Personal foul by B. McLemore (drawn by D. Rose ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,9:16.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:15.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:14.0,,,,,,T. Gibson,T. Gibson misses 2-pt layup from 4 ft (block by M. Harrell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,9:13.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:13.0,,,,,,M. Harrell,Shooting foul by M. Harrell (drawn by T. Gibson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,9:13.0,,,,,,T. Gibson,T. Gibson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:13.0,,,,,,T. Gibson,T. Gibson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:03.0,,,,,,A. Caruso,A. Caruso makes 2-pt layup from 6 ft (assist by M. Harrell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:39.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:37.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:37.0,,,,,,T. Gibson,T. Gibson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:25.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:23.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:12.0,,,,,,D. Rose,D. Rose makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:58.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,7:42.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:40.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,7:35.0,,,,,,T. Gibson,Shooting foul by T. Gibson (drawn by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,7:35.0,,,,,,A. Drummond,A. Drummond enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:35.0,,,,,,M. Morris,M. Morris enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:35.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:35.0,,,,,,J. Randle,J. Randle enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:35.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:35.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:33.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,7:10.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:08.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,6:51.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:44.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,6:44.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,6:44.0,,,,,,R. Barrett,R. Barrett enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,6:44.0,,,,,,R. Bullock,R. Bullock enters the game for T. Gibson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,6:44.0,,,,,,N. Noel,N. Noel enters the game for I. Quickley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,6:35.0,,,,,,D. Rose,D. Rose misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:33.0,,,,,,N. Noel,Offensive rebound by N. Noel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:33.0,,,,,,D. Rose,Turnover by D. Rose (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,6:23.0,,,,,,B. McLemore,B. McLemore makes 3-pt jump shot from 23 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:07.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:05.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,6:01.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 3-pt jump shot from 25 ft (assist by B. McLemore ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:41.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:39.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,5:22.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:09.0,,,,,,D. Rose,D. Rose misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:07.0,,,,,,D. Rose,Offensive rebound by D. Rose,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:06.0,,,,,,K. Caldwell-Pope,Shooting foul by K. Caldwell-Pope (drawn by D. Rose ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,5:06.0,,,,,,K. Kuzma,K. Kuzma enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,5:06.0,,,,,,D. Rose,D. Rose makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:06.0,,,,,,D. Rose,D. Rose makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:52.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt layup from 1 ft (block by N. Noel ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,4:51.0,,,,,,K. Caldwell-Pope,Offensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:49.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:30.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:28.0,,,,,,N. Noel,Offensive rebound by N. Noel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:27.0,,,,,,N. Noel,N. Noel misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:25.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,4:22.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,4:22.0,,,,,,E. Payton,E. Payton enters the game for D. Rose,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,4:00.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:44.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass; steal by N. Noel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,3:40.0,,,,,,J. Randle,J. Randle makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:39.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,3:27.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:26.0,,,,,,N. Noel,Loose ball foul by N. Noel (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,3:18.0,,,,,,A. Drummond,A. Drummond misses 2-pt dunk from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:16.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:15.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 2 ft (block by K. Caldwell-Pope ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,3:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:11.0,,,,,,R. Bullock,R. Bullock misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:09.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,2:59.0,,,,,,M. Morris,Turnover by M. Morris (bad pass; steal by N. Noel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,2:47.0,,,,,,R. Barrett,Turnover by R. Barrett (lost ball; steal by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,2:32.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:19.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:17.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,2:01.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 23 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:54.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,1:47.0,,,,,,E. Payton,E. Payton makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:47.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by E. Payton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,1:47.0,,,,,,E. Payton,E. Payton makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:26.0,,,,,,M. Morris,Turnover by M. Morris (lost ball; steal by R. Barrett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,1:22.0,,,,,,D. SchrÃ¶der,Shooting foul by D. SchrÃ¶der (drawn by E. Payton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,1:22.0,,,,,,E. Payton,E. Payton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:22.0,,,,,,M. Morris,Technical foul by M. Morris,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,1:22.0,,,,,,R. Bullock,R. Bullock makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:22.0,,,,,,E. Payton,E. Payton misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:20.0,,,,,,N. Noel,Offensive rebound by N. Noel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:14.0,,,,,,E. Payton,E. Payton makes 2-pt layup from 2 ft (assist by R. Bullock ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:51.0,,,,,,E. Payton,Shooting foul by E. Payton (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,0:51.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:51.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:44.0,,,,,,E. Payton,E. Payton makes 2-pt layup from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:44.0,,,,,,A. Drummond,Shooting foul by A. Drummond (drawn by E. Payton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,0:44.0,,,,,,E. Payton,E. Payton misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:42.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,0:33.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:31.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:29.0,,,,,,A. Drummond,A. Drummond makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:06.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:03.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,0:01.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:47.0,,,,,,K. Kuzma,Shooting foul by K. Kuzma (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,11:47.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:47.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:47.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:32.0,,,,,,M. Morris,M. Morris misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:30.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,11:24.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:22.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,11:18.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt dunk from 2 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:54.0,,,,,,J. Randle,Offensive foul by J. Randle (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,10:54.0,,,,,,J. Randle,Turnover by J. Randle (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,10:45.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 13 ft (assist by D. SchrÃ¶der ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:30.0,,,,,,E. Payton,Turnover by E. Payton (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,10:21.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass; steal by R. Bullock ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,10:07.0,,,,,,J. Randle,Turnover by J. Randle (bad pass; steal by A. Drummond ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,10:01.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,9:48.0,,,,,,R. Bullock,R. Bullock makes 3-pt jump shot from 23 ft (assist by E. Payton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:31.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:29.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,9:23.0,,,,,,R. Bullock,R. Bullock makes 3-pt jump shot from 27 ft (assist by J. Randle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:00.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:58.0,,,,,,R. Bullock,Defensive rebound by R. Bullock,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:48.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:46.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:21.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:19.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:00.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:58.0,,,,,,N. Noel,Offensive rebound by N. Noel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:45.0,,,,,,E. Payton,E. Payton makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:45.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,7:34.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:17.0,,,,,,N. Noel,N. Noel makes 2-pt layup from 1 ft (assist by R. Bullock ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:00.0,,,,,,R. Bullock,Shooting foul by R. Bullock (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,7:00.0,,,,,,A. Drummond,A. Drummond makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:00.0,,,,,,A. Drummond,A. Drummond misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:59.0,,,,,,M. Morris,Offensive rebound by M. Morris,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:59.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:59.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:40.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:38.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,6:25.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 8 ft (block by J. Randle ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,6:23.0,,,,,,E. Payton,Defensive rebound by E. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,6:08.0,,,,,,R. Bullock,R. Bullock makes 2-pt jump shot from 7 ft (assist by J. Randle ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:44.0,,,,,,K. Kuzma,Turnover by K. Kuzma (lost ball; steal by E. Payton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,5:38.0,,,,,,J. Randle,Offensive foul by J. Randle (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,5:38.0,,,,,,J. Randle,Turnover by J. Randle (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,5:23.0,,,,,,A. Drummond,Turnover by A. Drummond (lost ball; steal by J. Randle ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,5:06.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:54.0,,,,,,N. Noel,Shooting foul by N. Noel (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,4:54.0,,,,,,M. Harrell,M. Harrell enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,4:54.0,,,,,,W. Matthews,W. Matthews enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,4:54.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:54.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:47.0,,,,,,R. Barrett,R. Barrett makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:38.0,,,,,,R. Barrett,Personal foul by R. Barrett (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,4:38.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,4:38.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:26.0,,,,,,W. Matthews,W. Matthews misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:24.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,4:03.0,,,,,,E. Payton,E. Payton makes 2-pt layup from 1 ft (assist by N. Noel ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:45.0,,,,,,M. Morris,Turnover by M. Morris (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,3:45.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,3:45.0,,,,,,T. Gibson,T. Gibson enters the game for N. Noel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,3:30.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 19 ft (block by M. Morris ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,3:28.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:25.0,,,,,,W. Matthews,W. Matthews misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:23.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:19.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:17.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:02.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 3 ft (block by T. Gibson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,3:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:55.0,,,,,,M. Harrell,Turnover by M. Harrell (lost ball; steal by T. Gibson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,2:49.0,,,,,,J. Randle,Offensive foul by J. Randle (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,2:49.0,,,,,,J. Randle,Turnover by J. Randle (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,2:39.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 1 ft (block by T. Gibson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,2:37.0,,,,,,E. Payton,Defensive rebound by E. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,2:36.0,,,,,,M. Morris,Personal foul by M. Morris (drawn by E. Payton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,2:36.0,,,,,,A. Caruso,A. Caruso enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,2:29.0,,,,,,E. Payton,E. Payton misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:27.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:16.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 16 ft (block by W. Matthews ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,2:14.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:12.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:12.0,,,,,,K. Kuzma,K. Kuzma enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,2:12.0,,,,,,D. Rose,D. Rose enters the game for E. Payton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,1:44.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:43.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:43.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,1:34.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 26 ft (assist by D. Rose ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:09.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:07.0,,,,,,D. Rose,Defensive rebound by D. Rose,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,0:58.0,,,,,,J. Randle,Turnover by J. Randle (bad pass; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,0:54.0,,,,,,A. Caruso,A. Caruso makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:41.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:38.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,0:34.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt dunk from 1 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:13.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:11.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:07.0,,,,,,D. Rose,D. Rose misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:06.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:05.0,,,,,,J. Randle,J. Randle makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:00.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:50.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:48.0,,,,,,D. Rose,Defensive rebound by D. Rose,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,11:44.0,,,,,,O. Toppin,Offensive foul by O. Toppin (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,11:44.0,,,,,,O. Toppin,Turnover by O. Toppin (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,11:35.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,11:15.0,,,,,,A. Burks,A. Burks makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:50.0,,,,,,M. Harrell,M. Harrell misses 2-pt dunk from 3 ft (block by T. Gibson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,10:48.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,10:44.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:42.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,10:37.0,,,,,,D. Rose,Shooting foul by D. Rose (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,10:37.0,,,,,,K. Kuzma,K. Kuzma makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:37.0,,,,,,K. Kuzma,K. Kuzma makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,10:17.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 9 ft (assist by D. Rose ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:57.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 26 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:43.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by D. Rose ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,9:43.0,,,,,,D. Rose,D. Rose makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:43.0,,,,,,M. Gasol,M. Gasol enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,9:43.0,,,,,,J. Randle,J. Randle enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,9:43.0,,,,,,D. Rose,D. Rose makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:33.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:31.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,9:15.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,9:13.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:58.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:56.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:45.0,,,,,,D. Rose,D. Rose makes 2-pt layup from 1 ft (assist by J. Randle ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:39.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 1 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:19.0,,,,,,T. Gibson,T. Gibson misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,8:18.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,8:08.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,7:52.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:50.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,7:31.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:29.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,7:10.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:10.0,,,,,,M. Gasol,Shooting foul by M. Gasol (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,7:10.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:10.0,,,,,,B. McLemore,B. McLemore enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:10.0,,,,,,M. Morris,M. Morris enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:10.0,,,,,,N. Noel,N. Noel enters the game for T. Gibson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,7:10.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,7:03.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt jump shot from 1 ft (assist by K. Caldwell-Pope ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:46.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:44.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,6:35.0,,,,,,M. Gasol,M. Gasol makes 3-pt jump shot from 27 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,6:30.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,6:30.0,,,,,,E. Payton,E. Payton enters the game for D. Rose,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,6:14.0,,,,,,E. Payton,Turnover by E. Payton (lost ball; steal by M. Gasol ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,5:57.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 23 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:34.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:32.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,5:14.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 2 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,5:04.0,,,,,,E. Payton,E. Payton makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:42.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:40.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,4:40.0,,,,,,B. McLemore,Loose ball foul by B. McLemore (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,4:40.0,,,,,,R. Barrett,R. Barrett enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,4:40.0,,,,,,R. Bullock,R. Bullock enters the game for I. Quickley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,4:26.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:26.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,4:26.0,,,,,,J. Randle,J. Randle makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:26.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,4:26.0,,,,,,A. Drummond,A. Drummond enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,4:19.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,4:17.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,4:02.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:48.0,,,,,,A. Drummond,Offensive foul by A. Drummond (drawn by N. Noel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,3:48.0,,,,,,A. Drummond,Turnover by A. Drummond (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104120NYK,1,3:42.0,,,,,,A. Drummond,Personal foul by A. Drummond (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,3:42.0,,,,,,J. Randle,J. Randle misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:42.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:37.0,,,,,,R. Bullock,Flagrant foul type 1 by R. Bullock (drawn by B. McLemore ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,3:37.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:37.0,,,,,,B. McLemore,B. McLemore makes flagrant free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:37.0,,,,,,B. McLemore,B. McLemore misses flagrant free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:37.0,,,,,,B. McLemore,B. McLemore makes flagrant free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:32.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,3:30.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,3:10.0,,,,,,E. Payton,E. Payton makes 2-pt layup from 3 ft (assist by N. Noel ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:59.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:58.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104120NYK,1,2:39.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:36.0,,,,,,E. Payton,Offensive rebound by E. Payton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:33.0,,,,,,J. Randle,J. Randle makes 2-pt layup from 2 ft (assist by E. Payton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:33.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104120NYK,1,2:33.0,,,,,,K. Antetokounmpo,K. Antetokounmpo enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,2:33.0,,,,,,D. Cacok,D. Cacok enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,2:33.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,2:33.0,,,,,,W. Matthews,W. Matthews enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,2:17.0,,,,,,K. Antetokounmpo,Turnover by K. Antetokounmpo (lost ball; steal by N. Noel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,2:02.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,2:00.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,1:52.0,,,,,,B. McLemore,B. McLemore makes 3-pt jump shot from 25 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:36.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:34.0,,,,,,N. Noel,Offensive rebound by N. Noel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:33.0,,,,,,K. Antetokounmpo,Personal foul by K. Antetokounmpo (drawn by N. Noel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,1:33.0,,,,,,N. Noel,N. Noel makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:33.0,,,,,,N. Noel,N. Noel makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:21.0,,,,,,D. Cacok,D. Cacok makes 2-pt dunk from 1 ft (assist by W. Matthews ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,1:07.0,,,,,,R. Bullock,R. Bullock makes 3-pt jump shot from 27 ft (assist by J. Randle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:58.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt layup from 3 ft (block by N. Noel ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104120NYK,1,0:56.0,,,,,,R. Bullock,Defensive rebound by R. Bullock,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,0:53.0,,,,,,B. McLemore,Shooting foul by B. McLemore (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,0:53.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:53.0,,,,,,K. Knox,K. Knox enters the game for R. Bullock,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,0:53.0,,,,,,N. Pelle,N. Pelle enters the game for N. Noel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,0:53.0,,,,,,I. Quickley,I. Quickley enters the game for E. Payton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,0:53.0,,,,,,O. Toppin,O. Toppin enters the game for J. Randle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,0:53.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:36.0,,,,,,D. Cacok,Turnover by D. Cacok (bad pass; steal by K. Knox ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104120NYK,1,0:32.0,,,,,,K. Knox,K. Knox misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:30.0,,,,,,D. Cacok,Defensive rebound by D. Cacok,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104120NYK,1,0:16.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:14.0,,,,,,F. Ntilikina,F. Ntilikina enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104120NYK,1,0:10.0,,,,,,F. Ntilikina,Shooting foul by F. Ntilikina (drawn by W. Matthews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104120NYK,1,0:10.0,,,,,,W. Matthews,W. Matthews makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:10.0,,,,,,W. Matthews,W. Matthews misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:10.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104120NYK,1,0:10.0,,,,,,W. Matthews,W. Matthews makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False

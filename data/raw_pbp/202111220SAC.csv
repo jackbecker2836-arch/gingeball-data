@@ -1,0 +1,456 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202111220SAC,1,11:33.0,,,,,,T. Maxey,T. Maxey makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:18.0,,,,,,H. Barnes,H. Barnes makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:18.0,,,,,,G. Niang,Shooting foul by G. Niang (drawn by H. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,11:18.0,,,,,,H. Barnes,H. Barnes makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:01.0,,,,,,M. Thybulle,M. Thybulle makes 2-pt dunk from 2 ft (assist by A. Drummond ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:48.0,,,,,,H. Barnes,Turnover by H. Barnes (lost ball; steal by M. Thybulle ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,10:48.0,,,,,,H. Barnes,Personal take foul by H. Barnes (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,10:35.0,,,,,,G. Niang,G. Niang makes 3-pt jump shot from 25 ft (assist by F. Korkmaz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:22.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:19.0,,,,,,R. Holmes,Offensive rebound by R. Holmes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:19.0,,,,,,R. Holmes,R. Holmes makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:03.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:59.0,,,,,,R. Holmes,Defensive rebound by R. Holmes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:54.0,,,,,,M. Harkless,M. Harkless misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:50.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:45.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:42.0,,,,,,R. Holmes,Defensive rebound by R. Holmes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:37.0,,,,,,D. Fox,Turnover by D. Fox (bad pass; steal by F. Korkmaz ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,9:28.0,,,,,,M. Harkless,Personal foul by M. Harkless (drawn by F. Korkmaz ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,9:14.0,,,,,,F. Korkmaz,F. Korkmaz misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:10.0,,,,,,R. Holmes,Defensive rebound by R. Holmes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:08.0,,,,,,D. Fox,D. Fox misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:06.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:01.0,,,,,,M. Thybulle,M. Thybulle makes 2-pt dunk from 1 ft (assist by T. Maxey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:46.0,,,,,,H. Barnes,Turnover by H. Barnes (lost ball; steal by T. Maxey ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,8:43.0,,,,,,D. Fox,Shooting foul by D. Fox (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,8:43.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:43.0,,,,,,T. Maxey,T. Maxey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:23.0,,,,,,D. Fox,D. Fox makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:23.0,,,,,,T. Maxey,Shooting foul by T. Maxey (drawn by D. Fox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,8:23.0,,,,,,D. Fox,D. Fox makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:09.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:06.0,,,,,,M. Harkless,Defensive rebound by M. Harkless,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,8:00.0,,,,,,F. Korkmaz,Shooting foul by F. Korkmaz (drawn by M. Harkless ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,8:00.0,,,,,,M. Harkless,M. Harkless makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:00.0,,,,,,M. Harkless,M. Harkless makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:47.0,,,,,,F. Korkmaz,F. Korkmaz misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:45.0,,,,,,D. Fox,Defensive rebound by D. Fox,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,7:37.0,,,,,,T. Maxey,Shooting foul by T. Maxey (drawn by D. Fox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,7:37.0,,,,,,D. Fox,D. Fox makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:37.0,,,,,,S. Milton,S. Milton enters the game for T. Maxey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,7:37.0,,,,,,D. Fox,D. Fox makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:19.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:16.0,,,,,,R. Holmes,Defensive rebound by R. Holmes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,6:56.0,,,,,,D. Fox,D. Fox makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:48.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,6:48.0,,,,,,B. Hield,B. Hield enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,6:48.0,,,,,,A. Len,A. Len enters the game for M. Harkless,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,6:48.0,,,,,,D. Mitchell,D. Mitchell enters the game for R. Holmes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,6:40.0,,,,,,S. Milton,S. Milton makes 3-pt jump shot from 25 ft (assist by F. Korkmaz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:20.0,,,,,,B. Hield,B. Hield misses 2-pt jump shot from 6 ft (block by A. Drummond ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202111220SAC,1,6:18.0,,,,,,B. Hield,Offensive rebound by B. Hield,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:16.0,,,,,,A. Len,A. Len misses 2-pt jump shot from 10 ft (block by A. Drummond ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202111220SAC,1,6:13.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,6:05.0,,,,,,F. Korkmaz,F. Korkmaz makes 3-pt jump shot from 23 ft (assist by A. Drummond ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:49.0,,,,,,A. Drummond,Personal foul by A. Drummond (drawn by A. Len ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,5:49.0,,,,,,A. Len,A. Len makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:49.0,,,,,,A. Len,A. Len misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:47.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,5:31.0,,,,,,F. Korkmaz,F. Korkmaz misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:28.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,5:14.0,,,,,,A. Len,A. Len misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:11.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,5:01.0,,,,,,S. Milton,S. Milton makes 3-pt jump shot from 26 ft (assist by A. Drummond ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:47.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:46.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:46.0,,,,,,P. Reed,P. Reed enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,4:44.0,,,,,,H. Barnes,H. Barnes misses 2-pt layup from 2 ft (block by A. Drummond ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111220SAC,1,4:39.0,,,,,,F. Korkmaz,Defensive rebound by F. Korkmaz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:36.0,,,,,,P. Reed,P. Reed misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:31.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:27.0,,,,,,P. Reed,Shooting foul by P. Reed (drawn by A. Len ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,4:27.0,,,,,,A. Len,A. Len misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:27.0,,,,,,A. Len,A. Len misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:25.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:08.0,,,,,,F. Korkmaz,F. Korkmaz misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:04.0,,,,,,H. Barnes,Defensive rebound by H. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:00.0,,,,,,A. Drummond,Shooting foul by A. Drummond (drawn by A. Len ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,4:00.0,,,,,,A. Len,A. Len misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:00.0,,,,,,C. Bassey,C. Bassey enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,4:00.0,,,,,,A. Len,A. Len makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:36.0,,,,,,F. Korkmaz,Turnover by F. Korkmaz (bad pass; steal by H. Barnes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,3:31.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 1 ft (assist by H. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:08.0,,,,,,P. Reed,P. Reed makes 2-pt layup from 3 ft (assist by F. Korkmaz ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:01.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 26 ft (assist by D. Fox ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:42.0,,,,,,M. Thybulle,M. Thybulle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:39.0,,,,,,P. Reed,Offensive rebound by P. Reed,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:36.0,,,,,,M. Thybulle,M. Thybulle makes 3-pt jump shot from 25 ft (assist by P. Reed ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:26.0,,,,,,D. Fox,Turnover by D. Fox (bad pass; steal by S. Milton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,2:24.0,,,,,,D. Fox,Personal take foul by D. Fox (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,2:24.0,,,,,,,Sacramento full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,2:24.0,,,,,,I. Joe,I. Joe enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:24.0,,,,,,M. Bagley,M. Bagley enters the game for H. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:24.0,,,,,,T. Haliburton,T. Haliburton enters the game for D. Fox,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:12.0,,,,,,S. Milton,S. Milton makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:55.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:34.0,,,,,,I. Joe,I. Joe misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:30.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,1:25.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:07.0,,,,,,B. Hield,Personal foul by B. Hield (drawn by F. Korkmaz ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,1:07.0,,,,,,F. Korkmaz,F. Korkmaz misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:07.0,,,,,,F. Korkmaz,F. Korkmaz makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:59.0,,,,,,M. Bagley,M. Bagley makes 2-pt jump shot from 10 ft (assist by T. Haliburton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:50.0,,,,,,C. Bassey,Turnover by C. Bassey (dbl dribble),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111220SAC,1,0:50.0,,,,,,T. Maxey,T. Maxey enters the game for F. Korkmaz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,0:50.0,,,,,,G. Niang,G. Niang enters the game for P. Reed,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,0:41.0,,,,,,A. Len,A. Len misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:38.0,,,,,,C. Bassey,Defensive rebound by C. Bassey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,0:25.0,,,,,,G. Niang,G. Niang misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:22.0,,,,,,A. Len,Defensive rebound by A. Len,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,0:18.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 27 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:02.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:02.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,11:39.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:35.0,,,,,,I. Joe,Defensive rebound by I. Joe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,11:21.0,,,,,,T. Maxey,T. Maxey misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:18.0,,,,,,D. Mitchell,Defensive rebound by D. Mitchell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,11:12.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:09.0,,,,,,C. Bassey,Defensive rebound by C. Bassey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,10:53.0,,,,,,T. Maxey,T. Maxey makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:39.0,,,,,,M. Bagley,M. Bagley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:34.0,,,,,,T. Haliburton,Offensive rebound by T. Haliburton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:33.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:30.0,,,,,,C. Bassey,Defensive rebound by C. Bassey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,10:24.0,,,,,,C. Bassey,Turnover by C. Bassey (off goaltending),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111220SAC,1,10:15.0,,,,,,R. Holmes,R. Holmes makes 2-pt dunk from 2 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:58.0,,,,,,T. Maxey,T. Maxey misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:52.0,,,,,,C. Bassey,Offensive rebound by C. Bassey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:52.0,,,,,,C. Bassey,C. Bassey makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:43.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:40.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:33.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:27.0,,,,,,D. Mitchell,Defensive rebound by D. Mitchell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:24.0,,,,,,C. Bassey,Shooting foul by C. Bassey (drawn by B. Hield ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,9:24.0,,,,,,B. Hield,B. Hield makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:24.0,,,,,,H. Barnes,H. Barnes enters the game for M. Bagley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,9:24.0,,,,,,D. Fox,D. Fox enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,9:24.0,,,,,,A. Len,A. Len enters the game for R. Holmes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,9:24.0,,,,,,B. Hield,B. Hield makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:10.0,,,,,,I. Joe,I. Joe makes 3-pt jump shot from 23 ft (assist by T. Maxey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:56.0,,,,,,D. Mitchell,Turnover by D. Mitchell (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111220SAC,1,8:56.0,,,,,,R. Holmes,R. Holmes enters the game for A. Len,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:44.0,,,,,,T. Maxey,T. Maxey makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:38.0,,,,,,,Sacramento full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,8:28.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:24.0,,,,,,C. Bassey,Defensive rebound by C. Bassey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,8:13.0,,,,,,D. Mitchell,Personal foul by D. Mitchell (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,8:13.0,,,,,,A. Drummond,A. Drummond enters the game for C. Bassey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:13.0,,,,,,M. Harkless,M. Harkless enters the game for D. Mitchell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:01.0,,,,,,B. Hield,Shooting foul by B. Hield (drawn by I. Joe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,8:01.0,,,,,,T. Haliburton,T. Haliburton enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:01.0,,,,,,I. Joe,I. Joe makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:01.0,,,,,,I. Joe,I. Joe makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:01.0,,,,,,I. Joe,I. Joe makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:39.0,,,,,,D. Fox,D. Fox misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:35.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,7:15.0,,,,,,I. Joe,I. Joe makes 3-pt jump shot from 24 ft (assist by S. Milton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:04.0,,,,,,R. Holmes,R. Holmes makes 2-pt jump shot from 13 ft (assist by H. Barnes ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:53.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:46.0,,,,,,I. Joe,Shooting foul by I. Joe (drawn by D. Fox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,6:46.0,,,,,,D. Fox,D. Fox misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:46.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:46.0,,,,,,D. Fox,D. Fox makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:23.0,,,,,,T. Maxey,T. Maxey misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:23.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:23.0,,,,,,M. Thybulle,M. Thybulle enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,6:20.0,,,,,,I. Joe,I. Joe misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:16.0,,,,,,D. Fox,Defensive rebound by D. Fox,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,6:09.0,,,,,,D. Fox,D. Fox makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:56.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,5:45.0,,,,,,I. Joe,I. Joe misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:42.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:30.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:27.0,,,,,,R. Holmes,Defensive rebound by R. Holmes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,5:19.0,,,,,,R. Holmes,R. Holmes misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:16.0,,,,,,M. Thybulle,Defensive rebound by M. Thybulle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,5:08.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:05.0,,,,,,H. Barnes,Defensive rebound by H. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:52.0,,,,,,D. Fox,D. Fox misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:49.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:28.0,,,,,,I. Joe,I. Joe makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:09.0,,,,,,H. Barnes,H. Barnes makes 3-pt jump shot from 25 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:55.0,,,,,,M. Harkless,Personal foul by M. Harkless (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,3:55.0,,,,,,F. Korkmaz,F. Korkmaz enters the game for I. Joe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,3:55.0,,,,,,G. Niang,G. Niang enters the game for S. Milton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,3:49.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:47.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:47.0,,,,,,A. Drummond,A. Drummond makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:38.0,,,,,,R. Holmes,R. Holmes makes 2-pt jump shot from 12 ft (assist by T. Haliburton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:20.0,,,,,,A. Drummond,Turnover by A. Drummond (bad pass; steal by T. Haliburton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,3:09.0,,,,,,R. Holmes,Turnover by R. Holmes (lost ball; steal by T. Maxey ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,3:00.0,,,,,,F. Korkmaz,F. Korkmaz misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:56.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,2:46.0,,,,,,H. Barnes,H. Barnes misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:43.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,2:29.0,,,,,,T. Maxey,T. Maxey makes 2-pt jump shot from 17 ft (assist by F. Korkmaz ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:13.0,,,,,,D. Fox,D. Fox makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:13.0,,,,,,G. Niang,Shooting foul by G. Niang (drawn by D. Fox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,2:13.0,,,,,,S. Milton,S. Milton enters the game for T. Maxey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:13.0,,,,,,A. Len,A. Len enters the game for R. Holmes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:13.0,,,,,,D. Fox,D. Fox makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:50.0,,,,,,A. Len,Shooting foul by A. Len (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,1:50.0,,,,,,A. Drummond,A. Drummond makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:50.0,,,,,,B. Hield,B. Hield enters the game for D. Fox,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,1:50.0,,,,,,A. Drummond,A. Drummond misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:48.0,,,,,,H. Barnes,Defensive rebound by H. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,1:39.0,,,,,,H. Barnes,H. Barnes misses 2-pt layup from 9 ft (block by S. Milton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111220SAC,1,1:39.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:34.0,,,,,,A. Len,Turnover by A. Len (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111220SAC,1,1:19.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:15.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,0:59.0,,,,,,A. Len,A. Len makes 2-pt jump shot from 12 ft (assist by H. Barnes ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:46.0,,,,,,S. Milton,S. Milton makes 2-pt layup from 5 ft (assist by F. Korkmaz ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:36.0,,,,,,M. Harkless,M. Harkless misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:27.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 25 ft (block by M. Thybulle ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202111220SAC,1,0:23.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,0:05.0,,,,,,M. Harkless,Personal foul by M. Harkless (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,0:05.0,,,,,,A. Drummond,A. Drummond misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:05.0,,,,,,P. Reed,P. Reed enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,0:05.0,,,,,,D. Fox,D. Fox enters the game for M. Harkless,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,0:05.0,,,,,,A. Drummond,A. Drummond makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:03.0,,,,,,S. Milton,Personal take foul by S. Milton (drawn by D. Fox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,0:03.0,,,,,,M. Harkless,M. Harkless enters the game for A. Len,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,0:01.0,,,,,,B. Hield,Turnover by B. Hield (lost ball; steal by M. Thybulle ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,11:49.0,,,,,,T. Haliburton,T. Haliburton misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:44.0,,,,,,R. Holmes,Offensive rebound by R. Holmes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:44.0,,,,,,R. Holmes,R. Holmes makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:29.0,,,,,,D. Fox,Shooting foul by D. Fox (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,11:29.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:29.0,,,,,,T. Maxey,T. Maxey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:19.0,,,,,,R. Holmes,R. Holmes makes 2-pt dunk from 2 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:51.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:48.0,,,,,,D. Fox,Defensive rebound by D. Fox,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,10:47.0,,,,,,A. Drummond,Shooting foul by A. Drummond (drawn by R. Holmes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,10:47.0,,,,,,R. Holmes,R. Holmes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:47.0,,,,,,R. Holmes,R. Holmes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:25.0,,,,,,G. Niang,Turnover by G. Niang (lost ball; steal by M. Harkless ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,10:16.0,,,,,,H. Barnes,Turnover by H. Barnes (lost ball; steal by A. Drummond ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,10:14.0,,,,,,M. Harkless,Shooting foul by M. Harkless (drawn by M. Thybulle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,10:14.0,,,,,,M. Thybulle,M. Thybulle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:14.0,,,,,,B. Hield,B. Hield enters the game for M. Harkless,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,10:14.0,,,,,,M. Thybulle,M. Thybulle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:06.0,,,,,,R. Holmes,R. Holmes makes 2-pt dunk from 2 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:48.0,,,,,,A. Drummond,A. Drummond makes 2-pt dunk from 2 ft (assist by F. Korkmaz ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:33.0,,,,,,H. Barnes,H. Barnes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:30.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:23.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:08.0,,,,,,R. Holmes,R. Holmes makes 2-pt layup from 2 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:47.0,,,,,,G. Niang,G. Niang misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:41.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:41.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:41.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,8:38.0,,,,,,T. Haliburton,Turnover by T. Haliburton (bad pass; steal by M. Thybulle ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,8:36.0,,,,,,M. Thybulle,M. Thybulle makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:21.0,,,,,,R. Holmes,R. Holmes misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:21.0,,,,,,T. Haliburton,Offensive rebound by T. Haliburton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:16.0,,,,,,D. Fox,D. Fox makes 2-pt jump shot from 8 ft (assist by T. Haliburton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:57.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:52.0,,,,,,G. Niang,G. Niang makes 3-pt jump shot from 23 ft (assist by T. Maxey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:34.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 26 ft (assist by R. Holmes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:19.0,,,,,,T. Maxey,T. Maxey misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:16.0,,,,,,R. Holmes,Defensive rebound by R. Holmes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,7:10.0,,,,,,A. Drummond,Personal foul by A. Drummond (drawn by R. Holmes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,7:10.0,,,,,,C. Bassey,C. Bassey enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,7:10.0,,,,,,T. Thompson,T. Thompson enters the game for R. Holmes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,6:57.0,,,,,,D. Fox,D. Fox misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:53.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,6:38.0,,,,,,M. Thybulle,M. Thybulle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:38.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,6:24.0,,,,,,F. Korkmaz,Personal foul by F. Korkmaz (drawn by T. Haliburton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,6:24.0,,,,,,,Sacramento full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,6:24.0,,,,,,S. Milton,S. Milton enters the game for F. Korkmaz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,6:24.0,,,,,,D. Mitchell,D. Mitchell enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,6:14.0,,,,,,C. Bassey,Shooting foul by C. Bassey (drawn by H. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,6:14.0,,,,,,H. Barnes,H. Barnes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:14.0,,,,,,H. Barnes,H. Barnes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:51.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:48.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,5:39.0,,,,,,T. Thompson,T. Thompson makes 2-pt hook shot from 6 ft (assist by B. Hield ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:27.0,,,,,,S. Milton,Turnover by S. Milton (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111220SAC,1,5:15.0,,,,,,T. Thompson,T. Thompson misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:11.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:11.0,,,,,,T. Thompson,T. Thompson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:58.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:56.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:49.0,,,,,,T. Thompson,T. Thompson misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:46.0,,,,,,M. Thybulle,Defensive rebound by M. Thybulle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:39.0,,,,,,M. Thybulle,M. Thybulle makes 2-pt layup from 3 ft (assist by C. Bassey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:15.0,,,,,,B. Hield,B. Hield misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:15.0,,,,,,C. Bassey,Defensive rebound by C. Bassey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:05.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:03.0,,,,,,D. Mitchell,Defensive rebound by D. Mitchell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,3:56.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:52.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,3:35.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:22.0,,,,,,D. Fox,D. Fox makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:05.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:02.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,2:50.0,,,,,,C. Bassey,Shooting foul by C. Bassey (drawn by D. Fox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,2:50.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,2:50.0,,,,,,I. Joe,I. Joe enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:50.0,,,,,,F. Korkmaz,F. Korkmaz enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:50.0,,,,,,M. Bagley,M. Bagley enters the game for H. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,2:50.0,,,,,,D. Fox,D. Fox misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:50.0,,,,,,D. Fox,D. Fox makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:35.0,,,,,,F. Korkmaz,F. Korkmaz makes 3-pt jump shot from 25 ft (assist by T. Maxey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:13.0,,,,,,T. Thompson,T. Thompson makes 2-pt jump shot from 7 ft (assist by B. Hield ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:46.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:43.0,,,,,,M. Bagley,Defensive rebound by M. Bagley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,1:26.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:10.0,,,,,,F. Korkmaz,F. Korkmaz makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:10.0,,,,,,P. Reed,P. Reed enters the game for C. Bassey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,1:10.0,,,,,,T. Haliburton,T. Haliburton enters the game for D. Fox,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,0:45.0,,,,,,D. Mitchell,D. Mitchell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:45.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:45.0,,,,,,T. Thompson,T. Thompson makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:30.0,,,,,,S. Milton,S. Milton misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:28.0,,,,,,S. Milton,Offensive rebound by S. Milton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:15.0,,,,,,T. Maxey,T. Maxey misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:13.0,,,,,,M. Bagley,Defensive rebound by M. Bagley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:44.0,,,,,,I. Joe,I. Joe misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:40.0,,,,,,M. Bagley,Defensive rebound by M. Bagley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,11:28.0,,,,,,M. Bagley,M. Bagley makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:12.0,,,,,,F. Korkmaz,F. Korkmaz misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:09.0,,,,,,M. Bagley,Defensive rebound by M. Bagley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,11:02.0,,,,,,T. Haliburton,T. Haliburton misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,11:01.0,,,,,,C. Bassey,C. Bassey enters the game for P. Reed,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,10:49.0,,,,,,B. Hield,Turnover by B. Hield (bad pass; steal by F. Korkmaz ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,10:40.0,,,,,,S. Milton,S. Milton misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:38.0,,,,,,C. Bassey,Offensive rebound by C. Bassey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:38.0,,,,,,C. Bassey,C. Bassey misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:33.0,,,,,,T. Haliburton,Shooting foul by T. Haliburton (drawn by F. Korkmaz ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,10:33.0,,,,,,F. Korkmaz,F. Korkmaz misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:33.0,,,,,,F. Korkmaz,F. Korkmaz misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:29.0,,,,,,M. Bagley,Defensive rebound by M. Bagley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,10:23.0,,,,,,S. Milton,Personal foul by S. Milton (drawn by D. Mitchell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,10:13.0,,,,,,D. Mitchell,D. Mitchell misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:09.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:09.0,,,,,,C. Bassey,Shooting foul by C. Bassey (drawn by T. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,10:09.0,,,,,,T. Thompson,T. Thompson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:09.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:09.0,,,,,,A. Drummond,A. Drummond enters the game for C. Bassey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,10:09.0,,,,,,T. Thompson,T. Thompson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,10:06.0,,,,,,F. Korkmaz,Defensive rebound by F. Korkmaz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:56.0,,,,,,S. Milton,S. Milton misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:53.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:46.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:30.0,,,,,,I. Joe,I. Joe misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:27.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,9:06.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,9:02.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,8:41.0,,,,,,A. Drummond,Turnover by A. Drummond (bad pass; steal by D. Mitchell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111220SAC,1,8:35.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:32.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,8:25.0,,,,,,F. Korkmaz,F. Korkmaz makes 2-pt layup from 2 ft (assist by G. Niang ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:14.0,,,,,,M. Bagley,M. Bagley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:10.0,,,,,,I. Joe,Defensive rebound by I. Joe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,8:01.0,,,,,,G. Niang,G. Niang makes 2-pt jump shot from 4 ft (assist by I. Joe ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,8:01.0,,,,,,,Sacramento full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,8:01.0,,,,,,T. Maxey,T. Maxey enters the game for I. Joe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:01.0,,,,,,M. Thybulle,M. Thybulle enters the game for F. Korkmaz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:01.0,,,,,,H. Barnes,H. Barnes enters the game for M. Bagley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:01.0,,,,,,D. Fox,D. Fox enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:01.0,,,,,,M. Harkless,M. Harkless enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,8:01.0,,,,,,R. Holmes,R. Holmes enters the game for T. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,7:40.0,,,,,,M. Harkless,M. Harkless misses 2-pt dunk from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:37.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,7:24.0,,,,,,D. Mitchell,Shooting foul by D. Mitchell (drawn by G. Niang ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,7:24.0,,,,,,G. Niang,G. Niang makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:24.0,,,,,,G. Niang,G. Niang makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,7:11.0,,,,,,H. Barnes,Offensive foul by H. Barnes (drawn by G. Niang ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,7:11.0,,,,,,H. Barnes,Turnover by H. Barnes (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202111220SAC,1,6:57.0,,,,,,A. Drummond,A. Drummond misses 2-pt dunk from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:54.0,,,,,,D. Fox,Defensive rebound by D. Fox,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,6:52.0,,,,,,T. Maxey,Shooting foul by T. Maxey (drawn by D. Fox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,6:52.0,,,,,,D. Fox,D. Fox makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:52.0,,,,,,D. Fox,D. Fox makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:40.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:38.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:25.0,,,,,,G. Niang,G. Niang makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,6:04.0,,,,,,D. Mitchell,D. Mitchell makes 2-pt jump shot from 15 ft (assist by D. Fox ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:38.0,,,,,,T. Maxey,T. Maxey makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:21.0,,,,,,D. Fox,D. Fox misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,5:18.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,5:15.0,,,,,,M. Thybulle,M. Thybulle makes 2-pt layup from 2 ft (assist by G. Niang ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:48.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111220SAC,1,4:48.0,,,,,,T. Haliburton,T. Haliburton enters the game for M. Harkless,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,4:48.0,,,,,,B. Hield,B. Hield enters the game for D. Mitchell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,4:34.0,,,,,,S. Milton,S. Milton makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:21.0,,,,,,H. Barnes,H. Barnes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:16.0,,,,,,B. Hield,B. Hield misses 2-pt jump shot from 13 ft (block by M. Thybulle ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202111220SAC,1,4:14.0,,,,,,T. Haliburton,Offensive rebound by T. Haliburton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:07.0,,,,,,D. Fox,D. Fox misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,4:05.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,4:04.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,4:04.0,,,,,,M. Harkless,M. Harkless enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,4:04.0,,,,,,D. Mitchell,D. Mitchell enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,3:42.0,,,,,,S. Milton,S. Milton makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,3:36.0,,,,,,,Sacramento full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,3:36.0,,,,,,T. Haliburton,T. Haliburton enters the game for M. Harkless,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,3:36.0,,,,,,B. Hield,B. Hield enters the game for D. Mitchell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,3:17.0,,,,,,D. Fox,D. Fox makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:54.0,,,,,,R. Holmes,Shooting foul by R. Holmes (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,2:54.0,,,,,,A. Drummond,A. Drummond makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:54.0,,,,,,A. Drummond,A. Drummond misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:51.0,,,,,,H. Barnes,Defensive rebound by H. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,2:41.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:37.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,2:26.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:23.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:21.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:16.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:14.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,2:10.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,1:53.0,,,,,,D. Fox,D. Fox misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:51.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,1:35.0,,,,,,A. Drummond,A. Drummond makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:35.0,,,,,,,Sacramento full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,1:24.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,1:20.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,1:00.0,,,,,,T. Maxey,T. Maxey misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:57.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:46.0,,,,,,T. Haliburton,Shooting foul by T. Haliburton (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,0:46.0,,,,,,S. Milton,S. Milton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:46.0,,,,,,S. Milton,S. Milton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:38.0,,,,,,D. Fox,D. Fox misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:34.0,,,,,,D. Fox,Offensive rebound by D. Fox,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:34.0,,,,,,D. Fox,Turnover by D. Fox (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111220SAC,1,0:33.0,,,,,,H. Barnes,Personal take foul by H. Barnes (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,0:33.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:33.0,,,,,,T. Maxey,T. Maxey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:27.0,,,,,,H. Barnes,H. Barnes misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:24.0,,,,,,T. Maxey,Defensive rebound by T. Maxey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111220SAC,1,0:24.0,,,,,,R. Holmes,Personal take foul by R. Holmes (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,0:24.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:24.0,,,,,,T. Maxey,T. Maxey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:24.0,,,,,,,Sacramento full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111220SAC,1,0:23.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:22.0,,,,,,H. Barnes,Offensive rebound by H. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:22.0,,,,,,G. Niang,Shooting foul by G. Niang (drawn by H. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111220SAC,1,0:22.0,,,,,,F. Korkmaz,F. Korkmaz enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111220SAC,1,0:22.0,,,,,,H. Barnes,H. Barnes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111220SAC,1,0:22.0,,,,,,H. Barnes,H. Barnes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False

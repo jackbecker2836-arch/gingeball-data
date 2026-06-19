@@ -1,0 +1,449 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202111270CHI,1,11:40.0,,,,,,K. Lowry,K. Lowry makes 2-pt jump shot from 13 ft (assist by B. Adebayo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:22.0,,,,,,D. DeRozan,Turnover by D. DeRozan (bad pass; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,11:18.0,,,,,,K. Lowry,K. Lowry makes 2-pt layup at rim (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:02.0,,,,,,N. VuÄeviÄ,Turnover by N. VuÄeviÄ (lost ball; steal by D. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,10:51.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:48.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,10:39.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 25 ft (assist by L. Ball ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:20.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:18.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,9:57.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:55.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,9:51.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:51.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,9:40.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:36.0,,,,,,D. DeRozan,Offensive rebound by D. DeRozan,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:32.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 24 ft (assist by L. Ball ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:22.0,,,,,,D. DeRozan,Shooting foul by D. DeRozan (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,9:22.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:22.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:11.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:08.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:57.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:54.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:52.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:49.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:49.0,,,,,,L. Ball,Loose ball foul by L. Ball (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,8:30.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:28.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:21.0,,,,,,D. Robinson,Personal foul by D. Robinson (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,8:07.0,,,,,,J. Green,J. Green misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:07.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,7:56.0,,,,,,P. Tucker,P. Tucker misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:51.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,7:35.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:27.0,,,,,,P. Tucker,Personal foul by P. Tucker (drawn by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,7:14.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:10.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,7:01.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:57.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:52.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk from 1 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:37.0,,,,,,L. Ball,Turnover by L. Ball (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,6:24.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:24.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,6:24.0,,,,,,A. Caruso,A. Caruso enters the game for L. Ball,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:24.0,,,,,,C. White,C. White enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:07.0,,,,,,A. Caruso,A. Caruso makes 2-pt dunk from 1 ft (assist by N. VuÄeviÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:07.0,,,,,,P. Tucker,Shooting foul by P. Tucker (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,6:07.0,,,,,,C. Martin,C. Martin enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:07.0,,,,,,A. Caruso,A. Caruso makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:52.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:28.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt hook shot from 6 ft (assist by J. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:14.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:58.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,4:58.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:58.0,,,,,,G. Vincent,G. Vincent enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,4:58.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,4:58.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:39.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:26.0,,,,,,C. White,Turnover by C. White (bad pass; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,4:18.0,,,,,,C. Martin,C. Martin misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:16.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,4:01.0,,,,,,C. White,C. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:58.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,3:50.0,,,,,,C. Martin,C. Martin makes 2-pt layup from 2 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:40.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:37.0,,,,,,N. VuÄeviÄ,Offensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:26.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:19.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,3:19.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:19.0,,,,,,D. DeRozan,D. DeRozan enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:19.0,,,,,,D. Jones,D. Jones enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:03.0,,,,,,D. Dedmon,Turnover by D. Dedmon (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,2:40.0,,,,,,C. White,C. White makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:20.0,,,,,,C. Martin,C. Martin makes 3-pt jump shot from 23 ft (assist by J. Butler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:10.0,,,,,,C. White,C. White misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:06.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,1:55.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:39.0,,,,,,A. Dosunmu,Offensive foul by A. Dosunmu (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,1:39.0,,,,,,A. Dosunmu,Turnover by A. Dosunmu (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202111270CHI,1,1:39.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,1:27.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:23.0,,,,,,C. Martin,Offensive rebound by C. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:22.0,,,,,,C. Martin,Turnover by C. Martin (bad pass; steal by D. DeRozan ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,1:16.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,1:16.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:16.0,,,,,,D. DeRozan,D. DeRozan makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:03.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:00.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:47.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:31.0,,,,,,C. Martin,C. Martin misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:31.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:31.0,,,,,,K. Lowry,K. Lowry enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:24.0,,,,,,D. DeRozan,Turnover by D. DeRozan (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,0:03.0,,,,,,A. Dosunmu,Shooting foul by A. Dosunmu (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,0:03.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:03.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:00.0,,,,,,C. White,Offensive foul by C. White (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,0:00.0,,,,,,C. White,Turnover by C. White (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202111270CHI,1,11:45.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt jump shot from 13 ft (assist by D. DeRozan ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:21.0,,,,,,K. Lowry,Turnover by K. Lowry (bad pass; steal by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,11:18.0,,,,,,A. Caruso,Turnover by A. Caruso (bad pass; steal by D. Dedmon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,11:04.0,,,,,,C. Martin,C. Martin misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:02.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,11:01.0,,,,,,C. White,Turnover by C. White (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,10:49.0,,,,,,M. Strus,M. Strus makes 2-pt layup from 1 ft (assist by G. Vincent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:32.0,,,,,,C. White,C. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:28.0,,,,,,A. Dosunmu,Offensive rebound by A. Dosunmu,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:28.0,,,,,,A. Dosunmu,A. Dosunmu misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:24.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,10:20.0,,,,,,M. Strus,M. Strus misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:18.0,,,,,,D. Dedmon,Offensive rebound by D. Dedmon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:18.0,,,,,,D. Dedmon,Turnover by D. Dedmon (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,10:18.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,10:06.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:51.0,,,,,,G. Vincent,G. Vincent makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:33.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:31.0,,,,,,N. VuÄeviÄ,Offensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:30.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 25 ft (assist by N. VuÄeviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:19.0,,,,,,K. Lowry,K. Lowry makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:10.0,,,,,,G. Vincent,Personal foul by G. Vincent (drawn by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,9:10.0,,,,,,D. Robinson,D. Robinson enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,9:10.0,,,,,,L. Ball,L. Ball enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,9:10.0,,,,,,J. Green,J. Green enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,8:59.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 24 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:39.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:35.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:29.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:29.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:12.0,,,,,,D. Robinson,D. Robinson makes 2-pt layup at rim (assist by D. Dedmon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:51.0,,,,,,D. Robinson,Personal foul by D. Robinson (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,7:51.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,7:51.0,,,,,,Z. LaVine,Z. LaVine enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,7:46.0,,,,,,A. Caruso,Turnover by A. Caruso (bad pass; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,7:42.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:37.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,7:24.0,,,,,,D. DeRozan,D. DeRozan misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:21.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,7:11.0,,,,,,J. Green,Personal foul by J. Green (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,7:11.0,,,,,,J. Butler,J. Butler enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,7:11.0,,,,,,D. Jones,D. Jones enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,7:02.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:00.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,6:50.0,,,,,,J. Green,J. Green makes 2-pt dunk from 1 ft (assist by D. Jones ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:33.0,,,,,,M. Strus,M. Strus makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:15.0,,,,,,A. Caruso,A. Caruso misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:13.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,6:00.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:57.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,5:54.0,,,,,,M. Strus,Shooting foul by M. Strus (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,5:54.0,,,,,,J. Green,J. Green misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:54.0,,,,,,G. Vincent,G. Vincent enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,5:54.0,,,,,,C. White,C. White enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,5:54.0,,,,,,J. Green,J. Green makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:36.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 23 ft (assist by G. Vincent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:22.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 1 ft (assist by L. Ball ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:00.0,,,,,,G. Vincent,G. Vincent makes 2-pt layup at rim (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:37.0,,,,,,D. Jones,D. Jones makes 2-pt layup from 2 ft (assist by L. Ball ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:23.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:20.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,4:16.0,,,,,,C. White,C. White makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:14.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,4:14.0,,,,,,A. Caruso,A. Caruso enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,4:14.0,,,,,,D. DeRozan,D. DeRozan enters the game for D. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,4:14.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,4:02.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 1 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:40.0,,,,,,D. DeRozan,D. DeRozan misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:40.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,3:33.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:29.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,3:22.0,,,,,,D. DeRozan,Turnover by D. DeRozan (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,3:16.0,,,,,,M. Strus,M. Strus makes 2-pt layup from 1 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:51.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 26 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:32.0,,,,,,G. Vincent,G. Vincent misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:30.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,2:20.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:18.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,2:16.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:14.0,,,,,,G. Vincent,Offensive rebound by G. Vincent,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:06.0,,,,,,M. Strus,Turnover by M. Strus (lost ball; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,2:00.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:55.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,1:43.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:29.0,,,,,,J. Butler,Shooting foul by J. Butler (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,1:29.0,,,,,,A. Caruso,A. Caruso makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:29.0,,,,,,K. Lowry,K. Lowry enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,1:29.0,,,,,,A. Caruso,A. Caruso makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:17.0,,,,,,Z. LaVine,Shooting foul by Z. LaVine (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,1:17.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:17.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,1:17.0,,,,,,B. Adebayo,B. Adebayo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:15.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:56.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:53.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:33.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:29.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:26.0,,,,,,L. Ball,L. Ball makes 2-pt layup from 1 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:06.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:01.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:00.0,,,,,,Z. LaVine,Turnover by Z. LaVine (lost ball; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,11:38.0,,,,,,J. Butler,Shooting foul by J. Butler (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,11:38.0,,,,,,J. Green,J. Green makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:38.0,,,,,,J. Green,J. Green misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:35.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,11:20.0,,,,,,D. Robinson,D. Robinson misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:19.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,11:12.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 24 ft (assist by L. Ball ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:54.0,,,,,,P. Tucker,P. Tucker makes 3-pt jump shot from 24 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:25.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:22.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,10:14.0,,,,,,J. Green,Personal foul by J. Green (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,10:08.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:04.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,9:50.0,,,,,,J. Green,Turnover by J. Green (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,9:38.0,,,,,,D. Robinson,D. Robinson makes 2-pt jump shot from 3 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:16.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 24 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:00.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:58.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:48.0,,,,,,L. Ball,Turnover by L. Ball (lost ball; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,8:37.0,,,,,,Z. LaVine,Personal foul by Z. LaVine (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,8:26.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 22 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:06.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:04.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,7:44.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 25 ft (block by N. VuÄeviÄ ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202111270CHI,1,7:41.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:41.0,,,,,,P. Tucker,P. Tucker misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:41.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:41.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:30.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt layup from 3 ft (block by P. Tucker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111270CHI,1,7:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:30.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,7:28.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 17 ft (assist by L. Ball ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:59.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 24 ft (assist by J. Butler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:46.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,6:46.0,,,,,,D. DeRozan,D. DeRozan misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:46.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:46.0,,,,,,A. Caruso,A. Caruso enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:46.0,,,,,,D. DeRozan,D. DeRozan makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:31.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:28.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,6:19.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:07.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:04.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,6:01.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:50.0,,,,,,Z. LaVine,Shooting foul by Z. LaVine (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,5:50.0,,,,,,K. Lowry,K. Lowry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:50.0,,,,,,K. Lowry,K. Lowry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:37.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:37.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,5:37.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,5:37.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:16.0,,,,,,P. Tucker,P. Tucker makes 2-pt jump shot from 14 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:57.0,,,,,,N. VuÄeviÄ,Turnover by N. VuÄeviÄ (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,4:51.0,,,,,,P. Tucker,P. Tucker misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:51.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:51.0,,,,,,J. Butler,J. Butler misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:51.0,,,,,,G. Vincent,G. Vincent enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,4:43.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:38.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,4:33.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:29.0,,,,,,L. Ball,Offensive rebound by L. Ball,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:29.0,,,,,,L. Ball,Offensive foul by L. Ball (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,4:29.0,,,,,,L. Ball,Turnover by L. Ball (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202111270CHI,1,4:18.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 4 ft (block by N. VuÄeviÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111270CHI,1,4:14.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,4:08.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:07.0,,,,,,N. VuÄeviÄ,Offensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:06.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:05.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,4:05.0,,,,,,N. VuÄeviÄ,Technical foul by N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,4:05.0,,,,,,J. Butler,J. Butler makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:05.0,,,,,,C. White,C. White enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:54.0,,,,,,B. Adebayo,Turnover by B. Adebayo (bad pass; steal by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,3:46.0,,,,,,C. White,C. White misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:43.0,,,,,,A. Caruso,Offensive rebound by A. Caruso,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:43.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 24 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:43.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,3:43.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:43.0,,,,,,D. Jones,D. Jones enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:29.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:25.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:21.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:18.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,3:11.0,,,,,,D. Dedmon,Personal foul by D. Dedmon (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,3:11.0,,,,,,D. DeRozan,D. DeRozan enters the game for L. Ball,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:08.0,,,,,,M. Strus,Personal foul by M. Strus (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,3:08.0,,,,,,A. Caruso,A. Caruso makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:08.0,,,,,,A. Caruso,A. Caruso makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:08.0,,,,,,K. Lowry,K. Lowry enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,2:42.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:40.0,,,,,,D. Jones,Defensive rebound by D. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,2:26.0,,,,,,D. DeRozan,D. DeRozan misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:23.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,2:15.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:47.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:45.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,1:28.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 4 ft (block by C. White ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111270CHI,1,1:25.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,1:22.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:07.0,,,,,,D. Jones,Shooting foul by D. Jones (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,1:07.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:07.0,,,,,,L. Ball,L. Ball enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,1:07.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:56.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:53.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:41.0,,,,,,D. DeRozan,Personal foul by D. DeRozan (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,0:41.0,,,,,,M. Strus,M. Strus misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:41.0,,,,,,C. Martin,C. Martin enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:41.0,,,,,,M. Strus,M. Strus makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:34.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 7 ft (assist by C. White ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:28.0,,,,,,K. Lowry,K. Lowry misses 2-pt jump shot from 3 ft (block by D. Jones ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202111270CHI,1,0:25.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:24.0,,,,,,A. Caruso,A. Caruso makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:04.0,,,,,,G. Vincent,Turnover by G. Vincent (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,0:02.0,,,,,,C. White,Turnover by C. White (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,0:02.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:02.0,,,,,,D. Robinson,D. Robinson enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:02.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for D. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:00.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 53 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:49.0,,,,,,K. Lowry,K. Lowry misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:45.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,11:32.0,,,,,,C. White,C. White misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:30.0,,,,,,C. White,Offensive rebound by C. White,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:21.0,,,,,,C. White,Turnover by C. White (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111270CHI,1,11:11.0,,,,,,D. Dedmon,Turnover by D. Dedmon (lost ball; steal by L. Ball ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,11:07.0,,,,,,D. Jones,D. Jones makes 2-pt layup from 2 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:07.0,,,,,,D. Dedmon,Technical foul by D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,11:07.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by D. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,11:07.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,11:07.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:07.0,,,,,,D. DeRozan,D. DeRozan makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:07.0,,,,,,D. Dedmon,D. Dedmon ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,11:07.0,,,,,,D. Jones,D. Jones makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:50.0,,,,,,C. Martin,C. Martin misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:45.0,,,,,,K. Lowry,Offensive rebound by K. Lowry,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:43.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 26 ft (assist by K. Lowry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:24.0,,,,,,D. Jones,D. Jones makes 2-pt dunk from 2 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:16.0,,,,,,C. White,Shooting foul by C. White (drawn by G. Vincent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,10:16.0,,,,,,G. Vincent,G. Vincent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,10:16.0,,,,,,G. Vincent,G. Vincent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:59.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:57.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,9:56.0,,,,,,K. Lowry,Offensive foul by K. Lowry (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,9:56.0,,,,,,K. Lowry,Turnover by K. Lowry (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202111270CHI,1,9:41.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:39.0,,,,,,A. Caruso,Offensive rebound by A. Caruso,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:32.0,,,,,,C. White,C. White misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:30.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,9:23.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 26 ft (assist by K. Lowry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,9:21.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,9:21.0,,,,,,Z. LaVine,Z. LaVine enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,8:57.0,,,,,,D. DeRozan,D. DeRozan misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:55.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:55.0,,,,,,D. DeRozan,Personal foul by D. DeRozan (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,8:46.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 28 ft (assist by K. Lowry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:27.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:23.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:14.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,8:12.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,8:01.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 15 ft (assist by A. Caruso ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:39.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 25 ft (assist by G. Vincent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:20.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,7:17.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,7:01.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:57.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,6:48.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:43.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,6:38.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:24.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,6:24.0,,,,,,A. Caruso,A. Caruso makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:24.0,,,,,,J. Butler,J. Butler enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:24.0,,,,,,P. Tucker,P. Tucker enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:24.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:24.0,,,,,,C. White,C. White enters the game for D. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,6:24.0,,,,,,A. Caruso,A. Caruso makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:10.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,6:08.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,5:52.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:52.0,,,,,,G. Vincent,Loose ball foul by G. Vincent (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,5:52.0,,,,,,D. DeRozan,D. DeRozan enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,5:46.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 23 ft (assist by N. VuÄeviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,5:45.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,5:32.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by Z. LaVine ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,5:18.0,,,,,,D. DeRozan,Turnover by D. DeRozan (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,5:08.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 23 ft (assist by J. Butler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:48.0,,,,,,N. VuÄeviÄ,Turnover by N. VuÄeviÄ (bad pass; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,4:29.0,,,,,,P. Tucker,P. Tucker misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,4:29.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,4:29.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,4:29.0,,,,,,A. Caruso,A. Caruso enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,4:14.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup from 1 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:57.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 25 ft (assist by G. Vincent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:43.0,,,,,,A. Caruso,A. Caruso makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:26.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,3:26.0,,,,,,M. Strus,M. Strus makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:26.0,,,,,,M. Strus,M. Strus makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:26.0,,,,,,M. Strus,M. Strus makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:26.0,,,,,,B. Adebayo,B. Adebayo enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,3:09.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,3:07.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,2:43.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:41.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,2:39.0,,,,,,Z. LaVine,Offensive foul by Z. LaVine (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,2:39.0,,,,,,Z. LaVine,Turnover by Z. LaVine (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202111270CHI,1,2:15.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,2:04.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:49.0,,,,,,L. Ball,Personal foul by L. Ball (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,1:38.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:33.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,1:28.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:26.0,,,,,,D. DeRozan,Offensive rebound by D. DeRozan,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:24.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:15.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,1:13.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:58.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:58.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,0:58.0,,,,,,P. Tucker,P. Tucker enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:55.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:55.0,,,,,,P. Tucker,Shooting foul by P. Tucker (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,0:55.0,,,,,,M. Strus,M. Strus enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:55.0,,,,,,D. Jones,D. Jones enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:55.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:35.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:29.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111270CHI,1,0:25.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:25.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,0:23.0,,,,,,K. Lowry,K. Lowry makes 2-pt layup from 1 ft (assist by G. Vincent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:13.0,,,,,,L. Ball,Turnover by L. Ball (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111270CHI,1,0:13.0,,,,,,D. Jones,Personal take foul by D. Jones (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,0:13.0,,,,,,J. Butler,J. Butler misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:13.0,,,,,,P. Tucker,P. Tucker enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:13.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:13.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111270CHI,1,0:13.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for D. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111270CHI,1,0:08.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:06.0,,,,,,L. Ball,Personal take foul by L. Ball (drawn by G. Vincent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111270CHI,1,0:06.0,,,,,,G. Vincent,G. Vincent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:06.0,,,,,,G. Vincent,G. Vincent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111270CHI,1,0:00.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False

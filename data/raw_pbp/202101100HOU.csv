@@ -1,0 +1,490 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202101100HOU,1,11:46.0,,,,,,P. Tucker,Turnover by P. Tucker (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,11:31.0,,,,,,L. James,L. James misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:30.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,11:30.0,,,,,,A. Davis,Loose ball foul by A. Davis (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,11:12.0,,,,,,J. Harden,Turnover by J. Harden (bad pass; steal by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,11:08.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 2 ft (block by J. Wall ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,11:07.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,10:57.0,,,,,,J. Wall,Turnover by J. Wall (bad pass; steal by L. James ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,10:54.0,,,,,,L. James,L. James makes 2-pt dunk from 1 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:33.0,,,,,,J. Harden,Turnover by J. Harden (lost ball; steal by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,10:28.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:27.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,10:19.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:18.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,10:05.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:04.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,9:53.0,,,,,,M. Gasol,Shooting foul by M. Gasol (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,9:53.0,,,,,,D. Nwaba,D. Nwaba makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:53.0,,,,,,D. Nwaba,D. Nwaba misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:53.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,9:29.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,9:17.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:06.0,,,,,,A. Davis,A. Davis makes 2-pt jump shot from 20 ft (assist by D. SchrÃ¶der ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:51.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:51.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:47.0,,,,,,J. Harden,Personal foul by J. Harden (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,8:41.0,,,,,,M. Gasol,M. Gasol makes 2-pt hook shot from 10 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:41.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by M. Gasol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,8:41.0,,,,,,M. Gasol,M. Gasol makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:23.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:22.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:14.0,,,,,,M. Gasol,M. Gasol misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:11.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:05.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:03.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:00.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:00.0,,,,,,K. Caldwell-Pope,Offensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:52.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 3 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:39.0,,,,,,C. Wood,Turnover by C. Wood (bad pass; steal by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,7:36.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:36.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,7:36.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,7:36.0,,,,,,A. Caruso,A. Caruso enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,7:36.0,,,,,,D. Cousins,D. Cousins enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,7:36.0,,,,,,L. James,L. James makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:20.0,,,,,,D. Nwaba,D. Nwaba misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:19.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,7:06.0,,,,,,A. Davis,A. Davis makes 2-pt dunk from 2 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:51.0,,,,,,D. Cousins,D. Cousins makes 3-pt jump shot from 27 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:33.0,,,,,,A. Davis,A. Davis makes 2-pt jump shot from 12 ft (assist by L. James ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:11.0,,,,,,D. Cousins,D. Cousins misses 2-pt layup from 3 ft (block by L. James ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,6:09.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,6:07.0,,,,,,M. Gasol,Turnover by M. Gasol (bad pass; steal by J. Wall ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,6:04.0,,,,,,J. Wall,J. Wall misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:02.0,,,,,,D. Cousins,Offensive rebound by D. Cousins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:00.0,,,,,,D. Nwaba,D. Nwaba misses 2-pt layup from 3 ft (block by A. Davis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,5:56.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,5:46.0,,,,,,A. Davis,A. Davis makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:31.0,,,,,,D. Cousins,D. Cousins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:31.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,5:30.0,,,,,,P. Tucker,Loose ball foul by P. Tucker (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,5:30.0,,,,,,K. Kuzma,K. Kuzma enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:30.0,,,,,,E. Gordon,E. Gordon enters the game for J. Wall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:13.0,,,,,,A. Davis,Turnover by A. Davis (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,5:08.0,,,,,,A. Davis,Shooting foul by A. Davis (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,5:08.0,,,,,,J. Harden,J. Harden makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:08.0,,,,,,M. Morris,M. Morris enters the game for A. Davis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:08.0,,,,,,S. Brown,S. Brown enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:08.0,,,,,,J. Harden,J. Harden makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:54.0,,,,,,M. Gasol,M. Gasol misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:53.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,4:47.0,,,,,,E. Gordon,E. Gordon misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:47.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,4:40.0,,,,,,K. Kuzma,Turnover by K. Kuzma (bad pass; steal by P. Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,4:23.0,,,,,,S. Brown,S. Brown misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:22.0,,,,,,J. Harden,Offensive rebound by J. Harden,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:20.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:02.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:02.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,4:02.0,,,,,,M. Harrell,M. Harrell enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,4:02.0,,,,,,J. Tate,J. Tate enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:43.0,,,,,,D. Cousins,Turnover by D. Cousins (lost ball; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,3:38.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt layup from 2 ft (block by J. Tate ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,3:36.0,,,,,,S. Brown,Defensive rebound by S. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,3:32.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 1 ft (assist by S. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:24.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 25 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:08.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:08.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,3:00.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:58.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,2:38.0,,,,,,J. Tate,J. Tate misses 2-pt layup from 4 ft (block by D. SchrÃ¶der ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,2:35.0,,,,,,S. Brown,Offensive rebound by S. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:34.0,,,,,,D. Cousins,D. Cousins makes 3-pt jump shot from 26 ft (assist by S. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:32.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,2:32.0,,,,,,L. James,L. James enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,2:15.0,,,,,,M. Morris,Flagrant foul type 1 by M. Morris (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,2:15.0,,,,,,M. Morris,Turnover by M. Morris (turnover),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,2:15.0,,,,,,,Instant Replay,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:15.0,,,,,,D. Cousins,Technical foul by D. Cousins,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,2:15.0,,,,,,M. Morris,Technical foul by M. Morris,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,2:15.0,,,,,,M. Morris,M. Morris ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:15.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,2:15.0,,,,,,J. Tate,J. Tate makes flagrant free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:15.0,,,,,,J. Tate,J. Tate misses flagrant free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:52.0,,,,,,J. Harden,Turnover by J. Harden (lost ball; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,1:47.0,,,,,,A. Caruso,A. Caruso makes 2-pt layup from 1 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:33.0,,,,,,S. Brown,S. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:31.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,1:18.0,,,,,,M. Harrell,M. Harrell misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:17.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,1:08.0,,,,,,J. Harden,Turnover by J. Harden (bad pass; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,0:59.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:46.0,,,,,,D. Cousins,D. Cousins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:44.0,,,,,,S. Brown,Offensive rebound by S. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:43.0,,,,,,S. Brown,S. Brown misses 2-pt layup from 2 ft (block by K. Kuzma ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,0:40.0,,,,,,J. Tate,Offensive rebound by J. Tate,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:40.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 25 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:27.0,,,,,,A. Caruso,A. Caruso misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:27.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,0:07.0,,,,,,T. Horton-Tucker,Personal foul by T. Horton-Tucker (drawn by E. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,0:07.0,,,,,,E. Gordon,E. Gordon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:07.0,,,,,,E. Gordon,E. Gordon misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:02.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,0:02.0,,,,,,J. Harden,J. Harden misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:02.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:02.0,,,,,,J. Harden,J. Harden makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:00.0,,,,,,K. Kuzma,Turnover by K. Kuzma (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,11:41.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (bad pass; steal by D. Cousins ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,11:21.0,,,,,,J. Tate,J. Tate makes 2-pt hook shot from 9 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:14.0,,,,,,D. Cousins,Flagrant foul type 2 by D. Cousins (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,11:14.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:14.0,,,,,,D. Cousins,D. Cousins ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:14.0,,,,,,C. Wood,C. Wood enters the game for D. Cousins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,11:14.0,,,,,,L. James,L. James misses flagrant free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:14.0,,,,,,L. James,L. James makes flagrant free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:10.0,,,,,,L. James,L. James makes 3-pt jump shot from 29 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:56.0,,,,,,J. Wall,J. Wall misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:53.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:53.0,,,,,,C. Wood,C. Wood makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:37.0,,,,,,L. James,L. James misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:34.0,,,,,,E. Gordon,Defensive rebound by E. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,10:25.0,,,,,,J. Wall,J. Wall makes 3-pt jump shot from 26 ft (assist by C. Wood ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:02.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:42.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:42.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,9:37.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:37.0,,,,,,A. Davis,A. Davis enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,9:37.0,,,,,,P. Tucker,P. Tucker enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,9:24.0,,,,,,A. Davis,A. Davis makes 2-pt hook shot from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:05.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:05.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:58.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:37.0,,,,,,J. Wall,J. Wall misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:36.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:33.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt layup from 2 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:33.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,8:19.0,,,,,,L. James,Shooting foul by L. James (drawn by J. Wall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,8:19.0,,,,,,J. Wall,J. Wall makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:19.0,,,,,,J. Wall,J. Wall makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:00.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup from 1 ft (block by C. Wood ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,7:57.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,7:49.0,,,,,,J. Wall,J. Wall makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:35.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:19.0,,,,,,E. Gordon,Offensive foul by E. Gordon (drawn by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,7:19.0,,,,,,E. Gordon,Turnover by E. Gordon (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101100HOU,1,7:19.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,7:19.0,,,,,,J. Harden,J. Harden enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,7:09.0,,,,,,M. Harrell,Offensive foul by M. Harrell (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,7:09.0,,,,,,M. Harrell,Turnover by M. Harrell (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101100HOU,1,7:00.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:43.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:42.0,,,,,,P. Tucker,Loose ball foul by P. Tucker (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,6:42.0,,,,,,P. Tucker,Technical foul by P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,6:42.0,,,,,,A. Davis,A. Davis makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:42.0,,,,,,D. Nwaba,D. Nwaba enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,6:30.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 1 ft (assist by A. Davis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:07.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:07.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,6:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 23 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:48.0,,,,,,J. Wall,J. Wall makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:22.0,,,,,,A. Davis,A. Davis makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:13.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:12.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,5:08.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 1 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:52.0,,,,,,M. Harrell,Personal foul by M. Harrell (drawn by J. Wall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,4:52.0,,,,,,A. Caruso,A. Caruso enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,4:39.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:36.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,4:27.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,4:17.0,,,,,,J. Wall,J. Wall misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:17.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,4:13.0,,,,,,J. Wall,Shooting foul by J. Wall (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,4:13.0,,,,,,J. Wall,Technical foul by J. Wall,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,4:13.0,,,,,,A. Davis,A. Davis makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:13.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:13.0,,,,,,M. Gasol,M. Gasol enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,4:13.0,,,,,,L. James,L. James enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,4:13.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:03.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:02.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,3:58.0,,,,,,A. Davis,A. Davis makes 2-pt dunk from 1 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:57.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,3:42.0,,,,,,J. Wall,J. Wall makes 3-pt jump shot from 27 ft (assist by D. Nwaba ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:19.0,,,,,,J. Wall,Loose ball foul by J. Wall (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,3:18.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,3:18.0,,,,,,A. Caruso,A. Caruso misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:18.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:18.0,,,,,,E. Gordon,E. Gordon enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:18.0,,,,,,A. Caruso,A. Caruso makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:55.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft (block by A. Davis ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,2:53.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,2:45.0,,,,,,A. Caruso,A. Caruso misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:43.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,2:26.0,,,,,,J. Wall,J. Wall makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:20.0,,,,,,A. Caruso,A. Caruso misses 2-pt layup from 2 ft (block by P. Tucker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,2:19.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,2:19.0,,,,,,A. Caruso,Technical foul by A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,2:19.0,,,,,,J. Harden,J. Harden makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:00.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:00.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,1:52.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:52.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,1:52.0,,,,,,J. Tate,J. Tate enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,1:52.0,,,,,,L. James,L. James misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:51.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:48.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:44.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,1:34.0,,,,,,J. Wall,J. Wall misses 2-pt layup from 4 ft (block by A. Davis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,1:31.0,,,,,,J. Tate,Offensive rebound by J. Tate,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:22.0,,,,,,J. Wall,J. Wall misses 2-pt layup from 1 ft (block by D. SchrÃ¶der ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,1:20.0,,,,,,J. Wall,Offensive rebound by J. Wall,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:20.0,,,,,,J. Wall,J. Wall misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:18.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,1:17.0,,,,,,E. Gordon,Personal foul by E. Gordon (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,1:17.0,,,,,,A. Davis,A. Davis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:17.0,,,,,,K. Kuzma,K. Kuzma enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,1:17.0,,,,,,A. Davis,A. Davis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:08.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:54.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:44.0,,,,,,J. Harden,Turnover by J. Harden (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,0:35.0,,,,,,L. James,L. James makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:28.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:07.0,,,,,,L. James,L. James misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:06.0,,,,,,P. Tucker,Loose ball foul by P. Tucker (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,0:06.0,,,,,,A. Davis,A. Davis misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:06.0,,,,,,A. Caruso,A. Caruso enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,0:06.0,,,,,,A. Davis,A. Davis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:03.0,,,,,,A. Caruso,Personal take foul by A. Caruso (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,0:03.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for A. Davis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,0:00.0,,,,,,E. Gordon,E. Gordon misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:49.0,,,,,,L. James,L. James makes 2-pt jump shot from 22 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:20.0,,,,,,D. Nwaba,D. Nwaba makes 3-pt jump shot from 23 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:02.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,11:02.0,,,,,,L. James,L. James misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:02.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:02.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:47.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:47.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,10:38.0,,,,,,M. Gasol,M. Gasol makes 3-pt jump shot from 25 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:23.0,,,,,,J. Harden,Turnover by J. Harden (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,10:12.0,,,,,,L. James,L. James misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:10.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,10:02.0,,,,,,L. James,Personal foul by L. James (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,9:50.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:50.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,9:45.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt layup from 3 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:35.0,,,,,,D. Nwaba,D. Nwaba misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:35.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:29.0,,,,,,M. Gasol,Personal foul by M. Gasol (drawn by J. Wall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,9:22.0,,,,,,J. Wall,J. Wall misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:21.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,9:15.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 3-pt jump shot from 25 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:04.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:03.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:55.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:55.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:33.0,,,,,,C. Wood,C. Wood makes 3-pt jump shot from 26 ft (assist by J. Wall ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:19.0,,,,,,M. Gasol,Turnover by M. Gasol (bad pass; steal by D. Nwaba ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,8:16.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:48.0,,,,,,A. Davis,A. Davis makes 2-pt hook shot from 12 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:30.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 3 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:30.0,,,,,,M. Gasol,Shooting foul by M. Gasol (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,7:30.0,,,,,,C. Wood,C. Wood makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:24.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:21.0,,,,,,A. Davis,Offensive foul by A. Davis (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,7:21.0,,,,,,A. Davis,Turnover by A. Davis (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101100HOU,1,7:11.0,,,,,,J. Wall,J. Wall misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:10.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,7:04.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 1 ft (block by D. Nwaba ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,7:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:01.0,,,,,,A. Davis,A. Davis misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:58.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,6:44.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:30.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 2 ft (block by J. Wall ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,6:28.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,6:25.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 26 ft (assist by J. Wall ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:25.0,,,,,,A. Davis,Loose ball foul by A. Davis (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,6:25.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,6:25.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:25.0,,,,,,P. Tucker,P. Tucker makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:09.0,,,,,,J. Harden,Personal foul by J. Harden (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,5:57.0,,,,,,M. Gasol,M. Gasol misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:54.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,5:47.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:22.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:20.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,5:06.0,,,,,,D. Nwaba,D. Nwaba misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:04.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,5:02.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,5:02.0,,,,,,A. Davis,A. Davis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:02.0,,,,,,A. Caruso,A. Caruso enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:02.0,,,,,,K. Kuzma,K. Kuzma enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:02.0,,,,,,S. Brown,S. Brown enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:02.0,,,,,,E. Gordon,E. Gordon enters the game for J. Wall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:02.0,,,,,,A. Davis,A. Davis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:49.0,,,,,,E. Gordon,Turnover by E. Gordon (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,4:49.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for A. Davis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,4:40.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 26 ft (assist by M. Gasol ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:22.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:08.0,,,,,,L. James,Turnover by L. James (bad pass; steal by P. Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,4:00.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:59.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,3:53.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:52.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,3:40.0,,,,,,P. Tucker,P. Tucker makes 3-pt jump shot from 23 ft (assist by E. Gordon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:40.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,3:40.0,,,,,,M. Harrell,M. Harrell enters the game for M. Gasol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:28.0,,,,,,A. Caruso,A. Caruso misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:27.0,,,,,,A. Caruso,Offensive rebound by A. Caruso,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:20.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:18.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:04.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:01.0,,,,,,T. Horton-Tucker,Offensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:01.0,,,,,,J. Tate,J. Tate enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,2:49.0,,,,,,L. James,L. James misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:46.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,2:30.0,,,,,,E. Gordon,E. Gordon misses 2-pt layup from 1 ft (block by M. Harrell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,2:28.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,2:10.0,,,,,,L. James,Turnover by L. James (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,2:10.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,1:58.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:40.0,,,,,,M. Harrell,M. Harrell misses 2-pt hook shot from 8 ft (block by J. Harden ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,1:37.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,1:28.0,,,,,,E. Gordon,Turnover by E. Gordon (lost ball; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,1:25.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt dunk from 2 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:13.0,,,,,,T. Horton-Tucker,Personal foul by T. Horton-Tucker (drawn by E. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,1:13.0,,,,,,E. Gordon,E. Gordon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:13.0,,,,,,E. Gordon,E. Gordon misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:13.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,0:57.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:55.0,,,,,,E. Gordon,Defensive rebound by E. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,0:50.0,,,,,,E. Gordon,Turnover by E. Gordon (lost ball; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,0:43.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 24 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:36.0,,,,,,J. Harden,J. Harden misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:36.0,,,,,,J. Tate,Offensive rebound by J. Tate,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:35.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,0:35.0,,,,,,J. Tate,J. Tate makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:35.0,,,,,,J. Tate,J. Tate makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:21.0,,,,,,K. Kuzma,Turnover by K. Kuzma (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,0:02.0,,,,,,S. Brown,S. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:02.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,11:46.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:44.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,11:31.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,11:31.0,,,,,,A. Davis,A. Davis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:31.0,,,,,,A. Davis,A. Davis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:21.0,,,,,,D. SchrÃ¶der,Personal foul by D. SchrÃ¶der (drawn by J. Wall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,11:08.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,11:07.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,10:45.0,,,,,,M. Harrell,Turnover by M. Harrell (lost ball; steal by J. Tate ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,10:45.0,,,,,,M. Harrell,Personal take foul by M. Harrell (drawn by J. Wall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,10:32.0,,,,,,J. Wall,Offensive foul by J. Wall (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,10:32.0,,,,,,J. Wall,Turnover by J. Wall (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101100HOU,1,10:19.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:18.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,10:18.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:53.0,,,,,,E. Gordon,E. Gordon makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:38.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 3 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:29.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft (assist by J. Wall ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:29.0,,,,,,D. SchrÃ¶der,Shooting foul by D. SchrÃ¶der (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,9:29.0,,,,,,J. Harden,J. Harden enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,9:29.0,,,,,,C. Wood,C. Wood misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:29.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,9:17.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,9:05.0,,,,,,J. Wall,Turnover by J. Wall (lost ball; steal by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,9:01.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 2 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:53.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,8:43.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:42.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:35.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:33.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:33.0,,,,,,A. Davis,A. Davis misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:32.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,8:29.0,,,,,,B. McLemore,B. McLemore makes 3-pt jump shot from 24 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,8:13.0,,,,,,M. Harrell,M. Harrell makes 2-pt hook shot from 9 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:45.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:42.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,7:23.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:23.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,7:15.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:12.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,7:07.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 2 ft (block by J. Harden ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101100HOU,1,7:07.0,,,,,,A. Caruso,Offensive rebound by A. Caruso,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,7:04.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 3 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:49.0,,,,,,J. Tate,Offensive foul by J. Tate (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,6:49.0,,,,,,J. Tate,Turnover by J. Tate (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101100HOU,1,6:49.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,6:49.0,,,,,,L. James,L. James enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,6:36.0,,,,,,A. Davis,A. Davis misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:35.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,6:18.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,6:02.0,,,,,,M. Harrell,M. Harrell makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:41.0,,,,,,B. McLemore,Turnover by B. McLemore (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101100HOU,1,5:41.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,5:41.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for A. Davis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,5:28.0,,,,,,K. Caldwell-Pope,Offensive foul by K. Caldwell-Pope (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,5:28.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101100HOU,1,5:13.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:01.0,,,,,,L. James,L. James misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,5:01.0,,,,,,J. Wall,Defensive rebound by J. Wall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,4:54.0,,,,,,B. McLemore,B. McLemore makes 3-pt jump shot from 27 ft (assist by J. Wall ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:54.0,,,,,,J. Tate,Loose ball foul by J. Tate (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,4:32.0,,,,,,B. McLemore,Shooting foul by B. McLemore (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,4:32.0,,,,,,M. Harrell,M. Harrell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:32.0,,,,,,M. Harrell,M. Harrell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:25.0,,,,,,J. Wall,Turnover by J. Wall (bad pass; steal by M. Harrell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,4:20.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:16.0,,,,,,T. Horton-Tucker,Offensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:14.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 2 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:14.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,4:14.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,4:14.0,,,,,,M. Gasol,M. Gasol enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,4:14.0,,,,,,K. Kuzma,K. Kuzma enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:54.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 3 ft (assist by J. Wall ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:54.0,,,,,,M. Gasol,Shooting foul by M. Gasol (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,3:54.0,,,,,,C. Wood,C. Wood makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:41.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:39.0,,,,,,B. McLemore,Defensive rebound by B. McLemore,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,3:29.0,,,,,,C. Wood,C. Wood misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:27.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,3:22.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (bad pass; steal by J. Tate ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,3:16.0,,,,,,J. Harden,Turnover by J. Harden (lost ball; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,3:11.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 2 ft (assist by K. Kuzma ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,3:02.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101100HOU,1,3:02.0,,,,,,Q. Cook,Q. Cook enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:02.0,,,,,,A. McKinnie,A. McKinnie enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:02.0,,,,,,S. Brown,S. Brown enters the game for J. Harden,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:02.0,,,,,,B. Caboclo,B. Caboclo enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:02.0,,,,,,M. Jones,M. Jones enters the game for J. Wall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,3:02.0,,,,,,K. Martin,K. Martin enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101100HOU,1,2:49.0,,,,,,S. Brown,S. Brown makes 2-pt dunk from 1 ft (assist by B. McLemore ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:30.0,,,,,,M. Gasol,M. Gasol misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:29.0,,,,,,M. Jones,Defensive rebound by M. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,2:23.0,,,,,,B. McLemore,Turnover by B. McLemore (lost ball; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101100HOU,1,2:19.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:19.0,,,,,,B. McLemore,Shooting foul by B. McLemore (drawn by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,2:19.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:11.0,,,,,,M. Jones,M. Jones misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:10.0,,,,,,M. Jones,Offensive rebound by M. Jones,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,2:05.0,,,,,,M. Jones,M. Jones makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:47.0,,,,,,A. McKinnie,A. McKinnie misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:46.0,,,,,,A. McKinnie,Offensive rebound by A. McKinnie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:45.0,,,,,,A. McKinnie,A. McKinnie makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:34.0,,,,,,K. Martin,K. Martin misses 2-pt layup from 12 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:33.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:33.0,,,,,,K. Martin,K. Martin misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:33.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:30.0,,,,,,K. Martin,K. Martin misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:29.0,,,,,,B. Caboclo,Offensive rebound by B. Caboclo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:27.0,,,,,,B. Caboclo,B. Caboclo misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,1:27.0,,,,,,A. McKinnie,Defensive rebound by A. McKinnie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,1:14.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 3 ft (assist by M. Gasol ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:59.0,,,,,,M. Gasol,Shooting foul by M. Gasol (drawn by M. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101100HOU,1,0:59.0,,,,,,M. Jones,M. Jones makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:59.0,,,,,,M. Jones,M. Jones misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:59.0,,,,,,M. Gasol,Defensive rebound by M. Gasol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,0:47.0,,,,,,Q. Cook,Q. Cook makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:41.0,,,,,,S. Brown,S. Brown makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:23.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101100HOU,1,0:20.0,,,,,,M. Jones,Defensive rebound by M. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101100HOU,1,0:14.0,,,,,,B. Caboclo,B. Caboclo makes 2-pt layup from 1 ft (assist by K. Martin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False

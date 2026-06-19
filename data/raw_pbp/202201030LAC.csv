@@ -1,0 +1,396 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202201030LAC,1,11:40.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,11:24.0,,,,,,P. Beverley,Turnover by P. Beverley (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,11:06.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:58.0,,,,,,S. Ibaka,Turnover by S. Ibaka (lost ball; steal by N. Reid ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,10:44.0,,,,,,N. Reid,N. Reid makes 2-pt layup from 4 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:22.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:20.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,10:15.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:11.0,,,,,,N. Reid,Offensive rebound by N. Reid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:04.0,,,,,,N. Reid,N. Reid makes 2-pt dunk at rim (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:46.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:25.0,,,,,,N. Reid,N. Reid makes 2-pt layup from 5 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:10.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 18 ft (assist by E. Bledsoe ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:00.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 2-pt layup from 5 ft (block by S. Ibaka ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201030LAC,1,9:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:57.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:54.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,8:50.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 5 ft (block by N. Reid ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201030LAC,1,8:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:45.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,8:39.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:35.0,,,,,,S. Ibaka,Defensive rebound by S. Ibaka,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,8:31.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:27.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,8:25.0,,,,,,P. Beverley,P. Beverley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:21.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,8:17.0,,,,,,T. Mann,T. Mann makes 3-pt jump shot from 23 ft (assist by E. Bledsoe ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:03.0,,,,,,A. Edwards,Turnover by A. Edwards (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,7:51.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:48.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,7:34.0,,,,,,P. Beverley,P. Beverley makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:22.0,,,,,,T. Mann,T. Mann makes 2-pt dunk from 1 ft (assist by S. Ibaka ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:01.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:52.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:50.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,6:31.0,,,,,,A. Edwards,A. Edwards makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:11.0,,,,,,S. Ibaka,S. Ibaka makes 3-pt jump shot from 26 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:54.0,,,,,,N. Reid,Turnover by N. Reid (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,5:54.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,5:54.0,,,,,,J. Nowell,J. Nowell enters the game for A. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,5:45.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:41.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,5:27.0,,,,,,P. Beverley,P. Beverley misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:26.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,5:22.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,5:01.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 28 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:52.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,4:52.0,,,,,,J. McDaniels,J. McDaniels enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,4:39.0,,,,,,M. Beasley,M. Beasley makes 2-pt jump shot from 5 ft (assist by J. McDaniels ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:17.0,,,,,,S. Ibaka,S. Ibaka makes 2-pt dunk from 1 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:01.0,,,,,,J. Nowell,J. Nowell makes 2-pt jump shot from 4 ft (assist by M. Beasley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:47.0,,,,,,R. Jackson,Turnover by R. Jackson (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,3:47.0,,,,,,J. Okogie,J. Okogie enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:47.0,,,,,,W. Gabriel,W. Gabriel enters the game for E. Bledsoe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:47.0,,,,,,X. Moon,X. Moon enters the game for S. Ibaka,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:35.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:33.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:21.0,,,,,,M. Morris,Turnover by M. Morris (lost ball; steal by J. Okogie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,3:17.0,,,,,,J. Nowell,J. Nowell misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:13.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:09.0,,,,,,X. Moon,X. Moon misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:09.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,2:57.0,,,,,,N. Reid,N. Reid makes 3-pt jump shot from 27 ft (assist by J. McDaniels ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:37.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt jump shot from 5 ft (block by J. Okogie ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201030LAC,1,2:34.0,,,,,,J. Nowell,Defensive rebound by J. Nowell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,2:32.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt dunk from 1 ft (assist by M. Beasley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:31.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,2:31.0,,,,,,T. Prince,T. Prince enters the game for M. Beasley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,2:31.0,,,,,,A. Coffey,A. Coffey enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,2:31.0,,,,,,K. Johnson,K. Johnson enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,2:14.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:57.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:54.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,1:50.0,,,,,,A. Coffey,Turnover by A. Coffey (bad pass; steal by J. Nowell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,1:45.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:42.0,,,,,,J. McDaniels,Offensive rebound by J. McDaniels,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:42.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:42.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,1:29.0,,,,,,J. Okogie,Shooting foul by J. Okogie (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,1:29.0,,,,,,M. Morris,M. Morris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:29.0,,,,,,N. Knight,N. Knight enters the game for N. Reid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,1:29.0,,,,,,M. Morris,M. Morris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:14.0,,,,,,T. Prince,Turnover by T. Prince (bad pass; steal by K. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,1:09.0,,,,,,T. Prince,Shooting foul by T. Prince (drawn by K. Johnson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,1:09.0,,,,,,K. Johnson,K. Johnson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:09.0,,,,,,J. Winslow,J. Winslow enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,1:09.0,,,,,,K. Johnson,K. Johnson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:49.0,,,,,,J. Okogie,J. Okogie misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:46.0,,,,,,K. Johnson,Defensive rebound by K. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,0:26.0,,,,,,A. Coffey,A. Coffey misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:23.0,,,,,,T. Prince,Defensive rebound by T. Prince,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,0:03.0,,,,,,J. Nowell,J. Nowell makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:44.0,,,,,,T. Prince,T. Prince makes 2-pt layup from 4 ft (assist by N. Knight ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:27.0,,,,,,X. Moon,X. Moon misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:25.0,,,,,,W. Gabriel,Offensive rebound by W. Gabriel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:25.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:24.0,,,,,,J. Winslow,Offensive rebound by J. Winslow,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:22.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:22.0,,,,,,J. McDaniels,Shooting foul by J. McDaniels (drawn by J. Winslow ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,11:22.0,,,,,,J. Winslow,J. Winslow makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:08.0,,,,,,T. Prince,T. Prince misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:03.0,,,,,,N. Knight,Offensive rebound by N. Knight,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:03.0,,,,,,N. Knight,Turnover by N. Knight (bad pass; steal by J. Winslow ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,10:59.0,,,,,,J. Winslow,Turnover by J. Winslow (bad pass; steal by T. Prince ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,10:50.0,,,,,,T. Prince,T. Prince misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:48.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,10:36.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:26.0,,,,,,J. McDaniels,J. McDaniels makes 3-pt jump shot from 26 ft (assist by T. Prince ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:14.0,,,,,,J. Winslow,J. Winslow misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:11.0,,,,,,J. Nowell,Defensive rebound by J. Nowell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,10:03.0,,,,,,J. Okogie,J. Okogie misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:59.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,9:53.0,,,,,,X. Moon,X. Moon misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:53.0,,,,,,J. McDaniels,Loose ball foul by J. McDaniels (drawn by W. Gabriel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,9:53.0,,,,,,A. Edwards,A. Edwards enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,9:44.0,,,,,,J. Winslow,J. Winslow misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:37.0,,,,,,J. Nowell,Defensive rebound by J. Nowell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,9:37.0,,,,,,E. Bledsoe,E. Bledsoe enters the game for X. Moon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,9:27.0,,,,,,T. Prince,T. Prince misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:22.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,9:17.0,,,,,,K. Johnson,K. Johnson misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:14.0,,,,,,J. Nowell,Defensive rebound by J. Nowell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,9:04.0,,,,,,J. Nowell,J. Nowell makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:55.0,,,,,,J. Winslow,J. Winslow makes 2-pt dunk from 1 ft (assist by A. Coffey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:32.0,,,,,,A. Edwards,A. Edwards makes 3-pt jump shot from 28 ft (assist by J. Nowell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:21.0,,,,,,N. Knight,Personal foul by N. Knight (drawn by W. Gabriel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,8:21.0,,,,,,J. McDaniels,J. McDaniels enters the game for J. Okogie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,8:13.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,8:05.0,,,,,,E. Bledsoe,Personal foul by E. Bledsoe (drawn by N. Knight ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,8:05.0,,,,,,T. Mann,T. Mann enters the game for W. Gabriel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,7:53.0,,,,,,A. Edwards,Turnover by A. Edwards (bad pass; steal by J. Winslow ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,7:49.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup from 1 ft (assist by E. Bledsoe ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:37.0,,,,,,T. Prince,T. Prince makes 2-pt layup from 2 ft (assist by A. Edwards ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:37.0,,,,,,A. Coffey,Shooting foul by A. Coffey (drawn by T. Prince ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,7:37.0,,,,,,J. Vanderbilt,J. Vanderbilt enters the game for N. Knight,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,7:37.0,,,,,,S. Ibaka,S. Ibaka enters the game for K. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,7:37.0,,,,,,R. Jackson,R. Jackson enters the game for J. Winslow,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,7:37.0,,,,,,T. Prince,T. Prince makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:19.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:19.0,,,,,,J. Nowell,Defensive rebound by J. Nowell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,7:09.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:09.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:03.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:45.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (bad pass; steal by T. Prince ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,6:40.0,,,,,,T. Prince,T. Prince makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:39.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,6:39.0,,,,,,M. Morris,M. Morris enters the game for A. Coffey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,6:15.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,5:58.0,,,,,,A. Edwards,Turnover by A. Edwards (bad pass; steal by R. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,5:52.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,5:40.0,,,,,,J. McDaniels,J. McDaniels makes 3-pt jump shot from 28 ft (assist by J. Nowell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:20.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:09.0,,,,,,J. McDaniels,J. McDaniels makes 3-pt jump shot from 24 ft (assist by A. Edwards ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:58.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:54.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,4:45.0,,,,,,A. Edwards,A. Edwards misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:42.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:42.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:24.0,,,,,,S. Ibaka,S. Ibaka makes 2-pt layup from 1 ft (assist by E. Bledsoe ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:10.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt jump shot from 20 ft (assist by T. Prince ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:49.0,,,,,,S. Ibaka,S. Ibaka makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:49.0,,,,,,T. Prince,Shooting foul by T. Prince (drawn by S. Ibaka ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,3:49.0,,,,,,P. Beverley,P. Beverley enters the game for J. Nowell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:49.0,,,,,,N. Reid,N. Reid enters the game for T. Prince,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:49.0,,,,,,A. Coffey,A. Coffey enters the game for E. Bledsoe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:49.0,,,,,,S. Ibaka,S. Ibaka makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:35.0,,,,,,N. Reid,N. Reid makes 2-pt hook shot from 8 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:22.0,,,,,,A. Coffey,A. Coffey makes 2-pt jump shot from 17 ft (assist by M. Morris ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:10.0,,,,,,A. Edwards,A. Edwards makes 3-pt jump shot from 28 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:51.0,,,,,,S. Ibaka,S. Ibaka makes 3-pt jump shot from 27 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:39.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:20.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,2:12.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:10.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,1:51.0,,,,,,P. Beverley,P. Beverley makes 2-pt layup from 4 ft (assist by A. Edwards ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:34.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:28.0,,,,,,S. Ibaka,Offensive rebound by S. Ibaka,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:28.0,,,,,,S. Ibaka,S. Ibaka makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:08.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:06.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,1:00.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:57.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,0:43.0,,,,,,R. Jackson,Personal foul by R. Jackson (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,0:31.0,,,,,,N. Reid,N. Reid misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:28.0,,,,,,S. Ibaka,Defensive rebound by S. Ibaka,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,0:28.0,,,,,,S. Ibaka,Turnover by S. Ibaka (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,0:08.0,,,,,,T. Mann,Shooting foul by T. Mann (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,0:08.0,,,,,,P. Beverley,P. Beverley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:08.0,,,,,,P. Beverley,P. Beverley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:02.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:37.0,,,,,,P. Beverley,P. Beverley misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:34.0,,,,,,N. Reid,Offensive rebound by N. Reid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:29.0,,,,,,N. Reid,N. Reid misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:26.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,11:11.0,,,,,,S. Ibaka,S. Ibaka makes 2-pt layup from 2 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:56.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 26 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:28.0,,,,,,T. Mann,T. Mann makes 2-pt jump shot from 11 ft (assist by R. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:04.0,,,,,,P. Beverley,P. Beverley misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:00.0,,,,,,S. Ibaka,Defensive rebound by S. Ibaka,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,9:58.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,9:58.0,,,,,,E. Bledsoe,Personal foul by E. Bledsoe (drawn by J. Vanderbilt ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,9:42.0,,,,,,N. Reid,Turnover by N. Reid (bad pass; steal by T. Mann ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,9:38.0,,,,,,T. Mann,Turnover by T. Mann (lost ball; steal by J. Vanderbilt ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,9:36.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt dunk from 1 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:18.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:16.0,,,,,,M. Beasley,Defensive rebound by M. Beasley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,9:04.0,,,,,,P. Beverley,P. Beverley misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:59.0,,,,,,N. Reid,Offensive rebound by N. Reid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:47.0,,,,,,A. Edwards,Turnover by A. Edwards (lost ball; steal by E. Bledsoe ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,8:42.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 25 ft (assist by E. Bledsoe ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:42.0,,,,,,P. Beverley,Shooting foul by P. Beverley (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,8:42.0,,,,,,M. Morris,M. Morris makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:16.0,,,,,,P. Beverley,P. Beverley misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:14.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,8:07.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:05.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,7:56.0,,,,,,A. Edwards,A. Edwards makes 3-pt jump shot from 25 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:56.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,7:56.0,,,,,,X. Moon,X. Moon enters the game for S. Ibaka,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,7:56.0,,,,,,J. Winslow,J. Winslow enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,7:35.0,,,,,,T. Mann,Turnover by T. Mann (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,7:15.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 27 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:48.0,,,,,,J. Winslow,J. Winslow misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:46.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,6:36.0,,,,,,P. Beverley,P. Beverley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:32.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,6:20.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:15.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,5:56.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:56.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,5:56.0,,,,,,J. Nowell,J. Nowell enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,5:42.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:38.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,5:33.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:30.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,5:16.0,,,,,,J. Winslow,Turnover by J. Winslow (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,5:16.0,,,,,,J. McDaniels,J. McDaniels enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,5:16.0,,,,,,A. Coffey,A. Coffey enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,5:06.0,,,,,,A. Edwards,A. Edwards makes 3-pt jump shot from 27 ft (assist by N. Reid ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:58.0,,,,,,M. Beasley,Shooting foul by M. Beasley (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,4:58.0,,,,,,E. Bledsoe,E. Bledsoe misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:58.0,,,,,,K. Johnson,K. Johnson enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,4:58.0,,,,,,E. Bledsoe,E. Bledsoe makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:34.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:30.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,4:20.0,,,,,,K. Johnson,K. Johnson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:18.0,,,,,,A. Edwards,Defensive rebound by A. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,4:17.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,4:17.0,,,,,,T. Prince,T. Prince enters the game for A. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,4:17.0,,,,,,W. Gabriel,W. Gabriel enters the game for E. Bledsoe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,4:03.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:00.0,,,,,,X. Moon,Defensive rebound by X. Moon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:55.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup from 5 ft (assist by W. Gabriel ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:29.0,,,,,,N. Reid,N. Reid misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:27.0,,,,,,X. Moon,Defensive rebound by X. Moon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:23.0,,,,,,X. Moon,X. Moon misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:18.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:10.0,,,,,,M. Beasley,M. Beasley misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:09.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:03.0,,,,,,A. Coffey,A. Coffey misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:02.0,,,,,,T. Prince,Defensive rebound by T. Prince,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:01.0,,,,,,J. Winslow,Personal take foul by J. Winslow (drawn by T. Prince ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,2:47.0,,,,,,J. Nowell,J. Nowell makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:42.0,,,,,,N. Reid,Shooting foul by N. Reid (drawn by A. Coffey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,2:42.0,,,,,,A. Coffey,A. Coffey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:42.0,,,,,,A. Coffey,A. Coffey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:22.0,,,,,,J. Nowell,J. Nowell misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:18.0,,,,,,K. Johnson,Defensive rebound by K. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,2:11.0,,,,,,X. Moon,X. Moon misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:06.0,,,,,,X. Moon,Offensive rebound by X. Moon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:05.0,,,,,,X. Moon,X. Moon makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:49.0,,,,,,J. McDaniels,J. McDaniels misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:47.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,1:36.0,,,,,,K. Johnson,K. Johnson makes 2-pt dunk from 1 ft (assist by J. Winslow ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:24.0,,,,,,N. Reid,N. Reid makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:13.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt layup from 2 ft (block by T. Prince ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201030LAC,1,1:10.0,,,,,,T. Prince,Defensive rebound by T. Prince,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,1:07.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:07.0,,,,,,A. Edwards,A. Edwards enters the game for M. Beasley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,1:07.0,,,,,,N. Knight,N. Knight enters the game for N. Reid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,0:59.0,,,,,,J. Nowell,Turnover by J. Nowell (lost ball; steal by X. Moon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,0:42.0,,,,,,A. Coffey,A. Coffey misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:40.0,,,,,,N. Knight,Defensive rebound by N. Knight,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,0:29.0,,,,,,T. Prince,T. Prince makes 3-pt jump shot from 26 ft (assist by J. Nowell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:05.0,,,,,,X. Moon,X. Moon misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:04.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,0:03.0,,,,,,J. McDaniels,Turnover by J. McDaniels (bad pass; steal by J. Winslow ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,0:02.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:01.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 46 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:42.0,,,,,,K. Johnson,K. Johnson misses 2-pt layup from 7 ft (block by A. Edwards ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201030LAC,1,11:38.0,,,,,,A. Edwards,Defensive rebound by A. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,11:34.0,,,,,,T. Prince,Turnover by T. Prince (lost ball; steal by X. Moon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,11:22.0,,,,,,J. Ennis,J. Ennis makes 3-pt jump shot from 28 ft (assist by X. Moon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:08.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup from 4 ft (assist by N. Knight ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,11:08.0,,,,,,J. Ennis,Shooting foul by J. Ennis (drawn by A. Edwards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,11:08.0,,,,,,A. Edwards,A. Edwards makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:54.0,,,,,,K. Johnson,K. Johnson misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:52.0,,,,,,T. Prince,Loose ball foul by T. Prince (drawn by J. Ennis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,10:46.0,,,,,,X. Moon,X. Moon makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:22.0,,,,,,T. Prince,T. Prince makes 2-pt jump shot from 10 ft (assist by J. Nowell ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,10:06.0,,,,,,X. Moon,X. Moon makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:52.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:46.0,,,,,,N. Knight,Offensive rebound by N. Knight,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:46.0,,,,,,N. Knight,N. Knight misses 2-pt layup at rim (block by J. Ennis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201030LAC,1,9:46.0,,,,,,X. Moon,Defensive rebound by X. Moon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,9:38.0,,,,,,X. Moon,X. Moon makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,9:19.0,,,,,,J. Nowell,Turnover by J. Nowell (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,9:19.0,,,,,,J. Vanderbilt,J. Vanderbilt enters the game for N. Knight,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,9:05.0,,,,,,K. Johnson,K. Johnson makes 3-pt jump shot from 26 ft (assist by X. Moon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:47.0,,,,,,J. McDaniels,J. McDaniels makes 3-pt jump shot from 26 ft (assist by T. Prince ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:33.0,,,,,,X. Moon,X. Moon makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:20.0,,,,,,J. Nowell,J. Nowell misses 2-pt layup from 6 ft (block by X. Moon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201030LAC,1,8:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:20.0,,,,,,P. Beverley,P. Beverley enters the game for J. Nowell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,8:11.0,,,,,,A. Edwards,A. Edwards makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,8:00.0,,,,,,K. Johnson,Turnover by K. Johnson (lost ball; steal by P. Beverley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,7:56.0,,,,,,T. Prince,T. Prince makes 2-pt layup from 1 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:41.0,,,,,,A. Edwards,Shooting foul by A. Edwards (drawn by K. Johnson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,7:41.0,,,,,,K. Johnson,K. Johnson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:41.0,,,,,,K. Johnson,K. Johnson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:27.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:23.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:21.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,7:21.0,,,,,,J. Scrubb,J. Scrubb enters the game for K. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,7:02.0,,,,,,X. Moon,X. Moon misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:59.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,6:49.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:27.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,6:23.0,,,,,,J. Ennis,J. Ennis makes 2-pt layup from 2 ft (assist by J. Winslow ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,6:01.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:56.0,,,,,,J. Winslow,Defensive rebound by J. Winslow,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,5:54.0,,,,,,J. Winslow,Turnover by J. Winslow (bad pass; steal by A. Edwards ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,5:51.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:29.0,,,,,,J. Ennis,Turnover by J. Ennis (lost ball; steal by P. Beverley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,5:21.0,,,,,,J. Ennis,Flagrant foul type 1 by J. Ennis (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,5:21.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:21.0,,,,,,P. Beverley,P. Beverley makes flagrant free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:21.0,,,,,,P. Beverley,P. Beverley makes flagrant free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:18.0,,,,,,P. Beverley,P. Beverley makes 2-pt jump shot from 3 ft (assist by A. Edwards ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:18.0,,,,,,X. Moon,Shooting foul by X. Moon (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,5:18.0,,,,,,P. Beverley,P. Beverley makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:02.0,,,,,,A. Coffey,A. Coffey misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,5:00.0,,,,,,T. Prince,Defensive rebound by T. Prince,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,4:56.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt layup from 2 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:38.0,,,,,,A. Coffey,A. Coffey makes 3-pt jump shot from 27 ft (assist by J. Scrubb ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,4:20.0,,,,,,T. Prince,T. Prince makes 3-pt jump shot from 27 ft (assist by J. McDaniels ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:55.0,,,,,,J. Winslow,J. Winslow makes 2-pt layup from 4 ft (assist by A. Coffey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:55.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201030LAC,1,3:55.0,,,,,,J. Nowell,J. Nowell enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:55.0,,,,,,J. Okogie,J. Okogie enters the game for A. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:55.0,,,,,,W. Gabriel,W. Gabriel enters the game for J. Winslow,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:38.0,,,,,,A. Coffey,Shooting foul by A. Coffey (drawn by J. Okogie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,3:38.0,,,,,,J. Okogie,J. Okogie makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:38.0,,,,,,L. Bolmaro,L. Bolmaro enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:38.0,,,,,,N. Knight,N. Knight enters the game for T. Prince,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:38.0,,,,,,J. McLaughlin,J. McLaughlin enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201030LAC,1,3:38.0,,,,,,J. Okogie,J. Okogie misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:33.0,,,,,,J. Ennis,Defensive rebound by J. Ennis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,3:23.0,,,,,,J. Ennis,J. Ennis makes 3-pt jump shot from 27 ft (assist by X. Moon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:07.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,3:03.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,2:50.0,,,,,,W. Gabriel,W. Gabriel misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:50.0,,,,,,L. Bolmaro,Defensive rebound by L. Bolmaro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,2:34.0,,,,,,J. Okogie,J. Okogie makes 3-pt jump shot from 26 ft (assist by J. McLaughlin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:22.0,,,,,,J. Ennis,J. Ennis makes 2-pt layup from 2 ft (assist by X. Moon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:09.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:05.0,,,,,,J. Okogie,Offensive rebound by J. Okogie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,2:03.0,,,,,,J. Okogie,Turnover by J. Okogie (bad pass; steal by X. Moon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,2:00.0,,,,,,X. Moon,X. Moon makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:51.0,,,,,,J. Okogie,Turnover by J. Okogie (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201030LAC,1,1:51.0,,,,,,N. Knight,Loose ball foul by N. Knight (drawn by J. Ennis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,1:42.0,,,,,,J. Nowell,Shooting foul by J. Nowell (drawn by A. Coffey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,1:42.0,,,,,,A. Coffey,A. Coffey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:42.0,,,,,,A. Coffey,A. Coffey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:24.0,,,,,,J. Nowell,Turnover by J. Nowell (bad pass; steal by X. Moon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,1:19.0,,,,,,L. Bolmaro,Personal foul by L. Bolmaro (drawn by J. Scrubb ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201030LAC,1,1:19.0,,,,,,J. Scrubb,J. Scrubb misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:19.0,,,,,,J. Scrubb,J. Scrubb makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:07.0,,,,,,L. Bolmaro,L. Bolmaro misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:03.0,,,,,,J. Nowell,Offensive rebound by J. Nowell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201030LAC,1,1:03.0,,,,,,J. McLaughlin,J. McLaughlin makes 2-pt layup from 1 ft (assist by J. Nowell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:45.0,,,,,,W. Gabriel,W. Gabriel makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:37.0,,,,,,N. Knight,N. Knight makes 2-pt jump shot from 5 ft (assist by J. McLaughlin ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:31.0,,,,,,J. Scrubb,J. Scrubb misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:28.0,,,,,,J. Okogie,Defensive rebound by J. Okogie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201030LAC,1,0:20.0,,,,,,J. Okogie,Turnover by J. Okogie (lost ball; steal by J. Scrubb ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201030LAC,1,0:20.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201030LAC,1,0:14.0,,,,,,J. Scrubb,J. Scrubb makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False

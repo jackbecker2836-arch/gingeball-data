@@ -1,0 +1,458 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202101200HOU,1,11:45.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:44.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,11:35.0,,,,,,C. Johnson,C. Johnson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:35.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,11:20.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:01.0,,,,,,C. Wood,Personal foul by C. Wood (drawn by D. Ayton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,10:52.0,,,,,,D. Ayton,D. Ayton makes 2-pt layup from 3 ft (assist by D. Booker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:39.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt layup from 10 ft (block by C. Paul ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,10:37.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:33.0,,,,,,M. Bridges,M. Bridges makes 2-pt layup from 2 ft (assist by C. Paul ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:23.0,,,,,,C. Wood,Turnover by C. Wood (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,10:10.0,,,,,,C. Paul,Turnover by C. Paul (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,9:58.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 2 ft (assist by V. Oladipo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:52.0,,,,,,D. Booker,D. Booker misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:51.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,9:39.0,,,,,,V. Oladipo,V. Oladipo makes 2-pt layup from 1 ft (assist by C. Wood ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:22.0,,,,,,C. Johnson,C. Johnson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:18.0,,,,,,D. Ayton,Offensive rebound by D. Ayton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:18.0,,,,,,D. Ayton,D. Ayton makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:07.0,,,,,,V. Oladipo,V. Oladipo misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:07.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:58.0,,,,,,C. Paul,Turnover by C. Paul (bad pass; steal by C. Wood ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,8:54.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:35.0,,,,,,J. Tate,Personal foul by J. Tate (drawn by D. Ayton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,8:29.0,,,,,,D. Booker,D. Booker makes 2-pt layup from 3 ft (assist by C. Johnson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:15.0,,,,,,E. Gordon,E. Gordon misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:14.0,,,,,,D. Booker,Defensive rebound by D. Booker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:03.0,,,,,,D. Booker,D. Booker makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:50.0,,,,,,C. Wood,Turnover by C. Wood (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,7:34.0,,,,,,C. Paul,Turnover by C. Paul (bad pass; steal by V. Oladipo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,7:30.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt layup from 3 ft (block by D. Booker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,7:27.0,,,,,,E. Gordon,Offensive rebound by E. Gordon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:26.0,,,,,,E. Gordon,E. Gordon makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:06.0,,,,,,D. Booker,Turnover by D. Booker (bad pass; steal by P. Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,6:59.0,,,,,,P. Tucker,Turnover by P. Tucker (bad pass; steal by C. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,6:50.0,,,,,,M. Bridges,M. Bridges misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:48.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,6:41.0,,,,,,E. Gordon,E. Gordon misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:39.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,6:39.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,6:39.0,,,,,,C. Payne,C. Payne enters the game for C. Paul,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,6:18.0,,,,,,D. Booker,D. Booker makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:06.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:05.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,5:56.0,,,,,,D. Booker,Turnover by D. Booker (bad pass; steal by C. Wood ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,5:50.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:38.0,,,,,,D. Ayton,D. Ayton makes 2-pt jump shot from 23 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:24.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:16.0,,,,,,J. Tate,Personal foul by J. Tate (drawn by D. Ayton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,5:16.0,,,,,,J. Crowder,J. Crowder enters the game for C. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,5:16.0,,,,,,B. McLemore,B. McLemore enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,5:16.0,,,,,,D. Nwaba,D. Nwaba enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,5:07.0,,,,,,C. Payne,C. Payne misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:06.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:54.0,,,,,,C. Payne,Personal foul by C. Payne (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,4:45.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:43.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:39.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by D. Ayton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,4:39.0,,,,,,D. Ayton,D. Ayton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:39.0,,,,,,J. Carter,J. Carter enters the game for M. Bridges,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:39.0,,,,,,D. Ayton,D. Ayton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:26.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:21.0,,,,,,D. Nwaba,Offensive rebound by D. Nwaba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:21.0,,,,,,D. Nwaba,D. Nwaba misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:21.0,,,,,,D. Booker,Defensive rebound by D. Booker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:18.0,,,,,,D. Booker,Turnover by D. Booker (bad pass; steal by D. Nwaba ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,4:15.0,,,,,,P. Tucker,P. Tucker makes 2-pt jump shot from 2 ft (assist by D. Nwaba ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:04.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:04.0,,,,,,B. McLemore,Defensive rebound by B. McLemore,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,3:56.0,,,,,,V. Oladipo,V. Oladipo makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:41.0,,,,,,J. Carter,J. Carter misses 2-pt layup from 5 ft (block by C. Wood ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,3:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:41.0,,,,,,F. Kaminsky,F. Kaminsky enters the game for D. Ayton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,3:34.0,,,,,,D. Booker,D. Booker makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:21.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:18.0,,,,,,C. Payne,Defensive rebound by C. Payne,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,3:01.0,,,,,,B. McLemore,Shooting foul by B. McLemore (drawn by C. Payne ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,3:01.0,,,,,,C. Payne,C. Payne makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:01.0,,,,,,C. Payne,C. Payne makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:01.0,,,,,,D. Cousins,D. Cousins enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,3:01.0,,,,,,C. Payne,C. Payne makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:44.0,,,,,,D. Nwaba,D. Nwaba misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:42.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,2:42.0,,,,,,,Phoenix full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,2:42.0,,,,,,E. Gordon,E. Gordon enters the game for V. Oladipo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,2:28.0,,,,,,D. Booker,D. Booker misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:23.0,,,,,,D. Booker,D. Booker makes 2-pt jump shot from 23 ft (assist by C. Payne ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:59.0,,,,,,E. Gordon,E. Gordon misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:59.0,,,,,,J. Crowder,Loose ball foul by J. Crowder (drawn by E. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,1:49.0,,,,,,D. Cousins,D. Cousins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:46.0,,,,,,C. Payne,Defensive rebound by C. Payne,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,1:44.0,,,,,,D. Nwaba,Personal foul by D. Nwaba (drawn by D. Booker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,1:44.0,,,,,,D. Booker,D. Booker misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:44.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:44.0,,,,,,S. Brown,S. Brown enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,1:44.0,,,,,,D. Booker,D. Booker makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:31.0,,,,,,F. Kaminsky,Shooting foul by F. Kaminsky (drawn by D. Cousins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,1:31.0,,,,,,D. Cousins,D. Cousins misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:31.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:31.0,,,,,,D. Cousins,D. Cousins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:14.0,,,,,,F. Kaminsky,F. Kaminsky misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:13.0,,,,,,S. Brown,Defensive rebound by S. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,0:59.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 1 ft (assist by S. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:46.0,,,,,,F. Kaminsky,F. Kaminsky makes 2-pt layup from 3 ft (assist by C. Payne ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:32.0,,,,,,S. Brown,S. Brown makes 2-pt layup from 1 ft (assist by D. Cousins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:09.0,,,,,,J. Crowder,J. Crowder makes 3-pt jump shot from 23 ft (assist by C. Payne ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:00.0,,,,,,E. Gordon,E. Gordon misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:00.0,,,,,,D. Booker,Defensive rebound by D. Booker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,11:45.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:44.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,11:26.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 1 ft (assist by D. Cousins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:10.0,,,,,,J. Crowder,J. Crowder misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:09.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:55.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:55.0,,,,,,C. Paul,Defensive rebound by C. Paul,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:45.0,,,,,,C. Paul,C. Paul makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:33.0,,,,,,B. McLemore,B. McLemore makes 3-pt jump shot from 25 ft (assist by E. Gordon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:33.0,,,,,,A. Nader,Shooting foul by A. Nader (drawn by B. McLemore ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,10:33.0,,,,,,C. Johnson,C. Johnson enters the game for J. Crowder,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,10:33.0,,,,,,B. McLemore,B. McLemore makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:20.0,,,,,,J. Carter,J. Carter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:19.0,,,,,,E. Gordon,Defensive rebound by E. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:19.0,,,,,,M. Jones,M. Jones enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,10:08.0,,,,,,D. Cousins,Turnover by D. Cousins (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,10:01.0,,,,,,C. Paul,C. Paul makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:39.0,,,,,,D. Cousins,Turnover by D. Cousins (bad pass; steal by C. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,9:28.0,,,,,,C. Paul,C. Paul makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:20.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,8:59.0,,,,,,D. Cousins,D. Cousins makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:47.0,,,,,,A. Nader,A. Nader makes 2-pt jump shot from 6 ft (assist by C. Paul ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:47.0,,,,,,D. Cousins,Shooting foul by D. Cousins (drawn by A. Nader ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,8:47.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,8:47.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:47.0,,,,,,M. Bridges,M. Bridges enters the game for J. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,8:47.0,,,,,,A. Nader,A. Nader makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:31.0,,,,,,E. Gordon,E. Gordon misses 2-pt layup from 4 ft (block by D. Ayton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,8:28.0,,,,,,A. Nader,Defensive rebound by A. Nader,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:23.0,,,,,,C. Johnson,Turnover by C. Johnson (bad pass; steal by M. Jones ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,8:23.0,,,,,,M. Jones,Turnover by M. Jones (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,8:17.0,,,,,,D. Ayton,D. Ayton makes 2-pt layup from 3 ft (assist by C. Johnson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:17.0,,,,,,D. Nwaba,D. Nwaba enters the game for D. Cousins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,8:17.0,,,,,,C. Wood,C. Wood enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,8:03.0,,,,,,M. Jones,M. Jones makes 3-pt jump shot from 23 ft (assist by C. Wood ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:44.0,,,,,,C. Johnson,C. Johnson misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:44.0,,,,,,D. Ayton,Offensive rebound by D. Ayton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:40.0,,,,,,D. Ayton,Turnover by D. Ayton (lost ball; steal by S. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,7:23.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:22.0,,,,,,A. Nader,Defensive rebound by A. Nader,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,7:15.0,,,,,,M. Bridges,M. Bridges misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:15.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,7:06.0,,,,,,D. Ayton,Shooting foul by D. Ayton (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,7:06.0,,,,,,C. Wood,C. Wood makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:06.0,,,,,,,Phoenix full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,7:06.0,,,,,,D. Booker,D. Booker enters the game for A. Nader,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,7:06.0,,,,,,C. Wood,C. Wood misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:06.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,6:42.0,,,,,,C. Paul,C. Paul makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:29.0,,,,,,M. Jones,Turnover by M. Jones (bad pass; steal by C. Paul ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,6:24.0,,,,,,C. Johnson,C. Johnson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:22.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,6:17.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:01.0,,,,,,D. Booker,Offensive foul by D. Booker (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,6:01.0,,,,,,D. Booker,Turnover by D. Booker (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101200HOU,1,6:01.0,,,,,,J. Crowder,J. Crowder enters the game for C. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,6:01.0,,,,,,C. Payne,C. Payne enters the game for C. Paul,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,5:51.0,,,,,,M. Jones,M. Jones makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:37.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:37.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,5:25.0,,,,,,,Phoenix full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,5:25.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:25.0,,,,,,V. Oladipo,V. Oladipo enters the game for S. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,5:25.0,,,,,,P. Tucker,P. Tucker enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,5:12.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:08.0,,,,,,J. Crowder,Defensive rebound by J. Crowder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:59.0,,,,,,P. Tucker,Personal foul by P. Tucker (drawn by D. Booker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,4:59.0,,,,,,F. Kaminsky,F. Kaminsky enters the game for D. Ayton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:46.0,,,,,,J. Crowder,J. Crowder makes 3-pt jump shot from 26 ft (assist by C. Payne ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:35.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:32.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:24.0,,,,,,C. Payne,C. Payne makes 3-pt jump shot from 25 ft (assist by F. Kaminsky ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:15.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt layup from 5 ft (block by C. Payne ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,4:11.0,,,,,,D. Booker,Defensive rebound by D. Booker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:11.0,,,,,,J. Crowder,J. Crowder makes 2-pt dunk from 2 ft (assist by D. Booker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:11.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,4:11.0,,,,,,E. Gordon,E. Gordon enters the game for M. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,3:57.0,,,,,,P. Tucker,Offensive foul by P. Tucker (drawn by C. Payne ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,3:57.0,,,,,,P. Tucker,Turnover by P. Tucker (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101200HOU,1,3:57.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:46.0,,,,,,M. Bridges,M. Bridges makes 2-pt layup from 2 ft (assist by C. Payne ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:46.0,,,,,,J. Tate,Shooting foul by J. Tate (drawn by M. Bridges ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,3:46.0,,,,,,M. Bridges,M. Bridges makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:37.0,,,,,,F. Kaminsky,Personal foul by F. Kaminsky (drawn by V. Oladipo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,3:27.0,,,,,,V. Oladipo,V. Oladipo misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:27.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,3:05.0,,,,,,F. Kaminsky,F. Kaminsky misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:04.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,2:52.0,,,,,,J. Tate,Turnover by J. Tate (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,2:45.0,,,,,,F. Kaminsky,F. Kaminsky makes 2-pt dunk from 2 ft (assist by M. Bridges ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:23.0,,,,,,P. Tucker,P. Tucker misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:23.0,,,,,,F. Kaminsky,Defensive rebound by F. Kaminsky,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,2:21.0,,,,,,P. Tucker,Personal take foul by P. Tucker (drawn by F. Kaminsky ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,2:21.0,,,,,,C. Paul,C. Paul enters the game for D. Booker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,2:21.0,,,,,,D. Cousins,D. Cousins enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,2:15.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:15.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,2:04.0,,,,,,V. Oladipo,V. Oladipo makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:46.0,,,,,,C. Payne,C. Payne makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:28.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:28.0,,,,,,J. Crowder,Defensive rebound by J. Crowder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,1:22.0,,,,,,F. Kaminsky,F. Kaminsky misses 2-pt layup from 3 ft (block by D. Cousins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,1:19.0,,,,,,V. Oladipo,Defensive rebound by V. Oladipo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,1:09.0,,,,,,F. Kaminsky,Shooting foul by F. Kaminsky (drawn by E. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,1:09.0,,,,,,E. Gordon,E. Gordon misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:09.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:09.0,,,,,,D. Ayton,D. Ayton enters the game for F. Kaminsky,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,1:09.0,,,,,,D. Booker,D. Booker enters the game for C. Payne,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,1:09.0,,,,,,E. Gordon,E. Gordon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:51.0,,,,,,D. Booker,Turnover by D. Booker (bad pass; steal by V. Oladipo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,0:48.0,,,,,,V. Oladipo,V. Oladipo makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:40.0,,,,,,D. Booker,Offensive foul by D. Booker (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,0:40.0,,,,,,D. Booker,Turnover by D. Booker (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101200HOU,1,0:33.0,,,,,,V. Oladipo,V. Oladipo makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:31.0,,,,,,D. Cousins,Personal foul by D. Cousins (drawn by C. Paul ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,0:31.0,,,,,,C. Paul,C. Paul makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:31.0,,,,,,C. Paul,C. Paul makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:20.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt layup from 3 ft (block by D. Ayton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,0:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:15.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt jump shot from 8 ft (block by D. Ayton ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,0:15.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,0:15.0,,,,,,V. Oladipo,Loose ball foul by V. Oladipo (drawn by C. Paul ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,0:15.0,,,,,,C. Paul,C. Paul makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:15.0,,,,,,J. Carter,J. Carter enters the game for D. Booker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,0:15.0,,,,,,B. McLemore,B. McLemore enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,0:15.0,,,,,,C. Paul,C. Paul makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:01.0,,,,,,E. Gordon,E. Gordon makes 3-pt jump shot from 29 ft (assist by V. Oladipo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:46.0,,,,,,D. Ayton,D. Ayton makes 2-pt dunk at rim (assist by M. Bridges ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:28.0,,,,,,E. Gordon,Turnover by E. Gordon (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,11:16.0,,,,,,D. Ayton,D. Ayton misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:15.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:59.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 7 ft (block by M. Bridges ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,10:59.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:51.0,,,,,,M. Bridges,Offensive foul by M. Bridges (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,10:51.0,,,,,,M. Bridges,Turnover by M. Bridges (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101200HOU,1,10:40.0,,,,,,V. Oladipo,Offensive foul by V. Oladipo (drawn by M. Bridges ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,10:40.0,,,,,,V. Oladipo,Turnover by V. Oladipo (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202101200HOU,1,10:28.0,,,,,,D. Ayton,Turnover by D. Ayton (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,10:18.0,,,,,,E. Gordon,E. Gordon makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:02.0,,,,,,D. Booker,D. Booker makes 2-pt jump shot from 2 ft (assist by D. Ayton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:48.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:48.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,9:38.0,,,,,,D. Booker,D. Booker makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:21.0,,,,,,E. Gordon,E. Gordon misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:20.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,9:10.0,,,,,,C. Paul,C. Paul misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:09.0,,,,,,V. Oladipo,Defensive rebound by V. Oladipo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:58.0,,,,,,J. Tate,Turnover by J. Tate (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,8:43.0,,,,,,M. Bridges,M. Bridges makes 3-pt jump shot from 23 ft (assist by D. Ayton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:28.0,,,,,,J. Tate,J. Tate misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:28.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:20.0,,,,,,M. Bridges,Turnover by M. Bridges (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,8:08.0,,,,,,V. Oladipo,Turnover by V. Oladipo (bad pass; steal by M. Bridges ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,8:04.0,,,,,,C. Johnson,C. Johnson makes 2-pt dunk from 3 ft (assist by M. Bridges ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:04.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,8:04.0,,,,,,S. Brown,S. Brown enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,7:46.0,,,,,,E. Gordon,E. Gordon makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:28.0,,,,,,C. Paul,C. Paul misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:26.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,7:10.0,,,,,,C. Wood,C. Wood makes 3-pt jump shot from 23 ft (assist by V. Oladipo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:59.0,,,,,,D. Booker,D. Booker misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:59.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,6:47.0,,,,,,V. Oladipo,V. Oladipo makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:28.0,,,,,,C. Johnson,C. Johnson makes 3-pt jump shot from 25 ft (assist by M. Bridges ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:11.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 2 ft (assist by V. Oladipo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:54.0,,,,,,D. Booker,D. Booker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:54.0,,,,,,D. Ayton,Offensive rebound by D. Ayton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:40.0,,,,,,D. Ayton,D. Ayton makes 2-pt dunk from 1 ft (assist by C. Johnson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:23.0,,,,,,J. Tate,J. Tate makes 3-pt jump shot from 26 ft (assist by V. Oladipo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:58.0,,,,,,D. Booker,D. Booker misses 2-pt layup from 8 ft (block by V. Oladipo ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,4:55.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:48.0,,,,,,E. Gordon,E. Gordon misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:46.0,,,,,,C. Paul,Defensive rebound by C. Paul,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:40.0,,,,,,M. Bridges,M. Bridges misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:36.0,,,,,,D. Ayton,Offensive rebound by D. Ayton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:36.0,,,,,,D. Ayton,D. Ayton makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:15.0,,,,,,E. Gordon,E. Gordon misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:13.0,,,,,,V. Oladipo,Offensive rebound by V. Oladipo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:06.0,,,,,,C. Paul,Personal foul by C. Paul (drawn by V. Oladipo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,4:06.0,,,,,,J. Crowder,J. Crowder enters the game for D. Ayton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:06.0,,,,,,F. Kaminsky,F. Kaminsky enters the game for C. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:06.0,,,,,,C. Payne,C. Payne enters the game for C. Paul,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:06.0,,,,,,D. Nwaba,D. Nwaba enters the game for E. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,3:59.0,,,,,,M. Bridges,Shooting foul by M. Bridges (drawn by V. Oladipo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,3:59.0,,,,,,V. Oladipo,V. Oladipo makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:59.0,,,,,,V. Oladipo,V. Oladipo makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:59.0,,,,,,V. Oladipo,V. Oladipo makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:40.0,,,,,,J. Tate,Shooting foul by J. Tate (drawn by J. Crowder ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,3:40.0,,,,,,J. Crowder,J. Crowder misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:40.0,,,,,,J. Crowder,J. Crowder makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:24.0,,,,,,C. Wood,C. Wood makes 3-pt jump shot from 26 ft (assist by V. Oladipo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:09.0,,,,,,D. Booker,D. Booker misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:09.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,2:50.0,,,,,,S. Brown,S. Brown makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:34.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:34.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,2:29.0,,,,,,D. Booker,Shooting foul by D. Booker (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,2:29.0,,,,,,,Phoenix full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,2:29.0,,,,,,J. Tate,J. Tate makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:29.0,,,,,,J. Tate,J. Tate makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:29.0,,,,,,C. Johnson,C. Johnson enters the game for M. Bridges,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,2:29.0,,,,,,M. Jones,M. Jones enters the game for V. Oladipo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,2:08.0,,,,,,C. Payne,C. Payne misses 2-pt layup from 4 ft (block by C. Wood ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,2:05.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,1:56.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:56.0,,,,,,C. Johnson,Defensive rebound by C. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,1:44.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:43.0,,,,,,F. Kaminsky,Offensive rebound by F. Kaminsky,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:37.0,,,,,,C. Johnson,C. Johnson makes 3-pt jump shot from 23 ft (assist by J. Crowder ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:08.0,,,,,,C. Wood,C. Wood makes 2-pt jump shot from 12 ft (assist by S. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:54.0,,,,,,C. Payne,C. Payne makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:45.0,,,,,,S. Brown,S. Brown misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:45.0,,,,,,D. Booker,Defensive rebound by D. Booker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,0:37.0,,,,,,D. Booker,D. Booker makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:20.0,,,,,,C. Wood,C. Wood misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:20.0,,,,,,D. Nwaba,Offensive rebound by D. Nwaba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:19.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt jump shot from 2 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:19.0,,,,,,D. Booker,Shooting foul by D. Booker (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,0:19.0,,,,,,C. Paul,C. Paul enters the game for C. Payne,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,0:19.0,,,,,,B. McLemore,B. McLemore enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,0:19.0,,,,,,D. Nwaba,D. Nwaba makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:00.0,,,,,,F. Kaminsky,F. Kaminsky misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:50.0,,,,,,M. Jones,M. Jones makes 2-pt layup from 2 ft (assist by D. Cousins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:34.0,,,,,,C. Paul,Turnover by C. Paul (bad pass; steal by S. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,11:32.0,,,,,,S. Brown,Turnover by S. Brown (lost ball; steal by J. Crowder ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,11:27.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:22.0,,,,,,C. Johnson,Offensive rebound by C. Johnson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:22.0,,,,,,C. Johnson,C. Johnson misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:21.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,11:17.0,,,,,,D. Cousins,D. Cousins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:14.0,,,,,,D. Nwaba,Offensive rebound by D. Nwaba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:00.0,,,,,,M. Jones,M. Jones misses 3-pt jump shot from 33 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,11:00.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:39.0,,,,,,D. Ayton,D. Ayton makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:28.0,,,,,,D. Nwaba,D. Nwaba misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:26.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,10:15.0,,,,,,J. Crowder,J. Crowder makes 2-pt layup from 2 ft (assist by C. Paul ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,10:00.0,,,,,,B. McLemore,Turnover by B. McLemore (bad pass; steal by J. Crowder ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,9:52.0,,,,,,C. Johnson,Turnover by C. Johnson (bad pass; steal by M. Jones ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,9:48.0,,,,,,M. Jones,M. Jones misses 2-pt layup from 4 ft (block by C. Johnson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,9:45.0,,,,,,C. Paul,Defensive rebound by C. Paul,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,9:34.0,,,,,,D. Ayton,D. Ayton makes 2-pt dunk from 1 ft (assist by C. Paul ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:21.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,9:21.0,,,,,,J. Crowder,Defensive rebound by J. Crowder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:59.0,,,,,,C. Johnson,C. Johnson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:59.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:47.0,,,,,,M. Jones,Turnover by M. Jones (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202101200HOU,1,8:40.0,,,,,,D. Cousins,Personal foul by D. Cousins (drawn by C. Paul ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,8:40.0,,,,,,E. Gordon,E. Gordon enters the game for M. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,8:31.0,,,,,,D. Ayton,D. Ayton misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:31.0,,,,,,B. McLemore,Defensive rebound by B. McLemore,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:22.0,,,,,,D. Cousins,D. Cousins misses 2-pt layup from 5 ft (block by D. Ayton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,8:19.0,,,,,,C. Johnson,Defensive rebound by C. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:16.0,,,,,,C. Paul,C. Paul misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,8:13.0,,,,,,D. Cousins,Defensive rebound by D. Cousins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,8:02.0,,,,,,C. Johnson,Personal foul by C. Johnson (drawn by D. Cousins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,8:02.0,,,,,,M. Bridges,M. Bridges enters the game for C. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,7:55.0,,,,,,E. Gordon,E. Gordon misses 2-pt layup from 3 ft (block by D. Ayton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,7:53.0,,,,,,C. Paul,Defensive rebound by C. Paul,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,7:46.0,,,,,,D. Nwaba,Personal foul by D. Nwaba (drawn by C. Paul ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,7:40.0,,,,,,D. Ayton,D. Ayton makes 2-pt jump shot from 22 ft (assist by A. Nader ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:22.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:22.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,7:06.0,,,,,,D. Ayton,D. Ayton makes 2-pt dunk from 2 ft (assist by M. Bridges ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,7:05.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,7:05.0,,,,,,C. Payne,C. Payne enters the game for C. Paul,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,7:05.0,,,,,,V. Oladipo,V. Oladipo enters the game for S. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,7:05.0,,,,,,J. Tate,J. Tate enters the game for D. Cousins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,7:05.0,,,,,,C. Wood,C. Wood enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,6:46.0,,,,,,V. Oladipo,V. Oladipo misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:45.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:44.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:21.0,,,,,,A. Nader,A. Nader makes 2-pt dunk from 1 ft (assist by D. Ayton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:09.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:06.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,6:05.0,,,,,,J. Crowder,Defensive rebound by J. Crowder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,5:53.0,,,,,,M. Bridges,Turnover by M. Bridges (bad pass; steal by V. Oladipo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202101200HOU,1,5:49.0,,,,,,C. Payne,Shooting foul by C. Payne (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,5:49.0,,,,,,D. Nwaba,D. Nwaba makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:49.0,,,,,,D. Nwaba,D. Nwaba makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:42.0,,,,,,C. Payne,C. Payne misses 2-pt layup from 4 ft (block by D. Nwaba ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,5:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:28.0,,,,,,D. Ayton,D. Ayton misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:28.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,5:20.0,,,,,,V. Oladipo,V. Oladipo misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:20.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,5:08.0,,,,,,A. Nader,A. Nader misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,5:08.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:54.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft (assist by E. Gordon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:54.0,,,,,,D. Ayton,Shooting foul by D. Ayton (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,4:54.0,,,,,,D. Booker,D. Booker enters the game for D. Ayton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:54.0,,,,,,F. Kaminsky,F. Kaminsky enters the game for A. Nader,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:54.0,,,,,,C. Wood,C. Wood makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:36.0,,,,,,J. Crowder,J. Crowder misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:36.0,,,,,,V. Oladipo,Defensive rebound by V. Oladipo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:30.0,,,,,,F. Kaminsky,Personal foul by F. Kaminsky (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,4:22.0,,,,,,E. Gordon,E. Gordon misses 2-pt layup from 8 ft (block by F. Kaminsky ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202101200HOU,1,4:19.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:16.0,,,,,,C. Payne,C. Payne misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:16.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,4:04.0,,,,,,C. Payne,Personal foul by C. Payne (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,4:04.0,,,,,,D. Nwaba,D. Nwaba makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,4:04.0,,,,,,,Phoenix full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202101200HOU,1,4:04.0,,,,,,D. Ayton,D. Ayton enters the game for J. Crowder,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:04.0,,,,,,C. Johnson,C. Johnson enters the game for F. Kaminsky,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:04.0,,,,,,C. Paul,C. Paul enters the game for C. Payne,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,4:04.0,,,,,,D. Nwaba,D. Nwaba makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:49.0,,,,,,D. Booker,D. Booker misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:48.0,,,,,,V. Oladipo,Defensive rebound by V. Oladipo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,3:41.0,,,,,,J. Tate,J. Tate misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:39.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,3:23.0,,,,,,D. Booker,D. Booker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,3:22.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,3:07.0,,,,,,E. Gordon,E. Gordon makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:46.0,,,,,,D. Booker,D. Booker makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:32.0,,,,,,E. Gordon,E. Gordon misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:30.0,,,,,,J. Tate,Offensive rebound by J. Tate,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:27.0,,,,,,D. Booker,Shooting foul by D. Booker (drawn by V. Oladipo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,2:27.0,,,,,,V. Oladipo,V. Oladipo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:27.0,,,,,,V. Oladipo,V. Oladipo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:14.0,,,,,,C. Paul,C. Paul misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:14.0,,,,,,D. Ayton,Offensive rebound by D. Ayton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:14.0,,,,,,D. Ayton,D. Ayton misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,2:14.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,1:56.0,,,,,,V. Oladipo,V. Oladipo makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:42.0,,,,,,M. Bridges,M. Bridges misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:40.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,1:38.0,,,,,,J. Tate,J. Tate makes 2-pt dunk from 1 ft (assist by D. Nwaba ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:14.0,,,,,,C. Paul,C. Paul misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:14.0,,,,,,D. Ayton,Offensive rebound by D. Ayton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:14.0,,,,,,V. Oladipo,Shooting foul by V. Oladipo (drawn by D. Ayton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,1:14.0,,,,,,D. Ayton,D. Ayton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:14.0,,,,,,J. Crowder,J. Crowder enters the game for C. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202101200HOU,1,1:14.0,,,,,,D. Ayton,D. Ayton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:03.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,1:03.0,,,,,,D. Ayton,Defensive rebound by D. Ayton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202101200HOU,1,0:45.0,,,,,,V. Oladipo,Personal foul by V. Oladipo (drawn by D. Booker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,0:45.0,,,,,,D. Booker,D. Booker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:45.0,,,,,,D. Booker,D. Booker makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:37.0,,,,,,D. Ayton,Shooting foul by D. Ayton (drawn by V. Oladipo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202101200HOU,1,0:37.0,,,,,,V. Oladipo,V. Oladipo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:37.0,,,,,,V. Oladipo,V. Oladipo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:15.0,,,,,,D. Booker,D. Booker makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:09.0,,,,,,V. Oladipo,V. Oladipo misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202101200HOU,1,0:09.0,,,,,,J. Crowder,Defensive rebound by J. Crowder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

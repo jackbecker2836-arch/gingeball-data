@@ -1,0 +1,415 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202103290LAC,1,11:44.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:26.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:13.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by K. Middleton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:00.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 18 ft (assist by R. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:52.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:35.0,,,,,,L. Kennard,L. Kennard makes 2-pt jump shot from 17 ft (assist by R. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:26.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:21.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,10:11.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:06.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:55.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:53.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:53.0,,,,,,B. Lopez,Loose ball foul by B. Lopez (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,9:42.0,,,,,,L. Kennard,L. Kennard makes 2-pt jump shot from 18 ft (assist by K. Leonard ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:26.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:11.0,,,,,,B. Lopez,Personal foul by B. Lopez (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,9:08.0,,,,,,I. Zubac,I. Zubac misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:02.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:02.0,,,,,,I. Zubac,I. Zubac misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:02.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:57.0,,,,,,I. Zubac,I. Zubac makes 2-pt dunk from 1 ft (assist by L. Kennard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:44.0,,,,,,K. Middleton,K. Middleton misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:41.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,8:30.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:25.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:22.0,,,,,,L. Kennard,Turnover by L. Kennard (bad pass; steal by J. Holiday ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,8:17.0,,,,,,J. Holiday,J. Holiday makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:00.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft (assist by K. Leonard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:49.0,,,,,,K. Middleton,Turnover by K. Middleton (lost ball; steal by K. Leonard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,7:46.0,,,,,,K. Leonard,K. Leonard makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:45.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,7:45.0,,,,,,T. Antetokounmpo,T. Antetokounmpo enters the game for B. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,7:36.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:32.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,7:15.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 10 ft (assist by K. Leonard ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:04.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 26 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:50.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:48.0,,,,,,K. Leonard,Offensive rebound by K. Leonard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:48.0,,,,,,T. Antetokounmpo,Shooting foul by T. Antetokounmpo (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,6:48.0,,,,,,K. Leonard,K. Leonard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:48.0,,,,,,P. Connaughton,P. Connaughton enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,6:48.0,,,,,,K. Leonard,K. Leonard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:34.0,,,,,,K. Middleton,K. Middleton misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:30.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,6:20.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:16.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,6:14.0,,,,,,J. Holiday,J. Holiday misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:12.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,6:07.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:03.0,,,,,,K. Middleton,Defensive rebound by K. Middleton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,5:42.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by P. Connaughton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:22.0,,,,,,L. Kennard,L. Kennard makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:05.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 3-pt jump shot from 23 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:50.0,,,,,,P. Connaughton,Personal foul by P. Connaughton (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,4:50.0,,,,,,M. Diakite,M. Diakite enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,4:50.0,,,,,,N. Batum,N. Batum enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,4:50.0,,,,,,T. Mann,T. Mann enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,4:50.0,,,,,,P. Patterson,P. Patterson enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,4:42.0,,,,,,K. Leonard,K. Leonard makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:33.0,,,,,,J. Holiday,J. Holiday makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:11.0,,,,,,L. Kennard,L. Kennard misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:06.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,3:58.0,,,,,,P. Patterson,Shooting foul by P. Patterson (drawn by T. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,3:58.0,,,,,,T. Antetokounmpo,T. Antetokounmpo misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:58.0,,,,,,B. Forbes,B. Forbes enters the game for K. Middleton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,3:58.0,,,,,,T. Antetokounmpo,T. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:34.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:25.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,3:21.0,,,,,,L. Kennard,Personal foul by L. Kennard (drawn by M. Diakite ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,3:17.0,,,,,,M. Diakite,M. Diakite makes 2-pt dunk at rim (assist by J. Holiday ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:02.0,,,,,,P. Patterson,P. Patterson makes 3-pt jump shot from 26 ft (assist by K. Leonard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:47.0,,,,,,J. Holiday,J. Holiday makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:35.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:32.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,2:27.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 27 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:26.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,2:26.0,,,,,,A. Coffey,A. Coffey enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:11.0,,,,,,K. Leonard,Turnover by K. Leonard (lost ball; steal by T. Antetokounmpo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,2:04.0,,,,,,T. Antetokounmpo,T. Antetokounmpo makes 2-pt layup from 4 ft (assist by J. Holiday ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:50.0,,,,,,N. Batum,Turnover by N. Batum (bad pass; steal by B. Forbes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,1:45.0,,,,,,B. Forbes,B. Forbes makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:31.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:28.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,1:18.0,,,,,,B. Forbes,Turnover by B. Forbes (bad pass; steal by P. Patterson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,1:06.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:03.0,,,,,,M. Diakite,Defensive rebound by M. Diakite,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:44.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:33.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:30.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:09.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:06.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:03.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:02.0,,,,,,B. Forbes,Defensive rebound by B. Forbes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,11:47.0,,,,,,I. Zubac,Offensive foul by I. Zubac (drawn by P. Connaughton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,11:47.0,,,,,,I. Zubac,Turnover by I. Zubac (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202103290LAC,1,11:37.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:32.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,11:21.0,,,,,,I. Zubac,Turnover by I. Zubac (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,11:05.0,,,,,,B. Forbes,B. Forbes misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:03.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,10:47.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:44.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:41.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 2 ft (assist by I. Zubac ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:31.0,,,,,,B. Forbes,B. Forbes makes 2-pt jump shot from 16 ft (assist by D. DiVincenzo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:11.0,,,,,,B. Forbes,Shooting foul by B. Forbes (drawn by M. Morris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,10:11.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:11.0,,,,,,M. Morris,M. Morris makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:11.0,,,,,,M. Morris,M. Morris makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:11.0,,,,,,B. Lopez,B. Lopez enters the game for P. Connaughton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,10:11.0,,,,,,K. Middleton,K. Middleton enters the game for M. Diakite,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,10:11.0,,,,,,M. Morris,M. Morris makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:52.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:50.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:43.0,,,,,,N. Batum,N. Batum misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:40.0,,,,,,K. Middleton,Defensive rebound by K. Middleton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:33.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:31.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:21.0,,,,,,I. Zubac,I. Zubac makes 2-pt hook shot from 5 ft (assist by A. Coffey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:03.0,,,,,,K. Middleton,K. Middleton misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:01.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,8:49.0,,,,,,M. Morris,Turnover by M. Morris (bad pass; steal by D. DiVincenzo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,8:42.0,,,,,,B. Forbes,B. Forbes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:38.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,8:30.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:30.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,8:30.0,,,,,,P. Connaughton,P. Connaughton enters the game for B. Forbes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,8:16.0,,,,,,P. Connaughton,P. Connaughton misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:13.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,7:57.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:48.0,,,,,,K. Middleton,K. Middleton makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:24.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:21.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,7:14.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:13.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,7:03.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 2 ft (assist by M. Morris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:49.0,,,,,,K. Middleton,K. Middleton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:46.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,6:41.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:37.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,6:24.0,,,,,,B. Lopez,B. Lopez misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:21.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,6:08.0,,,,,,I. Zubac,I. Zubac misses 2-pt hook shot from 6 ft (block by G. Antetokounmpo ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103290LAC,1,6:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:08.0,,,,,,J. Holiday,J. Holiday enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,6:08.0,,,,,,R. Jackson,R. Jackson enters the game for N. Batum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,6:08.0,,,,,,L. Kennard,L. Kennard enters the game for A. Coffey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,6:08.0,,,,,,K. Leonard,K. Leonard enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,6:01.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:50.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 2-pt layup from 6 ft (block by T. Mann ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103290LAC,1,5:50.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,5:30.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:26.0,,,,,,K. Middleton,Defensive rebound by K. Middleton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,5:17.0,,,,,,P. Connaughton,P. Connaughton makes 2-pt jump shot from 4 ft (assist by K. Middleton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:09.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 3 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:54.0,,,,,,B. Lopez,Turnover by B. Lopez (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,4:42.0,,,,,,K. Leonard,K. Leonard misses 2-pt layup from 4 ft (block by J. Holiday ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103290LAC,1,4:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:34.0,,,,,,R. Jackson,Turnover by R. Jackson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,4:34.0,,,,,,T. Antetokounmpo,T. Antetokounmpo enters the game for B. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,4:19.0,,,,,,K. Middleton,K. Middleton misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:14.0,,,,,,T. Antetokounmpo,Offensive rebound by T. Antetokounmpo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:08.0,,,,,,T. Antetokounmpo,T. Antetokounmpo misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:05.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,4:01.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 26 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:50.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:45.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,3:29.0,,,,,,R. Jackson,R. Jackson misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:27.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,3:24.0,,,,,,T. Antetokounmpo,T. Antetokounmpo makes 2-pt dunk at rim (assist by J. Holiday ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:24.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,3:24.0,,,,,,G. Antetokounmpo,G. Antetokounmpo enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,3:02.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:47.0,,,,,,K. Middleton,K. Middleton makes 2-pt jump shot from 18 ft (assist by G. Antetokounmpo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:21.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,2:21.0,,,,,,I. Zubac,I. Zubac enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:08.0,,,,,,K. Middleton,K. Middleton makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:52.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 2 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:41.0,,,,,,G. Antetokounmpo,Turnover by G. Antetokounmpo (bad pass; steal by I. Zubac ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,1:36.0,,,,,,P. Connaughton,Shooting foul by P. Connaughton (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,1:36.0,,,,,,T. Mann,T. Mann misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:36.0,,,,,,T. Mann,T. Mann makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:27.0,,,,,,K. Middleton,K. Middleton misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:25.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,1:20.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:06.0,,,,,,L. Kennard,Shooting foul by L. Kennard (drawn by J. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,1:06.0,,,,,,J. Holiday,J. Holiday makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:06.0,,,,,,D. DiVincenzo,D. DiVincenzo enters the game for K. Middleton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,1:06.0,,,,,,N. Batum,N. Batum enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,1:06.0,,,,,,J. Holiday,J. Holiday makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:50.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:47.0,,,,,,T. Mann,Offensive rebound by T. Mann,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:33.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:32.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:32.0,,,,,,M. Morris,Technical foul by M. Morris,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,0:32.0,,,,,,J. Holiday,J. Holiday makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:32.0,,,,,,B. Forbes,B. Forbes enters the game for T. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,0:32.0,,,,,,P. Patterson,P. Patterson enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,0:27.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:24.0,,,,,,G. Antetokounmpo,Offensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:24.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:08.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 23 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:01.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:48.0,,,,,,L. Kennard,Turnover by L. Kennard (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,11:37.0,,,,,,I. Zubac,Shooting foul by I. Zubac (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,11:37.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:37.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:26.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft (assist by K. Leonard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:11.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:51.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:46.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:46.0,,,,,,I. Zubac,I. Zubac makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:34.0,,,,,,B. Lopez,B. Lopez misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:34.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,10:23.0,,,,,,L. Kennard,L. Kennard misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:19.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,10:15.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:11.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:59.0,,,,,,K. Leonard,Turnover by K. Leonard (bad pass; steal by J. Holiday ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,9:52.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:49.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:38.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:25.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:21.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:03.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:03.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,8:49.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:47.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,8:38.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:24.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt hook shot from 5 ft (assist by D. DiVincenzo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:10.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:06.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,7:58.0,,,,,,B. Lopez,B. Lopez makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:39.0,,,,,,R. Jackson,R. Jackson misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:36.0,,,,,,K. Leonard,Offensive rebound by K. Leonard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:36.0,,,,,,K. Leonard,K. Leonard makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:26.0,,,,,,K. Middleton,K. Middleton makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:04.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:52.0,,,,,,K. Middleton,K. Middleton makes 2-pt layup from 3 ft (assist by D. DiVincenzo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:38.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:22.0,,,,,,J. Holiday,J. Holiday makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:11.0,,,,,,R. Jackson,R. Jackson makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:03.0,,,,,,K. Middleton,Offensive foul by K. Middleton (drawn by L. Kennard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,6:03.0,,,,,,K. Middleton,Turnover by K. Middleton (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202103290LAC,1,6:03.0,,,,,,T. Antetokounmpo,T. Antetokounmpo enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,6:03.0,,,,,,P. Connaughton,P. Connaughton enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,5:50.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:45.0,,,,,,B. Lopez,Defensive rebound by B. Lopez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,5:35.0,,,,,,T. Antetokounmpo,T. Antetokounmpo misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:33.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,5:31.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass; steal by J. Holiday ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,5:27.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:27.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,5:27.0,,,,,,N. Batum,N. Batum enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,5:06.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 24 ft (assist by L. Kennard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:53.0,,,,,,J. Holiday,Turnover by J. Holiday (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,4:53.0,,,,,,T. Mann,T. Mann enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,4:32.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:30.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,4:24.0,,,,,,K. Middleton,K. Middleton misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:22.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,4:11.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:46.0,,,,,,K. Middleton,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:33.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:21.0,,,,,,T. Mann,Shooting foul by T. Mann (drawn by J. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,3:21.0,,,,,,J. Holiday,J. Holiday makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:21.0,,,,,,G. Antetokounmpo,G. Antetokounmpo enters the game for B. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,3:21.0,,,,,,I. Zubac,I. Zubac enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,3:21.0,,,,,,J. Holiday,J. Holiday makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:03.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 27 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:46.0,,,,,,I. Zubac,Shooting foul by I. Zubac (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,2:46.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:46.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:46.0,,,,,,B. Forbes,B. Forbes enters the game for K. Middleton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:46.0,,,,,,P. Patterson,P. Patterson enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:46.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:36.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 5 ft (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:36.0,,,,,,P. Connaughton,Shooting foul by P. Connaughton (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,2:36.0,,,,,,T. Mann,T. Mann makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:27.0,,,,,,T. Antetokounmpo,Offensive foul by T. Antetokounmpo (drawn by N. Batum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,2:27.0,,,,,,T. Antetokounmpo,Turnover by T. Antetokounmpo (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202103290LAC,1,2:01.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:58.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,1:55.0,,,,,,T. Antetokounmpo,T. Antetokounmpo misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:51.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,1:46.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass; steal by P. Connaughton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,1:45.0,,,,,,R. Jackson,Personal take foul by R. Jackson (drawn by J. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,1:45.0,,,,,,D. DiVincenzo,D. DiVincenzo enters the game for T. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,1:37.0,,,,,,J. Holiday,J. Holiday makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:13.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:07.0,,,,,,K. Leonard,Offensive rebound by K. Leonard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:07.0,,,,,,K. Leonard,K. Leonard makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:04.0,,,,,,G. Antetokounmpo,Offensive foul by G. Antetokounmpo (drawn by P. Patterson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,1:04.0,,,,,,G. Antetokounmpo,Turnover by G. Antetokounmpo (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202103290LAC,1,1:04.0,,,,,,A. Coffey,A. Coffey enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,0:50.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:47.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:39.0,,,,,,A. Coffey,Shooting foul by A. Coffey (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,0:39.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:39.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:31.0,,,,,,K. Leonard,Turnover by K. Leonard (lost ball; steal by D. DiVincenzo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,0:26.0,,,,,,B. Forbes,B. Forbes makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:07.0,,,,,,D. DiVincenzo,Personal foul by D. DiVincenzo (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,0:07.0,,,,,,T. Antetokounmpo,T. Antetokounmpo enters the game for B. Forbes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,0:01.0,,,,,,P. Patterson,P. Patterson makes 3-pt jump shot from 27 ft (assist by K. Leonard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:43.0,,,,,,B. Forbes,B. Forbes misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:39.0,,,,,,P. Connaughton,Offensive rebound by P. Connaughton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:36.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:34.0,,,,,,B. Forbes,Offensive rebound by B. Forbes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:31.0,,,,,,B. Forbes,Turnover by B. Forbes (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,11:16.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 23 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:02.0,,,,,,T. Mann,Shooting foul by T. Mann (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,11:02.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,11:02.0,,,,,,B. Lopez,B. Lopez enters the game for P. Connaughton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,11:02.0,,,,,,I. Zubac,I. Zubac enters the game for P. Patterson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,11:02.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:45.0,,,,,,A. Coffey,A. Coffey misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:43.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,10:35.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt jump shot from 19 ft (assist by B. Lopez ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:21.0,,,,,,T. Mann,T. Mann misses 2-pt layup from 4 ft (block by B. Lopez ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103290LAC,1,10:19.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,10:18.0,,,,,,M. Morris,Personal take foul by M. Morris (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,10:18.0,,,,,,L. Kennard,L. Kennard enters the game for A. Coffey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,10:13.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,10:09.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:59.0,,,,,,I. Zubac,I. Zubac misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:57.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:51.0,,,,,,B. Forbes,B. Forbes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:46.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,9:32.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,9:21.0,,,,,,T. Mann,Personal foul by T. Mann (drawn by K. Middleton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,9:21.0,,,,,,P. Connaughton,P. Connaughton enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,9:08.0,,,,,,K. Middleton,K. Middleton makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:50.0,,,,,,T. Mann,T. Mann misses 2-pt layup from 5 ft (block by B. Lopez ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103290LAC,1,8:48.0,,,,,,T. Mann,Offensive rebound by T. Mann,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:45.0,,,,,,T. Mann,T. Mann misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:44.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,8:42.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 2-pt layup from 3 ft (block by N. Batum ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103290LAC,1,8:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:42.0,,,,,,K. Leonard,K. Leonard enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,8:42.0,,,,,,N. Batum,Shooting foul by N. Batum (drawn by B. Lopez ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,8:42.0,,,,,,B. Lopez,B. Lopez makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:42.0,,,,,,B. Lopez,B. Lopez makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:23.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:17.0,,,,,,N. Batum,Offensive rebound by N. Batum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:17.0,,,,,,N. Batum,N. Batum makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,8:07.0,,,,,,B. Lopez,B. Lopez makes 2-pt dunk from 1 ft (assist by K. Middleton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:54.0,,,,,,T. Mann,T. Mann makes 2-pt dunk from 1 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:54.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,7:54.0,,,,,,G. Antetokounmpo,G. Antetokounmpo enters the game for B. Forbes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,7:54.0,,,,,,J. Holiday,J. Holiday enters the game for B. Lopez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,7:36.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:17.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:17.0,,,,,,N. Batum,Offensive rebound by N. Batum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,7:11.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 27 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:58.0,,,,,,K. Middleton,K. Middleton misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:54.0,,,,,,D. DiVincenzo,Offensive rebound by D. DiVincenzo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:53.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:35.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:21.0,,,,,,D. DiVincenzo,Turnover by D. DiVincenzo (bad pass; steal by K. Leonard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,6:15.0,,,,,,D. DiVincenzo,Personal foul by D. DiVincenzo (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,6:02.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 25 ft (assist by N. Batum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,6:01.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,6:01.0,,,,,,B. Forbes,B. Forbes enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,5:47.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:43.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,5:21.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,5:12.0,,,,,,L. Kennard,L. Kennard makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:56.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:54.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,4:43.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:26.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,4:26.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:26.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,4:08.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:50.0,,,,,,L. Kennard,Personal foul by L. Kennard (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,3:50.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:50.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:36.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,3:36.0,,,,,,K. Leonard,K. Leonard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:36.0,,,,,,K. Leonard,K. Leonard misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:34.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,3:24.0,,,,,,J. Holiday,Turnover by J. Holiday (bad pass; steal by N. Batum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103290LAC,1,3:07.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,3:04.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,2:58.0,,,,,,J. Holiday,Turnover by J. Holiday (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,2:38.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:33.0,,,,,,K. Leonard,Offensive rebound by K. Leonard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103290LAC,1,2:33.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103290LAC,1,2:33.0,,,,,,T. Antetokounmpo,T. Antetokounmpo enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:33.0,,,,,,M. Diakite,M. Diakite enters the game for P. Connaughton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:33.0,,,,,,S. Merrill,S. Merrill enters the game for B. Forbes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:33.0,,,,,,J. Nwora,J. Nwora enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:33.0,,,,,,A. Toupane,A. Toupane enters the game for K. Middleton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:33.0,,,,,,A. Coffey,A. Coffey enters the game for N. Batum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:33.0,,,,,,D. Oturu,D. Oturu enters the game for K. Leonard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:33.0,,,,,,P. Patterson,P. Patterson enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103290LAC,1,2:31.0,,,,,,T. Antetokounmpo,Personal foul by T. Antetokounmpo (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103290LAC,1,2:17.0,,,,,,P. Patterson,P. Patterson makes 3-pt jump shot from 24 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:59.0,,,,,,T. Antetokounmpo,T. Antetokounmpo makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:34.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103290LAC,1,1:19.0,,,,,,A. Toupane,A. Toupane misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,1:15.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:59.0,,,,,,D. Oturu,D. Oturu misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:57.0,,,,,,A. Toupane,Defensive rebound by A. Toupane,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:51.0,,,,,,M. Diakite,M. Diakite misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:47.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103290LAC,1,0:27.0,,,,,,A. Coffey,A. Coffey makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:20.0,,,,,,S. Merrill,S. Merrill misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103290LAC,1,0:18.0,,,,,,D. Oturu,Defensive rebound by D. Oturu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

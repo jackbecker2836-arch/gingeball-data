@@ -1,0 +1,424 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202111100NYK,1,11:48.0,,,,,,R. Barrett,Turnover by R. Barrett (bad pass; steal by G. Hill ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,11:48.0,,,,,,M. Robinson,Personal foul by M. Robinson (drawn by G. Hill ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,11:29.0,,,,,,B. Portis,B. Portis misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:27.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,11:10.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:08.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:59.0,,,,,,J. Holiday,J. Holiday misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:57.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:49.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 26 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:31.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:30.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:23.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 3 ft (block by G. Allen ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,10:21.0,,,,,,G. Hill,Defensive rebound by G. Hill,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:19.0,,,,,,G. Allen,G. Allen makes 3-pt jump shot from 26 ft (assist by G. Hill ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:02.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 21 ft (assist by K. Walker ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:41.0,,,,,,J. Holiday,J. Holiday misses 2-pt layup from 4 ft (block by M. Robinson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,9:39.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:27.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:25.0,,,,,,B. Portis,Defensive rebound by B. Portis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:16.0,,,,,,B. Portis,B. Portis makes 3-pt jump shot from 25 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:53.0,,,,,,R. Barrett,R. Barrett makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:44.0,,,,,,B. Portis,B. Portis makes 2-pt jump shot from 6 ft (assist by J. Holiday ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:31.0,,,,,,K. Walker,Turnover by K. Walker (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,8:19.0,,,,,,J. Holiday,J. Holiday makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:05.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:03.0,,,,,,G. Hill,Defensive rebound by G. Hill,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,7:53.0,,,,,,G. Allen,G. Allen makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:33.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:21.0,,,,,,J. Holiday,Turnover by J. Holiday (lost ball; steal by R. Barrett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,7:18.0,,,,,,G. Allen,Shooting foul by G. Allen (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,7:18.0,,,,,,P. Connaughton,P. Connaughton enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,7:18.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for B. Portis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,7:18.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:18.0,,,,,,J. Randle,J. Randle misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:16.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:59.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:57.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:44.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:42.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:35.0,,,,,,G. Antetokounmpo,Turnover by G. Antetokounmpo (lost ball; steal by K. Walker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,6:31.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 25 ft (assist by K. Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:21.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,6:21.0,,,,,,J. Nwora,J. Nwora enters the game for G. Allen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,6:09.0,,,,,,G. Antetokounmpo,Turnover by G. Antetokounmpo (bad pass; steal by E. Fournier ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,6:04.0,,,,,,E. Fournier,E. Fournier makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:50.0,,,,,,J. Holiday,J. Holiday makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:32.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 25 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:14.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 10 ft (block by M. Robinson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,5:12.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,5:04.0,,,,,,J. Holiday,Personal foul by J. Holiday (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,4:59.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:57.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,4:49.0,,,,,,S. Ojeleye,S. Ojeleye makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:30.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:28.0,,,,,,J. Nwora,Defensive rebound by J. Nwora,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,4:21.0,,,,,,S. Ojeleye,Turnover by S. Ojeleye (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,4:21.0,,,,,,G. Hill,G. Hill enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,4:21.0,,,,,,T. Gibson,T. Gibson enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,4:06.0,,,,,,K. Walker,K. Walker misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:04.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,3:50.0,,,,,,P. Connaughton,P. Connaughton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:48.0,,,,,,S. Ojeleye,Offensive rebound by S. Ojeleye,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:44.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 25 ft (assist by S. Ojeleye ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:21.0,,,,,,K. Walker,K. Walker misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:19.0,,,,,,G. Hill,Defensive rebound by G. Hill,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,3:14.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 3-pt jump shot from 25 ft (assist by G. Hill ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:13.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,3:13.0,,,,,,B. Portis,B. Portis enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,3:13.0,,,,,,D. Rose,D. Rose enters the game for K. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,3:06.0,,,,,,E. Fournier,Turnover by E. Fournier (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,2:52.0,,,,,,B. Portis,B. Portis makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:36.0,,,,,,R. Barrett,R. Barrett makes 2-pt jump shot from 10 ft (assist by D. Rose ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:21.0,,,,,,G. Hill,G. Hill misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:19.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,2:13.0,,,,,,E. Fournier,Turnover by E. Fournier (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,2:13.0,,,,,,A. Burks,A. Burks enters the game for E. Fournier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,2:02.0,,,,,,J. Nwora,J. Nwora makes 2-pt dunk from 2 ft (assist by G. Hill ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:44.0,,,,,,J. Randle,J. Randle misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:42.0,,,,,,J. Nwora,Defensive rebound by J. Nwora,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,1:42.0,,,,,,I. Quickley,I. Quickley enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,1:21.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:07.0,,,,,,S. Ojeleye,Personal foul by S. Ojeleye (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,1:04.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:02.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,0:55.0,,,,,,P. Connaughton,Turnover by P. Connaughton (bad pass; steal by D. Rose ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,0:52.0,,,,,,D. Rose,D. Rose makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:37.0,,,,,,J. Nwora,J. Nwora misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:33.0,,,,,,G. Hill,Offensive rebound by G. Hill,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:31.0,,,,,,P. Connaughton,P. Connaughton misses 3-pt jump shot from 25 ft (block by D. Rose ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,0:29.0,,,,,,B. Portis,Offensive rebound by B. Portis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:22.0,,,,,,B. Portis,B. Portis misses 2-pt layup from 8 ft (block by A. Burks ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,0:20.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,0:01.0,,,,,,J. Randle,J. Randle misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:39.0,,,,,,T. Gibson,Personal foul by T. Gibson (drawn by G. Allen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,11:33.0,,,,,,G. Hill,Turnover by G. Hill (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,11:12.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:10.0,,,,,,G. Allen,Defensive rebound by G. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,11:00.0,,,,,,G. Allen,G. Allen misses 2-pt layup from 2 ft (block by A. Burks ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,10:58.0,,,,,,J. Nwora,Offensive rebound by J. Nwora,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:55.0,,,,,,G. Hill,G. Hill misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:53.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:52.0,,,,,,T. Antetokounmpo,Personal foul by T. Antetokounmpo (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,10:52.0,,,,,,R. Hood,R. Hood enters the game for J. Nwora,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,10:48.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:46.0,,,,,,B. Portis,Defensive rebound by B. Portis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:32.0,,,,,,G. Allen,G. Allen misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:30.0,,,,,,B. Portis,Offensive rebound by B. Portis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:24.0,,,,,,I. Quickley,Shooting foul by I. Quickley (drawn by B. Portis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,10:24.0,,,,,,B. Portis,B. Portis misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:24.0,,,,,,B. Portis,B. Portis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:05.0,,,,,,I. Quickley,I. Quickley makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:38.0,,,,,,T. Antetokounmpo,T. Antetokounmpo misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:36.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:24.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:09.0,,,,,,B. Portis,Turnover by B. Portis (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,9:09.0,,,,,,G. Antetokounmpo,G. Antetokounmpo enters the game for T. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,9:09.0,,,,,,J. Holiday,J. Holiday enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,9:09.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for B. Portis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,8:52.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 26 ft (assist by O. Toppin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:51.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:38.0,,,,,,R. Hood,R. Hood makes 3-pt jump shot from 22 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:20.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:18.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,8:05.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:03.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,7:58.0,,,,,,D. Rose,D. Rose misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:56.0,,,,,,D. Rose,Offensive rebound by D. Rose,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:54.0,,,,,,O. Toppin,Turnover by O. Toppin (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,7:54.0,,,,,,M. Robinson,M. Robinson enters the game for T. Gibson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,7:44.0,,,,,,I. Quickley,Personal foul by I. Quickley (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,7:31.0,,,,,,G. Allen,Turnover by G. Allen (bad pass; steal by D. Rose ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,7:14.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:12.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,7:02.0,,,,,,R. Hood,R. Hood misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:00.0,,,,,,S. Ojeleye,Offensive rebound by S. Ojeleye,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:57.0,,,,,,G. Allen,G. Allen misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:55.0,,,,,,S. Ojeleye,Offensive rebound by S. Ojeleye,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:48.0,,,,,,S. Ojeleye,S. Ojeleye misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:47.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:47.0,,,,,,O. Toppin,Loose ball foul by O. Toppin (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,6:47.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,6:47.0,,,,,,P. Connaughton,P. Connaughton enters the game for G. Allen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,6:39.0,,,,,,J. Holiday,J. Holiday misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:37.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:28.0,,,,,,D. Rose,D. Rose makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:20.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:18.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:14.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 26 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:58.0,,,,,,S. Ojeleye,S. Ojeleye makes 3-pt jump shot from 23 ft (assist by P. Connaughton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:45.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:30.0,,,,,,J. Holiday,J. Holiday makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:14.0,,,,,,M. Robinson,Offensive foul by M. Robinson (drawn by P. Connaughton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,5:14.0,,,,,,M. Robinson,Turnover by M. Robinson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202111100NYK,1,5:14.0,,,,,,J. Nwora,J. Nwora enters the game for R. Hood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,5:14.0,,,,,,J. Randle,J. Randle enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,4:59.0,,,,,,P. Connaughton,P. Connaughton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:57.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,4:49.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:47.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,4:36.0,,,,,,J. Nwora,J. Nwora misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:34.0,,,,,,D. Rose,Defensive rebound by D. Rose,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,4:16.0,,,,,,J. Randle,Turnover by J. Randle (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,4:16.0,,,,,,R. Barrett,R. Barrett enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,4:16.0,,,,,,E. Fournier,E. Fournier enters the game for I. Quickley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,4:16.0,,,,,,K. Walker,K. Walker enters the game for D. Rose,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,3:54.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:52.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,3:37.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,3:37.0,,,,,,G. Hill,G. Hill enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,3:37.0,,,,,,B. Portis,B. Portis enters the game for S. Ojeleye,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,3:37.0,,,,,,E. Fournier,E. Fournier misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:29.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:11.0,,,,,,B. Portis,B. Portis makes 3-pt jump shot from 23 ft (assist by P. Connaughton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:48.0,,,,,,G. Antetokounmpo,Personal foul by G. Antetokounmpo (drawn by E. Fournier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,2:48.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,2:48.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,2:37.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:35.0,,,,,,B. Portis,Defensive rebound by B. Portis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,2:20.0,,,,,,S. Ojeleye,S. Ojeleye misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:18.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,2:03.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:01.0,,,,,,J. Nwora,Defensive rebound by J. Nwora,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,1:50.0,,,,,,B. Portis,B. Portis misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:46.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,1:43.0,,,,,,B. Portis,Shooting foul by B. Portis (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,1:43.0,,,,,,G. Antetokounmpo,G. Antetokounmpo enters the game for J. Nwora,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,1:43.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:43.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:43.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:26.0,,,,,,B. Portis,B. Portis makes 2-pt jump shot from 13 ft (assist by P. Connaughton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:04.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:02.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,0:51.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:50.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,0:50.0,,,,,,S. Ojeleye,Loose ball foul by S. Ojeleye (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,0:50.0,,,,,,G. Allen,G. Allen enters the game for S. Ojeleye,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,0:50.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:50.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:41.0,,,,,,B. Portis,B. Portis makes 3-pt jump shot from 25 ft (assist by G. Hill ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:33.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:31.0,,,,,,G. Allen,Defensive rebound by G. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,0:13.0,,,,,,G. Hill,G. Hill makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:01.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:48.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:46.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,11:27.0,,,,,,K. Walker,K. Walker makes 2-pt jump shot from 16 ft (assist by J. Randle ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:06.0,,,,,,B. Portis,B. Portis misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:04.0,,,,,,R. Barrett,Loose ball foul by R. Barrett (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,10:57.0,,,,,,G. Allen,G. Allen makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:39.0,,,,,,G. Hill,Personal foul by G. Hill (drawn by K. Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,10:31.0,,,,,,M. Robinson,M. Robinson makes 2-pt layup at rim (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:08.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:06.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:06.0,,,,,,B. Portis,Loose ball foul by B. Portis (drawn by E. Fournier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,9:50.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:48.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:38.0,,,,,,G. Allen,G. Allen misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:36.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:34.0,,,,,,G. Antetokounmpo,Personal take foul by G. Antetokounmpo (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,9:16.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:14.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:02.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:41.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:39.0,,,,,,G. Hill,Defensive rebound by G. Hill,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,8:31.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt jump shot from 20 ft (assist by G. Hill ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:23.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,8:23.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for B. Portis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,8:10.0,,,,,,E. Fournier,E. Fournier misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:08.0,,,,,,G. Allen,Defensive rebound by G. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,8:01.0,,,,,,M. Robinson,Shooting foul by M. Robinson (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,8:01.0,,,,,,P. Connaughton,P. Connaughton enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,8:01.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:01.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:42.0,,,,,,K. Walker,K. Walker misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:40.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,7:34.0,,,,,,P. Connaughton,P. Connaughton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:32.0,,,,,,P. Connaughton,Offensive rebound by P. Connaughton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:30.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 26 ft (assist by P. Connaughton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:14.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:12.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:59.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:57.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:52.0,,,,,,J. Randle,Turnover by J. Randle (lost ball; steal by J. Holiday ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,6:50.0,,,,,,R. Barrett,Personal take foul by R. Barrett (drawn by J. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,6:50.0,,,,,,J. Nwora,J. Nwora enters the game for G. Allen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,6:50.0,,,,,,A. Burks,A. Burks enters the game for E. Fournier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,6:50.0,,,,,,D. Rose,D. Rose enters the game for K. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,6:41.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:26.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:24.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:09.0,,,,,,J. Nwora,J. Nwora misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:07.0,,,,,,P. Connaughton,Offensive rebound by P. Connaughton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:05.0,,,,,,P. Connaughton,P. Connaughton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:52.0,,,,,,J. Nwora,Personal foul by J. Nwora (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,5:52.0,,,,,,I. Quickley,I. Quickley enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,5:51.0,,,,,,I. Quickley,Turnover by I. Quickley (bad pass; steal by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,5:48.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:37.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,5:30.0,,,,,,D. Rose,D. Rose makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:16.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 26 ft (assist by J. Nwora ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:01.0,,,,,,P. Connaughton,Shooting foul by P. Connaughton (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,5:01.0,,,,,,M. Robinson,M. Robinson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:01.0,,,,,,M. Robinson,M. Robinson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:59.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,4:41.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt layup from 7 ft (block by A. Burks ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,4:39.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,4:29.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 25 ft (assist by D. Rose ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:28.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,4:28.0,,,,,,G. Hill,G. Hill enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,4:28.0,,,,,,T. Gibson,T. Gibson enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,4:28.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:10.0,,,,,,G. Hill,G. Hill misses 2-pt layup from 2 ft (block by J. Randle ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,4:08.0,,,,,,G. Antetokounmpo,Offensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:00.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:33.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:31.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,3:24.0,,,,,,G. Antetokounmpo,Turnover by G. Antetokounmpo (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,3:07.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:05.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:04.0,,,,,,T. Gibson,T. Gibson misses 2-pt layup from 3 ft (block by G. Antetokounmpo ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,3:02.0,,,,,,J. Nwora,Defensive rebound by J. Nwora,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,3:01.0,,,,,,A. Burks,Personal foul by A. Burks (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,3:01.0,,,,,,B. Portis,B. Portis enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,2:53.0,,,,,,J. Nwora,Turnover by J. Nwora (lost ball; steal by T. Gibson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,2:50.0,,,,,,I. Quickley,I. Quickley makes 2-pt dunk from 1 ft (assist by D. Rose ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:28.0,,,,,,B. Portis,B. Portis misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:26.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,2:21.0,,,,,,D. Rose,D. Rose makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:01.0,,,,,,T. Gibson,Personal foul by T. Gibson (drawn by B. Portis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,2:01.0,,,,,,G. Allen,G. Allen enters the game for P. Connaughton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,2:01.0,,,,,,O. Toppin,O. Toppin enters the game for J. Randle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,2:01.0,,,,,,B. Portis,B. Portis misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:01.0,,,,,,B. Portis,B. Portis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:44.0,,,,,,D. Rose,D. Rose misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:42.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:41.0,,,,,,T. Gibson,Turnover by T. Gibson (bad pass; steal by G. Hill ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,1:26.0,,,,,,G. Allen,G. Allen misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:24.0,,,,,,J. Nwora,Offensive rebound by J. Nwora,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:23.0,,,,,,J. Nwora,J. Nwora makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:09.0,,,,,,S. Ojeleye,Shooting foul by S. Ojeleye (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,1:09.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:09.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:57.0,,,,,,S. Ojeleye,S. Ojeleye makes 2-pt layup from 2 ft (assist by J. Nwora ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:57.0,,,,,,O. Toppin,Shooting foul by O. Toppin (drawn by S. Ojeleye ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,0:57.0,,,,,,S. Ojeleye,S. Ojeleye makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:43.0,,,,,,O. Toppin,O. Toppin misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:41.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:39.0,,,,,,B. Portis,Personal foul by B. Portis (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,0:39.0,,,,,,O. Toppin,O. Toppin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:39.0,,,,,,O. Toppin,O. Toppin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:31.0,,,,,,J. Nwora,J. Nwora misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:29.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,0:09.0,,,,,,I. Quickley,I. Quickley makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:02.0,,,,,,J. Nwora,Turnover by J. Nwora (lost ball; steal by D. Rose ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,0:00.0,,,,,,D. Rose,D. Rose makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:51.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 25 ft (assist by D. Rose ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:43.0,,,,,,J. Nwora,Turnover by J. Nwora (bad pass; steal by I. Quickley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,11:40.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:38.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,11:38.0,,,,,,P. Connaughton,P. Connaughton enters the game for J. Nwora,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,11:14.0,,,,,,G. Hill,G. Hill misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:12.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:12.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,11:03.0,,,,,,D. Rose,D. Rose misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,11:01.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:52.0,,,,,,G. Allen,Turnover by G. Allen (bad pass; steal by O. Toppin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202111100NYK,1,10:43.0,,,,,,A. Burks,A. Burks makes 2-pt layup from 2 ft (assist by D. Rose ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:26.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:16.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:14.0,,,,,,G. Allen,Defensive rebound by G. Allen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,10:08.0,,,,,,P. Connaughton,P. Connaughton misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:06.0,,,,,,G. Allen,Offensive rebound by G. Allen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:06.0,,,,,,G. Allen,G. Allen misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,10:04.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:58.0,,,,,,D. Rose,D. Rose makes 3-pt jump shot from 25 ft (assist by O. Toppin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:35.0,,,,,,T. Gibson,Personal foul by T. Gibson (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,9:35.0,,,,,,J. Holiday,J. Holiday enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,9:21.0,,,,,,G. Allen,G. Allen misses 3-pt jump shot from 22 ft (block by O. Toppin ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,9:19.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,9:05.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup at rim (assist by D. Rose ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,9:05.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,9:05.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for B. Portis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,8:42.0,,,,,,P. Connaughton,Turnover by P. Connaughton (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,8:31.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk from 1 ft (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,8:15.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 12 ft (block by T. Gibson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,8:13.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,8:07.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:52.0,,,,,,G. Allen,G. Allen misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:50.0,,,,,,I. Quickley,Loose ball foul by I. Quickley (drawn by S. Ojeleye ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,7:43.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 28 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:28.0,,,,,,D. Rose,D. Rose misses 2-pt layup from 2 ft (block by S. Ojeleye ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,7:26.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,7:25.0,,,,,,A. Burks,Personal take foul by A. Burks (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,7:18.0,,,,,,J. Holiday,J. Holiday misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,7:16.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,7:09.0,,,,,,D. Rose,D. Rose makes 3-pt jump shot from 25 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:58.0,,,,,,T. Gibson,Personal foul by T. Gibson (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,6:47.0,,,,,,P. Connaughton,P. Connaughton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:45.0,,,,,,D. Rose,Defensive rebound by D. Rose,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,6:39.0,,,,,,G. Allen,Personal foul by G. Allen (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,6:39.0,,,,,,G. Hill,G. Hill enters the game for G. Allen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,6:39.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,6:24.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:22.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202111100NYK,1,6:10.0,,,,,,A. Burks,Personal foul by A. Burks (drawn by G. Antetokounmpo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,6:10.0,,,,,,G. Antetokounmpo,G. Antetokounmpo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:10.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,6:08.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,5:49.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:47.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:47.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:28.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt layup from 5 ft (block by T. Gibson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,5:26.0,,,,,,G. Antetokounmpo,Offensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:21.0,,,,,,G. Antetokounmpo,G. Antetokounmpo misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,5:19.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,5:06.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:47.0,,,,,,G. Hill,G. Hill makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:32.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup from 1 ft (assist by D. Rose ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:18.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,4:02.0,,,,,,D. Rose,D. Rose makes 3-pt jump shot from 26 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:52.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,3:52.0,,,,,,G. Allen,G. Allen enters the game for S. Ojeleye,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,3:41.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 25 ft (assist by G. Allen ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:15.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,3:13.0,,,,,,G. Antetokounmpo,Defensive rebound by G. Antetokounmpo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,3:01.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:59.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,2:53.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup from 1 ft (block by G. Antetokounmpo ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202111100NYK,1,2:52.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,2:51.0,,,,,,,Milwaukee full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,2:51.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:33.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 22 ft (assist by G. Allen ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:18.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,2:16.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,2:06.0,,,,,,P. Connaughton,P. Connaughton makes 3-pt jump shot from 25 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:56.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202111100NYK,1,1:53.0,,,,,,O. Toppin,O. Toppin misses 2-pt dunk from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:51.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:50.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:31.0,,,,,,G. Allen,G. Allen makes 3-pt jump shot from 23 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:15.0,,,,,,G. Antetokounmpo,Shooting foul by G. Antetokounmpo (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,1:15.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:15.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,1:01.0,,,,,,G. Allen,G. Allen makes 3-pt jump shot from 23 ft (assist by P. Connaughton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:51.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:49.0,,,,,,P. Connaughton,Defensive rebound by P. Connaughton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202111100NYK,1,0:34.0,,,,,,G. Hill,G. Hill makes 2-pt layup from 1 ft (assist by J. Holiday ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:13.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:11.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:10.0,,,,,,G. Antetokounmpo,Shooting foul by G. Antetokounmpo (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202111100NYK,1,0:10.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for G. Antetokounmpo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,0:10.0,,,,,,B. Portis,B. Portis enters the game for P. Connaughton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202111100NYK,1,0:10.0,,,,,,O. Toppin,O. Toppin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202111100NYK,1,0:10.0,,,,,,O. Toppin,O. Toppin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False

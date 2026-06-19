@@ -1,0 +1,411 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202105110IND,1,11:49.0,,,,,,M. Scott,Turnover by M. Scott (bad pass; steal by C. LeVert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,11:47.0,,,,,,C. LeVert,C. LeVert makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:26.0,,,,,,B. Simmons,B. Simmons makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:59.0,,,,,,D. McDermott,D. McDermott misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:57.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:43.0,,,,,,B. Simmons,B. Simmons makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:34.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:31.0,,,,,,M. Scott,Defensive rebound by M. Scott,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:29.0,,,,,,T. Harris,T. Harris makes 2-pt layup from 1 ft (assist by B. Simmons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:16.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:14.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:03.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:53.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by B. Simmons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,9:53.0,,,,,,B. Simmons,B. Simmons makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:53.0,,,,,,B. Simmons,B. Simmons misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:49.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:41.0,,,,,,D. McDermott,D. McDermott makes 3-pt jump shot from 28 ft (assist by C. LeVert ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:31.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:27.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:19.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:11.0,,,,,,D. Sabonis,D. Sabonis makes 3-pt jump shot from 28 ft (assist by C. LeVert ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:50.0,,,,,,B. Simmons,B. Simmons misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:47.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,8:36.0,,,,,,D. McDermott,D. McDermott makes 3-pt jump shot from 23 ft (assist by O. Brissett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:19.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:16.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,8:09.0,,,,,,C. LeVert,C. LeVert misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:06.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,8:03.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 25 ft (assist by B. Simmons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:49.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:47.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,7:42.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:13.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:08.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,7:00.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 1 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:00.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by T. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:00.0,,,,,,T. Harris,T. Harris makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:55.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,6:50.0,,,,,,D. McDermott,D. McDermott makes 2-pt dunk from 1 ft (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:31.0,,,,,,T. Harris,T. Harris makes 2-pt dunk from 3 ft (assist by B. Simmons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:17.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:14.0,,,,,,D. Sabonis,Offensive rebound by D. Sabonis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:09.0,,,,,,D. McDermott,Turnover by D. McDermott (bad pass; steal by D. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,6:04.0,,,,,,B. Simmons,B. Simmons misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:02.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,5:58.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 23 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:45.0,,,,,,B. Simmons,B. Simmons makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:45.0,,,,,,O. Brissett,Shooting foul by O. Brissett (drawn by B. Simmons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,5:45.0,,,,,,B. Simmons,B. Simmons makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:23.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:21.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,5:12.0,,,,,,D. Green,D. Green makes 3-pt jump shot from 26 ft (assist by T. Harris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:56.0,,,,,,D. McDermott,Turnover by D. McDermott (bad pass; steal by M. Scott ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,4:43.0,,,,,,T. Harris,Turnover by T. Harris (bad pass; steal by O. Brissett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,4:35.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt layup from 1 ft (assist by C. LeVert ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:19.0,,,,,,D. Green,D. Green makes 3-pt jump shot from 22 ft (assist by M. Scott ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:04.0,,,,,,C. LeVert,Turnover by C. LeVert (lost ball; steal by B. Simmons ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,3:54.0,,,,,,B. Simmons,Turnover by B. Simmons (bad pass; steal by O. Brissett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,3:49.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:48.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,3:48.0,,,,,,D. Sabonis,Loose ball foul by D. Sabonis (drawn by M. Scott ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,3:48.0,,,,,,G. Hill,G. Hill enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,3:48.0,,,,,,K. Martin,K. Martin enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,3:48.0,,,,,,T. McConnell,T. McConnell enters the game for D. McDermott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,3:33.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:17.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt jump shot from 7 ft (assist by C. LeVert ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:01.0,,,,,,B. Simmons,B. Simmons misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:59.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,2:54.0,,,,,,T. McConnell,T. McConnell misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:50.0,,,,,,O. Brissett,Offensive rebound by O. Brissett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:50.0,,,,,,O. Brissett,O. Brissett misses 2-pt layup at rim (block by M. Scott ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,2:50.0,,,,,,M. Scott,Defensive rebound by M. Scott,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,2:44.0,,,,,,T. Harris,T. Harris misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:42.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,2:33.0,,,,,,C. LeVert,Turnover by C. LeVert (bad pass; steal by G. Hill ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,2:26.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,2:26.0,,,,,,D. Howard,D. Howard enters the game for T. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,2:26.0,,,,,,T. Maxey,T. Maxey enters the game for M. Scott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,2:17.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:14.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,1:58.0,,,,,,K. Martin,K. Martin makes 3-pt jump shot from 28 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:41.0,,,,,,B. Simmons,B. Simmons misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:38.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,1:34.0,,,,,,C. LeVert,C. LeVert misses 2-pt layup from 1 ft (block by D. Howard ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,1:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:34.0,,,,,,A. Tolliver,A. Tolliver enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,1:34.0,,,,,,G. Bitadze,G. Bitadze enters the game for O. Brissett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,1:30.0,,,,,,K. Martin,K. Martin makes 3-pt jump shot from 24 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:04.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup at rim (assist by B. Simmons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:58.0,,,,,,K. Martin,K. Martin misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:55.0,,,,,,T. Maxey,Defensive rebound by T. Maxey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,0:36.0,,,,,,D. Howard,D. Howard makes 2-pt dunk from 2 ft (assist by G. Hill ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:26.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:23.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,0:06.0,,,,,,D. Howard,D. Howard misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:04.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,0:00.0,,,,,,K. Martin,K. Martin misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:47.0,,,,,,K. Martin,Turnover by K. Martin (bad pass; steal by G. Hill ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,11:44.0,,,,,,G. Hill,G. Hill makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:44.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:44.0,,,,,,T. McConnell,Shooting foul by T. McConnell (drawn by G. Hill ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,11:44.0,,,,,,G. Hill,G. Hill makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:24.0,,,,,,J. Sampson,J. Sampson makes 2-pt hook shot from 6 ft (assist by K. Martin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:00.0,,,,,,A. Tolliver,A. Tolliver misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:57.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:45.0,,,,,,J. Sampson,J. Sampson misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:41.0,,,,,,I. Joe,Defensive rebound by I. Joe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:26.0,,,,,,G. Bitadze,Personal foul by G. Bitadze (drawn by D. Howard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,10:21.0,,,,,,G. Hill,G. Hill makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:08.0,,,,,,K. Martin,K. Martin misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:06.0,,,,,,A. Tolliver,Defensive rebound by A. Tolliver,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:59.0,,,,,,G. Hill,G. Hill misses 2-pt layup from 1 ft (block by G. Bitadze ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,9:56.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:52.0,,,,,,C. Stanley,C. Stanley makes 3-pt jump shot from 24 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:34.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup at rim (block by G. Bitadze ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,9:31.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:22.0,,,,,,I. Joe,Personal foul by I. Joe (drawn by K. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,9:09.0,,,,,,T. McConnell,T. McConnell misses 2-pt jump shot from 7 ft (block by T. Maxey ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,9:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:08.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105110IND,1,8:54.0,,,,,,T. Maxey,T. Maxey makes 2-pt jump shot from 19 ft (assist by D. Howard ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:42.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:40.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,8:21.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:04.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,8:04.0,,,,,,C. LeVert,C. LeVert enters the game for G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,8:04.0,,,,,,D. Sabonis,D. Sabonis enters the game for J. Sampson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,7:57.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:39.0,,,,,,I. Joe,I. Joe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:36.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,7:36.0,,,,,,D. Green,D. Green enters the game for I. Joe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,7:27.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:10.0,,,,,,T. McConnell,Personal foul by T. McConnell (drawn by G. Hill ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:10.0,,,,,,T. Harris,T. Harris enters the game for A. Tolliver,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,7:06.0,,,,,,T. McConnell,Shooting foul by T. McConnell (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:06.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:06.0,,,,,,T. Maxey,T. Maxey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:55.0,,,,,,C. Stanley,C. Stanley misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:51.0,,,,,,T. McConnell,Offensive rebound by T. McConnell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:51.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,6:51.0,,,,,,S. Curry,S. Curry enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,6:51.0,,,,,,B. Simmons,B. Simmons enters the game for T. Maxey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,6:51.0,,,,,,D. McDermott,D. McDermott enters the game for C. Stanley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,6:45.0,,,,,,D. Howard,Personal foul by D. Howard (drawn by D. Sabonis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,6:38.0,,,,,,D. McDermott,D. McDermott misses 2-pt layup from 4 ft (block by D. Howard ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,6:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:34.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:30.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,6:08.0,,,,,,B. Simmons,B. Simmons makes 2-pt jump shot from 16 ft (assist by S. Curry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:52.0,,,,,,C. LeVert,C. LeVert misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:48.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,5:44.0,,,,,,B. Simmons,B. Simmons makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:28.0,,,,,,D. Sabonis,D. Sabonis makes 3-pt jump shot from 26 ft (assist by K. Martin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:17.0,,,,,,T. Harris,Turnover by T. Harris (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105110IND,1,5:17.0,,,,,,O. Brissett,O. Brissett enters the game for K. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,5:17.0,,,,,,J. Holiday,J. Holiday enters the game for T. McConnell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,5:07.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:03.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,4:53.0,,,,,,D. Green,D. Green misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:52.0,,,,,,D. McDermott,Defensive rebound by D. McDermott,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,4:44.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:41.0,,,,,,M. Scott,M. Scott enters the game for D. Howard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,4:33.0,,,,,,D. McDermott,D. McDermott makes 2-pt layup from 2 ft (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:12.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 2 ft (assist by B. Simmons ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:02.0,,,,,,J. Holiday,J. Holiday makes 2-pt dunk from 1 ft (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:47.0,,,,,,M. Scott,M. Scott makes 3-pt jump shot from 23 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:24.0,,,,,,D. Sabonis,D. Sabonis misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:22.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,3:08.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 17 ft (assist by T. Harris ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:58.0,,,,,,C. LeVert,C. LeVert misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:56.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,2:52.0,,,,,,B. Simmons,B. Simmons makes 2-pt layup from 1 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:50.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,2:33.0,,,,,,T. Harris,Shooting foul by T. Harris (drawn by O. Brissett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,2:33.0,,,,,,O. Brissett,O. Brissett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:33.0,,,,,,O. Brissett,O. Brissett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:17.0,,,,,,T. Harris,T. Harris misses 2-pt dunk from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:16.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,2:07.0,,,,,,D. Sabonis,Turnover by D. Sabonis (bad pass; steal by S. Curry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,1:48.0,,,,,,T. Harris,T. Harris makes 3-pt jump shot from 25 ft (assist by B. Simmons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:36.0,,,,,,C. LeVert,Turnover by C. LeVert (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105110IND,1,1:22.0,,,,,,B. Simmons,Turnover by B. Simmons (bad pass; steal by C. LeVert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,1:20.0,,,,,,B. Simmons,Shooting foul by B. Simmons (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,1:20.0,,,,,,C. LeVert,C. LeVert makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:20.0,,,,,,C. LeVert,C. LeVert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:01.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 2 ft (assist by T. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:45.0,,,,,,J. Holiday,J. Holiday makes 2-pt layup from 3 ft (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:45.0,,,,,,M. Scott,Shooting foul by M. Scott (drawn by J. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,0:45.0,,,,,,J. Holiday,J. Holiday makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:31.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:26.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,0:11.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:00.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:46.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:43.0,,,,,,O. Brissett,Offensive rebound by O. Brissett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:30.0,,,,,,D. Sabonis,D. Sabonis misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:26.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,11:22.0,,,,,,B. Simmons,Turnover by B. Simmons (lost ball; steal by D. McDermott ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,11:16.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:11.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:53.0,,,,,,M. Scott,M. Scott misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:49.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:47.0,,,,,,S. Curry,Personal take foul by S. Curry (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,10:29.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:24.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:11.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:08.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:53.0,,,,,,C. LeVert,C. LeVert makes 2-pt dunk from 3 ft (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:36.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:34.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:26.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:22.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:07.0,,,,,,T. Harris,T. Harris makes 2-pt layup from 3 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:56.0,,,,,,J. Holiday,J. Holiday makes 2-pt layup from 2 ft (assist by D. McDermott ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:56.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by J. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,8:56.0,,,,,,J. Holiday,J. Holiday misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:55.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,8:43.0,,,,,,T. Harris,T. Harris misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:40.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,8:25.0,,,,,,D. McDermott,D. McDermott makes 3-pt jump shot from 24 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:01.0,,,,,,B. Simmons,B. Simmons misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:57.0,,,,,,B. Simmons,Offensive rebound by B. Simmons,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:57.0,,,,,,B. Simmons,B. Simmons makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:54.0,,,,,,C. LeVert,Technical foul by C. LeVert,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:54.0,,,,,,S. Curry,S. Curry misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:54.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,7:48.0,,,,,,D. McDermott,D. McDermott makes 3-pt jump shot from 28 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:22.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:20.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,7:14.0,,,,,,O. Brissett,O. Brissett misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:11.0,,,,,,M. Scott,Defensive rebound by M. Scott,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,7:04.0,,,,,,C. LeVert,Personal foul by C. LeVert (drawn by D. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:04.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,6:57.0,,,,,,S. Curry,Turnover by S. Curry (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105110IND,1,6:43.0,,,,,,D. McDermott,D. McDermott makes 2-pt layup from 1 ft (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:28.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:25.0,,,,,,D. McDermott,Defensive rebound by D. McDermott,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,6:18.0,,,,,,C. LeVert,C. LeVert misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:16.0,,,,,,O. Brissett,Offensive rebound by O. Brissett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:15.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt jump shot from 8 ft (assist by O. Brissett ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:50.0,,,,,,B. Simmons,B. Simmons makes 2-pt dunk from 1 ft (assist by M. Scott ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:30.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:27.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,5:19.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:17.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,5:11.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:08.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,5:01.0,,,,,,T. Harris,T. Harris makes 2-pt hook shot from 4 ft (assist by B. Simmons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:36.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:18.0,,,,,,B. Simmons,B. Simmons misses 2-pt layup from 5 ft (block by O. Brissett ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,4:18.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:18.0,,,,,,G. Hill,G. Hill enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,4:18.0,,,,,,D. Howard,D. Howard enters the game for M. Scott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,4:11.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:57.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 16 ft (assist by D. Sabonis ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:31.0,,,,,,T. Harris,T. Harris misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:26.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,3:21.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:18.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,3:00.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:59.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,2:59.0,,,,,,K. Martin,K. Martin enters the game for O. Brissett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,2:59.0,,,,,,T. McConnell,T. McConnell enters the game for D. McDermott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,2:49.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:46.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,2:30.0,,,,,,K. Martin,Offensive foul by K. Martin (drawn by G. Hill ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,2:30.0,,,,,,K. Martin,Turnover by K. Martin (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202105110IND,1,2:30.0,,,,,,T. Maxey,T. Maxey enters the game for T. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,2:11.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:07.0,,,,,,D. Howard,Offensive rebound by D. Howard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:06.0,,,,,,D. Howard,D. Howard misses 2-pt layup from 3 ft (block by T. McConnell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,2:06.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,1:54.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:36.0,,,,,,G. Hill,G. Hill misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:34.0,,,,,,D. Howard,Offensive rebound by D. Howard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:33.0,,,,,,D. Howard,D. Howard misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:31.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,1:14.0,,,,,,C. LeVert,C. LeVert makes 3-pt jump shot from 29 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:59.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,0:59.0,,,,,,I. Joe,I. Joe enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,0:59.0,,,,,,A. Tolliver,A. Tolliver enters the game for B. Simmons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,0:51.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup from 1 ft (block by K. Martin ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,0:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:49.0,,,,,,I. Joe,I. Joe makes 2-pt jump shot from 16 ft (assist by G. Hill ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:33.0,,,,,,C. LeVert,Turnover by C. LeVert (bad pass; steal by T. Maxey ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,0:30.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:15.0,,,,,,C. LeVert,Shooting foul by C. LeVert (drawn by G. Hill ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,0:15.0,,,,,,G. Hill,G. Hill makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:15.0,,,,,,G. Hill,G. Hill misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:14.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,0:05.0,,,,,,T. Maxey,Personal foul by T. Maxey (drawn by J. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,0:05.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:01.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:46.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:30.0,,,,,,D. McDermott,D. McDermott misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:27.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:27.0,,,,,,G. Bitadze,G. Bitadze misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,11:26.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,11:18.0,,,,,,I. Joe,I. Joe makes 3-pt jump shot from 23 ft (assist by G. Hill ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:57.0,,,,,,K. Martin,K. Martin misses 2-pt jump shot from 18 ft (block by T. Maxey ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,10:53.0,,,,,,G. Hill,Defensive rebound by G. Hill,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,10:49.0,,,,,,G. Hill,Turnover by G. Hill (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105110IND,1,10:30.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 9 ft (assist by G. Bitadze ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:12.0,,,,,,G. Hill,G. Hill misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,10:09.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:56.0,,,,,,K. Martin,K. Martin misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:56.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:56.0,,,,,,G. Bitadze,Loose ball foul by G. Bitadze (drawn by D. Howard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,9:41.0,,,,,,A. Tolliver,A. Tolliver misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:37.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,9:29.0,,,,,,T. McConnell,Turnover by T. McConnell (bad pass; steal by I. Joe ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,9:25.0,,,,,,G. Hill,G. Hill makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:08.0,,,,,,T. McConnell,T. McConnell misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,9:05.0,,,,,,T. McConnell,Offensive rebound by T. McConnell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:59.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:56.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,8:48.0,,,,,,T. Maxey,Turnover by T. Maxey (lost ball; steal by O. Brissett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,8:43.0,,,,,,G. Hill,Personal foul by G. Hill (drawn by O. Brissett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,8:33.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,8:14.0,,,,,,D. Howard,D. Howard makes 2-pt dunk from 1 ft (assist by T. Maxey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:55.0,,,,,,D. Howard,Shooting foul by D. Howard (drawn by D. McDermott ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:55.0,,,,,,D. McDermott,D. McDermott makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:55.0,,,,,,T. Harris,T. Harris enters the game for A. Tolliver,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,7:55.0,,,,,,D. Sabonis,D. Sabonis enters the game for O. Brissett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,7:55.0,,,,,,D. McDermott,D. McDermott makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:43.0,,,,,,G. Bitadze,Shooting foul by G. Bitadze (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:43.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:43.0,,,,,,C. LeVert,C. LeVert enters the game for D. McDermott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,7:43.0,,,,,,T. Maxey,T. Maxey misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:42.0,,,,,,T. Maxey,Offensive rebound by T. Maxey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:42.0,,,,,,C. LeVert,Personal foul by C. LeVert (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:29.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 1 ft (assist by T. Maxey ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,7:19.0,,,,,,T. Maxey,Personal foul by T. Maxey (drawn by K. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,7:09.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:53.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:53.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,6:53.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,6:53.0,,,,,,S. Curry,S. Curry enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,6:53.0,,,,,,B. Simmons,B. Simmons enters the game for I. Joe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,6:53.0,,,,,,J. Holiday,J. Holiday enters the game for K. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,6:37.0,,,,,,B. Simmons,Personal foul by B. Simmons (drawn by D. Sabonis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,6:33.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 25 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,6:13.0,,,,,,T. Harris,T. Harris makes 3-pt jump shot from 27 ft (assist by T. Maxey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:50.0,,,,,,B. Simmons,Shooting foul by B. Simmons (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,5:50.0,,,,,,G. Bitadze,G. Bitadze makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:50.0,,,,,,G. Bitadze,G. Bitadze makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:31.0,,,,,,D. Green,D. Green enters the game for T. Maxey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,5:26.0,,,,,,B. Simmons,B. Simmons makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:23.0,,,,,,D. Howard,Loose ball foul by D. Howard (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,5:23.0,,,,,,G. Bitadze,G. Bitadze makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:23.0,,,,,,M. Scott,M. Scott enters the game for D. Howard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,5:23.0,,,,,,G. Bitadze,G. Bitadze makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:05.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,5:02.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,4:57.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:54.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,4:43.0,,,,,,B. Simmons,B. Simmons misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:41.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,4:34.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt dunk from 1 ft (assist by C. LeVert ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:34.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,4:14.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:11.0,,,,,,M. Scott,Offensive rebound by M. Scott,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:11.0,,,,,,M. Scott,M. Scott misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,4:10.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,4:05.0,,,,,,T. McConnell,Turnover by T. McConnell (bad pass; steal by B. Simmons ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,4:00.0,,,,,,T. Harris,T. Harris misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:58.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,3:49.0,,,,,,B. Simmons,Personal foul by B. Simmons (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,3:49.0,,,,,,C. LeVert,C. LeVert makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:49.0,,,,,,C. LeVert,C. LeVert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,3:25.0,,,,,,B. Simmons,Turnover by B. Simmons (bad pass; steal by T. McConnell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105110IND,1,3:24.0,,,,,,T. McConnell,Turnover by T. McConnell (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105110IND,1,3:14.0,,,,,,B. Simmons,Offensive foul by B. Simmons (drawn by D. Sabonis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,3:14.0,,,,,,B. Simmons,Turnover by B. Simmons (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202105110IND,1,3:05.0,,,,,,D. Sabonis,Turnover by D. Sabonis (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105110IND,1,3:05.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,2:42.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,2:40.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,2:23.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:58.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 23 ft (block by J. Holiday ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202105110IND,1,1:58.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,1:58.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:38.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:34.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,1:20.0,,,,,,M. Scott,M. Scott misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,1:16.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,0:57.0,,,,,,C. LeVert,C. LeVert makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:57.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105110IND,1,0:57.0,,,,,,D. Howard,D. Howard enters the game for M. Scott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,0:55.0,,,,,,D. Sabonis,Shooting foul by D. Sabonis (drawn by T. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,0:55.0,,,,,,T. Harris,T. Harris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:55.0,,,,,,G. Hill,G. Hill enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,0:55.0,,,,,,T. Harris,T. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:33.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 12 ft (assist by D. Sabonis ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:29.0,,,,,,T. Harris,T. Harris misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:26.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105110IND,1,0:17.0,,,,,,G. Hill,Personal foul by G. Hill (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105110IND,1,0:17.0,,,,,,C. LeVert,C. LeVert makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:17.0,,,,,,S. Curry,S. Curry enters the game for D. Howard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105110IND,1,0:17.0,,,,,,C. LeVert,C. LeVert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:12.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105110IND,1,0:09.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

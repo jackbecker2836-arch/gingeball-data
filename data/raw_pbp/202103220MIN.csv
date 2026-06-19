@@ -1,0 +1,425 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202103220MIN,1,11:49.0,,,,,,K. Towns,K. Towns makes 3-pt jump shot from 23 ft (assist by R. Rubio ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:34.0,,,,,,I. Roby,I. Roby makes 2-pt layup at rim (assist by T. Maledon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:21.0,,,,,,R. Rubio,R. Rubio makes 2-pt jump shot from 14 ft (assist by A. Edwards ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:56.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:53.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:44.0,,,,,,K. Towns,K. Towns misses 2-pt dunk from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:41.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:25.0,,,,,,A. Pokusevski,A. Pokusevski misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:21.0,,,,,,J. Layman,Defensive rebound by J. Layman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:14.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:12.0,,,,,,J. Layman,Offensive rebound by J. Layman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:11.0,,,,,,R. Rubio,R. Rubio makes 3-pt jump shot from 22 ft (assist by J. Layman ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:51.0,,,,,,A. Pokusevski,Turnover by A. Pokusevski (lost ball; steal by J. Vanderbilt ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,9:37.0,,,,,,K. Towns,K. Towns makes 2-pt hook shot from 7 ft (assist by R. Rubio ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:14.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:55.0,,,,,,K. Towns,K. Towns misses 2-pt layup from 3 ft (block by M. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,8:49.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,8:44.0,,,,,,M. Brown,M. Brown makes 2-pt dunk from 1 ft (assist by T. Maledon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:39.0,,,,,,J. Layman,J. Layman misses 2-pt layup from 1 ft (block by A. Pokusevski ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,8:39.0,,,,,,J. Layman,Offensive rebound by J. Layman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:35.0,,,,,,J. Layman,J. Layman makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:29.0,,,,,,J. Vanderbilt,Personal foul by J. Vanderbilt (drawn by A. Pokusevski ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,8:29.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,8:21.0,,,,,,A. Pokusevski,A. Pokusevski misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:13.0,,,,,,A. Pokusevski,A. Pokusevski makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:00.0,,,,,,K. Towns,K. Towns misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:56.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,7:35.0,,,,,,A. Pokusevski,A. Pokusevski makes 3-pt jump shot from 26 ft (assist by T. Maledon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:20.0,,,,,,K. Towns,K. Towns misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:19.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,7:11.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:09.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:08.0,,,,,,M. Brown,Turnover by M. Brown (lost ball; steal by R. Rubio ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,6:59.0,,,,,,R. Rubio,R. Rubio misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:57.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,6:45.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:42.0,,,,,,R. Rubio,Defensive rebound by R. Rubio,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,6:25.0,,,,,,J. Layman,J. Layman misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:23.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,6:12.0,,,,,,I. Roby,I. Roby misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:08.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:06.0,,,,,,M. Brown,M. Brown misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:04.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,5:55.0,,,,,,J. Layman,J. Layman misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:52.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,5:41.0,,,,,,I. Roby,Turnover by I. Roby (lost ball; steal by J. Vanderbilt ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,5:40.0,,,,,,A. Edwards,Turnover by A. Edwards (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,5:40.0,,,,,,T. Jerome,T. Jerome enters the game for M. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:40.0,,,,,,J. McDaniels,J. McDaniels enters the game for J. Layman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:29.0,,,,,,I. Roby,I. Roby makes 2-pt layup from 1 ft (assist by S. Gilgeous-Alexander ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:21.0,,,,,,I. Roby,Personal foul by I. Roby (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,5:11.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:07.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:01.0,,,,,,K. Towns,K. Towns misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:57.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,4:44.0,,,,,,T. Maledon,T. Maledon misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:42.0,,,,,,I. Roby,Offensive rebound by I. Roby,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:37.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt layup from 2 ft (assist by A. Pokusevski ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:24.0,,,,,,J. McDaniels,Offensive foul by J. McDaniels (drawn by T. Maledon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,4:24.0,,,,,,J. McDaniels,Turnover by J. McDaniels (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202103220MIN,1,4:09.0,,,,,,A. Pokusevski,A. Pokusevski misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:07.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,3:57.0,,,,,,K. Towns,K. Towns misses 2-pt layup from 4 ft (block by A. Pokusevski ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,3:53.0,,,,,,K. Towns,Offensive rebound by K. Towns,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:52.0,,,,,,K. Towns,K. Towns makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:31.0,,,,,,T. Maledon,T. Maledon makes 3-pt jump shot from 26 ft (assist by T. Jerome ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:23.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,3:23.0,,,,,,J. Nowell,J. Nowell enters the game for A. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,3:23.0,,,,,,J. Okogie,J. Okogie enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,3:19.0,,,,,,J. Okogie,Turnover by J. Okogie (bad pass; steal by T. Maledon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,3:17.0,,,,,,T. Maledon,T. Maledon misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:16.0,,,,,,T. Maledon,Offensive rebound by T. Maledon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:15.0,,,,,,T. Maledon,T. Maledon misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:14.0,,,,,,J. Okogie,Defensive rebound by J. Okogie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,3:12.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:10.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,3:01.0,,,,,,T. Maledon,Turnover by T. Maledon (lost ball; steal by K. Towns ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,2:55.0,,,,,,K. Towns,K. Towns makes 2-pt layup from 1 ft (assist by J. Nowell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:39.0,,,,,,A. Pokusevski,A. Pokusevski misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:39.0,,,,,,R. Rubio,Defensive rebound by R. Rubio,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,2:17.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:13.0,,,,,,R. Rubio,Offensive rebound by R. Rubio,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:12.0,,,,,,R. Rubio,R. Rubio misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:10.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,1:49.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:45.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,1:38.0,,,,,,S. Gilgeous-Alexander,Shooting foul by S. Gilgeous-Alexander (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,1:38.0,,,,,,K. Towns,K. Towns misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:38.0,,,,,,M. Brown,M. Brown enters the game for T. Maledon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,1:38.0,,,,,,S. Mykhailiuk,S. Mykhailiuk enters the game for A. Pokusevski,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,1:38.0,,,,,,K. Williams,K. Williams enters the game for I. Roby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,1:38.0,,,,,,J. Culver,J. Culver enters the game for R. Rubio,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,1:38.0,,,,,,K. Towns,K. Towns makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:19.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt jump shot from 5 ft (assist by S. Mykhailiuk ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:09.0,,,,,,J. Nowell,Turnover by J. Nowell (bad pass; steal by S. Mykhailiuk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,0:57.0,,,,,,T. Jerome,T. Jerome misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:54.0,,,,,,T. Jerome,Offensive rebound by T. Jerome,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:53.0,,,,,,M. Brown,M. Brown makes 2-pt dunk from 1 ft (assist by T. Jerome ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:47.0,,,,,,K. Towns,K. Towns makes 3-pt jump shot from 25 ft (assist by J. Nowell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:26.0,,,,,,K. Williams,Turnover by K. Williams (lost ball; steal by K. Towns ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,0:26.0,,,,,,M. Brown,Personal foul by M. Brown (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,0:26.0,,,,,,K. Towns,K. Towns makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:26.0,,,,,,K. Towns,K. Towns makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:07.0,,,,,,J. Okogie,Personal take foul by J. Okogie (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,0:02.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:00.0,,,,,,K. Towns,Turnover by K. Towns (bad pass; steal by S. Mykhailiuk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,0:00.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:46.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 25 ft (assist by J. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:18.0,,,,,,J. Nowell,J. Nowell misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:15.0,,,,,,A. Edwards,Offensive rebound by A. Edwards,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:07.0,,,,,,J. HernangÃ³mez,J. HernangÃ³mez makes 2-pt layup from 3 ft (assist by J. Nowell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:57.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:53.0,,,,,,J. HernangÃ³mez,Defensive rebound by J. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:38.0,,,,,,N. Reid,Turnover by N. Reid (lost ball; steal by M. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,10:25.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:23.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:17.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:13.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:00.0,,,,,,K. Williams,K. Williams makes 2-pt hook shot from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:36.0,,,,,,J. Okogie,J. Okogie makes 3-pt jump shot from 22 ft (assist by J. HernangÃ³mez ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:29.0,,,,,,K. Williams,Turnover by K. Williams (lost ball; steal by J. Okogie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,9:28.0,,,,,,S. Mykhailiuk,Personal foul by S. Mykhailiuk (drawn by J. Okogie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,9:28.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:17.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:56.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 2-pt dunk from 1 ft (assist by T. Jerome ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:40.0,,,,,,J. HernangÃ³mez,Turnover by J. HernangÃ³mez (bad pass; steal by J. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,8:36.0,,,,,,K. Williams,K. Williams makes 2-pt layup from 1 ft (assist by J. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:22.0,,,,,,J. Nowell,J. Nowell makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:09.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 28 ft (assist by J. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:53.0,,,,,,N. Reid,N. Reid makes 2-pt layup from 3 ft (assist by A. Edwards ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:44.0,,,,,,J. Okogie,Personal foul by J. Okogie (drawn by S. Mykhailiuk ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,7:33.0,,,,,,T. Jerome,T. Jerome misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:30.0,,,,,,J. Okogie,Defensive rebound by J. Okogie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,7:26.0,,,,,,J. Okogie,J. Okogie makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:26.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:00.0,,,,,,M. Brown,M. Brown misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:58.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,6:54.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:51.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,6:41.0,,,,,,J. Nowell,Shooting foul by J. Nowell (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,6:41.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,6:41.0,,,,,,J. Culver,J. Culver enters the game for J. Okogie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,6:41.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:41.0,,,,,,J. Jackson,J. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:26.0,,,,,,M. Brown,Shooting foul by M. Brown (drawn by A. Edwards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,6:26.0,,,,,,A. Edwards,A. Edwards makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:26.0,,,,,,A. Edwards,A. Edwards makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:11.0,,,,,,K. Williams,K. Williams makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:54.0,,,,,,A. Edwards,A. Edwards misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:52.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,5:48.0,,,,,,J. Culver,Personal foul by J. Culver (drawn by M. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,5:48.0,,,,,,T. Maledon,T. Maledon enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:48.0,,,,,,A. Pokusevski,A. Pokusevski enters the game for S. Mykhailiuk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:48.0,,,,,,R. Rubio,R. Rubio enters the game for J. HernangÃ³mez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:48.0,,,,,,K. Towns,K. Towns enters the game for J. Nowell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:35.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 26 ft (assist by K. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:25.0,,,,,,N. Reid,N. Reid makes 3-pt jump shot from 25 ft (assist by A. Edwards ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:09.0,,,,,,T. Maledon,T. Maledon misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:07.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,4:52.0,,,,,,N. Reid,N. Reid makes 3-pt jump shot from 27 ft (assist by R. Rubio ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:52.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander enters the game for M. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,4:52.0,,,,,,I. Roby,I. Roby enters the game for T. Jerome,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,4:30.0,,,,,,I. Roby,Turnover by I. Roby (lost ball; steal by R. Rubio ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,4:24.0,,,,,,J. Culver,J. Culver misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:21.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,4:16.0,,,,,,A. Pokusevski,Turnover by A. Pokusevski (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,3:53.0,,,,,,R. Rubio,R. Rubio misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:50.0,,,,,,K. Williams,Defensive rebound by K. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,3:37.0,,,,,,T. Maledon,T. Maledon makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:14.0,,,,,,A. Edwards,A. Edwards makes 3-pt jump shot from 25 ft (assist by N. Reid ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:13.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,3:00.0,,,,,,K. Williams,K. Williams misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:56.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,2:43.0,,,,,,N. Reid,Turnover by N. Reid (bad pass; steal by I. Roby ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,2:38.0,,,,,,K. Williams,K. Williams makes 3-pt jump shot from 25 ft (assist by T. Maledon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:24.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:16.0,,,,,,J. Culver,Personal foul by J. Culver (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,2:16.0,,,,,,J. Nowell,J. Nowell enters the game for A. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,2:03.0,,,,,,A. Pokusevski,A. Pokusevski misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:01.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,1:53.0,,,,,,R. Rubio,R. Rubio makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:43.0,,,,,,J. Nowell,Personal foul by J. Nowell (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,1:43.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:43.0,,,,,,M. Brown,M. Brown enters the game for K. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,1:43.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:26.0,,,,,,K. Towns,K. Towns misses 2-pt layup from 5 ft (block by I. Roby ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,1:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:20.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:19.0,,,,,,I. Roby,Loose ball foul by I. Roby (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,1:19.0,,,,,,T. Jerome,T. Jerome enters the game for I. Roby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,1:13.0,,,,,,K. Towns,K. Towns misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:11.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,1:02.0,,,,,,M. Brown,M. Brown misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:00.0,,,,,,J. Culver,Defensive rebound by J. Culver,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,0:56.0,,,,,,R. Rubio,R. Rubio misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:52.0,,,,,,S. Gilgeous-Alexander,Defensive rebound by S. Gilgeous-Alexander,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,0:46.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt jump shot from 5 ft (assist by T. Jerome ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:31.0,,,,,,K. Towns,K. Towns misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:27.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,0:23.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 23 ft (assist by A. Pokusevski ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:23.0,,,,,,J. McDaniels,J. McDaniels enters the game for J. Culver,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,0:01.0,,,,,,J. Nowell,J. Nowell misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:45.0,,,,,,I. Roby,I. Roby misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:43.0,,,,,,J. Layman,Defensive rebound by J. Layman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,11:32.0,,,,,,R. Rubio,R. Rubio misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:30.0,,,,,,I. Roby,Defensive rebound by I. Roby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,11:14.0,,,,,,A. Pokusevski,A. Pokusevski makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:02.0,,,,,,A. Edwards,A. Edwards makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:49.0,,,,,,T. Maledon,T. Maledon misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:48.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:34.0,,,,,,R. Rubio,R. Rubio misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:32.0,,,,,,K. Towns,Offensive rebound by K. Towns,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:30.0,,,,,,K. Towns,K. Towns misses 2-pt layup from 2 ft (block by M. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,10:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:26.0,,,,,,J. Layman,J. Layman misses 2-pt layup from 2 ft (block by A. Pokusevski ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,10:24.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:15.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:13.0,,,,,,J. Layman,Defensive rebound by J. Layman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:02.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:59.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,9:38.0,,,,,,A. Pokusevski,A. Pokusevski misses 2-pt hook shot from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:36.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,9:34.0,,,,,,J. Layman,J. Layman makes 2-pt dunk at rim (assist by J. Vanderbilt ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:30.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,9:13.0,,,,,,A. Edwards,Personal foul by A. Edwards (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,9:00.0,,,,,,T. Maledon,T. Maledon misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:57.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,8:38.0,,,,,,A. Edwards,A. Edwards misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:35.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,8:30.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:28.0,,,,,,J. Layman,Defensive rebound by J. Layman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,8:22.0,,,,,,K. Towns,K. Towns misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:18.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,7:58.0,,,,,,A. Pokusevski,A. Pokusevski misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:57.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:57.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,7:47.0,,,,,,K. Towns,K. Towns makes 3-pt jump shot from 25 ft (assist by R. Rubio ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:36.0,,,,,,T. Maledon,Turnover by T. Maledon (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,7:24.0,,,,,,J. Layman,J. Layman makes 2-pt layup from 1 ft (assist by R. Rubio ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:13.0,,,,,,A. Pokusevski,A. Pokusevski makes 3-pt jump shot from 26 ft (assist by T. Maledon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:53.0,,,,,,K. Towns,K. Towns makes 2-pt jump shot from 3 ft (assist by J. Layman ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:33.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:21.0,,,,,,A. Edwards,Turnover by A. Edwards (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,6:12.0,,,,,,R. Rubio,Personal foul by R. Rubio (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,5:57.0,,,,,,I. Roby,I. Roby misses 2-pt layup from 7 ft (block by J. Vanderbilt ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,5:55.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:55.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,5:42.0,,,,,,K. Towns,K. Towns misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:40.0,,,,,,I. Roby,Defensive rebound by I. Roby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,5:32.0,,,,,,I. Roby,I. Roby makes 3-pt jump shot from 22 ft (assist by S. Gilgeous-Alexander ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:16.0,,,,,,A. Edwards,A. Edwards misses 2-pt dunk from 4 ft (block by M. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,5:16.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,5:16.0,,,,,,T. Jerome,T. Jerome enters the game for M. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:16.0,,,,,,J. McDaniels,J. McDaniels enters the game for J. Layman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,4:52.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:42.0,,,,,,J. McDaniels,J. McDaniels misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:40.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,4:35.0,,,,,,T. Maledon,T. Maledon misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:33.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,4:25.0,,,,,,A. Edwards,A. Edwards misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:23.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,4:17.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 3-pt jump shot from 22 ft (assist by T. Jerome ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:16.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,4:16.0,,,,,,J. Nowell,J. Nowell enters the game for A. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,4:16.0,,,,,,J. Okogie,J. Okogie enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,3:57.0,,,,,,K. Towns,K. Towns makes 2-pt dunk from 1 ft (assist by J. McDaniels ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:57.0,,,,,,I. Roby,Shooting foul by I. Roby (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,3:57.0,,,,,,K. Towns,K. Towns makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:32.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,3:22.0,,,,,,J. Nowell,J. Nowell makes 3-pt jump shot from 25 ft (assist by K. Towns ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:03.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt layup from 2 ft (block by J. Nowell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,2:59.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,2:53.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt jump shot from 10 ft (assist by R. Rubio ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:37.0,,,,,,T. Maledon,T. Maledon misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:35.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,2:17.0,,,,,,J. Okogie,J. Okogie misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:15.0,,,,,,I. Roby,Defensive rebound by I. Roby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,2:06.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:57.0,,,,,,J. Okogie,J. Okogie makes 2-pt layup from 1 ft (assist by R. Rubio ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:45.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:43.0,,,,,,K. Towns,Defensive rebound by K. Towns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,1:36.0,,,,,,R. Rubio,Turnover by R. Rubio (bad pass; steal by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,1:28.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt layup from 2 ft (block by K. Towns ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,1:25.0,,,,,,J. Nowell,Defensive rebound by J. Nowell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,1:22.0,,,,,,J. Nowell,J. Nowell makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:04.0,,,,,,A. Pokusevski,A. Pokusevski makes 3-pt jump shot from 27 ft (assist by S. Gilgeous-Alexander ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:47.0,,,,,,K. Towns,K. Towns misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:45.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,0:32.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:11.0,,,,,,I. Roby,Shooting foul by I. Roby (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,0:11.0,,,,,,K. Towns,K. Towns makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:11.0,,,,,,M. Brown,M. Brown enters the game for T. Jerome,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,0:11.0,,,,,,J. Jackson,J. Jackson enters the game for T. Maledon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,0:11.0,,,,,,S. Mykhailiuk,S. Mykhailiuk enters the game for A. Pokusevski,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,0:11.0,,,,,,K. Williams,K. Williams enters the game for I. Roby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,0:11.0,,,,,,J. Layman,J. Layman enters the game for R. Rubio,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,0:11.0,,,,,,K. Towns,K. Towns makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:07.0,,,,,,J. Okogie,Personal foul by J. Okogie (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,0:02.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:46.0,,,,,,N. Reid,N. Reid misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:42.0,,,,,,J. McDaniels,Offensive rebound by J. McDaniels,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:42.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:35.0,,,,,,K. Williams,Shooting foul by K. Williams (drawn by N. Reid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,11:35.0,,,,,,N. Reid,N. Reid misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:35.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:35.0,,,,,,N. Reid,N. Reid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:19.0,,,,,,J. Jackson,J. Jackson misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,11:17.0,,,,,,N. Reid,Defensive rebound by N. Reid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,11:07.0,,,,,,A. Edwards,A. Edwards makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:44.0,,,,,,K. Williams,K. Williams misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:43.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:42.0,,,,,,M. Brown,M. Brown misses 2-pt layup from 5 ft (block by J. McDaniels ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,10:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:38.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 1 ft (assist by K. Williams ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:27.0,,,,,,A. Edwards,A. Edwards misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:27.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,10:18.0,,,,,,T. Jerome,Turnover by T. Jerome (bad pass; steal by A. Edwards ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,10:15.0,,,,,,A. Edwards,A. Edwards makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:10.0,,,,,,J. McDaniels,Personal foul by J. McDaniels (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,10:04.0,,,,,,J. McDaniels,Shooting foul by J. McDaniels (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,10:04.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,10:04.0,,,,,,J. Jackson,J. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:52.0,,,,,,M. Brown,Shooting foul by M. Brown (drawn by A. Edwards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,9:52.0,,,,,,A. Edwards,A. Edwards misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:52.0,,,,,,A. Edwards,A. Edwards misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:49.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,9:36.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 3-pt jump shot from 22 ft (assist by K. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:20.0,,,,,,J. Nowell,J. Nowell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,9:18.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,9:06.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 3-pt jump shot from 25 ft (assist by T. Jerome ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:47.0,,,,,,N. Reid,Turnover by N. Reid (lost ball; steal by T. Jerome ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,8:39.0,,,,,,K. Williams,K. Williams makes 3-pt jump shot from 25 ft (assist by S. Mykhailiuk ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:38.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,8:38.0,,,,,,J. HernangÃ³mez,J. HernangÃ³mez enters the game for J. Layman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,8:38.0,,,,,,J. Okogie,J. Okogie enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,8:38.0,,,,,,K. Towns,K. Towns enters the game for N. Reid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,8:15.0,,,,,,K. Towns,K. Towns misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:13.0,,,,,,J. Okogie,Offensive rebound by J. Okogie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:12.0,,,,,,J. Okogie,J. Okogie misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,8:08.0,,,,,,K. Williams,Defensive rebound by K. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,7:54.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:42.0,,,,,,J. Nowell,J. Nowell makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:24.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:22.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,7:10.0,,,,,,A. Edwards,A. Edwards misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,7:07.0,,,,,,S. Mykhailiuk,Defensive rebound by S. Mykhailiuk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,6:55.0,,,,,,J. Jackson,J. Jackson makes 3-pt jump shot from 22 ft (assist by S. Mykhailiuk ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:38.0,,,,,,J. Nowell,J. Nowell makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:18.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:13.0,,,,,,A. Edwards,Defensive rebound by A. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,6:08.0,,,,,,K. Towns,K. Towns misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,6:06.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,5:56.0,,,,,,M. Brown,Turnover by M. Brown (lost ball; steal by J. Okogie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,5:55.0,,,,,,T. Jerome,Personal take foul by T. Jerome (drawn by J. Nowell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,5:55.0,,,,,,R. Rubio,R. Rubio enters the game for A. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:46.0,,,,,,K. Towns,K. Towns makes 3-pt jump shot from 25 ft (assist by R. Rubio ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:46.0,,,,,,K. Williams,Shooting foul by K. Williams (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,5:46.0,,,,,,K. Towns,K. Towns makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:30.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 25 ft (assist by J. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:21.0,,,,,,K. Williams,Personal foul by K. Williams (drawn by K. Towns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,5:21.0,,,,,,K. Towns,K. Towns misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:21.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander enters the game for M. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:21.0,,,,,,T. Maledon,T. Maledon enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:21.0,,,,,,A. Pokusevski,A. Pokusevski enters the game for T. Jerome,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:21.0,,,,,,I. Roby,I. Roby enters the game for S. Mykhailiuk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,5:21.0,,,,,,K. Towns,K. Towns makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,5:08.0,,,,,,T. Maledon,T. Maledon makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:58.0,,,,,,K. Towns,K. Towns makes 3-pt jump shot from 26 ft (assist by R. Rubio ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:33.0,,,,,,T. Maledon,T. Maledon misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:29.0,,,,,,K. Williams,Offensive rebound by K. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:23.0,,,,,,S. Gilgeous-Alexander,Turnover by S. Gilgeous-Alexander (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,4:09.0,,,,,,K. Towns,K. Towns misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,4:05.0,,,,,,K. Williams,Defensive rebound by K. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,3:45.0,,,,,,I. Roby,Turnover by I. Roby (lost ball; steal by J. Okogie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,3:41.0,,,,,,J. Nowell,J. Nowell misses 2-pt layup from 2 ft (block by T. Maledon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,3:38.0,,,,,,J. HernangÃ³mez,Offensive rebound by J. HernangÃ³mez,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:37.0,,,,,,J. HernangÃ³mez,J. HernangÃ³mez misses 2-pt layup from 3 ft (block by S. Gilgeous-Alexander ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,3:36.0,,,,,,R. Rubio,Offensive rebound by R. Rubio,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:36.0,,,,,,R. Rubio,R. Rubio makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:36.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,3:24.0,,,,,,J. Okogie,Personal foul by J. Okogie (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,3:24.0,,,,,,M. Brown,M. Brown enters the game for K. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,3:14.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,3:10.0,,,,,,J. HernangÃ³mez,Defensive rebound by J. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,3:01.0,,,,,,J. HernangÃ³mez,J. HernangÃ³mez makes 3-pt jump shot from 23 ft (assist by R. Rubio ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:32.0,,,,,,I. Roby,I. Roby makes 2-pt dunk at rim (assist by S. Gilgeous-Alexander ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,2:19.0,,,,,,J. Nowell,J. Nowell makes 3-pt jump shot from 23 ft (assist by R. Rubio ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:55.0,,,,,,S. Gilgeous-Alexander,Turnover by S. Gilgeous-Alexander (lost ball; steal by J. Okogie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202103220MIN,1,1:51.0,,,,,,,Oklahoma City full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,1:51.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:51.0,,,,,,J. Okogie,Turnover by J. Okogie (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202103220MIN,1,1:29.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:25.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:25.0,,,,,,J. Okogie,Personal foul by J. Okogie (drawn by M. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,1:14.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:13.0,,,,,,R. Rubio,Defensive rebound by R. Rubio,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,1:13.0,,,,,,I. Roby,Personal foul by I. Roby (drawn by R. Rubio ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,1:13.0,,,,,,R. Rubio,R. Rubio makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,1:13.0,,,,,,R. Rubio,R. Rubio makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:48.0,,,,,,A. Pokusevski,A. Pokusevski misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:45.0,,,,,,J. HernangÃ³mez,Defensive rebound by J. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,0:39.0,,,,,,K. Towns,K. Towns misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:37.0,,,,,,S. Gilgeous-Alexander,Defensive rebound by S. Gilgeous-Alexander,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,0:32.0,,,,,,J. HernangÃ³mez,Personal take foul by J. HernangÃ³mez (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,0:32.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:32.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:32.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:32.0,,,,,,,Minnesota full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202103220MIN,1,0:32.0,,,,,,J. McDaniels,J. McDaniels enters the game for J. Okogie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202103220MIN,1,0:27.0,,,,,,J. HernangÃ³mez,J. HernangÃ³mez misses 2-pt dunk from 2 ft (block by S. Gilgeous-Alexander ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202103220MIN,1,0:26.0,,,,,,A. Pokusevski,Defensive rebound by A. Pokusevski,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202103220MIN,1,0:26.0,,,,,,K. Towns,Personal take foul by K. Towns (drawn by S. Gilgeous-Alexander ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202103220MIN,1,0:26.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:26.0,,,,,,S. Gilgeous-Alexander,S. Gilgeous-Alexander makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:20.0,,,,,,K. Towns,K. Towns misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202103220MIN,1,0:17.0,,,,,,S. Gilgeous-Alexander,Defensive rebound by S. Gilgeous-Alexander,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

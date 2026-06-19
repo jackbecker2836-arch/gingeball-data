@@ -1,0 +1,475 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202105070PHI,1,11:47.0,,,,,,J. Embiid,J. Embiid makes 3-pt jump shot from 26 ft (assist by T. Harris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:31.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:28.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,11:15.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 18 ft (assist by J. Embiid ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:59.0,,,,,,N. Marshall,N. Marshall makes 2-pt jump shot from 8 ft (assist by E. Bledsoe ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:42.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 9 ft (assist by T. Harris ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:22.0,,,,,,J. Johnson,J. Johnson misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:20.0,,,,,,W. HernangÃ³mez,Offensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:15.0,,,,,,J. Johnson,J. Johnson makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:07.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 8 ft (assist by B. Simmons ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:50.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:48.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:44.0,,,,,,T. Harris,T. Harris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:42.0,,,,,,W. HernangÃ³mez,Defensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:38.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:34.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:22.0,,,,,,J. Embiid,Turnover by J. Embiid (bad pass; steal by L. Ball ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,9:21.0,,,,,,S. Curry,Personal take foul by S. Curry (drawn by N. Marshall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,9:15.0,,,,,,L. Ball,Turnover by L. Ball (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,9:02.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:00.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,8:55.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:52.0,,,,,,L. Ball,Offensive rebound by L. Ball,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:47.0,,,,,,N. Marshall,N. Marshall misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:44.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,8:25.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:21.0,,,,,,W. HernangÃ³mez,Defensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,8:13.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:11.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,7:57.0,,,,,,B. Simmons,B. Simmons makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:49.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,7:49.0,,,,,,G. Hill,G. Hill enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,7:43.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 26 ft (assist by W. HernangÃ³mez ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:27.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:24.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,7:22.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:22.0,,,,,,T. Harris,Shooting foul by T. Harris (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,7:22.0,,,,,,E. Bledsoe,E. Bledsoe makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:06.0,,,,,,J. Embiid,J. Embiid makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:52.0,,,,,,N. Marshall,N. Marshall misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:50.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,6:48.0,,,,,,D. Green,D. Green makes 2-pt dunk from 2 ft (assist by B. Simmons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:39.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,6:33.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 26 ft (assist by N. Marshall ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:08.0,,,,,,B. Simmons,B. Simmons misses 2-pt jump shot from 11 ft (block by J. Johnson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,6:04.0,,,,,,D. Green,Offensive rebound by D. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:02.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:00.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:54.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:52.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:49.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 5 ft (assist by B. Simmons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:49.0,,,,,,W. HernangÃ³mez,Shooting foul by W. HernangÃ³mez (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,5:49.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:41.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses 2-pt jump shot from 1 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:39.0,,,,,,W. HernangÃ³mez,Offensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:39.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:25.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 9 ft (assist by J. Embiid ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:01.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:57.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,4:50.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:37.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:33.0,,,,,,G. Hill,Defensive rebound by G. Hill,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,4:20.0,,,,,,W. HernangÃ³mez,Shooting foul by W. HernangÃ³mez (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,4:20.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:20.0,,,,,,W. Gabriel,W. Gabriel enters the game for E. Bledsoe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,4:20.0,,,,,,J. Hayes,J. Hayes enters the game for W. HernangÃ³mez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,4:20.0,,,,,,K. Lewis,K. Lewis enters the game for J. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,4:20.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:55.0,,,,,,N. Marshall,N. Marshall misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:52.0,,,,,,G. Hill,Defensive rebound by G. Hill,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:48.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:46.0,,,,,,B. Simmons,Offensive rebound by B. Simmons,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:38.0,,,,,,J. Hayes,Shooting foul by J. Hayes (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,3:38.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:38.0,,,,,,S. Milton,S. Milton enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,3:38.0,,,,,,M. Thybulle,M. Thybulle enters the game for B. Simmons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,3:38.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:18.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:15.0,,,,,,W. Gabriel,Offensive rebound by W. Gabriel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:13.0,,,,,,G. Hill,Shooting foul by G. Hill (drawn by K. Lewis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,3:13.0,,,,,,K. Lewis,K. Lewis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:13.0,,,,,,K. Lewis,K. Lewis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:54.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:52.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:48.0,,,,,,J. Hayes,J. Hayes makes 2-pt dunk from 1 ft (assist by N. Marshall ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:29.0,,,,,,K. Lewis,Shooting foul by K. Lewis (drawn by G. Hill ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,2:29.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,2:29.0,,,,,,W. Iwundu,W. Iwundu enters the game for N. Marshall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,2:29.0,,,,,,D. Howard,D. Howard enters the game for J. Embiid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,2:29.0,,,,,,G. Hill,G. Hill makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:29.0,,,,,,G. Hill,G. Hill makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:15.0,,,,,,K. Lewis,K. Lewis misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:12.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:06.0,,,,,,W. Gabriel,Personal foul by W. Gabriel (drawn by D. Howard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,2:06.0,,,,,,M. Scott,M. Scott enters the game for T. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,2:06.0,,,,,,D. Howard,D. Howard misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:06.0,,,,,,D. Howard,D. Howard misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:01.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,1:53.0,,,,,,W. Gabriel,W. Gabriel misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:49.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,1:38.0,,,,,,G. Hill,Turnover by G. Hill (lost ball; steal by W. Gabriel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,1:32.0,,,,,,J. Hayes,J. Hayes misses 2-pt layup from 3 ft (block by D. Howard ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,1:29.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,1:20.0,,,,,,S. Milton,Turnover by S. Milton (lost ball; steal by J. Hayes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,1:15.0,,,,,,K. Lewis,K. Lewis misses 3-pt jump shot from 24 ft (block by M. Thybulle ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,1:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:08.0,,,,,,K. Lewis,K. Lewis misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:06.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:58.0,,,,,,G. Hill,G. Hill misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:58.0,,,,,,W. Iwundu,Defensive rebound by W. Iwundu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:47.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:44.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:41.0,,,,,,L. Ball,Shooting foul by L. Ball (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,0:41.0,,,,,,S. Milton,S. Milton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:41.0,,,,,,S. Milton,S. Milton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:18.0,,,,,,J. Hayes,J. Hayes makes 2-pt layup from 1 ft (assist by K. Lewis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:03.0,,,,,,G. Hill,G. Hill makes 2-pt jump shot from 18 ft (assist by S. Milton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:01.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:43.0,,,,,,M. Scott,Shooting foul by M. Scott (drawn by W. Gabriel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,11:43.0,,,,,,W. Gabriel,W. Gabriel misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:43.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:43.0,,,,,,W. Gabriel,W. Gabriel makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:25.0,,,,,,G. Hill,G. Hill makes 2-pt jump shot from 7 ft (assist by D. Howard ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:17.0,,,,,,D. Howard,Shooting foul by D. Howard (drawn by J. Hayes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,11:17.0,,,,,,J. Hayes,J. Hayes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:17.0,,,,,,S. Curry,S. Curry enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,11:17.0,,,,,,J. Hayes,J. Hayes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:04.0,,,,,,M. Thybulle,M. Thybulle misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:01.0,,,,,,W. Iwundu,Defensive rebound by W. Iwundu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,10:53.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:49.0,,,,,,K. Lewis,Personal foul by K. Lewis (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,10:38.0,,,,,,S. Milton,S. Milton makes 3-pt jump shot from 26 ft (assist by D. Howard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:21.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:16.0,,,,,,J. Hayes,Offensive rebound by J. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:16.0,,,,,,J. Hayes,J. Hayes makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:10.0,,,,,,D. Howard,D. Howard makes 2-pt dunk from 1 ft (assist by S. Milton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:02.0,,,,,,W. Gabriel,W. Gabriel misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:57.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:53.0,,,,,,M. Scott,M. Scott makes 3-pt jump shot from 24 ft (assist by S. Milton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:41.0,,,,,,K. Lewis,K. Lewis makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:14.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:11.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:06.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:06.0,,,,,,M. Thybulle,Shooting foul by M. Thybulle (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,9:06.0,,,,,,E. Bledsoe,E. Bledsoe makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:55.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by M. Thybulle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:32.0,,,,,,J. Hayes,J. Hayes makes 2-pt hook shot from 6 ft (assist by E. Bledsoe ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:05.0,,,,,,D. Howard,D. Howard misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:02.0,,,,,,K. Lewis,Defensive rebound by K. Lewis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,8:01.0,,,,,,K. Lewis,K. Lewis misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:57.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,7:49.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:34.0,,,,,,J. Hayes,J. Hayes makes 2-pt jump shot from 10 ft (assist by K. Lewis ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:15.0,,,,,,D. Howard,Turnover by D. Howard (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,7:15.0,,,,,,J. Embiid,J. Embiid enters the game for D. Howard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,7:15.0,,,,,,B. Simmons,B. Simmons enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,7:15.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,7:03.0,,,,,,J. Hayes,J. Hayes makes 2-pt dunk from 1 ft (assist by K. Lewis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:42.0,,,,,,M. Scott,M. Scott misses 2-pt jump shot from 7 ft (block by J. Hayes ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,6:42.0,,,,,,J. Embiid,Offensive rebound by J. Embiid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:42.0,,,,,,W. Gabriel,Personal foul by W. Gabriel (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,6:42.0,,,,,,D. Green,D. Green enters the game for S. Milton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,6:42.0,,,,,,T. Harris,T. Harris enters the game for M. Scott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,6:30.0,,,,,,J. Embiid,Turnover by J. Embiid (bad pass; steal by K. Lewis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,6:26.0,,,,,,K. Lewis,K. Lewis makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:06.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:03.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:50.0,,,,,,J. Hayes,J. Hayes makes 2-pt dunk at rim (assist by W. Iwundu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:40.0,,,,,,T. Harris,T. Harris misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:38.0,,,,,,W. Iwundu,Defensive rebound by W. Iwundu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:26.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:26.0,,,,,,J. Hayes,Offensive rebound by J. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:26.0,,,,,,J. Hayes,J. Hayes misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:26.0,,,,,,J. Hayes,Offensive rebound by J. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:26.0,,,,,,T. Harris,Shooting foul by T. Harris (drawn by J. Hayes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,5:26.0,,,,,,J. Hayes,J. Hayes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:26.0,,,,,,J. Hayes,J. Hayes misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:23.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:10.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:07.0,,,,,,J. Hayes,Defensive rebound by J. Hayes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:01.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:46.0,,,,,,J. Hayes,Shooting foul by J. Hayes (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,4:46.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:46.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:36.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 6 ft (block by J. Embiid ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,4:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:32.0,,,,,,J. Hayes,J. Hayes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:30.0,,,,,,K. Lewis,Offensive rebound by K. Lewis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:26.0,,,,,,K. Lewis,K. Lewis misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:22.0,,,,,,J. Hayes,Offensive rebound by J. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:21.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:18.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,4:15.0,,,,,,K. Lewis,Personal foul by K. Lewis (drawn by B. Simmons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,4:15.0,,,,,,L. Ball,L. Ball enters the game for J. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,4:15.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez enters the game for K. Lewis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,4:00.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:55.0,,,,,,B. Simmons,Offensive rebound by B. Simmons,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:55.0,,,,,,B. Simmons,B. Simmons makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:46.0,,,,,,J. Embiid,Shooting foul by J. Embiid (drawn by W. HernangÃ³mez ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,3:46.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:46.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:43.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:31.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by B. Simmons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:10.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:51.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:49.0,,,,,,W. Iwundu,Defensive rebound by W. Iwundu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:41.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:37.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:26.0,,,,,,D. Green,D. Green makes 3-pt jump shot from 23 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:07.0,,,,,,B. Simmons,Personal foul by B. Simmons (drawn by W. Gabriel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,2:07.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,2:07.0,,,,,,N. Marshall,N. Marshall enters the game for W. Iwundu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,2:07.0,,,,,,W. Gabriel,W. Gabriel makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:07.0,,,,,,W. Gabriel,W. Gabriel makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:56.0,,,,,,W. HernangÃ³mez,Shooting foul by W. HernangÃ³mez (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,1:56.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:56.0,,,,,,J. Hayes,J. Hayes enters the game for W. Gabriel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,1:56.0,,,,,,J. Johnson,J. Johnson enters the game for W. HernangÃ³mez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,1:56.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:31.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,1:19.0,,,,,,J. Embiid,J. Embiid makes 2-pt dunk from 1 ft (assist by B. Simmons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:04.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (bad pass; steal by S. Curry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,1:00.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:52.0,,,,,,J. Hayes,J. Hayes misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:52.0,,,,,,J. Hayes,Offensive rebound by J. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:52.0,,,,,,J. Hayes,J. Hayes makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:37.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:37.0,,,,,,J. Hayes,Shooting foul by J. Hayes (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,0:37.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:27.0,,,,,,L. Ball,Turnover by L. Ball (lost ball; steal by B. Simmons ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,0:25.0,,,,,,B. Simmons,B. Simmons makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:20.0,,,,,,B. Simmons,Personal foul by B. Simmons (drawn by L. Ball ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,0:20.0,,,,,,L. Ball,L. Ball misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:20.0,,,,,,W. Gabriel,W. Gabriel enters the game for J. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:20.0,,,,,,W. Iwundu,W. Iwundu enters the game for J. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:20.0,,,,,,L. Ball,L. Ball makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:03.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:03.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:01.0,,,,,,N. Marshall,N. Marshall misses 3-pt jump shot from 53 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:46.0,,,,,,N. Marshall,N. Marshall misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:44.0,,,,,,W. HernangÃ³mez,Offensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:44.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:22.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:19.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,11:09.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:05.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,10:49.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:46.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,10:32.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 23 ft (assist by E. Bledsoe ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:23.0,,,,,,J. Embiid,Turnover by J. Embiid (lost ball; steal by W. HernangÃ³mez ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,10:20.0,,,,,,N. Marshall,N. Marshall makes 2-pt dunk from 1 ft (assist by W. HernangÃ³mez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:00.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 17 ft (assist by B. Simmons ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:49.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:36.0,,,,,,J. Johnson,J. Johnson makes 2-pt layup from 2 ft (assist by L. Ball ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:25.0,,,,,,J. Embiid,J. Embiid makes 3-pt jump shot from 25 ft (assist by B. Simmons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:11.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:09.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,8:56.0,,,,,,J. Embiid,J. Embiid makes 3-pt jump shot from 26 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:40.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 2-pt layup from 1 ft (assist by J. Johnson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:28.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:25.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,8:16.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 2-pt jump shot from 13 ft (assist by L. Ball ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:10.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:06.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,8:00.0,,,,,,E. Bledsoe,E. Bledsoe makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:37.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:26.0,,,,,,J. Johnson,Offensive foul by J. Johnson (drawn by D. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,7:26.0,,,,,,J. Johnson,Turnover by J. Johnson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202105070PHI,1,7:07.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:03.0,,,,,,B. Simmons,Offensive rebound by B. Simmons,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:03.0,,,,,,B. Simmons,B. Simmons misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:03.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,7:03.0,,,,,,B. Simmons,Loose ball foul by B. Simmons (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,6:54.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:52.0,,,,,,W. HernangÃ³mez,Offensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:51.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:51.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,6:28.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:01.0,,,,,,J. Johnson,J. Johnson makes 2-pt layup from 2 ft (assist by W. HernangÃ³mez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:47.0,,,,,,J. Johnson,Personal foul by J. Johnson (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,5:36.0,,,,,,B. Simmons,B. Simmons misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:34.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:24.0,,,,,,N. Marshall,N. Marshall misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:20.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:12.0,,,,,,T. Harris,T. Harris makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:03.0,,,,,,J. Johnson,J. Johnson makes 2-pt layup from 1 ft (assist by L. Ball ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:54.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:50.0,,,,,,W. HernangÃ³mez,Defensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,4:42.0,,,,,,W. HernangÃ³mez,Turnover by W. HernangÃ³mez (lost ball; steal by B. Simmons ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,4:40.0,,,,,,B. Simmons,Turnover by B. Simmons (bad pass; steal by N. Marshall ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,4:36.0,,,,,,L. Ball,L. Ball makes 2-pt layup from 1 ft (assist by N. Marshall ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:28.0,,,,,,T. Harris,Turnover by T. Harris (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,4:15.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 26 ft (assist by E. Bledsoe ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:54.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:52.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:45.0,,,,,,N. Marshall,N. Marshall misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:43.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:40.0,,,,,,T. Harris,T. Harris makes 3-pt jump shot from 27 ft (assist by B. Simmons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:35.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,3:35.0,,,,,,K. Lewis,K. Lewis enters the game for E. Bledsoe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,3:35.0,,,,,,G. Hill,G. Hill enters the game for J. Embiid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,3:35.0,,,,,,D. Howard,D. Howard enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,3:35.0,,,,,,M. Thybulle,M. Thybulle enters the game for B. Simmons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,3:24.0,,,,,,D. Howard,Shooting foul by D. Howard (drawn by L. Ball ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,3:24.0,,,,,,L. Ball,L. Ball makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:24.0,,,,,,L. Ball,L. Ball misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:21.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:05.0,,,,,,D. Howard,D. Howard misses 2-pt layup from 6 ft (block by N. Marshall ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,3:03.0,,,,,,D. Howard,Offensive rebound by D. Howard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:59.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,2:59.0,,,,,,J. Hayes,J. Hayes enters the game for W. HernangÃ³mez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,2:44.0,,,,,,J. Hayes,J. Hayes misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:40.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:25.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:24.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:24.0,,,,,,W. Gabriel,W. Gabriel enters the game for J. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,2:24.0,,,,,,S. Milton,S. Milton enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,2:11.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:08.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,1:52.0,,,,,,W. Gabriel,Personal foul by W. Gabriel (drawn by D. Howard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,1:52.0,,,,,,M. Scott,M. Scott enters the game for T. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,1:47.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:43.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,1:35.0,,,,,,W. Gabriel,W. Gabriel makes 3-pt jump shot from 26 ft (assist by J. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:18.0,,,,,,M. Scott,M. Scott misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:15.0,,,,,,D. Howard,Offensive rebound by D. Howard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:15.0,,,,,,W. Gabriel,Shooting foul by W. Gabriel (drawn by D. Howard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,1:15.0,,,,,,D. Howard,D. Howard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:15.0,,,,,,D. Howard,D. Howard misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:13.0,,,,,,J. Hayes,Defensive rebound by J. Hayes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:55.0,,,,,,K. Lewis,K. Lewis makes 2-pt layup from 2 ft (assist by N. Marshall ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:34.0,,,,,,M. Scott,M. Scott misses 2-pt jump shot from 14 ft (block by J. Hayes ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,0:31.0,,,,,,K. Lewis,Defensive rebound by K. Lewis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:27.0,,,,,,K. Lewis,K. Lewis makes 3-pt jump shot from 28 ft (assist by N. Marshall ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:16.0,,,,,,D. Howard,Turnover by D. Howard (bad pass; steal by K. Lewis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,0:14.0,,,,,,K. Lewis,K. Lewis makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:01.0,,,,,,G. Hill,G. Hill misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:42.0,,,,,,S. Milton,Turnover by S. Milton (bad pass; steal by E. Bledsoe ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,11:39.0,,,,,,S. Milton,Shooting foul by S. Milton (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,11:39.0,,,,,,E. Bledsoe,E. Bledsoe misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:39.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:39.0,,,,,,E. Bledsoe,E. Bledsoe makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:21.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:18.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,11:13.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,11:11.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,11:04.0,,,,,,G. Hill,G. Hill makes 2-pt jump shot from 19 ft (assist by D. Howard ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:43.0,,,,,,K. Lewis,K. Lewis misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:40.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,10:25.0,,,,,,S. Milton,Turnover by S. Milton (lost ball; steal by W. Gabriel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,10:17.0,,,,,,J. Hayes,J. Hayes misses 2-pt layup from 5 ft (block by D. Howard ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,10:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:16.0,,,,,,D. Howard,Loose ball foul by D. Howard (drawn by J. Hayes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,10:09.0,,,,,,M. Scott,Personal foul by M. Scott (drawn by W. Gabriel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,10:07.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,10:03.0,,,,,,D. Howard,Defensive rebound by D. Howard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:54.0,,,,,,G. Hill,G. Hill misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:53.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:45.0,,,,,,W. Gabriel,W. Gabriel makes 3-pt jump shot from 23 ft (assist by J. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:30.0,,,,,,S. Milton,S. Milton misses 2-pt layup from 3 ft (block by J. Hayes ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,9:30.0,,,,,,D. Howard,Offensive rebound by D. Howard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:30.0,,,,,,K. Lewis,Shooting foul by K. Lewis (drawn by D. Howard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,9:30.0,,,,,,D. Howard,D. Howard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:30.0,,,,,,B. Simmons,B. Simmons enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,9:30.0,,,,,,D. Howard,D. Howard misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,9:28.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,9:16.0,,,,,,J. Hayes,Offensive foul by J. Hayes (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,9:16.0,,,,,,J. Hayes,Turnover by J. Hayes (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202105070PHI,1,9:16.0,,,,,,T. Harris,T. Harris enters the game for M. Scott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,9:09.0,,,,,,D. Howard,Offensive foul by D. Howard (drawn by K. Lewis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,9:09.0,,,,,,D. Howard,Turnover by D. Howard (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202105070PHI,1,8:55.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt hook shot from 11 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:50.0,,,,,,W. Gabriel,Offensive rebound by W. Gabriel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:50.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:50.0,,,,,,K. Lewis,Offensive rebound by K. Lewis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:49.0,,,,,,E. Bledsoe,E. Bledsoe makes 3-pt jump shot from 28 ft (assist by K. Lewis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:33.0,,,,,,G. Hill,G. Hill makes 3-pt jump shot from 24 ft (assist by B. Simmons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:08.0,,,,,,J. Hayes,J. Hayes misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:06.0,,,,,,J. Hayes,Offensive rebound by J. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,8:04.0,,,,,,W. Gabriel,W. Gabriel makes 3-pt jump shot from 27 ft (assist by J. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:50.0,,,,,,W. Gabriel,Personal foul by W. Gabriel (drawn by B. Simmons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,7:50.0,,,,,,J. Johnson,J. Johnson enters the game for W. Gabriel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,7:50.0,,,,,,S. Curry,S. Curry enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,7:50.0,,,,,,J. Embiid,J. Embiid enters the game for D. Howard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,7:50.0,,,,,,D. Green,D. Green enters the game for S. Milton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,7:43.0,,,,,,D. Green,D. Green makes 3-pt jump shot from 26 ft (assist by J. Embiid ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:25.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:21.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,7:17.0,,,,,,T. Harris,T. Harris makes 3-pt jump shot from 28 ft (assist by B. Simmons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,7:16.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,6:57.0,,,,,,W. Iwundu,W. Iwundu misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:55.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,6:33.0,,,,,,J. Embiid,J. Embiid misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:31.0,,,,,,B. Simmons,Offensive rebound by B. Simmons,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:27.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 4 ft (assist by S. Curry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,6:11.0,,,,,,D. Green,Personal foul by D. Green (drawn by E. Bledsoe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,6:11.0,,,,,,L. Ball,L. Ball enters the game for K. Lewis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,6:02.0,,,,,,L. Ball,Turnover by L. Ball (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,5:48.0,,,,,,B. Simmons,B. Simmons misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:45.0,,,,,,W. Iwundu,Defensive rebound by W. Iwundu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:38.0,,,,,,J. Hayes,J. Hayes misses 2-pt layup from 5 ft (block by D. Green ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,5:36.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,5:33.0,,,,,,B. Simmons,Turnover by B. Simmons (bad pass; steal by E. Bledsoe ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,5:31.0,,,,,,L. Ball,Turnover by L. Ball (bad pass; steal by D. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,5:29.0,,,,,,D. Green,Turnover by D. Green (bad pass; steal by L. Ball ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,5:20.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,5:17.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,4:55.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 10 ft (block by J. Johnson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,4:52.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,4:52.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by W. Iwundu ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,4:52.0,,,,,,W. Iwundu,W. Iwundu makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:52.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez enters the game for J. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,4:52.0,,,,,,W. Iwundu,W. Iwundu makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:37.0,,,,,,B. Simmons,B. Simmons makes 2-pt jump shot from 6 ft (assist by S. Curry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:25.0,,,,,,J. Johnson,J. Johnson makes 2-pt layup from 1 ft (assist by W. HernangÃ³mez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:25.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,4:04.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,4:02.0,,,,,,W. HernangÃ³mez,Defensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:53.0,,,,,,J. Johnson,J. Johnson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:50.0,,,,,,L. Ball,Offensive rebound by L. Ball,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:48.0,,,,,,E. Bledsoe,E. Bledsoe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:44.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:34.0,,,,,,T. Harris,T. Harris misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:34.0,,,,,,L. Ball,Loose ball foul by L. Ball (drawn by T. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,3:25.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:22.0,,,,,,E. Bledsoe,Defensive rebound by E. Bledsoe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:11.0,,,,,,J. Johnson,J. Johnson misses 2-pt layup from 2 ft (block by J. Embiid ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202105070PHI,1,3:11.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:11.0,,,,,,N. Marshall,N. Marshall enters the game for W. Iwundu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,3:06.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,3:06.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,3:06.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,2:55.0,,,,,,D. Green,Turnover by D. Green (bad pass; steal by W. HernangÃ³mez ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202105070PHI,1,2:44.0,,,,,,N. Marshall,N. Marshall misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:42.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:27.0,,,,,,J. Embiid,J. Embiid misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:23.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:12.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,2:11.0,,,,,,B. Simmons,Defensive rebound by B. Simmons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,2:05.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:59.0,,,,,,D. Green,Offensive rebound by D. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:59.0,,,,,,D. Green,D. Green misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:58.0,,,,,,W. HernangÃ³mez,Defensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,1:47.0,,,,,,L. Ball,L. Ball makes 2-pt layup from 1 ft (assist by W. HernangÃ³mez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:39.0,,,,,,J. Johnson,Shooting foul by J. Johnson (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202105070PHI,1,1:39.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:39.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:26.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,1:23.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,1:10.0,,,,,,T. Harris,T. Harris makes 3-pt jump shot from 25 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:55.0,,,,,,E. Bledsoe,E. Bledsoe misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:52.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:35.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:33.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202105070PHI,1,0:33.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,0:33.0,,,,,,G. Hill,G. Hill enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:19.0,,,,,,L. Ball,Turnover by L. Ball (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,0:19.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202105070PHI,1,0:14.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,0:14.0,,,,,,J. Hayes,J. Hayes enters the game for W. HernangÃ³mez,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:14.0,,,,,,W. Iwundu,W. Iwundu enters the game for J. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:14.0,,,,,,S. Curry,S. Curry enters the game for G. Hill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:10.0,,,,,,,Turnover by  (8 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202105070PHI,1,0:10.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202105070PHI,1,0:10.0,,,,,,W. Gabriel,W. Gabriel enters the game for J. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:10.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez enters the game for W. Iwundu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:10.0,,,,,,G. Hill,G. Hill enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202105070PHI,1,0:02.0,,,,,,E. Bledsoe,Turnover by E. Bledsoe (bad pass; steal by T. Harris ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False

@@ -1,0 +1,473 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202104020IND,1,11:47.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:43.0,,,,,,P. Washington,Offensive rebound by P. Washington,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:41.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:37.0,,,,,,T. Rozier,Offensive rebound by T. Rozier,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:27.0,,,,,,G. Hayward,G. Hayward makes 3-pt jump shot from 27 ft (assist by T. Rozier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:10.0,,,,,,C. LeVert,C. LeVert makes 3-pt jump shot from 28 ft (assist by E. Sumner ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:48.0,,,,,,B. Biyombo,B. Biyombo makes 2-pt jump shot from 6 ft (assist by G. Hayward ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:27.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:24.0,,,,,,D. Sabonis,Offensive rebound by D. Sabonis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:18.0,,,,,,D. Sabonis,D. Sabonis misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:16.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,10:08.0,,,,,,P. Washington,P. Washington makes 2-pt jump shot from 4 ft (assist by G. Hayward ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:58.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:37.0,,,,,,G. Hayward,Turnover by G. Hayward (lost ball; steal by J. Holiday ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,9:34.0,,,,,,E. Sumner,E. Sumner makes 2-pt layup from 1 ft (assist by C. LeVert ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:16.0,,,,,,P. Washington,P. Washington makes 2-pt jump shot from 9 ft (assist by G. Hayward ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:57.0,,,,,,M. Turner,Turnover by M. Turner (bad pass; steal by P. Washington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,8:51.0,,,,,,E. Sumner,Personal foul by E. Sumner (drawn by B. Biyombo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,8:45.0,,,,,,D. Graham,D. Graham misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:42.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,8:32.0,,,,,,M. Turner,M. Turner makes 2-pt layup at rim (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:19.0,,,,,,G. Hayward,G. Hayward makes 2-pt jump shot from 18 ft (assist by B. Biyombo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:05.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:01.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,7:51.0,,,,,,M. Turner,Shooting foul by M. Turner (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,7:51.0,,,,,,G. Hayward,G. Hayward makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:51.0,,,,,,G. Hayward,G. Hayward makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:37.0,,,,,,C. LeVert,Turnover by C. LeVert (bad pass; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,7:33.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:30.0,,,,,,E. Sumner,Defensive rebound by E. Sumner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,7:25.0,,,,,,E. Sumner,E. Sumner makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:15.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:12.0,,,,,,B. Biyombo,Offensive rebound by B. Biyombo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:08.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:05.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,7:01.0,,,,,,C. LeVert,C. LeVert misses 2-pt layup from 1 ft (block by T. Rozier ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,7:01.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:47.0,,,,,,B. Biyombo,B. Biyombo makes 2-pt layup from 2 ft (assist by G. Hayward ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:38.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,6:38.0,,,,,,B. Wanamaker,B. Wanamaker enters the game for B. Biyombo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,6:38.0,,,,,,C. Zeller,C. Zeller enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,6:31.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:28.0,,,,,,C. LeVert,Offensive rebound by C. LeVert,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:26.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:24.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:15.0,,,,,,P. Washington,Turnover by P. Washington (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104020IND,1,6:04.0,,,,,,C. LeVert,Turnover by C. LeVert (lost ball; steal by B. Wanamaker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,5:59.0,,,,,,C. Zeller,C. Zeller makes 2-pt layup from 2 ft (assist by G. Hayward ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:46.0,,,,,,E. Sumner,E. Sumner misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:44.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:38.0,,,,,,P. Washington,P. Washington misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:36.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:25.0,,,,,,C. LeVert,C. LeVert makes 2-pt layup from 3 ft (assist by D. Sabonis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:09.0,,,,,,C. Zeller,C. Zeller makes 2-pt jump shot from 7 ft (assist by G. Hayward ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:55.0,,,,,,E. Sumner,E. Sumner misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:53.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:48.0,,,,,,P. Washington,Turnover by P. Washington (bad pass; steal by M. Turner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,4:41.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 23 ft (assist by D. Sabonis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:39.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,4:39.0,,,,,,M. Bridges,M. Bridges enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:39.0,,,,,,T. McConnell,T. McConnell enters the game for E. Sumner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:39.0,,,,,,D. McDermott,D. McDermott enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:25.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:22.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:03.0,,,,,,D. Sabonis,D. Sabonis misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:00.0,,,,,,T. Rozier,Defensive rebound by T. Rozier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,3:51.0,,,,,,M. Bridges,Turnover by M. Bridges (bad pass; steal by D. Sabonis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,3:45.0,,,,,,D. McDermott,D. McDermott makes 3-pt jump shot from 28 ft (assist by C. LeVert ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:28.0,,,,,,B. Wanamaker,B. Wanamaker makes 2-pt layup at rim (assist by T. Rozier ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:28.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:19.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:16.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,3:01.0,,,,,,G. Hayward,G. Hayward makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:46.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:43.0,,,,,,C. Zeller,Defensive rebound by C. Zeller,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,2:38.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup from 2 ft (block by T. McConnell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,2:38.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,2:27.0,,,,,,C. LeVert,Turnover by C. LeVert (bad pass; steal by M. Bridges ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,2:20.0,,,,,,B. Wanamaker,Turnover by B. Wanamaker (bad pass; steal by J. Holiday ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,2:15.0,,,,,,C. LeVert,C. LeVert misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:12.0,,,,,,D. Sabonis,Offensive rebound by D. Sabonis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:12.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:53.0,,,,,,G. Hayward,G. Hayward makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:42.0,,,,,,D. McDermott,D. McDermott misses 2-pt layup from 2 ft (block by M. Bridges ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,1:40.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,1:37.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:34.0,,,,,,C. Zeller,Offensive rebound by C. Zeller,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:30.0,,,,,,D. McDermott,Personal foul by D. McDermott (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,1:30.0,,,,,,D. Graham,D. Graham enters the game for T. Rozier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:30.0,,,,,,G. Bitadze,G. Bitadze enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:30.0,,,,,,A. Holiday,A. Holiday enters the game for C. LeVert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:30.0,,,,,,J. Sampson,J. Sampson enters the game for D. Sabonis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:26.0,,,,,,D. Graham,D. Graham misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:24.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,1:24.0,,,,,,D. Graham,Loose ball foul by D. Graham (drawn by D. McDermott ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,1:12.0,,,,,,T. McConnell,Turnover by T. McConnell (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104020IND,1,1:04.0,,,,,,J. Sampson,Personal foul by J. Sampson (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,1:04.0,,,,,,G. Hayward,G. Hayward misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:04.0,,,,,,G. Hayward,G. Hayward makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:53.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:50.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,0:47.0,,,,,,G. Bitadze,Personal foul by G. Bitadze (drawn by C. Zeller ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:47.0,,,,,,C. Zeller,C. Zeller makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:47.0,,,,,,C. Zeller,C. Zeller makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:33.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt dunk from 2 ft (assist by D. McDermott ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:17.0,,,,,,D. Graham,Turnover by D. Graham (bad pass; steal by A. Holiday ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,0:13.0,,,,,,D. Graham,Shooting foul by D. Graham (drawn by J. Sampson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:13.0,,,,,,J. Sampson,J. Sampson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:13.0,,,,,,T. Rozier,T. Rozier enters the game for B. Wanamaker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,0:13.0,,,,,,J. Sampson,J. Sampson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:11.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:02.0,,,,,,A. Holiday,A. Holiday misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:02.0,,,,,,J. Sampson,Offensive rebound by J. Sampson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:38.0,,,,,,A. Holiday,A. Holiday makes 2-pt layup from 1 ft (assist by G. Bitadze ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:21.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:18.0,,,,,,J. Sampson,Defensive rebound by J. Sampson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,11:06.0,,,,,,J. Sampson,J. Sampson misses 2-pt layup from 1 ft (block by P. Washington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,11:04.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,11:00.0,,,,,,C. Martin,C. Martin misses 2-pt layup at rim (block by J. Sampson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,11:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:00.0,,,,,,E. Sumner,E. Sumner enters the game for J. Sampson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,10:58.0,,,,,,M. Bridges,M. Bridges misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:54.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,10:37.0,,,,,,A. Holiday,A. Holiday misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:35.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:34.0,,,,,,B. Wanamaker,Personal foul by B. Wanamaker (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,10:24.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt layup from 1 ft (assist by E. Sumner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:08.0,,,,,,P. Washington,P. Washington misses 2-pt layup from 2 ft (block by E. Sumner ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,10:05.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,10:03.0,,,,,,A. Holiday,A. Holiday misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:00.0,,,,,,D. Graham,Defensive rebound by D. Graham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,9:52.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:49.0,,,,,,E. Sumner,Defensive rebound by E. Sumner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,9:41.0,,,,,,A. Holiday,A. Holiday makes 2-pt layup from 1 ft (assist by E. Sumner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:40.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,9:40.0,,,,,,T. Rozier,T. Rozier enters the game for B. Wanamaker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,9:19.0,,,,,,T. Rozier,T. Rozier makes 2-pt jump shot from 13 ft (assist by M. Bridges ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:10.0,,,,,,D. McDermott,D. McDermott makes 2-pt jump shot from 20 ft (assist by A. Holiday ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:01.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:01.0,,,,,,E. Sumner,Defensive rebound by E. Sumner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,8:54.0,,,,,,C. Martin,Shooting foul by C. Martin (drawn by E. Sumner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,8:54.0,,,,,,E. Sumner,E. Sumner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:54.0,,,,,,E. Sumner,E. Sumner misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:52.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,8:40.0,,,,,,M. Bridges,M. Bridges makes 2-pt jump shot from 12 ft (assist by P. Washington ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:28.0,,,,,,D. McDermott,D. McDermott makes 3-pt jump shot from 29 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:10.0,,,,,,P. Washington,P. Washington makes 2-pt jump shot from 3 ft (assist by D. Graham ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:56.0,,,,,,D. McDermott,D. McDermott makes 2-pt layup from 1 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:45.0,,,,,,M. Bridges,M. Bridges makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:38.0,,,,,,T. McConnell,Turnover by T. McConnell (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104020IND,1,7:38.0,,,,,,B. Wanamaker,B. Wanamaker enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,7:38.0,,,,,,M. Turner,M. Turner enters the game for G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,7:27.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:24.0,,,,,,M. Bridges,Offensive rebound by M. Bridges,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:14.0,,,,,,P. Washington,P. Washington misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:13.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,7:10.0,,,,,,B. Wanamaker,Shooting foul by B. Wanamaker (drawn by M. Turner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,7:10.0,,,,,,M. Turner,M. Turner misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:10.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:10.0,,,,,,G. Hayward,G. Hayward enters the game for M. Bridges,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,7:10.0,,,,,,C. Zeller,C. Zeller enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,7:10.0,,,,,,C. LeVert,C. LeVert enters the game for A. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,7:10.0,,,,,,D. Sabonis,D. Sabonis enters the game for D. McDermott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,7:10.0,,,,,,M. Turner,M. Turner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:00.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:57.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:44.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:41.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:29.0,,,,,,T. Rozier,T. Rozier makes 2-pt layup from 1 ft (assist by P. Washington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:20.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt layup from 3 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:02.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:58.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:49.0,,,,,,E. Sumner,E. Sumner misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:46.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:42.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:38.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:36.0,,,,,,D. Sabonis,Turnover by D. Sabonis (lost ball; steal by B. Wanamaker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,5:34.0,,,,,,B. Wanamaker,B. Wanamaker makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:14.0,,,,,,M. Turner,M. Turner misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:11.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:01.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:57.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:51.0,,,,,,C. Zeller,Personal foul by C. Zeller (drawn by D. Sabonis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,4:51.0,,,,,,M. Bridges,M. Bridges enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:51.0,,,,,,J. Holiday,J. Holiday enters the game for E. Sumner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:45.0,,,,,,D. Sabonis,D. Sabonis misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:42.0,,,,,,T. Rozier,Defensive rebound by T. Rozier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:36.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:33.0,,,,,,C. Zeller,Offensive rebound by C. Zeller,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:33.0,,,,,,C. Zeller,C. Zeller makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:28.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,4:28.0,,,,,,T. Rozier,Technical foul by T. Rozier,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,4:28.0,,,,,,J. Holiday,J. Holiday makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:17.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:15.0,,,,,,M. Turner,Offensive rebound by M. Turner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:14.0,,,,,,M. Turner,M. Turner misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:12.0,,,,,,B. Wanamaker,Defensive rebound by B. Wanamaker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:07.0,,,,,,B. Wanamaker,B. Wanamaker makes 2-pt jump shot from 2 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:51.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt layup from 1 ft (assist by M. Turner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:28.0,,,,,,M. Bridges,M. Bridges makes 3-pt jump shot from 25 ft (assist by B. Wanamaker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:04.0,,,,,,M. Turner,M. Turner misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:01.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,2:51.0,,,,,,M. Bridges,M. Bridges makes 3-pt jump shot from 27 ft (assist by B. Wanamaker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:36.0,,,,,,J. Holiday,J. Holiday makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:16.0,,,,,,M. Bridges,M. Bridges misses 2-pt layup from 1 ft (block by M. Turner ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,2:14.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,2:08.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:05.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,2:05.0,,,,,,D. Graham,D. Graham enters the game for B. Wanamaker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,2:05.0,,,,,,D. McDermott,D. McDermott enters the game for T. McConnell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:53.0,,,,,,M. Turner,Personal foul by M. Turner (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,1:48.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,1:48.0,,,,,,G. Hayward,G. Hayward makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:48.0,,,,,,G. Hayward,G. Hayward misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:46.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,1:33.0,,,,,,C. LeVert,C. LeVert misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:31.0,,,,,,D. Graham,Defensive rebound by D. Graham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,1:22.0,,,,,,M. Bridges,M. Bridges makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:07.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:04.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,0:53.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:51.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,0:43.0,,,,,,C. LeVert,Turnover by C. LeVert (lost ball; steal by T. Rozier ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,0:38.0,,,,,,M. Turner,Personal foul by M. Turner (drawn by D. Graham ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:38.0,,,,,,C. LeVert,Technical foul by C. LeVert,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:38.0,,,,,,D. Graham,D. Graham makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:38.0,,,,,,D. Graham,D. Graham makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:38.0,,,,,,E. Sumner,E. Sumner enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,0:38.0,,,,,,D. Graham,D. Graham makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:24.0,,,,,,E. Sumner,E. Sumner makes 2-pt layup from 7 ft (assist by D. McDermott ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:24.0,,,,,,C. Zeller,Shooting foul by C. Zeller (drawn by E. Sumner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:24.0,,,,,,E. Sumner,E. Sumner makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:01.0,,,,,,M. Bridges,M. Bridges makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:41.0,,,,,,E. Sumner,Turnover by E. Sumner (lost ball; steal by B. Biyombo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,11:29.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by M. Bridges ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,11:29.0,,,,,,M. Bridges,M. Bridges makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:29.0,,,,,,M. Bridges,M. Bridges makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:16.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:14.0,,,,,,B. Biyombo,Defensive rebound by B. Biyombo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,11:09.0,,,,,,P. Washington,P. Washington makes 3-pt jump shot from 23 ft (assist by D. Graham ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:51.0,,,,,,E. Sumner,Turnover by E. Sumner (bad pass; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,10:37.0,,,,,,D. Graham,D. Graham misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:34.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,10:29.0,,,,,,J. Holiday,Turnover by J. Holiday (bad pass; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,10:24.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:23.0,,,,,,E. Sumner,Defensive rebound by E. Sumner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,10:17.0,,,,,,E. Sumner,E. Sumner makes 2-pt layup from 2 ft (assist by C. LeVert ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:10.0,,,,,,B. Biyombo,B. Biyombo makes 2-pt dunk from 1 ft (assist by D. Graham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:08.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,10:00.0,,,,,,B. Biyombo,Personal foul by B. Biyombo (drawn by D. Sabonis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,9:55.0,,,,,,T. Rozier,Personal foul by T. Rozier (drawn by E. Sumner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,9:46.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:43.0,,,,,,T. Rozier,Defensive rebound by T. Rozier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,9:37.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:34.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,9:22.0,,,,,,M. Turner,M. Turner makes 2-pt layup from 2 ft (assist by C. LeVert ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:03.0,,,,,,M. Bridges,M. Bridges misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:01.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,8:49.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:46.0,,,,,,B. Biyombo,Defensive rebound by B. Biyombo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,8:39.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup from 1 ft (block by J. Holiday ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,8:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:24.0,,,,,,P. Washington,P. Washington misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:22.0,,,,,,M. Turner,Loose ball foul by M. Turner (drawn by B. Biyombo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,8:22.0,,,,,,B. Wanamaker,B. Wanamaker enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,8:09.0,,,,,,P. Washington,P. Washington misses 2-pt jump shot from 1 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:05.0,,,,,,B. Wanamaker,Offensive rebound by B. Wanamaker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:03.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by B. Wanamaker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,8:03.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:03.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:03.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:45.0,,,,,,E. Sumner,Turnover by E. Sumner (bad pass; steal by P. Washington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,7:29.0,,,,,,B. Wanamaker,B. Wanamaker misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:26.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,7:12.0,,,,,,D. Sabonis,D. Sabonis makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:54.0,,,,,,P. Washington,Turnover by P. Washington (bad pass; steal by C. LeVert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,6:49.0,,,,,,C. LeVert,C. LeVert makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:48.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,6:48.0,,,,,,C. Martin,C. Martin enters the game for B. Biyombo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,6:48.0,,,,,,C. Zeller,C. Zeller enters the game for M. Bridges,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,6:48.0,,,,,,T. McConnell,T. McConnell enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,6:48.0,,,,,,D. McDermott,D. McDermott enters the game for E. Sumner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,6:32.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:29.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:25.0,,,,,,P. Washington,Shooting foul by P. Washington (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,6:25.0,,,,,,C. LeVert,C. LeVert misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:25.0,,,,,,C. LeVert,C. LeVert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:04.0,,,,,,B. Wanamaker,B. Wanamaker makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:56.0,,,,,,C. LeVert,C. LeVert makes 3-pt jump shot from 29 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:39.0,,,,,,B. Wanamaker,Turnover by B. Wanamaker (bad pass; steal by C. LeVert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,5:35.0,,,,,,C. Zeller,Shooting foul by C. Zeller (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,5:35.0,,,,,,C. LeVert,C. LeVert misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:35.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:35.0,,,,,,C. LeVert,C. LeVert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:21.0,,,,,,C. LeVert,Personal foul by C. LeVert (drawn by T. Rozier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,5:15.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:13.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:06.0,,,,,,C. LeVert,C. LeVert misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:03.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:48.0,,,,,,T. Rozier,T. Rozier makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:26.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:22.0,,,,,,T. Rozier,Defensive rebound by T. Rozier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:12.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:10.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:03.0,,,,,,B. Wanamaker,Personal foul by B. Wanamaker (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,4:03.0,,,,,,C. LeVert,C. LeVert makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:03.0,,,,,,M. Bridges,M. Bridges enters the game for T. Rozier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:03.0,,,,,,D. Graham,D. Graham enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:03.0,,,,,,A. Holiday,A. Holiday enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,4:03.0,,,,,,C. LeVert,C. LeVert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:45.0,,,,,,M. Bridges,M. Bridges makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:45.0,,,,,,C. LeVert,Shooting foul by C. LeVert (drawn by M. Bridges ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,3:45.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,3:45.0,,,,,,M. Bridges,M. Bridges misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:43.0,,,,,,D. Sabonis,Defensive rebound by D. Sabonis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,3:34.0,,,,,,T. McConnell,Turnover by T. McConnell (lost ball; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,3:21.0,,,,,,B. Wanamaker,Offensive foul by B. Wanamaker (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,3:21.0,,,,,,B. Wanamaker,Turnover by B. Wanamaker (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104020IND,1,3:08.0,,,,,,A. Holiday,A. Holiday makes 2-pt jump shot from 8 ft (assist by C. LeVert ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:51.0,,,,,,D. Graham,Turnover by D. Graham (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104020IND,1,2:46.0,,,,,,A. Holiday,A. Holiday makes 3-pt jump shot from 27 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:27.0,,,,,,D. Graham,D. Graham makes 3-pt jump shot from 28 ft (assist by B. Wanamaker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:12.0,,,,,,D. Sabonis,Turnover by D. Sabonis (bad pass; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,2:11.0,,,,,,A. Holiday,Shooting foul by A. Holiday (drawn by D. Graham ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,2:11.0,,,,,,D. Graham,D. Graham makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:11.0,,,,,,G. Bitadze,G. Bitadze enters the game for C. LeVert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,2:11.0,,,,,,J. Holiday,J. Holiday enters the game for D. Sabonis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,2:11.0,,,,,,D. Graham,D. Graham makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:59.0,,,,,,A. Holiday,Turnover by A. Holiday (bad pass; steal by M. Bridges ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,1:55.0,,,,,,T. McConnell,Shooting foul by T. McConnell (drawn by M. Bridges ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,1:55.0,,,,,,M. Bridges,M. Bridges makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:55.0,,,,,,M. Bridges,M. Bridges misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:54.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,1:46.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt layup from 1 ft (assist by A. Holiday ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:33.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by C. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,1:33.0,,,,,,C. Martin,C. Martin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:33.0,,,,,,C. Martin,C. Martin misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:32.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,1:17.0,,,,,,A. Holiday,Turnover by A. Holiday (bad pass; steal by C. Zeller ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,1:00.0,,,,,,D. Graham,D. Graham misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:57.0,,,,,,D. McDermott,Defensive rebound by D. McDermott,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,0:47.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 8 ft (assist by D. McDermott ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:34.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:33.0,,,,,,A. Holiday,Loose ball foul by A. Holiday (drawn by C. Zeller ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:33.0,,,,,,T. Rozier,T. Rozier enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,0:33.0,,,,,,C. Zeller,C. Zeller misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:33.0,,,,,,C. Zeller,C. Zeller misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:31.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,0:10.0,,,,,,G. Bitadze,G. Bitadze makes 3-pt jump shot from 26 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:00.0,,,,,,A. Holiday,Shooting foul by A. Holiday (drawn by T. Rozier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:00.0,,,,,,T. Rozier,T. Rozier makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:00.0,,,,,,T. Rozier,T. Rozier makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:00.0,,,,,,T. Rozier,T. Rozier misses free throw 3 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:00.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,11:45.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:42.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,11:29.0,,,,,,T. McConnell,T. McConnell makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,11:12.0,,,,,,C. Zeller,C. Zeller makes 2-pt dunk from 1 ft (assist by C. Martin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:44.0,,,,,,M. Turner,M. Turner makes 2-pt layup from 1 ft (assist by A. Holiday ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:22.0,,,,,,D. Graham,D. Graham makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,10:13.0,,,,,,T. McConnell,T. McConnell makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:51.0,,,,,,T. Rozier,T. Rozier makes 3-pt jump shot from 23 ft (assist by D. Graham ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:38.0,,,,,,T. McConnell,T. McConnell misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:35.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,9:22.0,,,,,,D. Graham,D. Graham misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:18.0,,,,,,D. Graham,Offensive rebound by D. Graham,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:18.0,,,,,,D. Graham,D. Graham makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:09.0,,,,,,M. Turner,M. Turner misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,9:05.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,8:52.0,,,,,,C. Zeller,C. Zeller makes 2-pt layup from 1 ft (assist by D. Graham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:52.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,8:52.0,,,,,,B. Biyombo,B. Biyombo enters the game for M. Bridges,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,8:52.0,,,,,,B. Wanamaker,B. Wanamaker enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,8:52.0,,,,,,P. Washington,P. Washington enters the game for C. Zeller,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,8:52.0,,,,,,C. LeVert,C. LeVert enters the game for A. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,8:52.0,,,,,,E. Sumner,E. Sumner enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,8:38.0,,,,,,T. McConnell,T. McConnell makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:22.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:20.0,,,,,,B. Biyombo,Offensive rebound by B. Biyombo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:10.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:07.0,,,,,,T. Rozier,Offensive rebound by T. Rozier,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:07.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,8:06.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,8:00.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:42.0,,,,,,P. Washington,P. Washington makes 2-pt dunk from 1 ft (assist by C. Martin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:34.0,,,,,,E. Sumner,E. Sumner misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:32.0,,,,,,B. Biyombo,Defensive rebound by B. Biyombo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,7:26.0,,,,,,E. Sumner,Personal foul by E. Sumner (drawn by B. Wanamaker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,7:11.0,,,,,,B. Biyombo,B. Biyombo misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,7:09.0,,,,,,D. McDermott,Defensive rebound by D. McDermott,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:57.0,,,,,,T. Rozier,Shooting foul by T. Rozier (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,6:57.0,,,,,,T. McConnell,T. McConnell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:57.0,,,,,,T. McConnell,T. McConnell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:41.0,,,,,,P. Washington,P. Washington misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:38.0,,,,,,E. Sumner,Defensive rebound by E. Sumner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:23.0,,,,,,E. Sumner,Turnover by E. Sumner (lost ball; steal by B. Wanamaker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,6:19.0,,,,,,B. Wanamaker,B. Wanamaker misses 2-pt layup from 1 ft (block by T. McConnell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202104020IND,1,6:19.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,6:19.0,,,,,,M. Bridges,M. Bridges enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,6:09.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,6:06.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:58.0,,,,,,M. Bridges,M. Bridges misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:52.0,,,,,,E. Sumner,Defensive rebound by E. Sumner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:50.0,,,,,,D. McDermott,D. McDermott makes 3-pt jump shot from 24 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:47.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,5:47.0,,,,,,C. Zeller,C. Zeller enters the game for B. Biyombo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,5:47.0,,,,,,J. Holiday,J. Holiday enters the game for E. Sumner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,5:36.0,,,,,,C. Zeller,C. Zeller makes 2-pt layup from 1 ft (assist by B. Wanamaker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:22.0,,,,,,T. McConnell,T. McConnell misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,5:20.0,,,,,,C. Zeller,Defensive rebound by C. Zeller,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,5:04.0,,,,,,B. Wanamaker,B. Wanamaker makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:56.0,,,,,,D. McDermott,D. McDermott misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:52.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:43.0,,,,,,T. Rozier,T. Rozier makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:27.0,,,,,,M. Turner,Turnover by M. Turner (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202104020IND,1,4:18.0,,,,,,B. Wanamaker,B. Wanamaker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,4:15.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,4:06.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 10 ft (assist by T. McConnell ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:49.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:46.0,,,,,,B. Wanamaker,Offensive rebound by B. Wanamaker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:45.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:42.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,3:25.0,,,,,,T. McConnell,T. McConnell misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:22.0,,,,,,M. Bridges,Defensive rebound by M. Bridges,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,3:14.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,3:14.0,,,,,,D. Graham,D. Graham enters the game for B. Wanamaker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,3:10.0,,,,,,P. Washington,P. Washington makes 2-pt dunk from 2 ft (assist by C. Zeller ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,3:00.0,,,,,,M. Turner,Offensive foul by M. Turner (drawn by M. Bridges ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,3:00.0,,,,,,M. Turner,Turnover by M. Turner (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202104020IND,1,2:44.0,,,,,,C. Zeller,C. Zeller makes 2-pt dunk from 1 ft (assist by D. Graham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:44.0,,,,,,M. Turner,Shooting foul by M. Turner (drawn by C. Zeller ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,2:44.0,,,,,,G. Bitadze,G. Bitadze enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,2:44.0,,,,,,C. Zeller,C. Zeller makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:37.0,,,,,,J. Holiday,Turnover by J. Holiday (lost ball; steal by T. Rozier ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202104020IND,1,2:31.0,,,,,,M. Bridges,M. Bridges makes 2-pt dunk from 3 ft (assist by T. Rozier ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:11.0,,,,,,C. Zeller,Personal foul by C. Zeller (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,2:04.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,2:01.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,1:41.0,,,,,,T. Rozier,T. Rozier makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:41.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202104020IND,1,1:41.0,,,,,,V. Carey,V. Carey enters the game for M. Bridges,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,C. Martin,C. Martin enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,C. Martin,C. Martin enters the game for T. Rozier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,J. McDaniels,J. McDaniels enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,B. Wanamaker,B. Wanamaker enters the game for C. Zeller,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,A. Holiday,A. Holiday enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,K. Martin,K. Martin enters the game for C. LeVert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,J. Sampson,J. Sampson enters the game for T. McConnell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:41.0,,,,,,C. Stanley,C. Stanley enters the game for D. McDermott,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202104020IND,1,1:24.0,,,,,,K. Martin,K. Martin misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:23.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:18.0,,,,,,J. Sampson,J. Sampson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:15.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,1:02.0,,,,,,C. Stanley,C. Stanley misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:59.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,0:56.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:52.0,,,,,,C. Stanley,Defensive rebound by C. Stanley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202104020IND,1,0:42.0,,,,,,A. Holiday,A. Holiday makes 3-pt jump shot from 23 ft (assist by K. Martin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:28.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt jump shot from 3 ft (assist by C. Martin ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:21.0,,,,,,V. Carey,Shooting foul by V. Carey (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202104020IND,1,0:21.0,,,,,,G. Bitadze,G. Bitadze misses free throw 1 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:21.0,,,,,,G. Bitadze,G. Bitadze misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202104020IND,1,0:21.0,,,,,,G. Bitadze,G. Bitadze makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False

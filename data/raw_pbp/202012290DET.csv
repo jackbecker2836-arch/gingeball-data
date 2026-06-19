@@ -1,0 +1,500 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202012290DET,1,11:47.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:24.0,,,,,,J. Grant,J. Grant misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:20.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,11:10.0,,,,,,J. Wiseman,J. Wiseman makes 2-pt jump shot from 9 ft (assist by A. Wiggins ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:42.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:40.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:37.0,,,,,,J. Grant,J. Grant makes 3-pt jump shot from 24 ft (assist by J. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:22.0,,,,,,J. Wiseman,J. Wiseman misses 2-pt dunk from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:20.0,,,,,,J. Wiseman,Offensive rebound by J. Wiseman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:18.0,,,,,,K. Oubre,Turnover by K. Oubre (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,10:00.0,,,,,,J. Wiseman,Personal foul by J. Wiseman (drawn by B. Griffin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,9:52.0,,,,,,K. Hayes,Turnover by K. Hayes (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,9:37.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 28 ft (assist by J. Wiseman ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:17.0,,,,,,J. Wiseman,Shooting foul by J. Wiseman (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,9:17.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:17.0,,,,,,K. Looney,K. Looney enters the game for J. Wiseman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,9:17.0,,,,,,J. Jackson,J. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:05.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:58.0,,,,,,B. Griffin,Defensive rebound by B. Griffin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,8:49.0,,,,,,J. Grant,J. Grant misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:46.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,8:44.0,,,,,,M. Plumlee,Loose ball foul by M. Plumlee (drawn by J. Toscano-Anderson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,8:30.0,,,,,,K. Oubre,K. Oubre makes 3-pt jump shot from 26 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:10.0,,,,,,J. Jackson,J. Jackson makes 2-pt jump shot from 9 ft (assist by M. Plumlee ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:55.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:40.0,,,,,,J. Grant,J. Grant misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:37.0,,,,,,J. Grant,Offensive rebound by J. Grant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:35.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:32.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,7:28.0,,,,,,S. Curry,Turnover by S. Curry (bad pass; steal by B. Griffin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,7:10.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:08.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,6:51.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:48.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,6:40.0,,,,,,B. Griffin,B. Griffin makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:32.0,,,,,,J. Toscano-Anderson,Offensive foul by J. Toscano-Anderson (drawn by K. Hayes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,6:32.0,,,,,,J. Toscano-Anderson,Turnover by J. Toscano-Anderson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202012290DET,1,6:32.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,6:16.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:07.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:07.0,,,,,,J. Toscano-Anderson,Shooting foul by J. Toscano-Anderson (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,6:07.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:54.0,,,,,,K. Oubre,K. Oubre makes 2-pt layup from 1 ft (assist by J. Toscano-Anderson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:40.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:40.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,5:33.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:30.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,5:21.0,,,,,,J. Grant,J. Grant misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:19.0,,,,,,J. Grant,Offensive rebound by J. Grant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:07.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:07.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,5:07.0,,,,,,M. Mulder,M. Mulder enters the game for J. Toscano-Anderson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:07.0,,,,,,E. Paschall,E. Paschall enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,4:53.0,,,,,,K. Looney,K. Looney misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:48.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,4:34.0,,,,,,J. Grant,J. Grant misses 2-pt layup from 1 ft (block by K. Oubre ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,4:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:34.0,,,,,,S. Bey,S. Bey enters the game for B. Griffin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,4:34.0,,,,,,D. Rose,D. Rose enters the game for K. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,4:27.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:23.0,,,,,,D. Rose,Offensive rebound by D. Rose,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:23.0,,,,,,D. Rose,D. Rose misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:23.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,4:15.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:15.0,,,,,,D. Wright,D. Wright enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,4:09.0,,,,,,M. Mulder,M. Mulder misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:05.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:57.0,,,,,,S. Bey,S. Bey makes 3-pt jump shot from 23 ft (assist by D. Rose ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:40.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 21 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:26.0,,,,,,D. Rose,D. Rose makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:26.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:16.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:14.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:11.0,,,,,,D. Rose,D. Rose misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:11.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:11.0,,,,,,E. Paschall,Loose ball foul by E. Paschall (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,3:11.0,,,,,,I. Stewart,I. Stewart enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:56.0,,,,,,D. Wright,D. Wright misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:53.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:52.0,,,,,,S. Bey,Shooting foul by S. Bey (drawn by E. Paschall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,2:52.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,2:52.0,,,,,,D. Lee,D. Lee enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:52.0,,,,,,S. Doumbouya,S. Doumbouya enters the game for J. Grant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:52.0,,,,,,E. Paschall,E. Paschall misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:52.0,,,,,,E. Paschall,E. Paschall makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:35.0,,,,,,D. Wright,Turnover by D. Wright (bad pass; steal by D. Lee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,2:17.0,,,,,,E. Paschall,E. Paschall makes 2-pt layup from 1 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:07.0,,,,,,S. Bey,S. Bey makes 3-pt jump shot from 26 ft (assist by D. Rose ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:50.0,,,,,,S. Doumbouya,Shooting foul by S. Doumbouya (drawn by E. Paschall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:50.0,,,,,,A. Wiggins,A. Wiggins enters the game for K. Oubre,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,1:50.0,,,,,,E. Paschall,E. Paschall makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:50.0,,,,,,E. Paschall,E. Paschall misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:47.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,1:42.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:41.0,,,,,,S. Doumbouya,Offensive rebound by S. Doumbouya,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:40.0,,,,,,S. Doumbouya,S. Doumbouya makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:32.0,,,,,,D. Rose,Shooting foul by D. Rose (drawn by M. Mulder ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:32.0,,,,,,M. Mulder,M. Mulder makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:32.0,,,,,,M. Mulder,M. Mulder misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:29.0,,,,,,S. Doumbouya,Defensive rebound by S. Doumbouya,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,1:22.0,,,,,,E. Paschall,Shooting foul by E. Paschall (drawn by S. Doumbouya ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:22.0,,,,,,S. Doumbouya,S. Doumbouya makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:22.0,,,,,,K. Looney,K. Looney enters the game for E. Paschall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,1:22.0,,,,,,S. Doumbouya,S. Doumbouya makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:09.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:07.0,,,,,,I. Stewart,Defensive rebound by I. Stewart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,0:53.0,,,,,,I. Stewart,I. Stewart misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:51.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,0:46.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:43.0,,,,,,D. Rose,Defensive rebound by D. Rose,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,0:33.0,,,,,,A. Wiggins,Shooting foul by A. Wiggins (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,0:33.0,,,,,,S. Bey,S. Bey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:33.0,,,,,,S. Bey,S. Bey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:30.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:10.0,,,,,,D. Rose,D. Rose misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:05.0,,,,,,S. Doumbouya,S. Doumbouya misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:04.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:03.0,,,,,,I. Stewart,I. Stewart makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:01.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 52 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:34.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:31.0,,,,,,D. Lee,Defensive rebound by D. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,11:16.0,,,,,,A. Wiggins,Turnover by A. Wiggins (bad pass; steal by D. Rose ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,11:05.0,,,,,,D. Rose,D. Rose misses 2-pt layup from 4 ft (block by A. Wiggins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,11:00.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:54.0,,,,,,D. Wright,D. Wright makes 3-pt jump shot from 25 ft (assist by B. Griffin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:40.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:38.0,,,,,,D. Wright,Defensive rebound by D. Wright,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,10:18.0,,,,,,S. Bey,S. Bey makes 3-pt jump shot from 27 ft (assist by B. Griffin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:04.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 2 ft (assist by B. Wanamaker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:04.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:43.0,,,,,,B. Griffin,B. Griffin makes 3-pt jump shot from 23 ft (assist by D. Wright ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:30.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt dunk from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:28.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,9:08.0,,,,,,S. Bey,S. Bey misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:05.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,8:57.0,,,,,,S. Bey,Shooting foul by S. Bey (drawn by B. Wanamaker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,8:57.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:57.0,,,,,,J. Grant,J. Grant enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,8:57.0,,,,,,K. Hayes,K. Hayes enters the game for D. Rose,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,8:57.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:34.0,,,,,,B. Griffin,B. Griffin misses 2-pt jump shot from 1 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:34.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:34.0,,,,,,K. Looney,Personal foul by K. Looney (drawn by I. Stewart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,8:34.0,,,,,,J. Wiseman,J. Wiseman enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,8:26.0,,,,,,A. Wiggins,Shooting foul by A. Wiggins (drawn by B. Griffin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,8:26.0,,,,,,B. Griffin,B. Griffin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:26.0,,,,,,B. Griffin,B. Griffin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:07.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 3 ft (block by I. Stewart ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,8:02.0,,,,,,D. Lee,Offensive rebound by D. Lee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:59.0,,,,,,D. Lee,D. Lee makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:46.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:46.0,,,,,,B. Wanamaker,Defensive rebound by B. Wanamaker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,7:38.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:35.0,,,,,,J. Poole,Offensive rebound by J. Poole,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:34.0,,,,,,B. Wanamaker,B. Wanamaker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:31.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,7:20.0,,,,,,D. Wright,D. Wright misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:20.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,7:04.0,,,,,,J. Wiseman,J. Wiseman makes 2-pt jump shot from 20 ft (assist by A. Wiggins ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:47.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:45.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,6:40.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:40.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,6:40.0,,,,,,J. Jackson,J. Jackson enters the game for I. Stewart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,6:40.0,,,,,,M. Plumlee,M. Plumlee enters the game for D. Wright,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,6:30.0,,,,,,J. Jackson,Turnover by J. Jackson (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,6:18.0,,,,,,J. Wiseman,J. Wiseman misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:18.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:04.0,,,,,,J. Wiseman,J. Wiseman misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:04.0,,,,,,S. Curry,S. Curry enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,6:04.0,,,,,,K. Oubre,K. Oubre enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:57.0,,,,,,J. Wiseman,J. Wiseman misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:54.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,5:45.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:30.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:28.0,,,,,,B. Griffin,Defensive rebound by B. Griffin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,5:12.0,,,,,,J. Grant,Offensive foul by J. Grant (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,5:12.0,,,,,,J. Grant,Turnover by J. Grant (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202012290DET,1,5:12.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson enters the game for D. Lee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:03.0,,,,,,S. Curry,Turnover by S. Curry (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,4:52.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:50.0,,,,,,B. Wanamaker,Defensive rebound by B. Wanamaker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,4:37.0,,,,,,J. Wiseman,J. Wiseman misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:34.0,,,,,,B. Griffin,Defensive rebound by B. Griffin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,4:20.0,,,,,,J. Grant,J. Grant makes 3-pt jump shot from 26 ft (assist by B. Griffin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:20.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,4:08.0,,,,,,B. Griffin,Shooting foul by B. Griffin (drawn by B. Wanamaker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,4:08.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:08.0,,,,,,B. Wanamaker,B. Wanamaker misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:05.0,,,,,,B. Griffin,Defensive rebound by B. Griffin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:46.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:43.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by B. Wanamaker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,3:43.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:43.0,,,,,,B. Wanamaker,B. Wanamaker misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:41.0,,,,,,B. Griffin,Defensive rebound by B. Griffin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:32.0,,,,,,J. Toscano-Anderson,Personal foul by J. Toscano-Anderson (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,3:32.0,,,,,,A. Wiggins,A. Wiggins enters the game for B. Wanamaker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,3:16.0,,,,,,M. Plumlee,M. Plumlee misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:12.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:58.0,,,,,,K. Oubre,K. Oubre misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:56.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:47.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:45.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:32.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 23 ft (assist by J. Toscano-Anderson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:27.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,2:27.0,,,,,,E. Paschall,E. Paschall enters the game for J. Toscano-Anderson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:27.0,,,,,,S. Bey,S. Bey enters the game for B. Griffin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:27.0,,,,,,D. Rose,D. Rose enters the game for K. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:15.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:13.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:09.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:05.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:03.0,,,,,,S. Curry,Turnover by S. Curry (lost ball; steal by J. Grant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,1:59.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 2 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:56.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:49.0,,,,,,J. Grant,Turnover by J. Grant (lost ball; steal by S. Curry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,1:48.0,,,,,,M. Plumlee,Personal take foul by M. Plumlee (drawn by E. Paschall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:38.0,,,,,,E. Paschall,E. Paschall makes 2-pt dunk from 2 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:23.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:23.0,,,,,,J. Grant,J. Grant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:23.0,,,,,,J. Grant,J. Grant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:08.0,,,,,,K. Oubre,K. Oubre makes 2-pt dunk from 2 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:01.0,,,,,,J. Wiseman,Shooting foul by J. Wiseman (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:01.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:01.0,,,,,,K. Looney,K. Looney enters the game for J. Wiseman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,1:01.0,,,,,,J. Jackson,J. Jackson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:58.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,0:53.0,,,,,,J. Grant,Shooting foul by J. Grant (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,0:53.0,,,,,,K. Oubre,K. Oubre misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:53.0,,,,,,K. Oubre,K. Oubre makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:36.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:32.0,,,,,,J. Grant,Offensive rebound by J. Grant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:24.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:24.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:24.0,,,,,,A. Wiggins,Shooting foul by A. Wiggins (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,0:24.0,,,,,,M. Plumlee,M. Plumlee makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:24.0,,,,,,D. Lee,D. Lee enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,0:24.0,,,,,,D. Wright,D. Wright enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,0:24.0,,,,,,M. Plumlee,M. Plumlee misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:22.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,0:03.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,0:03.0,,,,,,J. Jackson,Technical foul by J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,0:03.0,,,,,,S. Curry,S. Curry makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:03.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:03.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:03.0,,,,,,M. Mulder,M. Mulder enters the game for E. Paschall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,0:01.0,,,,,,D. Rose,D. Rose misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:51.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:43.0,,,,,,J. Jackson,J. Jackson misses 2-pt layup from 1 ft (block by J. Wiseman ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,11:38.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,11:27.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:24.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,11:16.0,,,,,,J. Grant,J. Grant makes 2-pt dunk from 3 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:07.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson makes 3-pt jump shot from 26 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:41.0,,,,,,M. Plumlee,M. Plumlee misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:41.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,10:29.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:27.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,10:16.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:14.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,10:09.0,,,,,,K. Oubre,K. Oubre makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:09.0,,,,,,S. Bey,Shooting foul by S. Bey (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,10:09.0,,,,,,K. Oubre,K. Oubre misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:08.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,9:51.0,,,,,,K. Hayes,Turnover by K. Hayes (lost ball; steal by K. Oubre ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,9:47.0,,,,,,A. Wiggins,Turnover by A. Wiggins (bad pass; steal by J. Grant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,9:43.0,,,,,,J. Wiseman,Shooting foul by J. Wiseman (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,9:43.0,,,,,,M. Plumlee,M. Plumlee makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:43.0,,,,,,M. Plumlee,M. Plumlee misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:40.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,9:19.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 25 ft (block by J. Grant ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,9:17.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,9:17.0,,,,,,S. Bey,Turnover by S. Bey (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,9:01.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by J. Toscano-Anderson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:59.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,8:59.0,,,,,,D. Wright,D. Wright enters the game for K. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,8:49.0,,,,,,D. Wright,Turnover by D. Wright (lost ball; steal by K. Oubre ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,8:43.0,,,,,,K. Oubre,K. Oubre makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:37.0,,,,,,K. Oubre,Personal foul by K. Oubre (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,8:25.0,,,,,,J. Grant,Turnover by J. Grant (bad pass; steal by J. Toscano-Anderson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,8:20.0,,,,,,J. Wiseman,J. Wiseman misses 2-pt layup from 2 ft (block by M. Plumlee ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,8:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:05.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:02.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,7:53.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:51.0,,,,,,J. Jackson,Offensive rebound by J. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:50.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:48.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,7:47.0,,,,,,S. Curry,Turnover by S. Curry (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,7:28.0,,,,,,J. Grant,J. Grant makes 2-pt dunk from 2 ft (assist by M. Plumlee ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:14.0,,,,,,J. Jackson,Away from play foul by J. Jackson (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,7:11.0,,,,,,J. Wiseman,Turnover by J. Wiseman (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,7:00.0,,,,,,K. Oubre,Personal foul by K. Oubre (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,6:47.0,,,,,,M. Plumlee,M. Plumlee misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:44.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,6:41.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 31 ft (assist by A. Wiggins ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:31.0,,,,,,M. Plumlee,Turnover by M. Plumlee (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,6:31.0,,,,,,J. Grant,Loose ball foul by J. Grant (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,6:31.0,,,,,,K. Looney,K. Looney enters the game for J. Wiseman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,6:31.0,,,,,,D. Rose,D. Rose enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,6:12.0,,,,,,K. Oubre,K. Oubre makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:54.0,,,,,,M. Plumlee,Turnover by M. Plumlee (bad pass; steal by A. Wiggins ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,5:49.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson makes 2-pt layup from 2 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:49.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,5:49.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:49.0,,,,,,M. Mulder,M. Mulder enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:49.0,,,,,,S. Mykhailiuk,S. Mykhailiuk enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:49.0,,,,,,I. Stewart,I. Stewart enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:29.0,,,,,,J. Grant,J. Grant makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:17.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:17.0,,,,,,I. Stewart,Loose ball foul by I. Stewart (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,5:09.0,,,,,,M. Mulder,Turnover by M. Mulder (bad pass; steal by J. Grant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,5:06.0,,,,,,M. Mulder,Shooting foul by M. Mulder (drawn by D. Rose ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,5:06.0,,,,,,D. Rose,D. Rose makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:06.0,,,,,,D. Rose,D. Rose makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:51.0,,,,,,S. Curry,Turnover by S. Curry (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,4:30.0,,,,,,D. Wright,D. Wright makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:23.0,,,,,,J. Toscano-Anderson,Offensive foul by J. Toscano-Anderson (drawn by D. Wright ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,4:23.0,,,,,,J. Toscano-Anderson,Turnover by J. Toscano-Anderson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202012290DET,1,4:23.0,,,,,,E. Paschall,E. Paschall enters the game for J. Toscano-Anderson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,4:13.0,,,,,,D. Rose,Offensive foul by D. Rose (drawn by M. Mulder ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,4:13.0,,,,,,D. Rose,Turnover by D. Rose (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202012290DET,1,4:13.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,4:00.0,,,,,,E. Paschall,E. Paschall misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:55.0,,,,,,I. Stewart,Defensive rebound by I. Stewart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:40.0,,,,,,I. Stewart,I. Stewart misses 2-pt layup at rim (block by K. Oubre ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,3:34.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:24.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 12 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:08.0,,,,,,E. Paschall,Shooting foul by E. Paschall (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,3:08.0,,,,,,J. Grant,J. Grant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:08.0,,,,,,J. Grant,J. Grant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:52.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:43.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 2 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:40.0,,,,,,E. Paschall,Defensive rebound by E. Paschall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:35.0,,,,,,K. Oubre,Turnover by K. Oubre (lost ball; steal by D. Rose ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,2:34.0,,,,,,J. Grant,J. Grant makes 2-pt layup from 2 ft (assist by D. Rose ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:34.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,2:34.0,,,,,,J. Grant,J. Grant misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:31.0,,,,,,M. Mulder,Defensive rebound by M. Mulder,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:21.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 1 ft (block by J. Grant ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,2:18.0,,,,,,S. Mykhailiuk,Defensive rebound by S. Mykhailiuk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:14.0,,,,,,D. Rose,D. Rose misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:14.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:06.0,,,,,,D. Rose,Personal foul by D. Rose (drawn by M. Mulder ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,2:06.0,,,,,,M. Mulder,M. Mulder makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:06.0,,,,,,A. Wiggins,A. Wiggins enters the game for K. Oubre,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:06.0,,,,,,M. Mulder,M. Mulder misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:02.0,,,,,,S. Mykhailiuk,Defensive rebound by S. Mykhailiuk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,1:47.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 3-pt jump shot from 27 ft (assist by D. Wright ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:37.0,,,,,,S. Mykhailiuk,Personal foul by S. Mykhailiuk (drawn by E. Paschall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:37.0,,,,,,E. Paschall,E. Paschall makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:37.0,,,,,,E. Paschall,E. Paschall makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:16.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:16.0,,,,,,M. Mulder,Loose ball foul by M. Mulder (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:16.0,,,,,,J. Grant,J. Grant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:16.0,,,,,,J. Grant,J. Grant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:03.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 25 ft (assist by E. Paschall ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:46.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:45.0,,,,,,I. Stewart,Offensive rebound by I. Stewart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:37.0,,,,,,J. Grant,J. Grant makes 2-pt jump shot from 3 ft (assist by I. Stewart ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:30.0,,,,,,S. Curry,Turnover by S. Curry (bad pass; steal by S. Mykhailiuk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,0:25.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 3-pt jump shot from 26 ft (assist by D. Rose ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:04.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 1 ft (block by I. Stewart ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,0:02.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:02.0,,,,,,S. Mykhailiuk,Loose ball foul by S. Mykhailiuk (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,0:02.0,,,,,,K. Looney,K. Looney makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:02.0,,,,,,B. Wanamaker,B. Wanamaker enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,0:02.0,,,,,,K. Looney,K. Looney makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:00.0,,,,,,J. Grant,Turnover by J. Grant (bad pass; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,0:00.0,,,,,,K. Looney,K. Looney misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:43.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:40.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,11:21.0,,,,,,J. Jackson,J. Jackson misses 2-pt jump shot from 14 ft (block by A. Wiggins ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,11:18.0,,,,,,E. Paschall,Defensive rebound by E. Paschall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,11:11.0,,,,,,E. Paschall,E. Paschall makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,11:03.0,,,,,,B. Wanamaker,Personal foul by B. Wanamaker (drawn by D. Rose ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,10:51.0,,,,,,D. Rose,D. Rose makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:37.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,10:37.0,,,,,,A. Wiggins,A. Wiggins makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:37.0,,,,,,A. Wiggins,A. Wiggins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:18.0,,,,,,D. Rose,D. Rose makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,10:06.0,,,,,,J. Poole,Turnover by J. Poole (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,9:49.0,,,,,,S. Doumbouya,S. Doumbouya makes 3-pt jump shot from 24 ft (assist by D. Rose ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:36.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:18.0,,,,,,J. Poole,Shooting foul by J. Poole (drawn by S. Doumbouya ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,9:18.0,,,,,,S. Doumbouya,S. Doumbouya makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:18.0,,,,,,S. Doumbouya,S. Doumbouya makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:03.0,,,,,,B. Wanamaker,B. Wanamaker makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,9:03.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by B. Wanamaker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,9:03.0,,,,,,J. Wiseman,J. Wiseman enters the game for E. Paschall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,9:03.0,,,,,,M. Plumlee,M. Plumlee enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,9:03.0,,,,,,D. Wright,D. Wright enters the game for I. Stewart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,9:03.0,,,,,,B. Wanamaker,B. Wanamaker makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:45.0,,,,,,D. Rose,D. Rose makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:34.0,,,,,,J. Wiseman,Turnover by J. Wiseman (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,8:22.0,,,,,,D. Rose,D. Rose makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,8:22.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,8:22.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,8:15.0,,,,,,D. Wright,Personal foul by D. Wright (drawn by J. Toscano-Anderson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,8:07.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,8:07.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:49.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 2 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:47.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:41.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:26.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:26.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,7:15.0,,,,,,B. Wanamaker,B. Wanamaker makes 2-pt dunk from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,7:00.0,,,,,,S. Doumbouya,S. Doumbouya misses 2-pt layup from 4 ft (block by B. Wanamaker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,6:59.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:57.0,,,,,,M. Plumlee,Turnover by M. Plumlee (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,6:57.0,,,,,,J. Grant,J. Grant enters the game for D. Rose,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,6:40.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:25.0,,,,,,M. Plumlee,M. Plumlee misses 2-pt jump shot from 7 ft (block by J. Wiseman ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,6:25.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,6:19.0,,,,,,J. Wiseman,J. Wiseman makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:01.0,,,,,,M. Plumlee,M. Plumlee misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,6:01.0,,,,,,D. Lee,Defensive rebound by D. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,5:54.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 26 ft (assist by B. Wanamaker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:54.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,5:54.0,,,,,,J. Jackson,J. Jackson enters the game for S. Mykhailiuk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:54.0,,,,,,I. Stewart,I. Stewart enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,5:37.0,,,,,,J. Grant,J. Grant makes 2-pt dunk from 2 ft (assist by J. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,5:14.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:56.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 2 ft (assist by J. Grant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:48.0,,,,,,B. Wanamaker,B. Wanamaker misses 2-pt layup from 2 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,4:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:48.0,,,,,,S. Curry,S. Curry enters the game for D. Lee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,4:48.0,,,,,,D. Rose,D. Rose enters the game for S. Doumbouya,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,4:48.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,4:47.0,,,,,,J. Grant,Shooting foul by J. Grant (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,4:47.0,,,,,,A. Wiggins,A. Wiggins makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:47.0,,,,,,A. Wiggins,A. Wiggins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:32.0,,,,,,J. Grant,J. Grant misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:28.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,4:17.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by J. Toscano-Anderson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:05.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,4:03.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:59.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:59.0,,,,,,J. Grant,Loose ball foul by J. Grant (drawn by J. Toscano-Anderson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,3:59.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:59.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:56.0,,,,,,I. Stewart,Defensive rebound by I. Stewart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:53.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,3:53.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:53.0,,,,,,J. Jackson,J. Jackson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:49.0,,,,,,J. Jackson,Offensive rebound by J. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:47.0,,,,,,J. Jackson,J. Jackson misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:46.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:24.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:24.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,3:20.0,,,,,,J. Wiseman,Personal foul by J. Wiseman (drawn by I. Stewart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,3:10.0,,,,,,D. Wright,D. Wright misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,3:07.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:59.0,,,,,,B. Wanamaker,B. Wanamaker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:57.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:53.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:53.0,,,,,,J. Wiseman,Shooting foul by J. Wiseman (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,2:53.0,,,,,,K. Looney,K. Looney enters the game for B. Wanamaker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:53.0,,,,,,K. Oubre,K. Oubre enters the game for J. Wiseman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,2:53.0,,,,,,J. Jackson,J. Jackson misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:48.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,2:42.0,,,,,,I. Stewart,Shooting foul by I. Stewart (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,2:42.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:42.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:27.0,,,,,,I. Stewart,I. Stewart makes 2-pt hook shot from 5 ft (assist by D. Rose ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,2:14.0,,,,,,J. Toscano-Anderson,Turnover by J. Toscano-Anderson (lost ball; steal by J. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,2:12.0,,,,,,D. Rose,D. Rose makes 3-pt jump shot from 26 ft (assist by J. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:55.0,,,,,,S. Curry,Offensive foul by S. Curry (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:55.0,,,,,,S. Curry,Turnover by S. Curry (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202012290DET,1,1:42.0,,,,,,I. Stewart,I. Stewart makes 2-pt layup from 2 ft (assist by D. Rose ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:42.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,1:42.0,,,,,,D. Lee,D. Lee enters the game for J. Toscano-Anderson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202012290DET,1,1:25.0,,,,,,D. Lee,D. Lee makes 3-pt jump shot from 26 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:14.0,,,,,,D. Rose,D. Rose misses 2-pt jump shot from 11 ft (block by A. Wiggins ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202012290DET,1,1:09.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,1:09.0,,,,,,D. Rose,Shooting foul by D. Rose (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202012290DET,1,1:09.0,,,,,,S. Curry,S. Curry makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:09.0,,,,,,S. Curry,S. Curry makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,1:09.0,,,,,,S. Curry,S. Curry makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:53.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:52.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202012290DET,1,0:39.0,,,,,,S. Curry,Turnover by S. Curry (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202012290DET,1,0:39.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202012290DET,1,0:32.0,,,,,,D. Rose,Turnover by D. Rose (bad pass; steal by S. Curry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202012290DET,1,0:10.0,,,,,,D. Lee,D. Lee makes 2-pt jump shot from 9 ft (assist by S. Curry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202012290DET,1,0:05.0,,,,,,J. Grant,J. Grant makes 3-pt jump shot from 26 ft (assist by D. Wright ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
