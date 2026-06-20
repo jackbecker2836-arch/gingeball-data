@@ -1,0 +1,416 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202211020DAL,1,11:40.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup from 2 ft (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:15.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:00.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 2 ft (assist by K. Olynyk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:43.0,,,,,,M. Conley,Shooting foul by M. Conley (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,10:43.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:43.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:41.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,10:26.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 6 ft (assist by K. Olynyk ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:12.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:52.0,,,,,,K. Olynyk,K. Olynyk misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:49.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,9:45.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 3-pt jump shot from 25 ft (assist by L. DonÄiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:28.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 3-pt jump shot from 22 ft (assist by J. Clarkson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:16.0,,,,,,J. McGee,J. McGee makes 2-pt dunk from 1 ft (assist by L. DonÄiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:57.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:56.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:45.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:42.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:34.0,,,,,,L. Markkanen,Turnover by L. Markkanen (bad pass; steal by S. Dinwiddie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,8:22.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 3-pt jump shot from 25 ft (assist by L. DonÄiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:05.0,,,,,,K. Olynyk,K. Olynyk misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:01.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:59.0,,,,,,J. Vanderbilt,Turnover by J. Vanderbilt (bad pass; steal by S. Dinwiddie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,7:51.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:47.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,7:41.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:37.0,,,,,,J. Clarkson,Offensive rebound by J. Clarkson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:37.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:25.0,,,,,,D. Finney-Smith,D. Finney-Smith misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:22.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,7:22.0,,,,,,C. Wood,C. Wood enters the game for J. McGee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,7:06.0,,,,,,L. DonÄiÄ,Shooting foul by L. DonÄiÄ (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,7:06.0,,,,,,M. Conley,M. Conley makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:06.0,,,,,,M. Conley,M. Conley makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:06.0,,,,,,M. Conley,M. Conley makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:56.0,,,,,,J. Clarkson,Personal foul by J. Clarkson (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,6:56.0,,,,,,,Dallas full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,6:56.0,,,,,,M. Beasley,M. Beasley enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,6:56.0,,,,,,C. Sexton,C. Sexton enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,6:42.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 46 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:40.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,6:26.0,,,,,,M. Conley,M. Conley makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:04.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:00.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,5:53.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:48.0,,,,,,S. Dinwiddie,Defensive rebound by S. Dinwiddie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,5:36.0,,,,,,C. Wood,C. Wood makes 2-pt jump shot from 4 ft (assist by L. DonÄiÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:25.0,,,,,,L. DonÄiÄ,Shooting foul by L. DonÄiÄ (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,5:25.0,,,,,,C. Sexton,C. Sexton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:25.0,,,,,,T. Hardaway,T. Hardaway enters the game for S. Dinwiddie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,5:25.0,,,,,,M. Kleber,M. Kleber enters the game for D. Finney-Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,5:25.0,,,,,,C. Sexton,C. Sexton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:14.0,,,,,,L. DonÄiÄ,Turnover by L. DonÄiÄ (bad pass; steal by M. Conley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,5:08.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 23 ft (assist by C. Sexton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:46.0,,,,,,L. DonÄiÄ,Turnover by L. DonÄiÄ (bad pass; steal by J. Vanderbilt ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,4:34.0,,,,,,C. Sexton,C. Sexton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:29.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,4:18.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:14.0,,,,,,M. Beasley,Defensive rebound by M. Beasley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,4:01.0,,,,,,M. Conley,M. Conley makes 3-pt jump shot from 25 ft (assist by C. Sexton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:01.0,,,,,,,Dallas full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,4:01.0,,,,,,R. Gay,R. Gay enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,4:01.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,4:01.0,,,,,,K. Olynyk,K. Olynyk enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,4:01.0,,,,,,J. Green,J. Green enters the game for R. Bullock,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,3:42.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 23 ft (assist by L. DonÄiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:17.0,,,,,,M. Beasley,M. Beasley misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:14.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,3:03.0,,,,,,T. Hardaway,T. Hardaway misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:02.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:59.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:57.0,,,,,,C. Sexton,Offensive rebound by C. Sexton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:56.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:53.0,,,,,,M. Kleber,Defensive rebound by M. Kleber,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:46.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:41.0,,,,,,T. Hardaway,T. Hardaway misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:38.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:25.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:10.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 1 ft (assist by L. DonÄiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:47.0,,,,,,C. Sexton,C. Sexton misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:44.0,,,,,,M. Kleber,Defensive rebound by M. Kleber,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,1:28.0,,,,,,T. Hardaway,T. Hardaway makes 3-pt jump shot from 25 ft (assist by M. Kleber ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:08.0,,,,,,C. Sexton,C. Sexton makes 3-pt jump shot from 25 ft (assist by R. Gay ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:56.0,,,,,,C. Wood,Turnover by C. Wood (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,0:56.0,,,,,,J. Clarkson,J. Clarkson enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,0:44.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:41.0,,,,,,K. Olynyk,Offensive rebound by K. Olynyk,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:39.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 22 ft (assist by K. Olynyk ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:31.0,,,,,,T. Hardaway,T. Hardaway misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:28.0,,,,,,M. Beasley,Defensive rebound by M. Beasley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,0:10.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:10.0,,,,,,K. Olynyk,Offensive rebound by K. Olynyk,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:10.0,,,,,,K. Olynyk,K. Olynyk makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:38.0,,,,,,C. Wood,Turnover by C. Wood (bad pass; steal by J. Clarkson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,11:30.0,,,,,,R. Gay,R. Gay makes 2-pt jump shot from 12 ft (assist by M. Beasley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:07.0,,,,,,R. Gay,Personal foul by R. Gay (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,10:58.0,,,,,,W. Kessler,Shooting foul by W. Kessler (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,10:58.0,,,,,,J. Green,J. Green misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:58.0,,,,,,J. Green,J. Green misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:56.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,10:38.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:34.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,10:20.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:18.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,10:04.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:02.0,,,,,,M. Kleber,Defensive rebound by M. Kleber,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,9:46.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:42.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,9:36.0,,,,,,J. Clarkson,Turnover by J. Clarkson (bad pass; steal by S. Dinwiddie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,9:27.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 2-pt layup from 1 ft (assist by T. Hardaway ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:06.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:05.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:58.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:53.0,,,,,,M. Beasley,Defensive rebound by M. Beasley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:37.0,,,,,,R. Gay,R. Gay misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:34.0,,,,,,S. Dinwiddie,Defensive rebound by S. Dinwiddie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:27.0,,,,,,T. Hardaway,T. Hardaway misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:25.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:22.0,,,,,,R. Gay,Turnover by R. Gay (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,8:22.0,,,,,,K. Olynyk,K. Olynyk enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,8:22.0,,,,,,D. Powell,D. Powell enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,8:06.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:58.0,,,,,,J. Clarkson,Offensive foul by J. Clarkson (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,7:58.0,,,,,,J. Clarkson,Turnover by J. Clarkson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211020DAL,1,7:58.0,,,,,,M. Conley,M. Conley enters the game for M. Beasley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,7:58.0,,,,,,L. Markkanen,L. Markkanen enters the game for R. Gay,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,7:58.0,,,,,,C. Sexton,C. Sexton enters the game for W. Kessler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,7:45.0,,,,,,D. Powell,D. Powell makes 2-pt dunk from 1 ft (assist by S. Dinwiddie ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:25.0,,,,,,C. Sexton,Turnover by C. Sexton (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,7:19.0,,,,,,K. Olynyk,Personal foul by K. Olynyk (drawn by D. Powell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,7:02.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:58.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:56.0,,,,,,T. Hardaway,T. Hardaway misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:54.0,,,,,,M. Conley,Defensive rebound by M. Conley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,6:47.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:42.0,,,,,,J. Clarkson,Offensive rebound by J. Clarkson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:42.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:22.0,,,,,,D. Powell,D. Powell makes 2-pt layup from 1 ft (assist by T. Hardaway ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:06.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 2 ft (assist by C. Sexton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:46.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:45.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:45.0,,,,,,,Dallas full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,5:45.0,,,,,,J. Vanderbilt,J. Vanderbilt enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,5:45.0,,,,,,R. Bullock,R. Bullock enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,5:45.0,,,,,,L. DonÄiÄ,L. DonÄiÄ enters the game for T. Hardaway,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,5:45.0,,,,,,D. Finney-Smith,D. Finney-Smith enters the game for M. Kleber,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,5:45.0,,,,,,,Turnover by  (5 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,5:29.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:27.0,,,,,,L. DonÄiÄ,Loose ball foul by L. DonÄiÄ (drawn by J. Vanderbilt ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,5:13.0,,,,,,K. Olynyk,K. Olynyk makes 2-pt jump shot from 20 ft (assist by J. Vanderbilt ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:56.0,,,,,,L. Markkanen,Personal foul by L. Markkanen (drawn by D. Powell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,4:43.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:33.0,,,,,,C. Sexton,Turnover by C. Sexton (bad pass; steal by S. Dinwiddie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,4:29.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:25.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,4:23.0,,,,,,K. Olynyk,Turnover by K. Olynyk (bad pass; steal by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,4:20.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 2-pt layup from 3 ft (block by J. Vanderbilt ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211020DAL,1,4:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:08.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:08.0,,,,,,K. Olynyk,Shooting foul by K. Olynyk (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,4:08.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:06.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,3:49.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt dunk from 1 ft (assist by M. Conley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:36.0,,,,,,K. Olynyk,Shooting foul by K. Olynyk (drawn by D. Powell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,3:36.0,,,,,,D. Powell,D. Powell misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:36.0,,,,,,J. Clarkson,J. Clarkson enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,3:36.0,,,,,,D. Powell,D. Powell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:26.0,,,,,,M. Conley,M. Conley misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:24.0,,,,,,D. Finney-Smith,Defensive rebound by D. Finney-Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,3:18.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:15.0,,,,,,R. Bullock,Offensive rebound by R. Bullock,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:01.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:59.0,,,,,,S. Dinwiddie,Offensive rebound by S. Dinwiddie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:56.0,,,,,,D. Finney-Smith,D. Finney-Smith misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:54.0,,,,,,D. Powell,Offensive rebound by D. Powell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:52.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:52.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:50.0,,,,,,R. Bullock,Loose ball foul by R. Bullock (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,2:50.0,,,,,,,Dallas full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,2:50.0,,,,,,,Instant Replay (Challenge: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:50.0,,,,,,M. Kleber,M. Kleber enters the game for S. Dinwiddie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,2:40.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:38.0,,,,,,R. Bullock,Defensive rebound by R. Bullock,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:20.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:20.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,2:20.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:10.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:07.0,,,,,,L. DonÄiÄ,Defensive rebound by L. DonÄiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,1:52.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:36.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:36.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:25.0,,,,,,D. Finney-Smith,D. Finney-Smith makes 2-pt layup from 3 ft (assist by L. DonÄiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:07.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 2-pt layup from 3 ft (block by M. Kleber ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211020DAL,1,1:05.0,,,,,,L. DonÄiÄ,Defensive rebound by L. DonÄiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,1:00.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:00.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,1:00.0,,,,,,M. Beasley,M. Beasley enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,0:39.0,,,,,,M. Conley,Turnover by M. Conley (bad pass; steal by D. Powell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,0:20.0,,,,,,L. DonÄiÄ,Turnover by L. DonÄiÄ (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,0:20.0,,,,,,T. Hardaway,T. Hardaway enters the game for L. DonÄiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,0:04.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup at rim (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:04.0,,,,,,T. Hardaway,Shooting foul by T. Hardaway (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,0:04.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,0:04.0,,,,,,L. Markkanen,L. Markkanen makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,T. Hardaway,T. Hardaway misses 3-pt jump shot from 41 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:36.0,,,,,,J. McGee,J. McGee makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:24.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,11:24.0,,,,,,M. Conley,M. Conley makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:13.0,,,,,,M. Conley,M. Conley misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:10.0,,,,,,J. McGee,Defensive rebound by J. McGee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,11:07.0,,,,,,S. Dinwiddie,Turnover by S. Dinwiddie (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,10:54.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt dunk from 1 ft (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:39.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:36.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,10:33.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 25 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:14.0,,,,,,L. DonÄiÄ,Turnover by L. DonÄiÄ (bad pass; steal by K. Olynyk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,10:10.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt dunk at rim (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:10.0,,,,,,,Dallas full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,9:56.0,,,,,,L. DonÄiÄ,Turnover by L. DonÄiÄ (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,9:46.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:44.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:36.0,,,,,,M. Conley,Turnover by M. Conley (bad pass; steal by J. McGee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,9:20.0,,,,,,R. Bullock,R. Bullock misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:17.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,9:12.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 25 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:46.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:45.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:45.0,,,,,,J. McGee,Loose ball foul by J. McGee (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,8:45.0,,,,,,T. Hardaway,T. Hardaway enters the game for R. Bullock,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,8:45.0,,,,,,D. Powell,D. Powell enters the game for J. McGee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,8:31.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,8:23.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 25 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:10.0,,,,,,K. Olynyk,Shooting foul by K. Olynyk (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,8:10.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:10.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:10.0,,,,,,M. Beasley,M. Beasley enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,8:02.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:00.0,,,,,,S. Dinwiddie,Loose ball foul by S. Dinwiddie (drawn by J. Vanderbilt ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,7:49.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:45.0,,,,,,L. DonÄiÄ,Defensive rebound by L. DonÄiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,7:37.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:15.0,,,,,,M. Beasley,M. Beasley misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:14.0,,,,,,M. Beasley,Offensive rebound by M. Beasley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:12.0,,,,,,M. Beasley,M. Beasley misses 2-pt layup from 4 ft (block by D. Powell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211020DAL,1,7:11.0,,,,,,M. Beasley,Offensive rebound by M. Beasley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:09.0,,,,,,M. Beasley,M. Beasley misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:08.0,,,,,,M. Beasley,Offensive rebound by M. Beasley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:07.0,,,,,,M. Beasley,M. Beasley misses 2-pt layup from 4 ft (block by D. Finney-Smith ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211020DAL,1,7:04.0,,,,,,L. DonÄiÄ,Defensive rebound by L. DonÄiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,6:59.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:31.0,,,,,,J. Clarkson,Turnover by J. Clarkson (bad pass; steal by D. Finney-Smith ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,6:27.0,,,,,,D. Finney-Smith,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by L. DonÄiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:27.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,6:27.0,,,,,,C. Sexton,C. Sexton enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,6:17.0,,,,,,C. Sexton,C. Sexton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:13.0,,,,,,D. Powell,Defensive rebound by D. Powell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,6:07.0,,,,,,T. Hardaway,Turnover by T. Hardaway (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,5:52.0,,,,,,D. Powell,Shooting foul by D. Powell (drawn by J. Vanderbilt ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,5:52.0,,,,,,J. Vanderbilt,J. Vanderbilt makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:52.0,,,,,,J. Vanderbilt,J. Vanderbilt makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:33.0,,,,,,D. Powell,D. Powell makes 2-pt layup from 1 ft (assist by L. DonÄiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:23.0,,,,,,M. Conley,Turnover by M. Conley (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,5:07.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:05.0,,,,,,D. Powell,Offensive rebound by D. Powell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:04.0,,,,,,D. Powell,D. Powell makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:43.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:41.0,,,,,,D. Powell,Defensive rebound by D. Powell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,4:35.0,,,,,,C. Sexton,Shooting foul by C. Sexton (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,4:35.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:35.0,,,,,,M. Kleber,M. Kleber enters the game for S. Dinwiddie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,4:35.0,,,,,,C. Wood,C. Wood enters the game for D. Powell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,4:35.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:24.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup from 1 ft (assist by M. Conley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:06.0,,,,,,C. Wood,Turnover by C. Wood (lost ball; steal by C. Sexton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,3:56.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 4 ft (block by M. Kleber ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211020DAL,1,3:52.0,,,,,,D. Finney-Smith,Defensive rebound by D. Finney-Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,3:47.0,,,,,,D. Finney-Smith,D. Finney-Smith misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:45.0,,,,,,M. Beasley,Defensive rebound by M. Beasley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,3:43.0,,,,,,C. Sexton,C. Sexton misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:43.0,,,,,,T. Hardaway,Defensive rebound by T. Hardaway,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,3:29.0,,,,,,C. Wood,C. Wood misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:27.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:27.0,,,,,,C. Wood,C. Wood makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:06.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 24 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:42.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:40.0,,,,,,C. Sexton,Defensive rebound by C. Sexton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:33.0,,,,,,L. Markkanen,Offensive foul by L. Markkanen (drawn by M. Kleber ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,2:33.0,,,,,,L. Markkanen,Turnover by L. Markkanen (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211020DAL,1,2:33.0,,,,,,R. Gay,R. Gay enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,2:33.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,2:33.0,,,,,,J. Green,J. Green enters the game for D. Finney-Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,2:16.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:01.0,,,,,,J. Green,Personal foul by J. Green (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,1:56.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:52.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,1:45.0,,,,,,C. Wood,C. Wood makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:36.0,,,,,,C. Sexton,C. Sexton makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:36.0,,,,,,M. Kleber,Shooting foul by M. Kleber (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,1:36.0,,,,,,C. Sexton,C. Sexton makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:21.0,,,,,,T. Hardaway,T. Hardaway misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:18.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,1:11.0,,,,,,M. Kleber,Shooting foul by M. Kleber (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,1:11.0,,,,,,L. Markkanen,L. Markkanen makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:11.0,,,,,,L. Markkanen,L. Markkanen misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:08.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,0:53.0,,,,,,C. Sexton,Shooting foul by C. Sexton (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,0:53.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:53.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:44.0,,,,,,C. Sexton,Turnover by C. Sexton (bad pass; steal by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,0:36.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:28.0,,,,,,T. Hardaway,Personal foul by T. Hardaway (drawn by C. Sexton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,0:28.0,,,,,,C. Sexton,C. Sexton misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:28.0,,,,,,J. Vanderbilt,J. Vanderbilt enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,0:28.0,,,,,,C. Sexton,C. Sexton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:11.0,,,,,,T. Hardaway,T. Hardaway misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:10.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:10.0,,,,,,C. Wood,C. Wood makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,C. Sexton,C. Sexton makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:45.0,,,,,,R. Gay,R. Gay misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:41.0,,,,,,M. Kleber,Defensive rebound by M. Kleber,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,11:33.0,,,,,,R. Gay,Personal foul by R. Gay (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,11:21.0,,,,,,C. Wood,C. Wood makes 2-pt hook shot from 1 ft (assist by R. Bullock ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:04.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,11:01.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,10:57.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 2 ft (assist by S. Dinwiddie ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:46.0,,,,,,R. Bullock,Personal foul by R. Bullock (drawn by J. Vanderbilt ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,10:32.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,10:21.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,10:18.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,10:11.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt dunk at rim (assist by J. Vanderbilt ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:54.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:45.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup from 1 ft (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:34.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:33.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,9:33.0,,,,,,K. Olynyk,K. Olynyk enters the game for M. Beasley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,9:33.0,,,,,,C. Sexton,C. Sexton enters the game for R. Gay,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,9:21.0,,,,,,K. Olynyk,K. Olynyk makes 2-pt layup from 5 ft (assist by J. Vanderbilt ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,9:03.0,,,,,,C. Wood,C. Wood makes 3-pt jump shot from 26 ft (assist by S. Dinwiddie ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:38.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:35.0,,,,,,M. Kleber,Defensive rebound by M. Kleber,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:30.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:28.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:28.0,,,,,,J. Green,Loose ball foul by J. Green (drawn by K. Olynyk ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,8:28.0,,,,,,D. Powell,D. Powell enters the game for M. Kleber,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,8:19.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:16.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,8:07.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,8:07.0,,,,,,R. Bullock,R. Bullock misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,8:05.0,,,,,,R. Bullock,Turnover by R. Bullock (bad pass; steal by C. Sexton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211020DAL,1,7:58.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:55.0,,,,,,D. Powell,Defensive rebound by D. Powell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,7:48.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 22 ft (assist by S. Dinwiddie ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,7:23.0,,,,,,J. Vanderbilt,Turnover by J. Vanderbilt (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,7:23.0,,,,,,M. Conley,M. Conley enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,6:59.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:34.0,,,,,,M. Conley,M. Conley makes 2-pt jump shot from 21 ft (assist by J. Clarkson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:05.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,6:04.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,6:04.0,,,,,,,Dallas full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,6:04.0,,,,,,L. Markkanen,L. Markkanen enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,6:04.0,,,,,,L. DonÄiÄ,L. DonÄiÄ enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,5:49.0,,,,,,J. Clarkson,Turnover by J. Clarkson (palming),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211020DAL,1,5:27.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 3-pt jump shot from 23 ft (assist by L. DonÄiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,5:15.0,,,,,,C. Sexton,C. Sexton makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:58.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft (assist by L. DonÄiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:42.0,,,,,,C. Sexton,C. Sexton makes 2-pt jump shot from 11 ft (assist by K. Olynyk ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,4:28.0,,,,,,K. Olynyk,Personal foul by K. Olynyk (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,4:28.0,,,,,,J. Vanderbilt,J. Vanderbilt enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,4:19.0,,,,,,J. Clarkson,Personal foul by J. Clarkson (drawn by L. DonÄiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211020DAL,1,4:19.0,,,,,,D. Finney-Smith,D. Finney-Smith enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,4:06.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:45.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup from 3 ft (assist by M. Conley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:21.0,,,,,,D. Powell,D. Powell misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:19.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,3:14.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,3:10.0,,,,,,S. Dinwiddie,Defensive rebound by S. Dinwiddie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:55.0,,,,,,L. DonÄiÄ,L. DonÄiÄ makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:44.0,,,,,,C. Sexton,C. Sexton misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:43.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:40.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:37.0,,,,,,L. DonÄiÄ,Defensive rebound by L. DonÄiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:26.0,,,,,,D. Finney-Smith,D. Finney-Smith misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:24.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,2:24.0,,,,,,M. Kleber,M. Kleber enters the game for D. Powell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,2:15.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,2:12.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,2:07.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:49.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:34.0,,,,,,C. Sexton,C. Sexton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:10.0,,,,,,L. DonÄiÄ,L. DonÄiÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,1:07.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,0:58.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 5 ft (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:35.0,,,,,,R. Bullock,R. Bullock makes 3-pt jump shot from 23 ft (assist by S. Dinwiddie ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:35.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,0:29.0,,,,,,C. Sexton,C. Sexton makes 2-pt layup from 1 ft (assist by M. Conley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:09.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:06.0,,,,,,C. Sexton,Defensive rebound by C. Sexton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211020DAL,1,0:03.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211020DAL,1,0:03.0,,,,,,M. Beasley,M. Beasley enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211020DAL,1,0:00.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,M. Beasley,Offensive rebound by M. Beasley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,M. Beasley,M. Beasley misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211020DAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False

@@ -1,0 +1,550 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202201200GSW,1,11:38.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:34.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 5 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:19.0,,,,,,G. Bitadze,G. Bitadze makes 3-pt jump shot from 28 ft (assist by C. Duarte ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:57.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:55.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,10:50.0,,,,,,G. Bitadze,Offensive foul by G. Bitadze (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,10:50.0,,,,,,G. Bitadze,Turnover by G. Bitadze (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201200GSW,1,10:38.0,,,,,,K. Looney,K. Looney makes 2-pt layup from 4 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:22.0,,,,,,J. Holiday,Turnover by J. Holiday (bad pass; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,10:19.0,,,,,,C. Duarte,Shooting foul by C. Duarte (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,10:19.0,,,,,,J. Kuminga,J. Kuminga makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:19.0,,,,,,J. Kuminga,J. Kuminga makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:14.0,,,,,,K. Sykes,K. Sykes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:12.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,10:05.0,,,,,,T. Craig,Shooting foul by T. Craig (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,10:05.0,,,,,,J. Kuminga,J. Kuminga makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:05.0,,,,,,J. Kuminga,J. Kuminga misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:05.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:04.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:01.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,9:56.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:54.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,9:44.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 4 ft (block by G. Bitadze ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,9:42.0,,,,,,K. Sykes,Defensive rebound by K. Sykes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,9:38.0,,,,,,C. Duarte,C. Duarte misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:36.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,9:26.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:02.0,,,,,,C. Duarte,C. Duarte makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:48.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:45.0,,,,,,T. Craig,Defensive rebound by T. Craig,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,8:39.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:36.0,,,,,,K. Sykes,Offensive rebound by K. Sykes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:33.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt layup from 3 ft (assist by K. Sykes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:33.0,,,,,,J. Kuminga,Shooting foul by J. Kuminga (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,8:33.0,,,,,,G. Bitadze,G. Bitadze makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:21.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:05.0,,,,,,K. Sykes,K. Sykes misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:02.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,7:59.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 5 ft (assist by J. Kuminga ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:43.0,,,,,,C. Duarte,C. Duarte makes 2-pt layup from 4 ft (assist by G. Bitadze ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:30.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:28.0,,,,,,J. Kuminga,Offensive rebound by J. Kuminga,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:26.0,,,,,,J. Holiday,Shooting foul by J. Holiday (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,7:26.0,,,,,,J. Kuminga,J. Kuminga makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:26.0,,,,,,J. Kuminga,J. Kuminga makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:11.0,,,,,,J. Holiday,J. Holiday makes 2-pt jump shot from 11 ft (assist by K. Sykes ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:59.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:56.0,,,,,,T. Craig,Defensive rebound by T. Craig,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,6:49.0,,,,,,T. Craig,T. Craig misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:47.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,6:39.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,6:39.0,,,,,,G. Payton,G. Payton enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,6:32.0,,,,,,K. Looney,Turnover by K. Looney (lost ball; steal by C. Duarte ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,6:26.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt dunk from 3 ft (assist by C. Duarte ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:05.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by J. Kuminga ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:53.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by T. Craig ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,5:52.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 27 ft (assist by C. Duarte ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:35.0,,,,,,T. Craig,Shooting foul by T. Craig (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,5:35.0,,,,,,K. Looney,K. Looney makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:35.0,,,,,,O. Brissett,O. Brissett enters the game for T. Craig,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,5:35.0,,,,,,A. Iguodala,A. Iguodala enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,5:35.0,,,,,,K. Looney,K. Looney misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:33.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,5:21.0,,,,,,C. Duarte,C. Duarte misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:19.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,5:10.0,,,,,,A. Wiggins,Offensive foul by A. Wiggins (drawn by K. Sykes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,5:10.0,,,,,,A. Wiggins,Turnover by A. Wiggins (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201200GSW,1,4:56.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:54.0,,,,,,K. Looney,Loose ball foul by K. Looney (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,4:47.0,,,,,,C. Duarte,C. Duarte misses 2-pt jump shot from 15 ft (block by A. Iguodala ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,4:45.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,4:40.0,,,,,,G. Payton,G. Payton makes 2-pt dunk from 3 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:20.0,,,,,,O. Brissett,O. Brissett misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:19.0,,,,,,G. Payton,Loose ball foul by G. Payton (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,4:19.0,,,,,,J. Lamb,J. Lamb enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,4:19.0,,,,,,L. Stephenson,L. Stephenson enters the game for K. Sykes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,4:08.0,,,,,,C. Duarte,C. Duarte misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:06.0,,,,,,C. Duarte,Offensive rebound by C. Duarte,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:04.0,,,,,,C. Duarte,C. Duarte misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:03.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,4:00.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:57.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,3:49.0,,,,,,O. Brissett,O. Brissett misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:47.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:45.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:33.0,,,,,,J. Lamb,Personal foul by J. Lamb (drawn by A. Iguodala ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,3:33.0,,,,,,A. Iguodala,A. Iguodala makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:33.0,,,,,,J. Poole,J. Poole enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,3:33.0,,,,,,A. Iguodala,A. Iguodala makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:11.0,,,,,,J. Lamb,J. Lamb misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:09.0,,,,,,A. Iguodala,Defensive rebound by A. Iguodala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,2:51.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:48.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,2:32.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:30.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,2:16.0,,,,,,G. Payton,G. Payton misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:14.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,2:14.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,2:14.0,,,,,,I. Jackson,I. Jackson enters the game for G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:14.0,,,,,,D. Washington,D. Washington enters the game for C. Duarte,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:14.0,,,,,,N. Bjelica,N. Bjelica enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:14.0,,,,,,D. Lee,D. Lee enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:04.0,,,,,,L. Stephenson,Turnover by L. Stephenson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,1:43.0,,,,,,N. Bjelica,N. Bjelica makes 2-pt hook shot from 8 ft (assist by A. Iguodala ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:31.0,,,,,,J. Lamb,Turnover by J. Lamb (bad pass; steal by N. Bjelica ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,1:25.0,,,,,,I. Jackson,Shooting foul by I. Jackson (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,1:25.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:25.0,,,,,,J. Poole,J. Poole misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:23.0,,,,,,G. Payton,Offensive rebound by G. Payton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:15.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:12.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,1:05.0,,,,,,N. Bjelica,Shooting foul by N. Bjelica (drawn by L. Stephenson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,1:05.0,,,,,,L. Stephenson,L. Stephenson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:05.0,,,,,,L. Stephenson,L. Stephenson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:49.0,,,,,,A. Iguodala,A. Iguodala makes 2-pt dunk from 4 ft (assist by N. Bjelica ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:43.0,,,,,,I. Jackson,I. Jackson misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:41.0,,,,,,G. Payton,Defensive rebound by G. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:32.0,,,,,,D. Lee,D. Lee misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:30.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:11.0,,,,,,L. Stephenson,Turnover by L. Stephenson (bad pass; steal by G. Payton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,0:08.0,,,,,,I. Jackson,Personal foul by I. Jackson (drawn by D. Lee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,0:08.0,,,,,,D. Lee,D. Lee makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:08.0,,,,,,J. Kuminga,J. Kuminga enters the game for N. Bjelica,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:08.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:08.0,,,,,,D. Lee,D. Lee makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:01.0,,,,,,I. Jackson,I. Jackson makes 2-pt dunk from 3 ft (assist by J. Lamb ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:51.0,,,,,,J. Lamb,J. Lamb misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:49.0,,,,,,N. Bjelica,Defensive rebound by N. Bjelica,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,11:30.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 10 ft (assist by J. Poole ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:13.0,,,,,,I. Jackson,I. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:10.0,,,,,,J. Lamb,Offensive rebound by J. Lamb,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:10.0,,,,,,J. Poole,Shooting foul by J. Poole (drawn by J. Lamb ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,11:10.0,,,,,,J. Lamb,J. Lamb makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:10.0,,,,,,J. Lamb,J. Lamb makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:53.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:50.0,,,,,,N. Bjelica,Offensive rebound by N. Bjelica,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:49.0,,,,,,N. Bjelica,N. Bjelica makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:37.0,,,,,,O. Brissett,O. Brissett misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:35.0,,,,,,I. Jackson,Offensive rebound by I. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:34.0,,,,,,I. Jackson,I. Jackson misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:33.0,,,,,,I. Jackson,Offensive rebound by I. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:31.0,,,,,,I. Jackson,I. Jackson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:29.0,,,,,,N. Bjelica,Turnover by N. Bjelica (lost ball; steal by J. Lamb ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,10:19.0,,,,,,I. Jackson,I. Jackson makes 2-pt dunk from 3 ft (assist by J. Lamb ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:06.0,,,,,,D. Lee,Turnover by D. Lee (lost ball; steal by J. Lamb ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,10:04.0,,,,,,D. Lee,Personal take foul by D. Lee (drawn by O. Brissett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,10:04.0,,,,,,G. Bitadze,G. Bitadze enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,9:52.0,,,,,,O. Brissett,Turnover by O. Brissett (lost ball; steal by D. Lee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,9:46.0,,,,,,N. Bjelica,N. Bjelica makes 2-pt hook shot from 9 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:28.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by J. Lamb ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,9:16.0,,,,,,G. Bitadze,G. Bitadze misses 2-pt hook shot from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:10.0,,,,,,N. Bjelica,Defensive rebound by N. Bjelica,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,8:57.0,,,,,,D. Lee,D. Lee makes 2-pt jump shot from 10 ft (assist by N. Bjelica ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:47.0,,,,,,L. Stephenson,L. Stephenson makes 2-pt layup from 5 ft (assist by G. Bitadze ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:40.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:38.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,8:38.0,,,,,,J. Kuminga,J. Kuminga enters the game for A. Iguodala,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,8:23.0,,,,,,D. Washington,D. Washington misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:19.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:19.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:02.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,8:02.0,,,,,,S. Curry,S. Curry makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:53.0,,,,,,J. Kuminga,Turnover by J. Kuminga (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,7:53.0,,,,,,J. Kuminga,Technical foul by J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,7:53.0,,,,,,J. Lamb,J. Lamb misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:53.0,,,,,,A. Wiggins,A. Wiggins enters the game for D. Lee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:40.0,,,,,,D. Washington,D. Washington makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:32.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,7:32.0,,,,,,K. Looney,K. Looney enters the game for N. Bjelica,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:23.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 27 ft (assist by A. Wiggins ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:04.0,,,,,,J. Kuminga,Personal foul by J. Kuminga (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,7:02.0,,,,,,D. Washington,D. Washington makes 3-pt jump shot from 25 ft (assist by L. Stephenson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:45.0,,,,,,L. Stephenson,Personal foul by L. Stephenson (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,6:38.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:37.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:37.0,,,,,,J. Lamb,Shooting foul by J. Lamb (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,6:37.0,,,,,,K. Looney,K. Looney makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:37.0,,,,,,T. Craig,T. Craig enters the game for O. Brissett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,6:37.0,,,,,,J. Holiday,J. Holiday enters the game for J. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,6:37.0,,,,,,K. Thompson,K. Thompson enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,6:37.0,,,,,,K. Looney,K. Looney makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:15.0,,,,,,D. Washington,D. Washington makes 3-pt jump shot from 29 ft (assist by G. Bitadze ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:59.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:57.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,5:50.0,,,,,,G. Bitadze,G. Bitadze misses 2-pt layup from 5 ft (block by A. Wiggins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,5:48.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,5:44.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 3 ft (assist by J. Kuminga ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:43.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,5:43.0,,,,,,C. Duarte,C. Duarte enters the game for D. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,5:32.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:29.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,5:20.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:18.0,,,,,,K. Thompson,Offensive rebound by K. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:10.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:08.0,,,,,,C. Duarte,Defensive rebound by C. Duarte,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,4:59.0,,,,,,T. Craig,T. Craig makes 3-pt jump shot from 23 ft (assist by L. Stephenson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:35.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:32.0,,,,,,T. Craig,Defensive rebound by T. Craig,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,4:29.0,,,,,,L. Stephenson,Turnover by L. Stephenson (bad pass; steal by A. Wiggins ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,4:18.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:15.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,4:06.0,,,,,,K. Thompson,Personal foul by K. Thompson (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,4:06.0,,,,,,G. Bitadze,G. Bitadze misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:06.0,,,,,,D. Washington,D. Washington enters the game for L. Stephenson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,4:06.0,,,,,,S. Curry,S. Curry enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,4:06.0,,,,,,G. Bitadze,G. Bitadze makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:53.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 4 ft (assist by K. Looney ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:44.0,,,,,,C. Duarte,C. Duarte makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:30.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 3 ft (assist by A. Wiggins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:30.0,,,,,,D. Washington,Shooting foul by D. Washington (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,3:30.0,,,,,,S. Curry,S. Curry makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:23.0,,,,,,C. Duarte,C. Duarte makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:23.0,,,,,,A. Wiggins,Shooting foul by A. Wiggins (drawn by C. Duarte ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,3:23.0,,,,,,A. Iguodala,A. Iguodala enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,3:23.0,,,,,,C. Duarte,C. Duarte makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:07.0,,,,,,K. Looney,K. Looney makes 2-pt dunk from 2 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:54.0,,,,,,J. Holiday,Turnover by J. Holiday (lost ball; steal by S. Curry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,2:50.0,,,,,,A. Wiggins,Turnover by A. Wiggins (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,2:37.0,,,,,,G. Bitadze,G. Bitadze misses 2-pt hook shot from 8 ft (block by A. Iguodala ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,2:34.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,2:31.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:29.0,,,,,,T. Craig,Defensive rebound by T. Craig,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,2:29.0,,,,,,J. Lamb,J. Lamb enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:20.0,,,,,,D. Washington,D. Washington misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:17.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:14.0,,,,,,K. Looney,Shooting foul by K. Looney (drawn by J. Lamb ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,2:14.0,,,,,,J. Lamb,J. Lamb makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:14.0,,,,,,J. Lamb,J. Lamb makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:02.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:57.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:57.0,,,,,,K. Looney,K. Looney makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:51.0,,,,,,T. Craig,T. Craig misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:49.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:48.0,,,,,,G. Bitadze,G. Bitadze misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:47.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,1:42.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 34 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:38.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,1:38.0,,,,,,O. Brissett,O. Brissett enters the game for T. Craig,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,1:24.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:21.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,1:10.0,,,,,,C. Duarte,Personal foul by C. Duarte (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,1:03.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 5 ft (assist by K. Looney ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:54.0,,,,,,J. Lamb,J. Lamb makes 3-pt jump shot from 26 ft (assist by G. Bitadze ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:37.0,,,,,,K. Looney,K. Looney misses 2-pt layup from 6 ft (block by J. Lamb ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,0:36.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:36.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:36.0,,,,,,O. Brissett,Shooting foul by O. Brissett (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,0:36.0,,,,,,G. Bitadze,Technical foul by G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,0:36.0,,,,,,S. Curry,S. Curry makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:36.0,,,,,,A. Wiggins,A. Wiggins misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:35.0,,,,,,J. Lamb,Defensive rebound by J. Lamb,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:13.0,,,,,,C. Duarte,C. Duarte misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:12.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:12.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,0:12.0,,,,,,T. Craig,T. Craig enters the game for C. Duarte,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:12.0,,,,,,J. Holiday,J. Holiday enters the game for J. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:12.0,,,,,,D. Lee,D. Lee enters the game for A. Iguodala,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:03.0,,,,,,K. Thompson,Turnover by K. Thompson (bad pass; steal by O. Brissett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,11:39.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:37.0,,,,,,K. Sykes,Offensive rebound by K. Sykes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:34.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 27 ft (assist by K. Sykes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:17.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:15.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,11:07.0,,,,,,J. Kuminga,Shooting foul by J. Kuminga (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,11:07.0,,,,,,G. Bitadze,G. Bitadze misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:07.0,,,,,,G. Bitadze,G. Bitadze misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:05.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,10:46.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:44.0,,,,,,C. Duarte,Defensive rebound by C. Duarte,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,10:29.0,,,,,,C. Duarte,C. Duarte makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:20.0,,,,,,S. Curry,Turnover by S. Curry (bad pass; steal by C. Duarte ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,10:14.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:12.0,,,,,,C. Duarte,Offensive rebound by C. Duarte,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:05.0,,,,,,T. Craig,T. Craig misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:02.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,9:50.0,,,,,,K. Looney,Turnover by K. Looney (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,9:35.0,,,,,,T. Craig,T. Craig makes 2-pt layup from 4 ft (assist by G. Bitadze ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:18.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 30 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:58.0,,,,,,C. Duarte,C. Duarte makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:42.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:39.0,,,,,,C. Duarte,Defensive rebound by C. Duarte,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,8:27.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 22 ft (assist by T. Craig ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:26.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,8:26.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,8:09.0,,,,,,K. Looney,K. Looney makes 2-pt dunk from 2 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:50.0,,,,,,K. Sykes,K. Sykes misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:47.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,7:37.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:22.0,,,,,,A. Wiggins,Shooting foul by A. Wiggins (drawn by C. Duarte ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,7:22.0,,,,,,C. Duarte,C. Duarte makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:22.0,,,,,,D. Lee,D. Lee enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:22.0,,,,,,C. Duarte,C. Duarte makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:07.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:02.0,,,,,,T. Craig,Defensive rebound by T. Craig,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,6:53.0,,,,,,G. Bitadze,Turnover by G. Bitadze (bad pass; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,6:41.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:39.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:36.0,,,,,,K. Looney,K. Looney makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:33.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,6:16.0,,,,,,T. Craig,T. Craig makes 3-pt jump shot from 23 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:55.0,,,,,,K. Sykes,Personal foul by K. Sykes (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,5:50.0,,,,,,J. Toscano-Anderson,Turnover by J. Toscano-Anderson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,5:34.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:31.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,5:25.0,,,,,,C. Duarte,Personal foul by C. Duarte (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,5:15.0,,,,,,S. Curry,Turnover by S. Curry (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,5:04.0,,,,,,K. Sykes,K. Sykes misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:03.0,,,,,,J. Toscano-Anderson,Loose ball foul by J. Toscano-Anderson (drawn by G. Bitadze ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,4:52.0,,,,,,T. Craig,Turnover by T. Craig (bad pass; steal by J. Toscano-Anderson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,4:43.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:41.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:37.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 12 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:22.0,,,,,,J. Toscano-Anderson,Shooting foul by J. Toscano-Anderson (drawn by C. Duarte ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,4:22.0,,,,,,C. Duarte,C. Duarte makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:22.0,,,,,,C. Duarte,C. Duarte makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:13.0,,,,,,K. Sykes,Shooting foul by K. Sykes (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,4:13.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:13.0,,,,,,A. Iguodala,A. Iguodala enters the game for J. Toscano-Anderson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,4:13.0,,,,,,G. Payton,G. Payton enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,4:13.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:49.0,,,,,,K. Sykes,K. Sykes makes 3-pt jump shot from 26 ft (assist by J. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:23.0,,,,,,K. Looney,Turnover by K. Looney (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,2:59.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,2:59.0,,,,,,N. Bjelica,N. Bjelica enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:59.0,,,,,,J. Poole,J. Poole enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:45.0,,,,,,A. Iguodala,Turnover by A. Iguodala (bad pass; steal by T. Craig ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,2:30.0,,,,,,K. Sykes,Turnover by K. Sykes (bad pass; steal by D. Lee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,2:26.0,,,,,,D. Lee,D. Lee makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:25.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,2:25.0,,,,,,O. Brissett,O. Brissett enters the game for G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:25.0,,,,,,I. Jackson,I. Jackson enters the game for T. Craig,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:25.0,,,,,,J. Lamb,J. Lamb enters the game for C. Duarte,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:25.0,,,,,,D. Washington,D. Washington enters the game for J. Holiday,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,2:09.0,,,,,,K. Sykes,K. Sykes misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:07.0,,,,,,I. Jackson,Offensive rebound by I. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:05.0,,,,,,I. Jackson,I. Jackson misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:03.0,,,,,,N. Bjelica,Defensive rebound by N. Bjelica,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,1:47.0,,,,,,N. Bjelica,Turnover by N. Bjelica (bad pass; steal by I. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,1:28.0,,,,,,K. Sykes,K. Sykes misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:26.0,,,,,,G. Payton,Defensive rebound by G. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,1:11.0,,,,,,I. Jackson,Personal foul by I. Jackson (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,1:11.0,,,,,,L. Stephenson,L. Stephenson enters the game for K. Sykes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,1:03.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 6 ft (assist by A. Iguodala ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:56.0,,,,,,D. Washington,D. Washington misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:55.0,,,,,,D. Lee,Loose ball foul by D. Lee (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,0:55.0,,,,,,I. Jackson,I. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:55.0,,,,,,I. Jackson,I. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:40.0,,,,,,D. Lee,D. Lee makes 3-pt jump shot from 28 ft (assist by J. Poole ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:27.0,,,,,,J. Lamb,J. Lamb misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:24.0,,,,,,N. Bjelica,Defensive rebound by N. Bjelica,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:07.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:05.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:00.0,,,,,,D. Lee,Shooting foul by D. Lee (drawn by J. Lamb ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,0:00.0,,,,,,J. Lamb,J. Lamb makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:00.0,,,,,,J. Lamb,J. Lamb makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:00.0,,,,,,J. Lamb,J. Lamb makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:48.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by J. Poole ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:29.0,,,,,,I. Jackson,I. Jackson misses 2-pt layup from 9 ft (block by A. Iguodala ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,11:27.0,,,,,,A. Iguodala,Defensive rebound by A. Iguodala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,11:23.0,,,,,,I. Jackson,Shooting foul by I. Jackson (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,11:23.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:23.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,11:13.0,,,,,,J. Lamb,J. Lamb makes 3-pt jump shot from 27 ft (assist by D. Washington ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:52.0,,,,,,J. Poole,J. Poole misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:50.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,10:39.0,,,,,,I. Jackson,I. Jackson makes 2-pt hook shot from 5 ft (assist by L. Stephenson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:28.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:26.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,10:19.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:16.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,10:08.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,10:05.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,9:59.0,,,,,,A. Iguodala,Shooting foul by A. Iguodala (drawn by O. Brissett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,9:59.0,,,,,,O. Brissett,O. Brissett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:59.0,,,,,,O. Brissett,O. Brissett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:43.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,9:33.0,,,,,,D. Washington,D. Washington misses 2-pt jump shot from 6 ft (block by N. Bjelica ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,9:30.0,,,,,,N. Bjelica,Defensive rebound by N. Bjelica,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,9:19.0,,,,,,N. Bjelica,N. Bjelica makes 2-pt layup from 3 ft (assist by J. Poole ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:58.0,,,,,,D. Washington,Turnover by D. Washington (bad pass; steal by G. Payton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,8:55.0,,,,,,G. Payton,G. Payton makes 2-pt dunk from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:55.0,,,,,,G. Bitadze,G. Bitadze enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,8:55.0,,,,,,C. Duarte,C. Duarte enters the game for D. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,8:32.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:30.0,,,,,,G. Payton,Defensive rebound by G. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,8:24.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:21.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,8:07.0,,,,,,O. Brissett,O. Brissett misses 2-pt layup from 7 ft (block by A. Iguodala ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,1,8:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,8:06.0,,,,,,T. Craig,T. Craig enters the game for O. Brissett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:57.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,7:47.0,,,,,,N. Bjelica,N. Bjelica misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:45.0,,,,,,L. Stephenson,Defensive rebound by L. Stephenson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,7:36.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by C. Duarte ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,7:36.0,,,,,,J. Holiday,J. Holiday enters the game for J. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:36.0,,,,,,K. Sykes,K. Sykes enters the game for L. Stephenson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:36.0,,,,,,A. Wiggins,A. Wiggins enters the game for A. Iguodala,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:29.0,,,,,,K. Sykes,K. Sykes makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,7:25.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,7:25.0,,,,,,K. Looney,K. Looney enters the game for N. Bjelica,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,7:09.0,,,,,,K. Looney,Turnover by K. Looney (lost ball; steal by T. Craig ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,7:04.0,,,,,,T. Craig,T. Craig makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:51.0,,,,,,G. Payton,G. Payton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:49.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:44.0,,,,,,G. Payton,G. Payton makes 2-pt dunk from 3 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:44.0,,,,,,G. Bitadze,Shooting foul by G. Bitadze (drawn by G. Payton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,6:44.0,,,,,,G. Bitadze,Technical foul by G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,6:44.0,,,,,,G. Payton,Technical foul by G. Payton,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,6:44.0,,,,,,I. Jackson,I. Jackson enters the game for G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,6:44.0,,,,,,G. Bitadze,G. Bitadze ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:44.0,,,,,,G. Payton,G. Payton misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:42.0,,,,,,T. Craig,Defensive rebound by T. Craig,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,6:29.0,,,,,,K. Looney,Flagrant foul type 1 by K. Looney (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,6:29.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:29.0,,,,,,I. Jackson,I. Jackson makes flagrant free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:29.0,,,,,,I. Jackson,I. Jackson makes flagrant free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,6:27.0,,,,,,K. Sykes,Turnover by K. Sykes (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,6:27.0,,,,,,K. Thompson,K. Thompson enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,6:14.0,,,,,,K. Looney,Turnover by K. Looney (bad pass; steal by I. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,6:02.0,,,,,,C. Duarte,C. Duarte makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:41.0,,,,,,K. Thompson,Turnover by K. Thompson (bad pass; steal by I. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,5:35.0,,,,,,I. Jackson,I. Jackson misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:34.0,,,,,,J. Holiday,Offensive rebound by J. Holiday,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:34.0,,,,,,J. Holiday,J. Holiday makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:34.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,5:34.0,,,,,,A. Iguodala,A. Iguodala enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,5:34.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson enters the game for G. Payton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,5:22.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 28 ft (assist by J. Toscano-Anderson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:04.0,,,,,,J. Toscano-Anderson,Shooting foul by J. Toscano-Anderson (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,5:04.0,,,,,,I. Jackson,I. Jackson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:04.0,,,,,,I. Jackson,I. Jackson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,5:02.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,4:49.0,,,,,,J. Toscano-Anderson,Turnover by J. Toscano-Anderson (bad pass; steal by T. Craig ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,1,4:33.0,,,,,,T. Craig,T. Craig makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:22.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,4:19.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,4:08.0,,,,,,C. Duarte,C. Duarte makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:49.0,,,,,,K. Thompson,K. Thompson makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:37.0,,,,,,I. Jackson,I. Jackson makes 2-pt dunk from 4 ft (assist by J. Holiday ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,3:19.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson makes 3-pt jump shot from 26 ft (assist by K. Thompson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:54.0,,,,,,J. Holiday,J. Holiday misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:51.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,2:44.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,2:44.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,2:19.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,1:59.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:57.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,1:57.0,,,,,,A. Iguodala,Loose ball foul by A. Iguodala (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,1:57.0,,,,,,I. Jackson,I. Jackson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:57.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:57.0,,,,,,I. Jackson,I. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:39.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:38.0,,,,,,A. Iguodala,Offensive rebound by A. Iguodala,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:38.0,,,,,,A. Iguodala,Turnover by A. Iguodala (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,1,1:19.0,,,,,,K. Sykes,K. Sykes misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:16.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,1:11.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,1:09.0,,,,,,C. Duarte,Defensive rebound by C. Duarte,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:57.0,,,,,,J. Holiday,J. Holiday misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:54.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:45.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:43.0,,,,,,A. Iguodala,Offensive rebound by A. Iguodala,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:42.0,,,,,,A. Iguodala,A. Iguodala misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:41.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,0:34.0,,,,,,T. Craig,Shooting foul by T. Craig (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,0:34.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:34.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:15.0,,,,,,T. Craig,T. Craig misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:12.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,1,0:09.0,,,,,,J. Holiday,Personal take foul by J. Holiday (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,1,0:09.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:09.0,,,,,,O. Brissett,O. Brissett enters the game for K. Sykes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:09.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:09.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,0:09.0,,,,,,K. Sykes,K. Sykes enters the game for T. Craig,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:06.0,,,,,,J. Holiday,J. Holiday makes 3-pt jump shot from 28 ft (assist by I. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:05.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,1,0:05.0,,,,,,T. Craig,T. Craig enters the game for K. Sykes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,1,0:01.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson misses 2-pt layup from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,1,0:00.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,4:41.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,4:38.0,,,,,,C. Duarte,Defensive rebound by C. Duarte,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,4:24.0,,,,,,T. Craig,T. Craig misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,4:22.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,4:12.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson makes 2-pt dunk from 2 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,3:52.0,,,,,,I. Jackson,I. Jackson misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,3:50.0,,,,,,A. Iguodala,Defensive rebound by A. Iguodala,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,3:36.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 26 ft (assist by A. Iguodala ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,3:12.0,,,,,,C. Duarte,C. Duarte makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,3:01.0,,,,,,I. Jackson,Personal foul by I. Jackson (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,5,3:01.0,,,,,,O. Brissett,O. Brissett enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,5,2:57.0,,,,,,A. Iguodala,Turnover by A. Iguodala (bad pass; steal by C. Duarte ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,5,2:54.0,,,,,,C. Duarte,C. Duarte makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,2:38.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 3 ft (block by T. Craig ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201200GSW,5,2:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,5,2:31.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,2:29.0,,,,,,J. Holiday,Defensive rebound by J. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,2:19.0,,,,,,J. Poole,Personal foul by J. Poole (drawn by C. Duarte ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,5,2:16.0,,,,,,J. Toscano-Anderson,Shooting foul by J. Toscano-Anderson (drawn by O. Brissett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,5,2:16.0,,,,,,O. Brissett,O. Brissett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,2:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,5,2:16.0,,,,,,O. Brissett,O. Brissett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,2:02.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,2:01.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,1:41.0,,,,,,K. Sykes,K. Sykes makes 3-pt jump shot from 28 ft (assist by O. Brissett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,1:31.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,1:29.0,,,,,,T. Craig,Defensive rebound by T. Craig,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,1:07.0,,,,,,K. Sykes,K. Sykes makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,1:07.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,5,1:06.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt layup from 5 ft (assist by A. Iguodala ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:45.0,,,,,,K. Sykes,K. Sykes misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:43.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,0:29.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:26.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:23.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:21.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,5,0:21.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:20.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:17.0,,,,,,J. Toscano-Anderson,Offensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:16.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:14.0,,,,,,K. Sykes,Defensive rebound by K. Sykes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201200GSW,5,0:11.0,,,,,,A. Wiggins,Personal take foul by A. Wiggins (drawn by K. Sykes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,5,0:11.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,5,0:11.0,,,,,,D. Lee,D. Lee enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,5,0:06.0,,,,,,J. Holiday,Turnover by J. Holiday (lost ball; steal by J. Toscano-Anderson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201200GSW,5,0:06.0,,,,,,K. Thompson,K. Thompson enters the game for J. Toscano-Anderson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,5,0:04.0,,,,,,K. Sykes,Personal take foul by K. Sykes (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,5,0:03.0,,,,,,A. Iguodala,Turnover by A. Iguodala (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201200GSW,5,0:03.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201200GSW,5,0:03.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:03.0,,,,,,J. Lamb,J. Lamb enters the game for O. Brissett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,5,0:03.0,,,,,,G. Payton,G. Payton enters the game for D. Lee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,5,0:03.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201200GSW,5,0:02.0,,,,,,A. Wiggins,Personal take foul by A. Wiggins (drawn by J. Lamb ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201200GSW,5,0:02.0,,,,,,J. Lamb,J. Lamb makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:02.0,,,,,,J. Lamb,J. Lamb misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201200GSW,5,0:01.0,,,,,,G. Payton,Defensive rebound by G. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

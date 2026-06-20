@@ -1,0 +1,454 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202203040WAS,1,11:47.0,,,,,,D. Gafford,Shooting foul by D. Gafford (drawn by C. Capela ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,11:47.0,,,,,,C. Capela,C. Capela misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:47.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:47.0,,,,,,C. Capela,C. Capela makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:24.0,,,,,,K. Kuzma,Turnover by K. Kuzma (bad pass; steal by D. Hunter ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,11:22.0,,,,,,D. Hunter,D. Hunter makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:22.0,,,,,,K. Caldwell-Pope,Shooting foul by K. Caldwell-Pope (drawn by D. Hunter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,11:22.0,,,,,,D. Hunter,D. Hunter makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:06.0,,,,,,R. Neto,R. Neto makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:57.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:51.0,,,,,,C. Capela,C. Capela makes 2-pt dunk from 3 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:41.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by D. Gafford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:24.0,,,,,,K. Huerter,K. Huerter misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:22.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:12.0,,,,,,C. Kispert,C. Kispert misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:08.0,,,,,,C. Capela,Defensive rebound by C. Capela,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:02.0,,,,,,D. Gafford,Personal foul by D. Gafford (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,9:44.0,,,,,,D. Gallinari,D. Gallinari makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:30.0,,,,,,R. Neto,R. Neto misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:27.0,,,,,,D. Gafford,Offensive rebound by D. Gafford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:25.0,,,,,,K. Huerter,Shooting foul by K. Huerter (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,9:25.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:25.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:10.0,,,,,,K. Huerter,K. Huerter misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:07.0,,,,,,R. Neto,Defensive rebound by R. Neto,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,9:03.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:59.0,,,,,,K. Caldwell-Pope,Offensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:56.0,,,,,,C. Kispert,C. Kispert misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:55.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,8:42.0,,,,,,D. Hunter,D. Hunter makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:28.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:24.0,,,,,,D. Hunter,Defensive rebound by D. Hunter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,8:19.0,,,,,,R. Neto,Shooting foul by R. Neto (drawn by D. Hunter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,8:19.0,,,,,,D. Hunter,D. Hunter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:19.0,,,,,,D. Hunter,D. Hunter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:06.0,,,,,,R. Neto,R. Neto misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:02.0,,,,,,C. Kispert,Offensive rebound by C. Kispert,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:58.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 1 ft (assist by R. Neto ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:47.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:42.0,,,,,,C. Kispert,Defensive rebound by C. Kispert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,7:30.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:11.0,,,,,,K. Huerter,K. Huerter makes 3-pt jump shot from 24 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:57.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 5 ft (assist by R. Neto ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:41.0,,,,,,C. Kispert,Personal foul by C. Kispert (drawn by D. Hunter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,6:41.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,6:41.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for D. Gallinari,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,6:41.0,,,,,,D. Avdija,D. Avdija enters the game for C. Kispert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,6:41.0,,,,,,D. Hunter,D. Hunter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:41.0,,,,,,D. Hunter,D. Hunter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:30.0,,,,,,R. Neto,R. Neto makes 2-pt layup from 1 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:12.0,,,,,,D. Hunter,D. Hunter makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:04.0,,,,,,K. Huerter,Personal foul by K. Huerter (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,6:04.0,,,,,,D. Wright,D. Wright enters the game for K. Huerter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,5:54.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 16 ft (assist by R. Neto ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:42.0,,,,,,T. Young,T. Young makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:29.0,,,,,,D. Avdija,D. Avdija makes 3-pt jump shot from 24 ft (assist by K. Kuzma ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:16.0,,,,,,T. Young,T. Young misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:14.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:14.0,,,,,,C. Capela,C. Capela makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:04.0,,,,,,T. Young,Personal foul by T. Young (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,5:04.0,,,,,,T. Bryant,T. Bryant enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,5:04.0,,,,,,I. Smith,I. Smith enters the game for R. Neto,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,4:51.0,,,,,,T. Bryant,T. Bryant makes 2-pt layup from 1 ft (assist by K. Kuzma ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:33.0,,,,,,D. Wright,D. Wright misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:30.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:23.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:20.0,,,,,,D. Wright,Defensive rebound by D. Wright,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:06.0,,,,,,C. Capela,C. Capela makes 2-pt hook shot from 8 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:57.0,,,,,,T. Bryant,T. Bryant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:53.0,,,,,,D. Hunter,Defensive rebound by D. Hunter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,3:47.0,,,,,,D. Hunter,D. Hunter misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:43.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,3:33.0,,,,,,T. Bryant,Offensive foul by T. Bryant (drawn by D. Hunter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,3:33.0,,,,,,T. Bryant,Turnover by T. Bryant (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203040WAS,1,3:33.0,,,,,,J. Collins,J. Collins enters the game for C. Capela,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:33.0,,,,,,D. Gallinari,D. Gallinari enters the game for D. Hunter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:33.0,,,,,,R. Hachimura,R. Hachimura enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:33.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:18.0,,,,,,T. Young,T. Young makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:01.0,,,,,,R. Hachimura,R. Hachimura misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:58.0,,,,,,T. SatoranskÃ½,Offensive rebound by T. SatoranskÃ½,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:48.0,,,,,,D. Avdija,Turnover by D. Avdija (bad pass; steal by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,2:43.0,,,,,,J. Collins,J. Collins makes 2-pt layup from 1 ft (assist by B. BogdanoviÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:20.0,,,,,,R. Hachimura,R. Hachimura makes 2-pt layup from 2 ft (assist by T. Bryant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:01.0,,,,,,T. Young,Turnover by T. Young (bad pass; steal by I. Smith ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,1:52.0,,,,,,R. Hachimura,R. Hachimura misses 2-pt layup at rim (block by J. Collins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,1:49.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:34.0,,,,,,J. Collins,J. Collins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:31.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:27.0,,,,,,J. Collins,Personal foul by J. Collins (drawn by T. SatoranskÃ½ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,1:27.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,1:27.0,,,,,,L. Williams,L. Williams enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,1:19.0,,,,,,R. Hachimura,R. Hachimura misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:16.0,,,,,,L. Williams,Defensive rebound by L. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:05.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:01.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:43.0,,,,,,R. Hachimura,R. Hachimura makes 2-pt jump shot from 16 ft (assist by D. Avdija ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:28.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:27.0,,,,,,I. Smith,Loose ball foul by I. Smith (drawn by D. Wright ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,0:27.0,,,,,,D. Wright,D. Wright makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:27.0,,,,,,D. Wright,D. Wright makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:06.0,,,,,,I. Smith,I. Smith misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:04.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:00.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:41.0,,,,,,I. Smith,I. Smith misses 2-pt jump shot from 13 ft (block by D. Wright ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,11:35.0,,,,,,T. Bryant,Offensive rebound by T. Bryant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:32.0,,,,,,T. Bryant,T. Bryant makes 2-pt hook shot from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:20.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 26 ft (assist by L. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:08.0,,,,,,R. Hachimura,R. Hachimura makes 3-pt jump shot from 26 ft (assist by D. Avdija ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:53.0,,,,,,D. Gallinari,D. Gallinari makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:40.0,,,,,,D. Avdija,Turnover by D. Avdija (lost ball; steal by D. Wright ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,10:38.0,,,,,,T. SatoranskÃ½,Personal foul by T. SatoranskÃ½ (drawn by L. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,10:34.0,,,,,,J. Collins,J. Collins misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:30.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:17.0,,,,,,R. Hachimura,Turnover by R. Hachimura (bad pass; steal by D. Wright ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,10:17.0,,,,,,R. Hachimura,Personal take foul by R. Hachimura (drawn by D. Wright ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,10:03.0,,,,,,J. Collins,J. Collins makes 2-pt dunk from 1 ft (assist by D. Wright ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:43.0,,,,,,I. Smith,I. Smith makes 2-pt jump shot from 17 ft (assist by R. Hachimura ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:25.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:09.0,,,,,,R. Hachimura,R. Hachimura makes 2-pt jump shot from 17 ft (assist by D. Avdija ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:48.0,,,,,,D. Gallinari,D. Gallinari misses 2-pt layup from 3 ft (block by D. Avdija ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,8:44.0,,,,,,L. Williams,Offensive rebound by L. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:43.0,,,,,,L. Williams,L. Williams makes 2-pt jump shot from 2 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:42.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,8:42.0,,,,,,C. Kispert,C. Kispert enters the game for D. Avdija,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,8:42.0,,,,,,K. Kuzma,K. Kuzma enters the game for T. SatoranskÃ½,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,8:20.0,,,,,,C. Kispert,C. Kispert misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:18.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,8:01.0,,,,,,J. Collins,J. Collins makes 2-pt jump shot from 13 ft (assist by D. Gallinari ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:41.0,,,,,,I. Smith,I. Smith makes 2-pt jump shot from 18 ft (assist by T. Bryant ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:31.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by L. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,7:31.0,,,,,,L. Williams,L. Williams misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:31.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:31.0,,,,,,D. Hunter,D. Hunter enters the game for D. Gallinari,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,7:31.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,7:31.0,,,,,,R. Neto,R. Neto enters the game for I. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,7:31.0,,,,,,L. Williams,L. Williams makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:10.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:10.0,,,,,,D. Wright,Shooting foul by D. Wright (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,7:10.0,,,,,,K. Huerter,K. Huerter enters the game for D. Wright,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,7:10.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:58.0,,,,,,C. Kispert,Personal foul by C. Kispert (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,6:49.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:46.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,6:29.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:25.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,6:20.0,,,,,,D. Hunter,D. Hunter makes 2-pt layup from 1 ft (assist by L. Williams ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:09.0,,,,,,L. Williams,Shooting foul by L. Williams (drawn by R. Hachimura ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,6:09.0,,,,,,R. Hachimura,R. Hachimura makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:09.0,,,,,,C. Capela,C. Capela enters the game for J. Collins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,6:09.0,,,,,,T. Young,T. Young enters the game for L. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,6:09.0,,,,,,R. Hachimura,R. Hachimura makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:55.0,,,,,,D. Hunter,D. Hunter makes 2-pt jump shot from 18 ft (assist by T. Young ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:34.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 24 ft (assist by R. Neto ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:22.0,,,,,,K. Kuzma,Personal foul by K. Kuzma (drawn by D. Hunter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,5:22.0,,,,,,D. Hunter,D. Hunter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:22.0,,,,,,D. Gafford,D. Gafford enters the game for R. Hachimura,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,5:22.0,,,,,,D. Hunter,D. Hunter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:02.0,,,,,,C. Kispert,C. Kispert makes 2-pt jump shot from 10 ft (assist by K. Caldwell-Pope ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:50.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:50.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:50.0,,,,,,C. Capela,Loose ball foul by C. Capela (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,4:32.0,,,,,,D. Gafford,D. Gafford misses 2-pt dunk from 3 ft (block by C. Capela ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,4:28.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:22.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:19.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:18.0,,,,,,C. Capela,C. Capela misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:16.0,,,,,,R. Neto,Defensive rebound by R. Neto,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:12.0,,,,,,C. Kispert,C. Kispert misses 2-pt layup from 3 ft (block by C. Capela ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,4:12.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,3:57.0,,,,,,T. Young,T. Young makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:42.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt layup from 7 ft (block by C. Capela ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,3:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:38.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 9 ft (assist by R. Neto ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:32.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,3:32.0,,,,,,D. Gallinari,D. Gallinari enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:24.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:21.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,3:04.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 7 ft (assist by D. Gafford ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:47.0,,,,,,K. Huerter,K. Huerter misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:42.0,,,,,,R. Neto,Defensive rebound by R. Neto,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,2:27.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:21.0,,,,,,T. Young,T. Young misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:20.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:19.0,,,,,,C. Capela,C. Capela makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:59.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:56.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:54.0,,,,,,K. Caldwell-Pope,Personal foul by K. Caldwell-Pope (drawn by D. Gallinari ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,1:54.0,,,,,,D. Gallinari,D. Gallinari makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:54.0,,,,,,D. Gallinari,D. Gallinari makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:40.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:37.0,,,,,,K. Huerter,Defensive rebound by K. Huerter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:25.0,,,,,,K. Huerter,K. Huerter misses 2-pt jump shot from 4 ft (block by D. Gafford ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,1:21.0,,,,,,R. Neto,Defensive rebound by R. Neto,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:20.0,,,,,,D. Gafford,D. Gafford makes 2-pt dunk from 1 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:12.0,,,,,,K. Kuzma,Shooting foul by K. Kuzma (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,1:12.0,,,,,,T. Young,T. Young makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:12.0,,,,,,T. Young,T. Young makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:02.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:59.0,,,,,,C. Capela,Defensive rebound by C. Capela,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:56.0,,,,,,D. Gallinari,D. Gallinari makes 3-pt jump shot from 26 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:43.0,,,,,,R. Neto,R. Neto misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:43.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:43.0,,,,,,D. Avdija,D. Avdija enters the game for C. Kispert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:42.0,,,,,,R. Neto,Personal foul by R. Neto (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,0:42.0,,,,,,T. Young,T. Young makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:42.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for K. Huerter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:42.0,,,,,,T. Young,T. Young makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:34.0,,,,,,C. Capela,Shooting foul by C. Capela (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,0:34.0,,,,,,K. Kuzma,K. Kuzma makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:34.0,,,,,,J. Collins,J. Collins enters the game for C. Capela,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:34.0,,,,,,K. Kuzma,K. Kuzma makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:15.0,,,,,,D. Gallinari,D. Gallinari misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:11.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:00.0,,,,,,D. Avdija,D. Avdija makes 3-pt jump shot from 25 ft (assist by K. Kuzma ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:38.0,,,,,,C. Kispert,C. Kispert makes 2-pt jump shot from 2 ft (assist by K. Kuzma ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:23.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:22.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:22.0,,,,,,C. Capela,C. Capela makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:00.0,,,,,,D. Gafford,D. Gafford makes 2-pt dunk from 2 ft (assist by K. Kuzma ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:44.0,,,,,,D. Hunter,D. Hunter makes 3-pt jump shot from 24 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:30.0,,,,,,R. Neto,R. Neto misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:24.0,,,,,,D. Gafford,Offensive rebound by D. Gafford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:23.0,,,,,,D. Gafford,D. Gafford misses 2-pt dunk from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:23.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:15.0,,,,,,D. Gallinari,D. Gallinari misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:13.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:05.0,,,,,,C. Kispert,C. Kispert makes 3-pt jump shot from 24 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:43.0,,,,,,T. Young,T. Young misses 2-pt layup from 5 ft (block by K. Kuzma ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,9:42.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:41.0,,,,,,C. Capela,C. Capela misses 2-pt layup from 1 ft (block by D. Gafford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,9:40.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:38.0,,,,,,C. Capela,C. Capela misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:37.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:32.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:28.0,,,,,,C. Kispert,Defensive rebound by C. Kispert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,9:25.0,,,,,,D. Gafford,Offensive foul by D. Gafford (drawn by C. Capela ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,9:25.0,,,,,,D. Gafford,Turnover by D. Gafford (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203040WAS,1,9:18.0,,,,,,D. Gallinari,D. Gallinari misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:15.0,,,,,,R. Neto,Defensive rebound by R. Neto,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,9:15.0,,,,,,K. Kuzma,Turnover by K. Kuzma (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203040WAS,1,9:00.0,,,,,,D. Hunter,D. Hunter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:56.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,8:36.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:24.0,,,,,,D. Hunter,D. Hunter misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:21.0,,,,,,C. Capela,Offensive rebound by C. Capela,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:20.0,,,,,,C. Capela,C. Capela misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:17.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:07.0,,,,,,T. Young,T. Young makes 2-pt jump shot from 23 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:54.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 20 ft (assist by D. Gafford ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:54.0,,,,,,D. Hunter,Shooting foul by D. Hunter (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,7:54.0,,,,,,K. Kuzma,K. Kuzma makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:35.0,,,,,,T. Young,T. Young makes 3-pt jump shot from 24 ft (assist by D. Hunter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:18.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 7 ft (assist by K. Caldwell-Pope ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:18.0,,,,,,D. Hunter,Shooting foul by D. Hunter (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,7:18.0,,,,,,K. Kuzma,K. Kuzma makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:06.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 33 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:02.0,,,,,,D. Gafford,Defensive rebound by D. Gafford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,6:58.0,,,,,,K. Kuzma,Turnover by K. Kuzma (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203040WAS,1,6:58.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,6:58.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for D. Gallinari,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,6:58.0,,,,,,D. Avdija,D. Avdija enters the game for C. Kispert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,6:58.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:37.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 10 ft (block by K. Kuzma ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,6:35.0,,,,,,K. Huerter,Offensive rebound by K. Huerter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:34.0,,,,,,K. Huerter,K. Huerter makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:11.0,,,,,,D. Gafford,Offensive foul by D. Gafford (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,6:11.0,,,,,,D. Gafford,Turnover by D. Gafford (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203040WAS,1,6:11.0,,,,,,T. Bryant,T. Bryant enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,5:59.0,,,,,,D. Hunter,D. Hunter misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:59.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,5:47.0,,,,,,R. Neto,R. Neto misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:42.0,,,,,,C. Capela,Defensive rebound by C. Capela,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,5:40.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:40.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,5:16.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:13.0,,,,,,C. Capela,Defensive rebound by C. Capela,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,5:04.0,,,,,,K. Huerter,K. Huerter misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:00.0,,,,,,B. BogdanoviÄ,Offensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:51.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:46.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:36.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 27 ft (assist by K. Kuzma ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:20.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 36 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:17.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:11.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:11.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:11.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,4:11.0,,,,,,J. Collins,J. Collins enters the game for C. Capela,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,4:11.0,,,,,,D. Wright,D. Wright enters the game for K. Huerter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,4:11.0,,,,,,I. Smith,I. Smith enters the game for R. Neto,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:59.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,3:59.0,,,,,,T. Young,T. Young makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:59.0,,,,,,T. Young,T. Young makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:46.0,,,,,,T. Bryant,Turnover by T. Bryant (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203040WAS,1,3:46.0,,,,,,R. Hachimura,R. Hachimura enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:30.0,,,,,,J. Collins,J. Collins misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:26.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,3:16.0,,,,,,T. Bryant,T. Bryant makes 2-pt dunk from 1 ft (assist by I. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:02.0,,,,,,T. Young,T. Young makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:45.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:43.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,2:32.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 11 ft (block by T. Bryant ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,2:32.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:32.0,,,,,,L. Williams,L. Williams enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,2:32.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,2:27.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 27 ft (assist by J. Collins ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:09.0,,,,,,I. Smith,I. Smith misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:06.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,2:01.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:58.0,,,,,,I. Smith,Defensive rebound by I. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:55.0,,,,,,D. Hunter,Personal take foul by D. Hunter (drawn by I. Smith ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,1:51.0,,,,,,I. Smith,Turnover by I. Smith (bad pass; steal by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,1:47.0,,,,,,D. Wright,D. Wright misses 2-pt layup from 3 ft (block by I. Smith ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203040WAS,1,1:41.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:40.0,,,,,,R. Hachimura,R. Hachimura makes 3-pt jump shot from 24 ft (assist by T. SatoranskÃ½ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:26.0,,,,,,J. Collins,J. Collins misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:23.0,,,,,,T. SatoranskÃ½,Defensive rebound by T. SatoranskÃ½,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,1:20.0,,,,,,T. SatoranskÃ½,Turnover by T. SatoranskÃ½ (bad pass; steal by J. Collins ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,1:11.0,,,,,,D. Hunter,Offensive foul by D. Hunter (drawn by T. SatoranskÃ½ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,1:11.0,,,,,,D. Hunter,Turnover by D. Hunter (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203040WAS,1,1:11.0,,,,,,D. Gallinari,D. Gallinari enters the game for D. Hunter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:53.0,,,,,,T. SatoranskÃ½,T. SatoranskÃ½ misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:49.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:37.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:27.0,,,,,,D. Avdija,D. Avdija misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:25.0,,,,,,D. Gallinari,Defensive rebound by D. Gallinari,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:07.0,,,,,,R. Hachimura,Personal foul by R. Hachimura (drawn by D. Gallinari ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,0:07.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:00.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:44.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by D. Wright ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,11:44.0,,,,,,D. Wright,D. Wright makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:44.0,,,,,,D. Wright,D. Wright misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:40.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,11:29.0,,,,,,R. Hachimura,R. Hachimura makes 2-pt layup from 2 ft (assist by T. Bryant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:06.0,,,,,,D. Gallinari,D. Gallinari misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,11:02.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:54.0,,,,,,T. Bryant,T. Bryant makes 2-pt dunk from 2 ft (assist by T. SatoranskÃ½ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:44.0,,,,,,T. SatoranskÃ½,Shooting foul by T. SatoranskÃ½ (drawn by L. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,10:44.0,,,,,,L. Williams,L. Williams makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:44.0,,,,,,L. Williams,L. Williams makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:30.0,,,,,,T. Bryant,T. Bryant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:26.0,,,,,,D. Gallinari,Defensive rebound by D. Gallinari,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:09.0,,,,,,J. Collins,J. Collins misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:06.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,10:03.0,,,,,,C. Kispert,C. Kispert misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,10:00.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,9:47.0,,,,,,L. Williams,L. Williams misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:42.0,,,,,,I. Smith,Defensive rebound by I. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,9:23.0,,,,,,I. Smith,I. Smith misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,9:20.0,,,,,,D. Gallinari,Defensive rebound by D. Gallinari,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,9:06.0,,,,,,L. Williams,L. Williams makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:46.0,,,,,,C. Kispert,C. Kispert misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:44.0,,,,,,C. Kispert,Offensive rebound by C. Kispert,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:43.0,,,,,,C. Kispert,C. Kispert makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:43.0,,,,,,K. Kuzma,K. Kuzma enters the game for I. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,8:23.0,,,,,,D. Gallinari,D. Gallinari misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:18.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,8:08.0,,,,,,T. Bryant,T. Bryant makes 2-pt jump shot from 21 ft (assist by K. Kuzma ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,8:08.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,8:08.0,,,,,,D. Hunter,D. Hunter enters the game for D. Gallinari,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,8:08.0,,,,,,T. Young,T. Young enters the game for L. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,7:49.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:46.0,,,,,,D. Wright,Offensive rebound by D. Wright,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:44.0,,,,,,D. Hunter,D. Hunter makes 3-pt jump shot from 24 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,7:17.0,,,,,,T. Bryant,T. Bryant makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:51.0,,,,,,D. Hunter,D. Hunter makes 3-pt jump shot from 24 ft (assist by D. Wright ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:31.0,,,,,,R. Hachimura,R. Hachimura makes 3-pt jump shot from 26 ft (assist by C. Kispert ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:17.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:13.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,6:07.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,6:06.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,6:06.0,,,,,,T. SatoranskÃ½,Loose ball foul by T. SatoranskÃ½ (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,6:06.0,,,,,,K. Huerter,K. Huerter enters the game for D. Hunter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,6:06.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,5:52.0,,,,,,K. Kuzma,Shooting foul by K. Kuzma (drawn by J. Collins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,5:52.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,5:52.0,,,,,,J. Collins,J. Collins misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:52.0,,,,,,D. Hunter,D. Hunter enters the game for D. Wright,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,5:52.0,,,,,,J. Collins,J. Collins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:38.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:35.0,,,,,,B. BogdanoviÄ,Defensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,5:18.0,,,,,,J. Collins,J. Collins makes 2-pt hook shot from 7 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:05.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,5:02.0,,,,,,J. Collins,Defensive rebound by J. Collins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:52.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:51.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,4:49.0,,,,,,B. BogdanoviÄ,Personal take foul by B. BogdanoviÄ (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,4:49.0,,,,,,C. Capela,C. Capela enters the game for J. Collins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,4:49.0,,,,,,D. Avdija,D. Avdija enters the game for C. Kispert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,4:49.0,,,,,,R. Neto,R. Neto enters the game for T. SatoranskÃ½,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,4:37.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 27 ft (assist by K. Kuzma ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:08.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 19 ft (assist by K. Huerter ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,4:00.0,,,,,,T. Young,Personal take foul by T. Young (drawn by R. Neto ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,4:00.0,,,,,,D. Wright,D. Wright enters the game for K. Huerter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:51.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 28 ft (assist by R. Neto ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:39.0,,,,,,R. Hachimura,Personal take foul by R. Hachimura (drawn by C. Capela ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,3:39.0,,,,,,C. Capela,C. Capela misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:39.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:39.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,3:39.0,,,,,,J. Collins,J. Collins enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:39.0,,,,,,C. Capela,C. Capela makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:39.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for J. Collins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:28.0,,,,,,K. Caldwell-Pope,Offensive foul by K. Caldwell-Pope (drawn by D. Wright ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,3:28.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203040WAS,1,3:28.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,3:28.0,,,,,,J. Collins,J. Collins enters the game for C. Capela,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,3:07.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 32 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:04.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,3:01.0,,,,,,K. Kuzma,Offensive foul by K. Kuzma (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,3:01.0,,,,,,K. Kuzma,Turnover by K. Kuzma (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203040WAS,1,3:01.0,,,,,,R. Neto,Away from play foul by R. Neto (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,3:01.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:01.0,,,,,,T. Young,T. Young misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,3:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:38.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203040WAS,1,2:23.0,,,,,,T. Young,Offensive foul by T. Young (drawn by R. Neto ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,2:23.0,,,,,,T. Young,Turnover by T. Young (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203040WAS,1,2:13.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 20 ft (assist by R. Neto ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:43.0,,,,,,D. Wright,D. Wright makes 2-pt jump shot from 11 ft (assist by B. BogdanoviÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:28.0,,,,,,D. Avdija,D. Avdija makes 3-pt jump shot from 27 ft (assist by K. Kuzma ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,1:05.0,,,,,,B. BogdanoviÄ,Turnover by B. BogdanoviÄ (bad pass; steal by R. Hachimura ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203040WAS,1,1:01.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,1:01.0,,,,,,,Instant Replay (Challenge: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:50.0,,,,,,R. Neto,R. Neto misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:46.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:33.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:30.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203040WAS,1,0:27.0,,,,,,D. Hunter,Personal foul by D. Hunter (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,0:27.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,0:25.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by K. Kuzma ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:12.0,,,,,,D. Avdija,Shooting foul by D. Avdija (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,0:12.0,,,,,,T. Young,T. Young makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:12.0,,,,,,D. Gafford,D. Gafford enters the game for R. Neto,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:12.0,,,,,,T. Young,T. Young makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:12.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,0:12.0,,,,,,R. Neto,R. Neto enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:05.0,,,,,,R. Neto,R. Neto makes 3-pt jump shot from 28 ft (assist by K. Kuzma ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:05.0,,,,,,,Atlanta full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203040WAS,1,0:05.0,,,,,,D. Gallinari,D. Gallinari enters the game for D. Wright,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:03.0,,,,,,R. Neto,Personal take foul by R. Neto (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203040WAS,1,0:03.0,,,,,,T. Young,T. Young makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:03.0,,,,,,D. Wright,D. Wright enters the game for D. Gallinari,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203040WAS,1,0:03.0,,,,,,T. Young,T. Young makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:00.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 47 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203040WAS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False

@@ -1,0 +1,415 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202204100NYK,1,11:42.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:38.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,11:18.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 8 ft (block by E. Fournier ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202204100NYK,1,11:14.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,11:12.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 25 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:50.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 1 ft (assist by O. Anunoby ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:35.0,,,,,,I. Quickley,Turnover by I. Quickley (bad pass; steal by S. Barnes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,10:31.0,,,,,,A. Brooks,A. Brooks misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:27.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:18.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:59.0,,,,,,A. Burks,Personal foul by A. Burks (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,9:44.0,,,,,,G. Trent,G. Trent misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:42.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,9:25.0,,,,,,S. Barnes,Personal foul by S. Barnes (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,9:21.0,,,,,,A. Brooks,Shooting foul by A. Brooks (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,9:21.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:21.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:21.0,,,,,,I. Quickley,I. Quickley makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:06.0,,,,,,A. Brooks,Turnover by A. Brooks (bad pass; steal by A. Burks ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,8:57.0,,,,,,E. Fournier,E. Fournier makes 3-pt jump shot from 23 ft (assist by A. Burks ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:46.0,,,,,,S. Barnes,S. Barnes makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:31.0,,,,,,I. Quickley,I. Quickley misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:29.0,,,,,,J. Sims,Offensive rebound by J. Sims,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:27.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup from 3 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:27.0,,,,,,S. Barnes,Shooting foul by S. Barnes (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,8:27.0,,,,,,O. Toppin,O. Toppin makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:12.0,,,,,,A. Brooks,A. Brooks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:09.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:56.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:51.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:48.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:35.0,,,,,,O. Anunoby,Turnover by O. Anunoby (bad pass; steal by J. Sims ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,7:26.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:24.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:20.0,,,,,,E. Fournier,Personal foul by E. Fournier (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,7:15.0,,,,,,K. Birch,K. Birch misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:12.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:07.0,,,,,,I. Quickley,I. Quickley misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:05.0,,,,,,A. Brooks,Defensive rebound by A. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:57.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 1 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:36.0,,,,,,E. Fournier,E. Fournier misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:30.0,,,,,,A. Brooks,Defensive rebound by A. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:26.0,,,,,,S. Barnes,S. Barnes misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:23.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:21.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk at rim (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:20.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,6:20.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:20.0,,,,,,C. Boucher,C. Boucher enters the game for K. Birch,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:20.0,,,,,,M. Flynn,M. Flynn enters the game for A. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:05.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:03.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,5:49.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 24 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:29.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:14.0,,,,,,E. Fournier,E. Fournier makes 3-pt jump shot from 24 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:53.0,,,,,,C. Boucher,C. Boucher makes 3-pt jump shot from 26 ft (assist by O. Anunoby ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:36.0,,,,,,O. Toppin,O. Toppin makes 2-pt jump shot from 9 ft (assist by I. Quickley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:12.0,,,,,,M. Flynn,M. Flynn misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:10.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,3:57.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:55.0,,,,,,J. Sims,Offensive rebound by J. Sims,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:49.0,,,,,,J. Sims,J. Sims makes 2-pt layup from 1 ft (assist by E. Fournier ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:33.0,,,,,,C. Boucher,C. Boucher makes 3-pt jump shot from 26 ft (assist by G. Trent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:07.0,,,,,,E. Fournier,E. Fournier misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:04.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,2:59.0,,,,,,C. Boucher,C. Boucher misses 2-pt layup from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:56.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,2:54.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk from 1 ft (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:41.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:41.0,,,,,,A. Burks,Loose ball foul by A. Burks (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,2:41.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,2:41.0,,,,,,T. Young,T. Young enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,2:41.0,,,,,,T. Gibson,T. Gibson enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,2:41.0,,,,,,F. Hunt,F. Hunt enters the game for J. Sims,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,2:31.0,,,,,,M. Flynn,M. Flynn makes 3-pt jump shot from 25 ft (assist by G. Trent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:03.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:01.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,1:57.0,,,,,,G. Trent,G. Trent makes 2-pt dunk at rim (assist by C. Boucher ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:36.0,,,,,,F. Hunt,F. Hunt misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:34.0,,,,,,F. Hunt,Offensive rebound by F. Hunt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:34.0,,,,,,T. Gibson,T. Gibson misses 2-pt layup from 2 ft (block by T. Young ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204100NYK,1,1:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:34.0,,,,,,R. Arcidiacono,R. Arcidiacono enters the game for E. Fournier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,1:31.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,1:17.0,,,,,,T. Gibson,Personal foul by T. Gibson (drawn by P. Achiuwa ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,1:04.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:00.0,,,,,,M. Flynn,Offensive rebound by M. Flynn,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:00.0,,,,,,M. Flynn,M. Flynn makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:46.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:43.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,0:38.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:35.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,0:31.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:10.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:08.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:07.0,,,,,,C. Boucher,C. Boucher misses 2-pt layup from 1 ft (block by O. Toppin ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204100NYK,1,0:04.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:03.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:00.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,0:00.0,,,,,,I. Quickley,Turnover by I. Quickley (bad pass; steal by P. Achiuwa ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,11:45.0,,,,,,T. Young,T. Young makes 2-pt hook shot from 4 ft (assist by M. Flynn ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:30.0,,,,,,O. Toppin,O. Toppin misses 2-pt hook shot from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:26.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:26.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:25.0,,,,,,M. Flynn,Defensive rebound by M. Flynn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,11:24.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt dunk at rim (assist by M. Flynn ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:08.0,,,,,,F. Hunt,Turnover by F. Hunt (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,11:08.0,,,,,,J. Sims,J. Sims enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,10:58.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:58.0,,,,,,I. Quickley,Loose ball foul by I. Quickley (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,10:43.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:41.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:36.0,,,,,,I. Quickley,I. Quickley makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:19.0,,,,,,T. Young,T. Young misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:17.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:12.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:10.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:04.0,,,,,,M. Flynn,M. Flynn misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:59.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,9:38.0,,,,,,T. Young,Shooting foul by T. Young (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,9:38.0,,,,,,I. Quickley,I. Quickley misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:38.0,,,,,,I. Quickley,I. Quickley misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:35.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,9:23.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 24 ft (block by T. Gibson ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202204100NYK,1,9:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:22.0,,,,,,A. Burks,A. Burks enters the game for I. Quickley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,9:16.0,,,,,,M. Flynn,M. Flynn misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:16.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,8:51.0,,,,,,J. Sims,Turnover by J. Sims (lost ball; steal by M. Flynn ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,8:47.0,,,,,,M. Flynn,Turnover by M. Flynn (bad pass; steal by T. Gibson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,8:43.0,,,,,,F. Hunt,F. Hunt misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:41.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:32.0,,,,,,T. Gibson,T. Gibson makes 2-pt jump shot from 21 ft (assist by F. Hunt ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:27.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:17.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:15.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,8:09.0,,,,,,S. Barnes,Personal foul by S. Barnes (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,8:09.0,,,,,,O. Anunoby,O. Anunoby enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,8:09.0,,,,,,K. Birch,K. Birch enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,8:09.0,,,,,,E. Fournier,E. Fournier enters the game for F. Hunt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,8:01.0,,,,,,T. Gibson,T. Gibson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:58.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:56.0,,,,,,T. Young,Turnover by T. Young (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,7:42.0,,,,,,A. Burks,Turnover by A. Burks (lost ball; steal by T. Young ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,7:38.0,,,,,,C. Boucher,C. Boucher makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:38.0,,,,,,J. Sims,Shooting foul by J. Sims (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,7:38.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:22.0,,,,,,R. Arcidiacono,R. Arcidiacono misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:18.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:00.0,,,,,,T. Young,T. Young makes 3-pt jump shot from 23 ft (assist by M. Flynn ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:55.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,6:55.0,,,,,,G. Trent,G. Trent enters the game for C. Boucher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:55.0,,,,,,O. Toppin,O. Toppin enters the game for T. Gibson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:42.0,,,,,,J. Sims,Turnover by J. Sims (bad pass; steal by K. Birch ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,6:38.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 25 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:23.0,,,,,,R. Arcidiacono,R. Arcidiacono misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:21.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:04.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:01.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,5:51.0,,,,,,T. Young,Personal foul by T. Young (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,5:41.0,,,,,,O. Toppin,Turnover by O. Toppin (bad pass; steal by T. Young ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,5:36.0,,,,,,M. Flynn,M. Flynn makes 2-pt layup from 1 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:24.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:18.0,,,,,,M. Flynn,Defensive rebound by M. Flynn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,5:15.0,,,,,,G. Trent,G. Trent makes 2-pt layup at rim (assist by M. Flynn ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:09.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,5:09.0,,,,,,Y. Watanabe,Y. Watanabe enters the game for M. Flynn,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,5:09.0,,,,,,I. Quickley,I. Quickley enters the game for R. Arcidiacono,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,4:59.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:55.0,,,,,,J. Sims,Offensive rebound by J. Sims,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:53.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 25 ft (assist by J. Sims ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:34.0,,,,,,O. Anunoby,Turnover by O. Anunoby (bad pass; steal by J. Sims ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,4:33.0,,,,,,J. Sims,Turnover by J. Sims (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,4:18.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:15.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,3:58.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:56.0,,,,,,Y. Watanabe,Defensive rebound by Y. Watanabe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,3:52.0,,,,,,G. Trent,Turnover by G. Trent (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,3:33.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:29.0,,,,,,A. Burks,Offensive rebound by A. Burks,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:27.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:27.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,3:14.0,,,,,,Y. Watanabe,Y. Watanabe misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:12.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,2:52.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 12 ft (assist by O. Toppin ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:51.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,2:51.0,,,,,,M. Flynn,M. Flynn enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,2:40.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:37.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,2:32.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 25 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:14.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:12.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,2:02.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup from 1 ft (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:46.0,,,,,,Y. Watanabe,Y. Watanabe misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:45.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:40.0,,,,,,K. Birch,K. Birch makes 2-pt jump shot from 5 ft (assist by Y. Watanabe ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:36.0,,,,,,I. Quickley,Turnover by I. Quickley (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,1:36.0,,,,,,C. Boucher,C. Boucher enters the game for Y. Watanabe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,1:24.0,,,,,,M. Flynn,M. Flynn misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:22.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,1:22.0,,,,,,O. Toppin,Turnover by O. Toppin (lost ball; steal by M. Flynn ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,1:18.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:18.0,,,,,,O. Anunoby,Offensive rebound by O. Anunoby,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:18.0,,,,,,J. Sims,Shooting foul by J. Sims (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,1:18.0,,,,,,O. Anunoby,O. Anunoby makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:18.0,,,,,,O. Anunoby,O. Anunoby makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:58.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:56.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,0:51.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 4 ft (assist by O. Anunoby ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:35.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 23 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:24.0,,,,,,C. Boucher,C. Boucher makes 2-pt layup from 1 ft (assist by K. Birch ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:24.0,,,,,,O. Toppin,Shooting foul by O. Toppin (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,0:24.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:04.0,,,,,,G. Trent,Personal foul by G. Trent (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,0:02.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 25 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:00.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 57 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:44.0,,,,,,O. Anunoby,Turnover by O. Anunoby (bad pass; steal by E. Fournier ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,11:22.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:20.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,11:13.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:08.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:07.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:04.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:46.0,,,,,,O. Toppin,O. Toppin misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:44.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:38.0,,,,,,S. Barnes,Turnover by S. Barnes (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,10:24.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:21.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:12.0,,,,,,K. Birch,K. Birch makes 2-pt jump shot from 7 ft (assist by S. Barnes ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:56.0,,,,,,I. Quickley,I. Quickley makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:36.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 16 ft (assist by K. Birch ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:15.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:13.0,,,,,,A. Burks,Offensive rebound by A. Burks,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:06.0,,,,,,A. Burks,Turnover by A. Burks (bad pass; steal by O. Anunoby ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,9:04.0,,,,,,A. Burks,Personal take foul by A. Burks (drawn by A. Brooks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,8:57.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:56.0,,,,,,O. Anunoby,Offensive rebound by O. Anunoby,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:54.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:42.0,,,,,,I. Quickley,I. Quickley makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:42.0,,,,,,A. Brooks,Shooting foul by A. Brooks (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,8:42.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:30.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:26.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,8:08.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:53.0,,,,,,S. Barnes,Turnover by S. Barnes (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,7:39.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:36.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:27.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:17.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk at rim (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:05.0,,,,,,A. Brooks,A. Brooks misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:02.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:51.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:48.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:43.0,,,,,,G. Trent,Offensive foul by G. Trent (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,6:43.0,,,,,,G. Trent,Turnover by G. Trent (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204100NYK,1,6:43.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,6:43.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for K. Birch,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:43.0,,,,,,C. Boucher,C. Boucher enters the game for A. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:21.0,,,,,,I. Quickley,I. Quickley misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:18.0,,,,,,G. Trent,Defensive rebound by G. Trent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:14.0,,,,,,G. Trent,Turnover by G. Trent (bad pass; steal by E. Fournier ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,5:52.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 23 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:29.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:10.0,,,,,,A. Burks,A. Burks makes 2-pt layup from 1 ft (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:48.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:46.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,4:24.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:22.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,4:03.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:01.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:01.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,4:01.0,,,,,,T. Young,T. Young enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,3:39.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 12 ft (assist by O. Toppin ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:24.0,,,,,,P. Achiuwa,P. Achiuwa makes 3-pt jump shot from 26 ft (assist by S. Barnes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:08.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:01.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,3:01.0,,,,,,R. Arcidiacono,R. Arcidiacono enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,3:01.0,,,,,,T. Gibson,T. Gibson enters the game for J. Sims,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,2:47.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:23.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 7 ft (block by P. Achiuwa ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202204100NYK,1,2:23.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:20.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:16.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,2:08.0,,,,,,S. Barnes,S. Barnes makes 2-pt dunk at rim (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:55.0,,,,,,G. Trent,Personal foul by G. Trent (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,1:42.0,,,,,,R. Arcidiacono,R. Arcidiacono makes 2-pt jump shot from 10 ft (assist by E. Fournier ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:24.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:24.0,,,,,,E. Fournier,Loose ball foul by E. Fournier (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,1:18.0,,,,,,C. Boucher,C. Boucher makes 2-pt layup from 2 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:00.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:58.0,,,,,,I. Quickley,Offensive rebound by I. Quickley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:57.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,0:54.0,,,,,,O. Toppin,O. Toppin makes 2-pt jump shot from 5 ft (assist by I. Quickley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:38.0,,,,,,C. Boucher,C. Boucher makes 3-pt jump shot from 23 ft (assist by S. Barnes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:31.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:29.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,0:21.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 1 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:12.0,,,,,,R. Arcidiacono,R. Arcidiacono misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:09.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:09.0,,,,,,T. Gibson,Turnover by T. Gibson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,0:00.0,,,,,,S. Barnes,S. Barnes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:39.0,,,,,,A. Burks,Offensive foul by A. Burks (drawn by T. Young ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,11:39.0,,,,,,A. Burks,Turnover by A. Burks (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204100NYK,1,11:26.0,,,,,,P. Achiuwa,Offensive foul by P. Achiuwa (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,11:26.0,,,,,,P. Achiuwa,Turnover by P. Achiuwa (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204100NYK,1,11:10.0,,,,,,T. Gibson,T. Gibson misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,11:08.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:56.0,,,,,,M. Flynn,M. Flynn misses 2-pt jump shot from 10 ft (block by T. Gibson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202204100NYK,1,10:52.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:51.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk from 1 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:35.0,,,,,,M. Flynn,M. Flynn makes 3-pt jump shot from 25 ft (assist by C. Boucher ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:12.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,10:09.0,,,,,,M. Flynn,Defensive rebound by M. Flynn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:04.0,,,,,,M. Flynn,M. Flynn misses 2-pt layup from 2 ft (block by E. Fournier ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204100NYK,1,10:02.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,10:00.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:58.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,9:56.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:56.0,,,,,,I. Quickley,I. Quickley enters the game for E. Fournier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,9:56.0,,,,,,J. Sims,J. Sims enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,9:35.0,,,,,,A. Brooks,A. Brooks makes 3-pt jump shot from 27 ft (assist by P. Achiuwa ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,9:09.0,,,,,,A. Burks,A. Burks makes 2-pt layup from 4 ft (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:59.0,,,,,,T. Gibson,Shooting foul by T. Gibson (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,8:59.0,,,,,,C. Boucher,C. Boucher misses free throw 1 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:59.0,,,,,,C. Boucher,C. Boucher makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:59.0,,,,,,C. Boucher,C. Boucher makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:34.0,,,,,,R. Arcidiacono,R. Arcidiacono makes 3-pt jump shot from 25 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:16.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,8:13.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,8:04.0,,,,,,M. Flynn,Personal foul by M. Flynn (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,7:58.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:46.0,,,,,,M. Flynn,M. Flynn misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:46.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:46.0,,,,,,P. Achiuwa,Loose ball foul by P. Achiuwa (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,7:46.0,,,,,,S. Mykhailiuk,S. Mykhailiuk enters the game for A. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,7:46.0,,,,,,Y. Watanabe,Y. Watanabe enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,7:36.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:32.0,,,,,,Y. Watanabe,Defensive rebound by Y. Watanabe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,7:20.0,,,,,,S. Mykhailiuk,Offensive foul by S. Mykhailiuk (drawn by R. Arcidiacono ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,7:20.0,,,,,,S. Mykhailiuk,Turnover by S. Mykhailiuk (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204100NYK,1,7:01.0,,,,,,J. Sims,J. Sims makes 2-pt dunk from 1 ft (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,7:00.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,6:42.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:39.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:15.0,,,,,,J. Sims,J. Sims misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:14.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,6:14.0,,,,,,R. Arcidiacono,Personal take foul by R. Arcidiacono (drawn by P. Achiuwa ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,6:14.0,,,,,,O. Toppin,O. Toppin enters the game for T. Gibson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,6:04.0,,,,,,M. Flynn,M. Flynn misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,6:01.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,5:51.0,,,,,,S. Mykhailiuk,Shooting foul by S. Mykhailiuk (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,5:51.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:51.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:34.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:34.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,5:18.0,,,,,,A. Burks,Turnover by A. Burks (bad pass; steal by S. Mykhailiuk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,5:13.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:11.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,5:10.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:49.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk from 1 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:33.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:32.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,4:13.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 23 ft (assist by R. Arcidiacono ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,4:02.0,,,,,,C. Boucher,C. Boucher misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:59.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,3:48.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:46.0,,,,,,Y. Watanabe,Defensive rebound by Y. Watanabe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,3:44.0,,,,,,A. Burks,Personal take foul by A. Burks (drawn by Y. Watanabe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,3:44.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204100NYK,1,3:37.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:32.0,,,,,,M. Flynn,M. Flynn misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,3:30.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,3:12.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 31 ft (assist by A. Burks ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:56.0,,,,,,Y. Watanabe,Y. Watanabe makes 2-pt jump shot from 3 ft (assist by P. Achiuwa ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:46.0,,,,,,C. Boucher,Personal foul by C. Boucher (drawn by R. Arcidiacono ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,2:46.0,,,,,,A. Brooks,A. Brooks enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204100NYK,1,2:38.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 25 ft (assist by A. Burks ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:25.0,,,,,,R. Arcidiacono,Personal foul by R. Arcidiacono (drawn by Y. Watanabe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,2:20.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 3-pt jump shot from 25 ft (assist by C. Boucher ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,2:00.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:57.0,,,,,,Y. Watanabe,Defensive rebound by Y. Watanabe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,1:55.0,,,,,,R. Arcidiacono,Personal foul by R. Arcidiacono (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,1:55.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:55.0,,,,,,C. Boucher,C. Boucher makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:51.0,,,,,,J. Sims,J. Sims makes 2-pt layup at rim (assist by O. Toppin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:39.0,,,,,,S. Mykhailiuk,S. Mykhailiuk makes 3-pt jump shot from 26 ft (assist by Y. Watanabe ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:36.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk from 1 ft (assist by R. Arcidiacono ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:30.0,,,,,,Y. Watanabe,Y. Watanabe misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:27.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,1:23.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:21.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,1:14.0,,,,,,M. Flynn,M. Flynn misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:10.0,,,,,,R. Arcidiacono,Defensive rebound by R. Arcidiacono,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,1:04.0,,,,,,A. Brooks,Shooting foul by A. Brooks (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,1:04.0,,,,,,O. Toppin,O. Toppin makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:04.0,,,,,,O. Toppin,O. Toppin makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,1:04.0,,,,,,O. Toppin,O. Toppin makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:55.0,,,,,,C. Boucher,C. Boucher misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:51.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204100NYK,1,0:40.0,,,,,,R. Arcidiacono,Turnover by R. Arcidiacono (bad pass; steal by Y. Watanabe ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204100NYK,1,0:38.0,,,,,,I. Quickley,Personal take foul by I. Quickley (drawn by Y. Watanabe ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204100NYK,1,0:38.0,,,,,,Y. Watanabe,Y. Watanabe makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:38.0,,,,,,Y. Watanabe,Y. Watanabe makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:14.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204100NYK,1,0:05.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204100NYK,1,0:02.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

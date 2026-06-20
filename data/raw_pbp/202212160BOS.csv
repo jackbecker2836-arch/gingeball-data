@@ -1,0 +1,483 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202212160BOS,1,11:45.0,,,,,,A. Horford,A. Horford makes 3-pt jump shot from 23 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:32.0,,,,,,M. Fultz,Turnover by M. Fultz (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,11:17.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:13.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:52.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:50.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:34.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:32.0,,,,,,M. Wagner,Defensive rebound by M. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:25.0,,,,,,M. Wagner,M. Wagner misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:25.0,,,,,,B. Bol,Offensive rebound by B. Bol,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:22.0,,,,,,B. Bol,B. Bol makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:17.0,,,,,,A. Horford,A. Horford makes 3-pt jump shot from 25 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:05.0,,,,,,M. Fultz,M. Fultz misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:01.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:54.0,,,,,,D. White,Turnover by D. White (bad pass; steal by M. Fultz ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,9:49.0,,,,,,P. Banchero,P. Banchero makes 2-pt layup from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:32.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:29.0,,,,,,D. White,Offensive rebound by D. White,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:28.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 27 ft (assist by D. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:11.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:10.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:03.0,,,,,,M. Smart,Turnover by M. Smart (bad pass; steal by P. Banchero ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,8:59.0,,,,,,P. Banchero,P. Banchero misses 2-pt layup from 5 ft (block by M. Smart ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,8:56.0,,,,,,M. Wagner,Offensive rebound by M. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:55.0,,,,,,M. Wagner,M. Wagner misses 2-pt layup from 5 ft (block by D. White ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,8:54.0,,,,,,M. Wagner,Offensive rebound by M. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:54.0,,,,,,M. Wagner,Turnover by M. Wagner (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,8:43.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:19.0,,,,,,M. Wagner,M. Wagner misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:16.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,8:04.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 1 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:03.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,7:54.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 10 ft (block by A. Horford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,7:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:50.0,,,,,,M. Wagner,M. Wagner makes 2-pt dunk from 3 ft (assist by M. Fultz ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:50.0,,,,,,D. White,Shooting foul by D. White (drawn by M. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,7:50.0,,,,,,M. Wagner,M. Wagner makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:41.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:38.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,7:30.0,,,,,,M. Fultz,M. Fultz misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:28.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,7:20.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 25 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:03.0,,,,,,J. Brown,Personal foul by J. Brown (drawn by M. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,7:03.0,,,,,,R. Williams,R. Williams enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:52.0,,,,,,M. Wagner,M. Wagner makes 3-pt jump shot from 26 ft (assist by F. Wagner ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:29.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:26.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,6:25.0,,,,,,B. Bol,Turnover by B. Bol (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,6:17.0,,,,,,R. Williams,Offensive foul by R. Williams (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,6:17.0,,,,,,R. Williams,Turnover by R. Williams (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160BOS,1,6:17.0,,,,,,T. Ross,T. Ross enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:05.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:00.0,,,,,,M. Fultz,Offensive rebound by M. Fultz,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:58.0,,,,,,A. Horford,Shooting foul by A. Horford (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,5:58.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:58.0,,,,,,P. Banchero,P. Banchero misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:58.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,5:58.0,,,,,,M. Brogdon,M. Brogdon enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,5:40.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:38.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,5:30.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:29.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,5:19.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 1 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:19.0,,,,,,G. Williams,G. Williams enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:56.0,,,,,,R. Williams,Shooting foul by R. Williams (drawn by B. Bol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,4:56.0,,,,,,B. Bol,B. Bol makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:56.0,,,,,,B. Bol,B. Bol misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:56.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,4:41.0,,,,,,J. Brown,Turnover by J. Brown (lost ball; steal by M. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,4:37.0,,,,,,M. Wagner,M. Wagner makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:21.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:18.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,4:13.0,,,,,,M. Brogdon,Personal foul by M. Brogdon (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,4:13.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:13.0,,,,,,C. Anthony,C. Anthony enters the game for B. Bol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:13.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:13.0,,,,,,S. Hauser,S. Hauser enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,3:50.0,,,,,,J. Brown,Turnover by J. Brown (lost ball; steal by T. Ross ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,3:43.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:40.0,,,,,,M. Fultz,Offensive rebound by M. Fultz,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:38.0,,,,,,M. Fultz,Offensive foul by M. Fultz (drawn by M. Brogdon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,3:38.0,,,,,,M. Fultz,Turnover by M. Fultz (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160BOS,1,3:27.0,,,,,,M. Brogdon,M. Brogdon misses 2-pt layup from 6 ft (block by M. Fultz ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,3:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:24.0,,,,,,G. Williams,G. Williams makes 3-pt jump shot from 24 ft (assist by J. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:05.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:02.0,,,,,,M. Wagner,Offensive rebound by M. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:56.0,,,,,,R. Williams,Shooting foul by R. Williams (drawn by M. Fultz ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,2:56.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,2:56.0,,,,,,M. Bamba,M. Bamba enters the game for M. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,2:56.0,,,,,,L. Kornet,L. Kornet enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,2:56.0,,,,,,J. Tatum,J. Tatum enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,2:56.0,,,,,,M. Fultz,M. Fultz makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:56.0,,,,,,M. Fultz,M. Fultz makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:43.0,,,,,,M. Brogdon,M. Brogdon makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:20.0,,,,,,M. Fultz,M. Fultz makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:09.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:06.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,1:58.0,,,,,,P. Banchero,P. Banchero makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:46.0,,,,,,P. Banchero,Personal foul by P. Banchero (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,1:46.0,,,,,,F. Wagner,F. Wagner enters the game for M. Fultz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,1:41.0,,,,,,M. Brogdon,M. Brogdon makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:29.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:14.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:12.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,1:03.0,,,,,,F. Wagner,F. Wagner makes 2-pt hook shot from 11 ft (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:47.0,,,,,,M. Brogdon,M. Brogdon misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:42.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,0:33.0,,,,,,L. Kornet,Shooting foul by L. Kornet (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,0:33.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:33.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:16.0,,,,,,J. Tatum,J. Tatum makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:00.0,,,,,,P. Banchero,P. Banchero makes 3-pt jump shot from 27 ft (assist by T. Ross ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:45.0,,,,,,M. Bamba,M. Bamba misses 2-pt hook shot from 11 ft (block by R. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,11:45.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:34.0,,,,,,F. Wagner,Turnover by F. Wagner (bad pass; steal by R. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,11:31.0,,,,,,M. Brogdon,Turnover by M. Brogdon (bad pass; steal by M. Bamba ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,11:27.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:25.0,,,,,,S. Hauser,Defensive rebound by S. Hauser,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,11:15.0,,,,,,S. Hauser,S. Hauser misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:12.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,11:05.0,,,,,,C. Anthony,C. Anthony makes 2-pt layup from 9 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:44.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:42.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:35.0,,,,,,S. Hauser,Personal foul by S. Hauser (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:20.0,,,,,,M. Bamba,M. Bamba misses 2-pt hook shot from 11 ft (block by M. Brogdon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,10:18.0,,,,,,D. White,Defensive rebound by D. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:15.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:15.0,,,,,,D. White,D. White makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:15.0,,,,,,D. White,D. White misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:15.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:58.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:56.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:50.0,,,,,,S. Hauser,S. Hauser misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:47.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:27.0,,,,,,C. Anthony,Turnover by C. Anthony (bad pass; steal by M. Brogdon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,9:16.0,,,,,,J. Tatum,J. Tatum makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:16.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,9:16.0,,,,,,M. Smart,M. Smart enters the game for S. Hauser,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,9:16.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:02.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:47.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,8:47.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:47.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:47.0,,,,,,J. Brown,J. Brown enters the game for M. Brogdon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,8:47.0,,,,,,J. Tatum,J. Tatum makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:32.0,,,,,,A. Schofield,A. Schofield misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:28.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:28.0,,,,,,M. Bamba,M. Bamba makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:19.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:17.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:15.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:15.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,7:58.0,,,,,,A. Schofield,A. Schofield makes 3-pt jump shot from 27 ft (assist by T. Ross ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:41.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:38.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,7:33.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 10 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:33.0,,,,,,D. White,Shooting foul by D. White (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,7:33.0,,,,,,A. Horford,A. Horford enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,7:33.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:17.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:13.0,,,,,,C. Anthony,Turnover by C. Anthony (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,7:06.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,7:06.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:06.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:48.0,,,,,,T. Ross,T. Ross makes 2-pt hook shot from 15 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:33.0,,,,,,D. White,D. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:31.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,6:23.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:23.0,,,,,,F. Wagner,Offensive rebound by F. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:15.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 27 ft (assist by A. Schofield ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:13.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,6:13.0,,,,,,P. Banchero,P. Banchero enters the game for A. Schofield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:13.0,,,,,,M. Brogdon,M. Brogdon enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:13.0,,,,,,G. Williams,G. Williams enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,5:51.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:46.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,5:25.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:23.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:23.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:23.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:22.0,,,,,,M. Bamba,M. Bamba misses 2-pt dunk from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:20.0,,,,,,M. Brogdon,Defensive rebound by M. Brogdon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,5:14.0,,,,,,M. Brogdon,M. Brogdon makes 2-pt layup from 3 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:14.0,,,,,,B. Bol,B. Bol enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,5:14.0,,,,,,M. Wagner,M. Wagner enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:49.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:45.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,4:38.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 16 ft (assist by A. Horford ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:21.0,,,,,,M. Smart,Personal foul by M. Smart (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,4:21.0,,,,,,M. Fultz,M. Fultz enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:21.0,,,,,,K. Harris,K. Harris enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:11.0,,,,,,M. Wagner,M. Wagner makes 2-pt layup from 7 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:11.0,,,,,,M. Smart,Shooting foul by M. Smart (drawn by M. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,4:11.0,,,,,,M. Wagner,M. Wagner makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:59.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:55.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,3:38.0,,,,,,B. Bol,B. Bol misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:35.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,3:32.0,,,,,,K. Harris,Personal foul by K. Harris (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,3:32.0,,,,,,M. Smart,M. Smart makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:32.0,,,,,,J. Tatum,J. Tatum enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,3:32.0,,,,,,M. Smart,M. Smart makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:14.0,,,,,,P. Banchero,P. Banchero misses 2-pt layup from 13 ft (block by A. Horford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,3:12.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,3:10.0,,,,,,M. Wagner,Loose ball foul by M. Wagner (drawn by M. Brogdon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,3:10.0,,,,,,M. Brogdon,M. Brogdon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:10.0,,,,,,M. Brogdon,M. Brogdon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:58.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,2:52.0,,,,,,K. Harris,K. Harris makes 2-pt dunk from 3 ft (assist by M. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:35.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:19.0,,,,,,B. Bol,B. Bol misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:15.0,,,,,,M. Brogdon,Defensive rebound by M. Brogdon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,2:11.0,,,,,,M. Brogdon,M. Brogdon makes 2-pt layup from 1 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:55.0,,,,,,K. Harris,K. Harris makes 3-pt jump shot from 24 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:41.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:38.0,,,,,,K. Harris,Defensive rebound by K. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,1:34.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by B. Bol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,1:34.0,,,,,,B. Bol,B. Bol makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:34.0,,,,,,B. Bol,B. Bol misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:34.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,1:18.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:16.0,,,,,,M. Wagner,Defensive rebound by M. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,1:05.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:55.0,,,,,,M. Brogdon,M. Brogdon makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:43.0,,,,,,M. Fultz,M. Fultz misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:41.0,,,,,,M. Brogdon,Defensive rebound by M. Brogdon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,0:37.0,,,,,,J. Brown,Turnover by J. Brown (bad pass; steal by K. Harris ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,0:31.0,,,,,,M. Wagner,M. Wagner makes 2-pt dunk from 4 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:17.0,,,,,,M. Brogdon,M. Brogdon misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:15.0,,,,,,M. Wagner,Defensive rebound by M. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,0:00.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:44.0,,,,,,M. Wagner,M. Wagner makes 2-pt dunk from 1 ft (assist by F. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:26.0,,,,,,F. Wagner,Shooting foul by F. Wagner (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,11:26.0,,,,,,J. Brown,J. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:26.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:16.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 6 ft (block by A. Horford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,11:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:08.0,,,,,,F. Wagner,F. Wagner makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:55.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:52.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:43.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:41.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:39.0,,,,,,M. Fultz,Personal foul by M. Fultz (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:39.0,,,,,,M. Wagner,Away from play foul by M. Wagner (drawn by A. Horford ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:39.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:39.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:39.0,,,,,,A. Horford,Flagrant foul type 2 by A. Horford (drawn by M. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:39.0,,,,,,A. Horford,Turnover by A. Horford (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160BOS,1,10:39.0,,,,,,A. Horford,A. Horford ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:39.0,,,,,,M. Wagner,M. Wagner makes flagrant free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:39.0,,,,,,M. Wagner,M. Wagner makes flagrant free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:39.0,,,,,,L. Kornet,L. Kornet enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,10:29.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:16.0,,,,,,J. Tatum,Turnover by J. Tatum (lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,10:16.0,,,,,,J. Tatum,Loose ball foul by J. Tatum (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:07.0,,,,,,M. Fultz,M. Fultz misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:05.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:02.0,,,,,,J. Brown,Turnover by J. Brown (lost ball; steal by M. Fultz ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,9:46.0,,,,,,L. Kornet,Shooting foul by L. Kornet (drawn by M. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,9:46.0,,,,,,M. Wagner,M. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:46.0,,,,,,J. Tatum,Technical foul by J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,9:46.0,,,,,,F. Wagner,F. Wagner makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:46.0,,,,,,M. Wagner,M. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:33.0,,,,,,D. White,D. White misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:30.0,,,,,,M. Fultz,Defensive rebound by M. Fultz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:28.0,,,,,,M. Fultz,M. Fultz misses 2-pt layup from 10 ft (block by J. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,9:28.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:18.0,,,,,,D. White,D. White misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:16.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:08.0,,,,,,M. Fultz,M. Fultz makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:05.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:45.0,,,,,,M. Smart,M. Smart makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:35.0,,,,,,B. Bol,B. Bol misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:33.0,,,,,,L. Kornet,Defensive rebound by L. Kornet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,8:23.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:20.0,,,,,,M. Smart,Offensive rebound by M. Smart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:18.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:15.0,,,,,,L. Kornet,Offensive rebound by L. Kornet,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:15.0,,,,,,L. Kornet,L. Kornet makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:15.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,8:03.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 4 ft (block by D. White ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,8:03.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,7:50.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 24 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:27.0,,,,,,P. Banchero,P. Banchero misses 2-pt layup from 7 ft (block by J. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,7:27.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,7:23.0,,,,,,J. Brown,Turnover by J. Brown (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,7:10.0,,,,,,M. Fultz,Turnover by M. Fultz (bad pass; steal by J. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,7:05.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:04.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,6:58.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:55.0,,,,,,M. Wagner,Offensive rebound by M. Wagner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:54.0,,,,,,M. Wagner,M. Wagner makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:44.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:41.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,6:32.0,,,,,,B. Bol,Turnover by B. Bol (lost ball; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,6:27.0,,,,,,D. White,D. White misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:24.0,,,,,,M. Wagner,Defensive rebound by M. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,6:16.0,,,,,,B. Bol,B. Bol misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:15.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,6:15.0,,,,,,P. Banchero,Loose ball foul by P. Banchero (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,6:15.0,,,,,,T. Ross,T. Ross enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:15.0,,,,,,M. Brogdon,M. Brogdon enters the game for L. Kornet,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:15.0,,,,,,R. Williams,R. Williams enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:09.0,,,,,,J. Brown,J. Brown makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:51.0,,,,,,M. Wagner,Turnover by M. Wagner (bad pass; steal by M. Brogdon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,5:38.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:37.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:37.0,,,,,,R. Williams,R. Williams makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:37.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,5:37.0,,,,,,C. Anthony,C. Anthony enters the game for B. Bol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,5:21.0,,,,,,P. Banchero,Offensive foul by P. Banchero (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,5:21.0,,,,,,P. Banchero,Turnover by P. Banchero (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160BOS,1,5:10.0,,,,,,J. Brown,Turnover by J. Brown (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,5:02.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,5:02.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:02.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:52.0,,,,,,M. Brogdon,M. Brogdon misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:51.0,,,,,,M. Fultz,Loose ball foul by M. Fultz (drawn by R. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,4:51.0,,,,,,R. Williams,R. Williams misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:51.0,,,,,,R. Williams,R. Williams makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:44.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:42.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,4:36.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 3 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:15.0,,,,,,T. Ross,Turnover by T. Ross (bad pass; steal by J. Tatum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,4:14.0,,,,,,M. Fultz,Personal foul by M. Fultz (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,4:14.0,,,,,,M. Smart,M. Smart makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:14.0,,,,,,M. Bamba,M. Bamba enters the game for M. Fultz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:14.0,,,,,,F. Wagner,F. Wagner enters the game for M. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:14.0,,,,,,G. Williams,G. Williams enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,4:14.0,,,,,,M. Smart,M. Smart misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:14.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,3:59.0,,,,,,M. Bamba,M. Bamba makes 2-pt dunk at rim (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:50.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:47.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:45.0,,,,,,F. Wagner,Shooting foul by F. Wagner (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,3:45.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:45.0,,,,,,S. Hauser,S. Hauser enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,3:45.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:27.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 26 ft (assist by P. Banchero ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:11.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:07.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,2:57.0,,,,,,P. Banchero,Turnover by P. Banchero (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,2:44.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 2 ft (assist by J. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:31.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:28.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,2:28.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,2:19.0,,,,,,J. Brown,Turnover by J. Brown (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,2:05.0,,,,,,F. Wagner,Turnover by F. Wagner (lost ball; steal by G. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,2:02.0,,,,,,C. Anthony,Shooting foul by C. Anthony (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,2:02.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:02.0,,,,,,B. Griffin,B. Griffin enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,2:02.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:43.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:24.0,,,,,,G. Williams,G. Williams misses 2-pt layup from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:21.0,,,,,,G. Williams,Offensive rebound by G. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:21.0,,,,,,G. Williams,G. Williams makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:05.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:00.0,,,,,,S. Hauser,Defensive rebound by S. Hauser,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,0:49.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:47.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,0:33.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:11.0,,,,,,M. Bamba,Flagrant foul type 1 by M. Bamba (drawn by G. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,0:11.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:11.0,,,,,,G. Williams,G. Williams makes flagrant free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:11.0,,,,,,G. Williams,G. Williams makes flagrant free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:06.0,,,,,,M. Brogdon,M. Brogdon misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:03.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,0:00.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:46.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,11:43.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,11:21.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:59.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:56.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,10:40.0,,,,,,B. Griffin,Shooting foul by B. Griffin (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:40.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:40.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:31.0,,,,,,A. Schofield,Personal foul by A. Schofield (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:26.0,,,,,,M. Brogdon,M. Brogdon misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:24.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:23.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,10:23.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:23.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:23.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:23.0,,,,,,J. Tatum,J. Tatum makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:02.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,10:00.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,9:56.0,,,,,,J. Tatum,Turnover by J. Tatum (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160BOS,1,9:43.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:21.0,,,,,,D. White,D. White makes 2-pt layup from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,9:01.0,,,,,,C. Anthony,C. Anthony makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:43.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:41.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,8:41.0,,,,,,B. Griffin,Loose ball foul by B. Griffin (drawn by A. Schofield ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,8:41.0,,,,,,M. Smart,M. Smart enters the game for B. Griffin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,8:41.0,,,,,,R. Williams,R. Williams enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,8:26.0,,,,,,T. Ross,T. Ross makes 2-pt jump shot from 10 ft (assist by M. Bamba ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:16.0,,,,,,M. Brogdon,M. Brogdon misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:16.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,8:03.0,,,,,,M. Smart,Shooting foul by M. Smart (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,8:03.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,8:03.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:49.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,7:27.0,,,,,,T. Ross,T. Ross misses 2-pt jump shot from 13 ft (block by D. White ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,7:24.0,,,,,,D. White,Defensive rebound by D. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,7:11.0,,,,,,M. Brogdon,M. Brogdon makes 3-pt jump shot from 25 ft (assist by R. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:47.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:47.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:47.0,,,,,,M. Brogdon,Shooting foul by M. Brogdon (drawn by M. Bamba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,6:47.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,6:47.0,,,,,,P. Banchero,P. Banchero enters the game for A. Schofield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:47.0,,,,,,M. Fultz,M. Fultz enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:47.0,,,,,,J. Brown,J. Brown enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,6:47.0,,,,,,M. Bamba,M. Bamba misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:47.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:47.0,,,,,,M. Bamba,M. Bamba makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:33.0,,,,,,M. Smart,M. Smart makes 2-pt hook shot from 10 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:14.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 20 ft (block by M. Brogdon ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160BOS,1,6:12.0,,,,,,P. Banchero,Offensive rebound by P. Banchero,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:11.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:07.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:06.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,6:01.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,5:45.0,,,,,,M. Brogdon,M. Brogdon misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:42.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,5:28.0,,,,,,M. Bamba,M. Bamba makes 3-pt jump shot from 29 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,5:09.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 27 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:40.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:36.0,,,,,,M. Fultz,Offensive rebound by M. Fultz,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:31.0,,,,,,M. Fultz,M. Fultz makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:11.0,,,,,,M. Brogdon,M. Brogdon misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,4:09.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,3:55.0,,,,,,M. Fultz,M. Fultz makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:54.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,3:54.0,,,,,,F. Wagner,F. Wagner enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,3:54.0,,,,,,D. White,D. White enters the game for M. Brogdon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,3:54.0,,,,,,G. Williams,G. Williams enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,3:45.0,,,,,,C. Anthony,Personal foul by C. Anthony (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,3:39.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:35.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,3:22.0,,,,,,M. Fultz,M. Fultz makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:10.0,,,,,,M. Fultz,Personal foul by M. Fultz (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,3:01.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,3:01.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160BOS,1,2:44.0,,,,,,P. Banchero,P. Banchero makes 3-pt jump shot from 23 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:30.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:25.0,,,,,,G. Williams,Offensive rebound by G. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:24.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:22.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,2:04.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,2:01.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,1:54.0,,,,,,J. Tatum,J. Tatum makes 2-pt jump shot from 8 ft (assist by J. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:33.0,,,,,,M. Fultz,Turnover by M. Fultz (bad pass; steal by J. Tatum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,1:31.0,,,,,,P. Banchero,Personal foul by P. Banchero (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,1:31.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:31.0,,,,,,M. Wagner,M. Wagner enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,1:31.0,,,,,,J. Tatum,J. Tatum misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:31.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160BOS,1,1:20.0,,,,,,M. Wagner,M. Wagner makes 2-pt dunk from 1 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:09.0,,,,,,P. Banchero,Shooting foul by P. Banchero (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,1:09.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,1:09.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:57.0,,,,,,M. Fultz,Offensive foul by M. Fultz (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,0:57.0,,,,,,M. Fultz,Turnover by M. Fultz (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160BOS,1,0:57.0,,,,,,K. Harris,K. Harris enters the game for M. Fultz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160BOS,1,0:53.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:44.0,,,,,,P. Banchero,Turnover by P. Banchero (bad pass; steal by D. White ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160BOS,1,0:40.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:37.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:36.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:26.0,,,,,,M. Wagner,M. Wagner makes 2-pt dunk from 1 ft (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:25.0,,,,,,F. Wagner,Personal foul by F. Wagner (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160BOS,1,0:25.0,,,,,,J. Brown,J. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:25.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160BOS,1,0:01.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

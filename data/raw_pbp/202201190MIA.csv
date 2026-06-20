@@ -1,0 +1,439 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202201190MIA,1,11:45.0,,,,,,A. Simons,Turnover by A. Simons (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,11:42.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 4 ft (block by A. Simons ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,11:39.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,11:36.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:14.0,,,,,,B. Adebayo,Turnover by B. Adebayo (off goaltending),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,10:59.0,,,,,,N. Little,N. Little misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:59.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:38.0,,,,,,G. Vincent,G. Vincent misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:35.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:28.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:15.0,,,,,,G. Vincent,G. Vincent makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:15.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by G. Vincent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,10:15.0,,,,,,G. Vincent,G. Vincent misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:13.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:03.0,,,,,,C. McCollum,Turnover by C. McCollum (lost ball; steal by P. Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,10:00.0,,,,,,A. Simons,Personal foul by A. Simons (drawn by G. Vincent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,9:50.0,,,,,,J. Butler,Turnover by J. Butler (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,9:30.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:26.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:26.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,9:11.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:08.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,8:56.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 26 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:33.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 3 ft (block by N. Little ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,8:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:31.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:27.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,8:16.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,8:16.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:16.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:05.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:51.0,,,,,,N. Little,N. Little misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:49.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,7:43.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:38.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,7:35.0,,,,,,A. Simons,Turnover by A. Simons (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,7:22.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 23 ft (assist by G. Vincent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:04.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:02.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,6:52.0,,,,,,J. Butler,J. Butler misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:49.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,6:44.0,,,,,,N. Little,N. Little misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:41.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,6:34.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,6:34.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,6:34.0,,,,,,T. Watford,T. Watford enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,6:34.0,,,,,,B. Adebayo,B. Adebayo misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:34.0,,,,,,B. Adebayo,B. Adebayo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:16.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 24 ft (assist by T. Watford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:57.0,,,,,,P. Tucker,P. Tucker makes 2-pt layup from 2 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:47.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 6 ft (block by D. Robinson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,5:44.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,5:39.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:35.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:24.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:21.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,5:09.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:09.0,,,,,,M. Strus,M. Strus enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,4:48.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 24 ft (assist by J. Butler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:30.0,,,,,,T. Watford,T. Watford misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:27.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,4:21.0,,,,,,A. Simons,Shooting foul by A. Simons (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,4:21.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:21.0,,,,,,C. Elleby,C. Elleby enters the game for N. Little,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,4:21.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,4:15.0,,,,,,C. Elleby,Shooting foul by C. Elleby (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,4:15.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:15.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:05.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 27 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:52.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:49.0,,,,,,M. Strus,Offensive rebound by M. Strus,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:43.0,,,,,,D. Dedmon,D. Dedmon misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:41.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,3:23.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 16 ft (assist by A. Simons ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:57.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 28 ft (assist by P. Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:35.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 28 ft (assist by T. Watford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:18.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:11.0,,,,,,C. Elleby,Defensive rebound by C. Elleby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,2:10.0,,,,,,C. McCollum,C. McCollum misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:08.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,1:59.0,,,,,,P. Tucker,Turnover by P. Tucker (bad pass; steal by C. Elleby ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,1:59.0,,,,,,D. Dedmon,Personal foul by D. Dedmon (drawn by C. Elleby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,1:59.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,1:59.0,,,,,,N. Little,N. Little enters the game for R. Covington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,1:59.0,,,,,,B. McLemore,B. McLemore enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,1:59.0,,,,,,D. Smith,D. Smith enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,1:59.0,,,,,,K. Guy,K. Guy enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,1:59.0,,,,,,C. Martin,C. Martin enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,1:44.0,,,,,,D. Smith,D. Smith makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:22.0,,,,,,K. Guy,K. Guy makes 2-pt jump shot from 18 ft (assist by J. Butler ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:04.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:01.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:50.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt layup from 2 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:50.0,,,,,,C. Elleby,Shooting foul by C. Elleby (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,0:50.0,,,,,,G. Vincent,G. Vincent enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,0:50.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:32.0,,,,,,N. Little,Offensive foul by N. Little (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,0:32.0,,,,,,N. Little,Turnover by N. Little (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201190MIA,1,0:25.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:21.0,,,,,,N. Little,Defensive rebound by N. Little,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:09.0,,,,,,D. Smith,Turnover by D. Smith (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,0:00.0,,,,,,D. Dedmon,Offensive foul by D. Dedmon (drawn by B. McLemore ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,0:00.0,,,,,,D. Dedmon,Turnover by D. Dedmon (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201190MIA,1,11:42.0,,,,,,D. Dedmon,Turnover by D. Dedmon (lost ball; steal by T. Watford ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,11:25.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:22.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,11:08.0,,,,,,C. Martin,C. Martin makes 2-pt jump shot from 11 ft (assist by M. Strus ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:49.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:49.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:36.0,,,,,,M. Strus,M. Strus makes 2-pt layup from 2 ft (assist by C. Martin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:21.0,,,,,,T. Watford,T. Watford makes 2-pt jump shot from 6 ft (assist by D. Smith ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:57.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 27 ft (assist by G. Vincent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:44.0,,,,,,N. Little,N. Little misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:42.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,9:27.0,,,,,,C. Martin,C. Martin misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:25.0,,,,,,D. Dedmon,Offensive rebound by D. Dedmon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:25.0,,,,,,C. Elleby,Personal foul by C. Elleby (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,9:25.0,,,,,,R. Covington,R. Covington enters the game for N. Little,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,9:25.0,,,,,,J. NurkiÄ,J. NurkiÄ enters the game for T. Watford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,9:17.0,,,,,,K. Guy,K. Guy misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:13.0,,,,,,C. Martin,Offensive rebound by C. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:12.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 26 ft (assist by C. Martin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:01.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:57.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,8:48.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 23 ft (assist by D. Dedmon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:46.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,8:46.0,,,,,,C. McCollum,C. McCollum enters the game for C. Elleby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,8:46.0,,,,,,A. Simons,A. Simons enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,8:46.0,,,,,,T. Snell,T. Snell enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,8:39.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,8:34.0,,,,,,R. Covington,Turnover by R. Covington (bad pass; steal by D. Dedmon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,8:28.0,,,,,,C. McCollum,Shooting foul by C. McCollum (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,8:28.0,,,,,,D. Dedmon,D. Dedmon misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:28.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:10.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:06.0,,,,,,T. Snell,Offensive rebound by T. Snell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:00.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 26 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:34.0,,,,,,R. Covington,Personal foul by R. Covington (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,7:34.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,7:20.0,,,,,,C. Martin,C. Martin makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:08.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 27 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:47.0,,,,,,K. Guy,K. Guy misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:45.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,6:40.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 12 ft (assist by A. Simons ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:32.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,6:32.0,,,,,,J. Butler,J. Butler enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,6:20.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 2 ft (assist by K. Guy ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:58.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:57.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,5:39.0,,,,,,K. Guy,K. Guy makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:27.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt hook shot from 4 ft (assist by A. Simons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:10.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:51.0,,,,,,C. McCollum,Turnover by C. McCollum (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,4:39.0,,,,,,B. Adebayo,Turnover by B. Adebayo (lost ball; steal by A. Simons ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,4:34.0,,,,,,T. Snell,T. Snell misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:30.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,4:28.0,,,,,,C. Martin,C. Martin makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:14.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 28 ft (assist by J. NurkiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:56.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:52.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,3:49.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:34.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by J. NurkiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,3:28.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 14 ft (assist by J. NurkiÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:12.0,,,,,,C. Martin,C. Martin misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:08.0,,,,,,T. Snell,Defensive rebound by T. Snell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,2:59.0,,,,,,C. McCollum,Turnover by C. McCollum (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,2:59.0,,,,,,B. McLemore,B. McLemore enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,2:59.0,,,,,,P. Tucker,P. Tucker enters the game for K. Guy,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,2:59.0,,,,,,G. Vincent,G. Vincent enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,2:43.0,,,,,,M. Strus,M. Strus misses 2-pt layup from 2 ft (block by R. Covington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,2:41.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,2:37.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by A. Simons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:37.0,,,,,,A. Simons,A. Simons misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:37.0,,,,,,A. Simons,A. Simons makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:28.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:28.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:28.0,,,,,,J. Butler,Technical foul by J. Butler,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:28.0,,,,,,J. Butler,Technical foul by J. Butler,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:28.0,,,,,,C. Silva,C. Silva enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,2:28.0,,,,,,A. Simons,A. Simons makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:28.0,,,,,,A. Simons,A. Simons makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:28.0,,,,,,J. Butler,J. Butler ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:28.0,,,,,,C. Silva,C. Silva misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:22.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,2:22.0,,,,,,C. Silva,Personal take foul by C. Silva (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:22.0,,,,,,T. Watford,T. Watford enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,2:22.0,,,,,,C. Martin,C. Martin enters the game for C. Silva,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,2:12.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:07.0,,,,,,R. Covington,Offensive rebound by R. Covington,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:05.0,,,,,,C. Martin,Shooting foul by C. Martin (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:05.0,,,,,,R. Covington,R. Covington makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:05.0,,,,,,R. Covington,R. Covington makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:55.0,,,,,,G. Vincent,G. Vincent misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:54.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:52.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:51.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:31.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 27 ft (assist by B. McLemore ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:16.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:12.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,1:00.0,,,,,,A. Simons,A. Simons makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:53.0,,,,,,B. McLemore,Personal foul by B. McLemore (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,0:53.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:53.0,,,,,,B. Adebayo,B. Adebayo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:49.0,,,,,,T. Watford,Defensive rebound by T. Watford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:40.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:36.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:16.0,,,,,,C. Martin,C. Martin makes 3-pt jump shot from 23 ft (assist by P. Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:07.0,,,,,,R. Covington,Turnover by R. Covington (lost ball; steal by P. Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,0:07.0,,,,,,R. Covington,Personal foul by R. Covington (drawn by C. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,0:07.0,,,,,,C. Martin,C. Martin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:07.0,,,,,,D. Smith,D. Smith enters the game for T. Snell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,0:07.0,,,,,,O. Yurtseven,O. Yurtseven enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,0:07.0,,,,,,C. Martin,C. Martin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:00.0,,,,,,D. Smith,D. Smith misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:39.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:35.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,11:22.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:18.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:58.0,,,,,,P. Tucker,P. Tucker misses 2-pt hook shot from 10 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:55.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:40.0,,,,,,T. Snell,T. Snell makes 3-pt jump shot from 25 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:22.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:20.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:08.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,10:03.0,,,,,,P. Tucker,Turnover by P. Tucker (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,9:44.0,,,,,,A. Simons,A. Simons makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:24.0,,,,,,G. Vincent,Turnover by G. Vincent (bad pass; steal by C. McCollum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,9:21.0,,,,,,C. Martin,Personal foul by C. Martin (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,9:15.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt dunk from 1 ft (assist by A. Simons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:54.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:50.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,8:45.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:44.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:44.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:44.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,8:22.0,,,,,,G. Vincent,G. Vincent makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:08.0,,,,,,P. Tucker,Personal foul by P. Tucker (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,7:56.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:53.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,7:51.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by C. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,7:51.0,,,,,,C. Martin,C. Martin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:51.0,,,,,,C. Martin,C. Martin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:36.0,,,,,,R. Covington,R. Covington misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:32.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:32.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:23.0,,,,,,G. Vincent,G. Vincent misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:20.0,,,,,,T. Snell,Defensive rebound by T. Snell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,7:07.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,7:07.0,,,,,,J. NurkiÄ,J. NurkiÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:07.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:53.0,,,,,,C. Martin,C. Martin makes 2-pt layup from 3 ft (assist by G. Vincent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:31.0,,,,,,T. Snell,T. Snell misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:27.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,6:20.0,,,,,,D. Robinson,Turnover by D. Robinson (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,6:00.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (bad pass; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,5:46.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:21.0,,,,,,C. McCollum,C. McCollum misses 2-pt layup from 3 ft (block by B. Adebayo ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,5:18.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,5:16.0,,,,,,C. Martin,C. Martin makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:14.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,5:14.0,,,,,,C. Elleby,C. Elleby enters the game for T. Snell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,5:14.0,,,,,,K. Guy,K. Guy enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,5:00.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:56.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,4:45.0,,,,,,K. Guy,K. Guy misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:40.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:40.0,,,,,,P. Tucker,P. Tucker misses 2-pt layup from 3 ft (block by J. NurkiÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,4:36.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,4:33.0,,,,,,A. Simons,Turnover by A. Simons (bad pass; steal by D. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,4:28.0,,,,,,K. Guy,Turnover by K. Guy (bad pass; steal by C. McCollum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,4:24.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:20.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,4:06.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:04.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,3:53.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:34.0,,,,,,K. Guy,K. Guy misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:32.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,3:22.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,3:22.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:22.0,,,,,,B. McLemore,B. McLemore enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,3:22.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,3:22.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:08.0,,,,,,C. Martin,C. Martin misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:05.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:01.0,,,,,,C. Martin,C. Martin makes 2-pt dunk from 2 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:01.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by C. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,3:01.0,,,,,,T. Watford,T. Watford enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,3:01.0,,,,,,D. Robinson,D. Robinson enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,3:01.0,,,,,,C. Martin,C. Martin makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:45.0,,,,,,R. Covington,Turnover by R. Covington (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,2:40.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:39.0,,,,,,T. Watford,Defensive rebound by T. Watford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,2:27.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 26 ft (assist by C. Elleby ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:03.0,,,,,,C. Martin,C. Martin makes 3-pt jump shot from 25 ft (assist by D. Robinson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:46.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 26 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:39.0,,,,,,B. Adebayo,Turnover by B. Adebayo (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,1:39.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,1:39.0,,,,,,G. Vincent,G. Vincent enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,1:22.0,,,,,,C. Elleby,C. Elleby makes 2-pt layup from 2 ft (assist by A. Simons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:01.0,,,,,,C. Martin,C. Martin misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:58.0,,,,,,B. McLemore,Defensive rebound by B. McLemore,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:43.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:39.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:35.0,,,,,,A. Simons,Shooting foul by A. Simons (drawn by C. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,0:35.0,,,,,,C. Martin,C. Martin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:35.0,,,,,,C. Martin,C. Martin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:14.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:09.0,,,,,,K. Guy,Defensive rebound by K. Guy,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:01.0,,,,,,K. Guy,K. Guy misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:01.0,,,,,,C. Elleby,Defensive rebound by C. Elleby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:00.0,,,,,,C. Elleby,C. Elleby misses 3-pt jump shot from 44 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:47.0,,,,,,D. Smith,D. Smith makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:23.0,,,,,,K. Guy,K. Guy misses 2-pt layup from 3 ft (block by T. Watford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,11:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:21.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,11:14.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,11:09.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,11:01.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt layup from 1 ft (assist by G. Vincent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:37.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:33.0,,,,,,K. Guy,Defensive rebound by K. Guy,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:26.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:23.0,,,,,,T. Snell,Defensive rebound by T. Snell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,10:15.0,,,,,,D. Dedmon,Shooting foul by D. Dedmon (drawn by D. Smith ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,10:15.0,,,,,,D. Smith,D. Smith makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:15.0,,,,,,D. Robinson,D. Robinson enters the game for K. Guy,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,10:15.0,,,,,,D. Smith,D. Smith misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,10:13.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,9:53.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt layup from 1 ft (assist by G. Vincent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:35.0,,,,,,D. Smith,Turnover by D. Smith (lost ball; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,9:32.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt dunk from 1 ft (assist by P. Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:14.0,,,,,,B. McLemore,Turnover by B. McLemore (lost ball; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,9:10.0,,,,,,G. Vincent,G. Vincent misses 2-pt layup from 3 ft (block by D. Smith ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,9:10.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:08.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,9:06.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,8:47.0,,,,,,C. Elleby,C. Elleby misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:43.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,8:39.0,,,,,,T. Snell,Shooting foul by T. Snell (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,8:39.0,,,,,,M. Strus,M. Strus misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:39.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:39.0,,,,,,C. McCollum,C. McCollum enters the game for T. Snell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,8:39.0,,,,,,J. NurkiÄ,J. NurkiÄ enters the game for T. Watford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,8:39.0,,,,,,M. Strus,M. Strus makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:29.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,8:25.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,8:16.0,,,,,,G. Vincent,Turnover by G. Vincent (bad pass; steal by B. McLemore ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,8:16.0,,,,,,M. Strus,Personal foul by M. Strus (drawn by B. McLemore ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,8:02.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:59.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,7:59.0,,,,,,D. Smith,Personal foul by D. Smith (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,7:59.0,,,,,,A. Simons,A. Simons enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,7:47.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:42.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,7:33.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:17.0,,,,,,M. Strus,M. Strus misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:13.0,,,,,,D. Dedmon,Offensive rebound by D. Dedmon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:13.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,7:00.0,,,,,,D. Robinson,Loose ball foul by D. Robinson (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,7:00.0,,,,,,R. Covington,R. Covington enters the game for C. Elleby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,7:00.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,7:00.0,,,,,,C. Martin,C. Martin enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,6:57.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 12 ft (assist by B. McLemore ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:46.0,,,,,,G. Vincent,G. Vincent makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:30.0,,,,,,G. Vincent,Personal foul by G. Vincent (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,6:30.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,6:24.0,,,,,,C. McCollum,Turnover by C. McCollum (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201190MIA,1,6:13.0,,,,,,J. NurkiÄ,Personal foul by J. NurkiÄ (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,6:13.0,,,,,,T. Watford,T. Watford enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,6:10.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,6:09.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,5:46.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:43.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,5:29.0,,,,,,C. Martin,Turnover by C. Martin (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,5:14.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,5:12.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,5:04.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:38.0,,,,,,R. Covington,R. Covington misses 2-pt jump shot from 9 ft (block by B. Adebayo ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,4:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:36.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201190MIA,1,4:22.0,,,,,,T. Watford,Shooting foul by T. Watford (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,4:22.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:22.0,,,,,,J. NurkiÄ,J. NurkiÄ enters the game for T. Watford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,4:22.0,,,,,,B. Adebayo,B. Adebayo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,4:00.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 27 ft (block by M. Strus ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,3:55.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,3:48.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt hook shot from 7 ft (assist by M. Strus ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:46.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,3:46.0,,,,,,D. Smith,D. Smith enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,3:27.0,,,,,,A. Simons,A. Simons misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:26.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:25.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt jump shot from 6 ft (block by G. Vincent ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,3:24.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:14.0,,,,,,A. Simons,A. Simons misses 2-pt layup from 5 ft (block by B. Adebayo ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201190MIA,1,3:12.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,3:12.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:49.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:43.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:34.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 2 ft (assist by G. Vincent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:34.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:34.0,,,,,,B. Adebayo,B. Adebayo misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:31.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,2:27.0,,,,,,P. Tucker,Personal foul by P. Tucker (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,2:27.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:27.0,,,,,,J. NurkiÄ,J. NurkiÄ misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:24.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,2:03.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 28 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,2:01.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,1:47.0,,,,,,R. Covington,R. Covington misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:43.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:43.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:43.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:41.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:41.0,,,,,,R. Covington,Offensive rebound by R. Covington,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:39.0,,,,,,R. Covington,R. Covington misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:37.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,1:25.0,,,,,,D. Smith,Personal foul by D. Smith (drawn by G. Vincent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201190MIA,1,1:25.0,,,,,,G. Vincent,G. Vincent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:25.0,,,,,,G. Vincent,G. Vincent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:17.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,1:14.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:59.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 16 ft (assist by G. Vincent ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:51.0,,,,,,A. Simons,A. Simons makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:40.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:37.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:32.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201190MIA,1,0:29.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201190MIA,1,0:28.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201190MIA,1,0:28.0,,,,,,G. Brown,G. Brown enters the game for R. Covington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,0:28.0,,,,,,C. Elleby,C. Elleby enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,0:28.0,,,,,,B. McLemore,B. McLemore enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,0:28.0,,,,,,T. Watford,T. Watford enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201190MIA,1,0:04.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

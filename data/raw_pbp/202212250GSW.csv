@@ -1,0 +1,496 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202212250GSW,1,11:48.0,,,,,,J. Jackson,J. Jackson makes 2-pt dunk from 5 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:34.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:31.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:30.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:11.0,,,,,,D. Brooks,D. Brooks misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:07.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,11:02.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 20 ft (assist by D. DiVincenzo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:44.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by D. Bane ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,10:44.0,,,,,,D. Bane,D. Bane makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:44.0,,,,,,D. Bane,D. Bane misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:41.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:35.0,,,,,,J. Morant,J. Morant misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:30.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,10:15.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 28 ft (assist by J. Poole ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:04.0,,,,,,S. Adams,S. Adams misses 2-pt layup from 3 ft (block by D. Green ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,10:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:56.0,,,,,,S. Adams,S. Adams misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:53.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,9:46.0,,,,,,J. Poole,Turnover by J. Poole (lost ball; steal by J. Morant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,9:43.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:43.0,,,,,,D. DiVincenzo,Shooting foul by D. DiVincenzo (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,9:43.0,,,,,,J. Morant,J. Morant makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:29.0,,,,,,K. Looney,K. Looney misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:28.0,,,,,,K. Thompson,Offensive rebound by K. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:27.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:26.0,,,,,,K. Thompson,Offensive rebound by K. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:25.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:24.0,,,,,,K. Thompson,Offensive rebound by K. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:22.0,,,,,,D. Bane,Shooting foul by D. Bane (drawn by K. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,9:22.0,,,,,,K. Thompson,K. Thompson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:22.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,9:22.0,,,,,,K. Thompson,K. Thompson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:11.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:08.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:54.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:51.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:34.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:27.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 26 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:06.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:03.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,7:49.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:49.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:49.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:35.0,,,,,,J. Poole,Shooting foul by J. Poole (drawn by D. Brooks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:35.0,,,,,,D. Brooks,D. Brooks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:35.0,,,,,,D. Brooks,D. Brooks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:24.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:14.0,,,,,,D. Green,Turnover by D. Green (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,7:02.0,,,,,,D. Brooks,D. Brooks makes 2-pt layup from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:49.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,6:49.0,,,,,,K. Looney,K. Looney misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:49.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:49.0,,,,,,S. Aldama,S. Aldama enters the game for D. Bane,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,6:49.0,,,,,,J. Konchar,J. Konchar enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,6:49.0,,,,,,K. Looney,K. Looney misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:47.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:41.0,,,,,,J. Konchar,J. Konchar misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:40.0,,,,,,K. Looney,Loose ball foul by K. Looney (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,6:32.0,,,,,,S. Aldama,S. Aldama misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:30.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:23.0,,,,,,J. Poole,J. Poole misses 2-pt dunk from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:22.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:04.0,,,,,,D. Green,Shooting foul by D. Green (drawn by S. Aldama ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,6:04.0,,,,,,S. Aldama,S. Aldama misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:04.0,,,,,,S. Aldama,S. Aldama misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:01.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,5:48.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 26 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:36.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:26.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:16.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:12.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:12.0,,,,,,S. Adams,S. Adams makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:07.0,,,,,,D. Green,D. Green misses 2-pt layup from 3 ft (block by S. Aldama ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,5:04.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,5:02.0,,,,,,D. Brooks,D. Brooks makes 3-pt jump shot from 26 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:58.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,4:58.0,,,,,,B. Clarke,B. Clarke enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:58.0,,,,,,M. Moody,M. Moody enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:58.0,,,,,,J. Wiseman,J. Wiseman enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:38.0,,,,,,M. Moody,M. Moody makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:27.0,,,,,,J. Konchar,J. Konchar misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:24.0,,,,,,M. Moody,Defensive rebound by M. Moody,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,4:19.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:19.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,4:15.0,,,,,,S. Aldama,S. Aldama makes 3-pt jump shot from 24 ft (assist by J. Konchar ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:53.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:38.0,,,,,,D. Brooks,D. Brooks makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:26.0,,,,,,D. Brooks,Personal foul by D. Brooks (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,3:26.0,,,,,,J. Kuminga,J. Kuminga enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,3:19.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:16.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:10.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:08.0,,,,,,D. Green,Technical foul by D. Green,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,3:08.0,,,,,,D. Brooks,D. Brooks misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:08.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:08.0,,,,,,T. Jerome,T. Jerome enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,2:49.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:39.0,,,,,,S. Aldama,S. Aldama misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:36.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,2:30.0,,,,,,B. Clarke,Shooting foul by B. Clarke (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,2:30.0,,,,,,J. Kuminga,J. Kuminga makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:30.0,,,,,,D. Bane,D. Bane enters the game for D. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,2:30.0,,,,,,T. Jones,T. Jones enters the game for J. Morant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,2:30.0,,,,,,J. Kuminga,J. Kuminga misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:27.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,2:10.0,,,,,,D. Bane,D. Bane misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:07.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,2:03.0,,,,,,D. Bane,Personal foul by D. Bane (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,2:03.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:03.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:47.0,,,,,,T. Jones,T. Jones misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:46.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:36.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:33.0,,,,,,D. Bane,Defensive rebound by D. Bane,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:26.0,,,,,,S. Aldama,S. Aldama misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:24.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:18.0,,,,,,J. Poole,Turnover by J. Poole (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,1:05.0,,,,,,J. Wiseman,Shooting foul by J. Wiseman (drawn by B. Clarke ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,1:05.0,,,,,,B. Clarke,B. Clarke misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:05.0,,,,,,K. Thompson,K. Thompson enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,1:05.0,,,,,,B. Clarke,B. Clarke makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:51.0,,,,,,T. Jerome,T. Jerome makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:33.0,,,,,,D. Bane,D. Bane misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:29.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:12.0,,,,,,J. Kuminga,J. Kuminga misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:09.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:01.0,,,,,,T. Jones,T. Jones makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:49.0,,,,,,D. Green,Turnover by D. Green (bad pass; steal by B. Clarke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,11:42.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:38.0,,,,,,A. Lamb,Defensive rebound by A. Lamb,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,11:28.0,,,,,,K. Thompson,K. Thompson misses 2-pt dunk from 3 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,11:26.0,,,,,,Z. Williams,Defensive rebound by Z. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,11:20.0,,,,,,D. Bane,D. Bane misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:18.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,11:05.0,,,,,,A. Lamb,A. Lamb makes 3-pt jump shot from 26 ft (assist by K. Thompson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:44.0,,,,,,B. Clarke,B. Clarke misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:41.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,10:34.0,,,,,,A. Lamb,A. Lamb makes 3-pt jump shot from 23 ft (assist by J. Kuminga ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:32.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,10:13.0,,,,,,J. Jackson,J. Jackson makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:46.0,,,,,,T. Jerome,T. Jerome misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:43.0,,,,,,J. Kuminga,Offensive rebound by J. Kuminga,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:41.0,,,,,,J. Kuminga,Turnover by J. Kuminga (bad pass; steal by J. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,9:37.0,,,,,,D. Bane,D. Bane makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:18.0,,,,,,D. Green,D. Green makes 3-pt jump shot from 26 ft (assist by J. Kuminga ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:03.0,,,,,,Z. Williams,Z. Williams misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:00.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:55.0,,,,,,Z. Williams,Shooting foul by Z. Williams (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,8:55.0,,,,,,J. Kuminga,J. Kuminga makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:55.0,,,,,,J. Kuminga,J. Kuminga misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:52.0,,,,,,Z. Williams,Defensive rebound by Z. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:47.0,,,,,,Z. Williams,Z. Williams misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:45.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:38.0,,,,,,J. Kuminga,Turnover by J. Kuminga (bad pass; steal by T. Jones ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,8:27.0,,,,,,B. Clarke,B. Clarke makes 2-pt jump shot from 19 ft (assist by T. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:12.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:09.0,,,,,,K. Thompson,Offensive rebound by K. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:09.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:53.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:49.0,,,,,,A. Lamb,Defensive rebound by A. Lamb,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,7:42.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:39.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,7:24.0,,,,,,J. Jackson,Offensive foul by J. Jackson (drawn by A. Lamb ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:24.0,,,,,,J. Jackson,Turnover by J. Jackson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212250GSW,1,7:24.0,,,,,,S. Aldama,S. Aldama enters the game for D. Bane,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:24.0,,,,,,D. Brooks,D. Brooks enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:24.0,,,,,,J. Morant,J. Morant enters the game for T. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:24.0,,,,,,D. DiVincenzo,D. DiVincenzo enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:24.0,,,,,,K. Looney,K. Looney enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:10.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:07.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:50.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:34.0,,,,,,A. Lamb,A. Lamb makes 3-pt jump shot from 27 ft (assist by K. Thompson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:23.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:21.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:09.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 2-pt jump shot from 18 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:07.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,6:07.0,,,,,,S. Adams,S. Adams enters the game for B. Clarke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,6:07.0,,,,,,M. Moody,M. Moody enters the game for T. Jerome,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,6:07.0,,,,,,J. Poole,J. Poole enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,5:52.0,,,,,,D. Brooks,Turnover by D. Brooks (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,5:29.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 18 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:14.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:52.0,,,,,,J. Poole,Turnover by J. Poole (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,4:52.0,,,,,,J. Konchar,J. Konchar enters the game for Z. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:36.0,,,,,,J. Morant,J. Morant makes 3-pt jump shot from 26 ft (assist by S. Aldama ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:27.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,4:27.0,,,,,,D. Green,D. Green enters the game for A. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:27.0,,,,,,K. Thompson,K. Thompson enters the game for M. Moody,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:15.0,,,,,,K. Looney,K. Looney misses 2-pt layup from 5 ft (block by S. Adams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,4:12.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,4:08.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:46.0,,,,,,D. Green,D. Green misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:44.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:44.0,,,,,,S. Adams,Shooting foul by S. Adams (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,3:44.0,,,,,,K. Looney,K. Looney misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:44.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:44.0,,,,,,K. Looney,K. Looney makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:32.0,,,,,,D. Green,Shooting foul by D. Green (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,3:32.0,,,,,,J. Morant,J. Morant misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:32.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:32.0,,,,,,A. Lamb,A. Lamb enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,3:32.0,,,,,,J. Morant,J. Morant misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:29.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:23.0,,,,,,D. Brooks,Personal foul by D. Brooks (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,3:10.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:06.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:02.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 3 ft (assist by D. Brooks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:53.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 29 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:44.0,,,,,,J. Konchar,J. Konchar misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:41.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,2:28.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:26.0,,,,,,S. Aldama,Defensive rebound by S. Aldama,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,2:22.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 22 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:11.0,,,,,,D. Brooks,Personal foul by D. Brooks (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,2:11.0,,,,,,T. Jones,T. Jones enters the game for S. Aldama,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,2:11.0,,,,,,Z. Williams,Z. Williams enters the game for D. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,2:06.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 2-pt layup from 5 ft (assist by A. Lamb ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:53.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by A. Lamb ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,1:41.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:37.0,,,,,,T. Jones,Defensive rebound by T. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:31.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:29.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:23.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:21.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:00.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:58.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:56.0,,,,,,T. Jones,Personal foul by T. Jones (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,0:56.0,,,,,,J. Poole,J. Poole makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:56.0,,,,,,K. Looney,K. Looney enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,0:40.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 27 ft (block by J. Konchar ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,0:35.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:33.0,,,,,,J. Morant,J. Morant misses 2-pt dunk from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:33.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:27.0,,,,,,T. Jones,T. Jones makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:26.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:09.0,,,,,,J. Poole,Turnover by J. Poole (lost ball; steal by J. Konchar ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,0:04.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by T. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,0:04.0,,,,,,J. Poole,Technical foul by J. Poole,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,0:04.0,,,,,,T. Jones,T. Jones makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:04.0,,,,,,T. Jones,T. Jones makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:04.0,,,,,,T. Jones,T. Jones makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:04.0,,,,,,B. Clarke,B. Clarke enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,0:04.0,,,,,,T. Jones,T. Jones makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:49.0,,,,,,J. Jackson,Personal foul by J. Jackson (drawn by D. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,11:49.0,,,,,,S. Aldama,S. Aldama enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,11:42.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 25 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:26.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:23.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:22.0,,,,,,D. Brooks,D. Brooks misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:19.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:19.0,,,,,,S. Adams,S. Adams misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:19.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,11:11.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 10 ft (assist by D. Green ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:09.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,11:01.0,,,,,,K. Looney,Personal foul by K. Looney (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,10:56.0,,,,,,D. DiVincenzo,Shooting foul by D. DiVincenzo (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,10:56.0,,,,,,J. Morant,J. Morant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:56.0,,,,,,J. Morant,J. Morant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:37.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:34.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,10:20.0,,,,,,S. Aldama,S. Aldama makes 3-pt jump shot from 23 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:04.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 26 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:55.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:52.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:52.0,,,,,,S. Adams,S. Adams misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:52.0,,,,,,K. Looney,Loose ball foul by K. Looney (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,9:47.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 4 ft (assist by S. Adams ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:47.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,9:35.0,,,,,,K. Thompson,K. Thompson makes 2-pt jump shot from 18 ft (assist by D. DiVincenzo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:12.0,,,,,,D. Brooks,Turnover by D. Brooks (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,9:03.0,,,,,,J. Poole,Turnover by J. Poole (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,8:51.0,,,,,,S. Aldama,Offensive foul by S. Aldama (drawn by D. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,8:51.0,,,,,,S. Aldama,Turnover by S. Aldama (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212250GSW,1,8:41.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 23 ft (block by D. Bane ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,8:38.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:30.0,,,,,,S. Aldama,S. Aldama misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:28.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:28.0,,,,,,D. Brooks,Loose ball foul by D. Brooks (drawn by D. DiVincenzo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,8:28.0,,,,,,J. Konchar,J. Konchar enters the game for D. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,8:18.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 28 ft (assist by J. Poole ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:57.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:56.0,,,,,,K. Looney,Loose ball foul by K. Looney (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:49.0,,,,,,S. Aldama,S. Aldama makes 3-pt jump shot from 25 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:38.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:38.0,,,,,,S. Adams,Shooting foul by S. Adams (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:38.0,,,,,,A. Lamb,A. Lamb enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:38.0,,,,,,J. Poole,J. Poole misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:35.0,,,,,,A. Lamb,Offensive rebound by A. Lamb,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:32.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:29.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,7:19.0,,,,,,S. Adams,S. Adams makes 2-pt hook shot from 6 ft (assist by S. Aldama ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:10.0,,,,,,S. Aldama,Shooting foul by S. Aldama (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:10.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:10.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:08.0,,,,,,A. Lamb,Personal foul by A. Lamb (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:08.0,,,,,,D. Bane,D. Bane makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:08.0,,,,,,S. Kerr,Technical foul by S. Kerr,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:08.0,,,,,,D. Bane,D. Bane makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:06.0,,,,,,A. Lamb,Personal take foul by A. Lamb (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:06.0,,,,,,S. Adams,S. Adams makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:06.0,,,,,,S. Adams,S. Adams makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:48.0,,,,,,J. Poole,J. Poole misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:46.0,,,,,,S. Aldama,Defensive rebound by S. Aldama,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:42.0,,,,,,J. Konchar,J. Konchar misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:40.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:33.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:22.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:19.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:18.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:18.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:08.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:04.0,,,,,,D. Bane,Defensive rebound by D. Bane,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:01.0,,,,,,D. Bane,D. Bane makes 2-pt layup from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:01.0,,,,,,A. Lamb,Shooting foul by A. Lamb (drawn by D. Bane ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,6:01.0,,,,,,D. Bane,D. Bane makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:51.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:48.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,5:42.0,,,,,,D. Bane,D. Bane misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:39.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,5:37.0,,,,,,J. Poole,J. Poole makes 2-pt dunk from 5 ft (assist by D. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:37.0,,,,,,Z. Williams,Z. Williams enters the game for D. Bane,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,5:16.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:05.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:01.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,4:52.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:44.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,4:44.0,,,,,,T. Jerome,T. Jerome enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:44.0,,,,,,J. Kuminga,J. Kuminga enters the game for A. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:35.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 29 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:20.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:17.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,4:12.0,,,,,,T. Jerome,T. Jerome makes 2-pt jump shot from 14 ft (assist by D. Green ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:54.0,,,,,,J. Konchar,J. Konchar misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:53.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:53.0,,,,,,Z. Williams,Loose ball foul by Z. Williams (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,3:53.0,,,,,,J. Kuminga,J. Kuminga misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:53.0,,,,,,B. Clarke,B. Clarke enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,3:53.0,,,,,,J. Wiseman,J. Wiseman enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,3:53.0,,,,,,J. Kuminga,J. Kuminga makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:41.0,,,,,,Z. Williams,Z. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:37.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:30.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 23 ft (assist by K. Thompson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:17.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:14.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:05.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:04.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,3:04.0,,,,,,J. Jackson,J. Jackson enters the game for S. Aldama,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,3:04.0,,,,,,M. Moody,M. Moody enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,2:53.0,,,,,,Z. Williams,Z. Williams misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:50.0,,,,,,J. Jackson,Offensive rebound by J. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:43.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:42.0,,,,,,B. Clarke,Offensive rebound by B. Clarke,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:41.0,,,,,,B. Clarke,B. Clarke makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:29.0,,,,,,J. Jackson,Personal foul by J. Jackson (drawn by K. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,2:29.0,,,,,,K. Thompson,K. Thompson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:29.0,,,,,,T. Jones,T. Jones enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,2:29.0,,,,,,K. Thompson,K. Thompson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:09.0,,,,,,J. Morant,Turnover by J. Morant (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,1:49.0,,,,,,J. Konchar,Shooting foul by J. Konchar (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,1:49.0,,,,,,J. Kuminga,J. Kuminga makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:49.0,,,,,,J. Kuminga,J. Kuminga makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:29.0,,,,,,J. Konchar,J. Konchar misses 2-pt layup from 6 ft (block by J. Kuminga ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,1:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:27.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:22.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:16.0,,,,,,M. Moody,M. Moody makes 2-pt layup from 4 ft (assist by J. Kuminga ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:04.0,,,,,,Z. Williams,Z. Williams makes 3-pt jump shot from 28 ft (assist by B. Clarke ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:41.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:38.0,,,,,,Z. Williams,Defensive rebound by Z. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:34.0,,,,,,J. Morant,Turnover by J. Morant (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,0:34.0,,,,,,J. Poole,J. Poole enters the game for J. Wiseman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,0:25.0,,,,,,T. Jerome,T. Jerome makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:05.0,,,,,,J. Kuminga,Shooting foul by J. Kuminga (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,0:05.0,,,,,,J. Kuminga,Technical foul by J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,0:05.0,,,,,,T. Jones,T. Jones makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:05.0,,,,,,J. Morant,J. Morant misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:05.0,,,,,,J. Morant,J. Morant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:01.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 37 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:47.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by D. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,11:40.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:37.0,,,,,,T. Jerome,Offensive rebound by T. Jerome,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:26.0,,,,,,T. Jerome,T. Jerome makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:14.0,,,,,,D. Brooks,Turnover by D. Brooks (bad pass; steal by T. Jerome ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,11:08.0,,,,,,T. Jerome,T. Jerome misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,11:04.0,,,,,,D. Bane,Defensive rebound by D. Bane,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,10:55.0,,,,,,B. Clarke,B. Clarke makes 2-pt jump shot from 11 ft (assist by T. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:36.0,,,,,,J. Kuminga,J. Kuminga makes 2-pt dunk from 4 ft (assist by D. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:13.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:11.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,10:06.0,,,,,,M. Moody,M. Moody makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,10:06.0,,,,,,D. Bane,Shooting foul by D. Bane (drawn by M. Moody ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,10:06.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,10:06.0,,,,,,J. Jackson,J. Jackson enters the game for T. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,10:06.0,,,,,,M. Moody,M. Moody makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:51.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:48.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,9:31.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:29.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,9:22.0,,,,,,J. Jackson,J. Jackson makes 3-pt jump shot from 28 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:20.0,,,,,,J. Poole,Technical foul by J. Poole,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,9:20.0,,,,,,J. Poole,J. Poole ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:20.0,,,,,,D. Bane,D. Bane makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,9:20.0,,,,,,K. Thompson,K. Thompson enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,9:05.0,,,,,,M. Moody,M. Moody makes 3-pt jump shot from 26 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:49.0,,,,,,B. Clarke,B. Clarke makes 2-pt layup from 4 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:33.0,,,,,,M. Moody,M. Moody misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:29.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:21.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,8:17.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,8:10.0,,,,,,J. Kuminga,Turnover by J. Kuminga (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,7:57.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by D. Brooks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,7:57.0,,,,,,D. Brooks,D. Brooks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:57.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,7:57.0,,,,,,D. DiVincenzo,D. DiVincenzo enters the game for T. Jerome,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:57.0,,,,,,A. Lamb,A. Lamb enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,7:57.0,,,,,,D. Brooks,D. Brooks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:44.0,,,,,,M. Moody,M. Moody misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:43.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,7:40.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:36.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,7:18.0,,,,,,M. Moody,M. Moody misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,7:14.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,7:08.0,,,,,,D. Brooks,Turnover by D. Brooks (bad pass; steal by A. Lamb ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,6:58.0,,,,,,A. Lamb,A. Lamb makes 2-pt layup from 5 ft (assist by D. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:36.0,,,,,,J. Morant,J. Morant misses 2-pt layup from 5 ft (block by D. Green ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,6:33.0,,,,,,M. Moody,Defensive rebound by M. Moody,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:31.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,6:30.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,6:30.0,,,,,,M. Moody,Loose ball foul by M. Moody (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,6:30.0,,,,,,T. Jones,T. Jones enters the game for D. Bane,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,6:30.0,,,,,,K. Looney,K. Looney enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,6:12.0,,,,,,D. Brooks,D. Brooks makes 2-pt jump shot from 7 ft (assist by T. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:51.0,,,,,,A. Lamb,A. Lamb misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:47.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,5:47.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by D. DiVincenzo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,5:43.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:39.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,5:36.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:13.0,,,,,,K. Looney,K. Looney makes 2-pt dunk from 5 ft (assist by K. Thompson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,5:04.0,,,,,,D. Brooks,D. Brooks misses 2-pt layup from 6 ft (block by A. Lamb ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,5:02.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,4:55.0,,,,,,J. Morant,Personal foul by J. Morant (drawn by K. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,4:55.0,,,,,,D. Green,D. Green enters the game for A. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:40.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:37.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,4:27.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212250GSW,1,4:21.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 4 ft (assist by D. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,4:21.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,4:21.0,,,,,,T. Jerome,T. Jerome enters the game for M. Moody,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212250GSW,1,4:00.0,,,,,,J. Morant,J. Morant makes 3-pt jump shot from 26 ft (assist by T. Jones ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:43.0,,,,,,K. Thompson,K. Thompson makes 2-pt jump shot from 20 ft (assist by D. Green ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:41.0,,,,,,K. Thompson,Technical foul by K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,3:41.0,,,,,,T. Jones,T. Jones makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:28.0,,,,,,J. Jackson,J. Jackson misses 2-pt layup from 9 ft (block by K. Looney ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,3:26.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,3:20.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 24 ft (assist by T. Jerome ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,3:08.0,,,,,,J. Jackson,J. Jackson makes 2-pt jump shot from 5 ft (assist by T. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:50.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup from 5 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212250GSW,1,2:48.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,2:45.0,,,,,,T. Jones,T. Jones makes 3-pt jump shot from 23 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:43.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212250GSW,1,2:19.0,,,,,,T. Jerome,T. Jerome misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:19.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,2:14.0,,,,,,J. Morant,J. Morant misses 2-pt layup from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,2:10.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:47.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:47.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:47.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,1:36.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:33.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,1:19.0,,,,,,D. Brooks,Personal foul by D. Brooks (drawn by D. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212250GSW,1,1:13.0,,,,,,K. Thompson,K. Thompson makes 2-pt jump shot from 19 ft (assist by D. DiVincenzo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:06.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,1:03.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:46.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:43.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:35.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 4 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:17.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:12.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212250GSW,1,0:08.0,,,,,,D. Brooks,Turnover by D. Brooks (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212250GSW,1,0:08.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:08.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212250GSW,1,0:08.0,,,,,,K. Thompson,K. Thompson makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False

@@ -1,0 +1,444 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202203260CLE,1,11:45.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:42.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,11:39.0,,,,,,D. DeRozan,Personal foul by D. DeRozan (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,11:29.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by I. Okoro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,11:29.0,,,,,,I. Okoro,I. Okoro misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:29.0,,,,,,I. Okoro,I. Okoro makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:15.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 10 ft (assist by A. Dosunmu ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:52.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 4 ft (assist by E. Mobley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:35.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 23 ft (assist by A. Dosunmu ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:19.0,,,,,,E. Mobley,E. Mobley makes 2-pt layup from 1 ft (assist by C. LeVert ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:01.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 23 ft (assist by A. Dosunmu ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:40.0,,,,,,E. Mobley,E. Mobley misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:37.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,9:31.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup from 1 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:16.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:14.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,8:59.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 2 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:37.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:34.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,8:25.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:21.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,8:13.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:57.0,,,,,,D. DeRozan,Turnover by D. DeRozan (bad pass; steal by L. Markkanen ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,7:50.0,,,,,,I. Okoro,Offensive foul by I. Okoro (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,7:50.0,,,,,,I. Okoro,Turnover by I. Okoro (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203260CLE,1,7:36.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:22.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:20.0,,,,,,L. Markkanen,Offensive rebound by L. Markkanen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:16.0,,,,,,C. LeVert,Turnover by C. LeVert (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,6:58.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:57.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,6:57.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,6:41.0,,,,,,E. Mobley,Turnover by E. Mobley (bad pass; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,6:39.0,,,,,,C. LeVert,Personal foul by C. LeVert (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,6:32.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:28.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,6:22.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 25 ft (assist by D. Garland ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:55.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt layup from 7 ft (block by L. Markkanen ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203260CLE,1,5:54.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,5:54.0,,,,,,A. Dosunmu,Personal foul by A. Dosunmu (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,5:54.0,,,,,,C. Osman,C. Osman enters the game for D. Garland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,5:35.0,,,,,,C. Osman,C. Osman misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:32.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,5:24.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 3-pt jump shot from 26 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:08.0,,,,,,C. LeVert,C. LeVert makes 2-pt layup from 1 ft (assist by E. Mobley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:01.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:34.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:31.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,4:18.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup from 2 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:18.0,,,,,,E. Mobley,Shooting foul by E. Mobley (drawn by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,4:18.0,,,,,,J. Green,J. Green enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:18.0,,,,,,C. White,C. White enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:18.0,,,,,,K. Love,K. Love enters the game for E. Mobley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:18.0,,,,,,L. Stevens,L. Stevens enters the game for I. Okoro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:18.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:03.0,,,,,,K. Love,K. Love misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:00.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:52.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:49.0,,,,,,K. Love,Defensive rebound by K. Love,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:42.0,,,,,,K. Love,K. Love misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:39.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:36.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,3:36.0,,,,,,D. Garland,D. Garland enters the game for C. LeVert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,3:28.0,,,,,,C. White,C. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:25.0,,,,,,K. Love,Defensive rebound by K. Love,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:13.0,,,,,,L. Markkanen,Turnover by L. Markkanen (bad pass; steal by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,2:56.0,,,,,,J. Green,J. Green makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:32.0,,,,,,D. Garland,D. Garland makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:18.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:16.0,,,,,,C. Osman,Defensive rebound by C. Osman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,2:04.0,,,,,,L. Markkanen,L. Markkanen misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:02.0,,,,,,L. Stevens,Offensive rebound by L. Stevens,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:01.0,,,,,,L. Stevens,L. Stevens makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:49.0,,,,,,C. Osman,Personal foul by C. Osman (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,1:49.0,,,,,,A. Caruso,A. Caruso enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:49.0,,,,,,D. DeRozan,D. DeRozan enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:49.0,,,,,,T. Thompson,T. Thompson enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:49.0,,,,,,E. Mobley,E. Mobley enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:37.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:34.0,,,,,,D. Garland,Defensive rebound by D. Garland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,1:27.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:24.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,1:16.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:15.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:14.0,,,,,,T. Thompson,T. Thompson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:59.0,,,,,,C. Osman,Turnover by C. Osman (bad pass; steal by A. Caruso ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,0:45.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:22.0,,,,,,D. Garland,D. Garland misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:19.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,0:01.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:01.0,,,,,,D. Garland,Defensive rebound by D. Garland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,11:48.0,,,,,,L. Stevens,L. Stevens makes 2-pt jump shot from 21 ft (assist by D. Garland ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:28.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:25.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,11:18.0,,,,,,E. Mobley,E. Mobley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:17.0,,,,,,L. Markkanen,Offensive rebound by L. Markkanen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:17.0,,,,,,L. Markkanen,L. Markkanen misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:17.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,10:58.0,,,,,,D. DeRozan,Turnover by D. DeRozan (bad pass; steal by L. Markkanen ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,10:52.0,,,,,,L. Stevens,Turnover by L. Stevens (lost ball; steal by C. White ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,10:51.0,,,,,,D. Garland,Personal foul by D. Garland (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,10:51.0,,,,,,P. Williams,P. Williams enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,10:42.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 18 ft (assist by A. Caruso ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:42.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,10:42.0,,,,,,D. DeRozan,D. DeRozan misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:40.0,,,,,,K. Love,Defensive rebound by K. Love,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,10:28.0,,,,,,D. DeRozan,Personal foul by D. DeRozan (drawn by K. Love ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,10:20.0,,,,,,K. Love,Turnover by K. Love (bad pass; steal by T. Thompson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,10:17.0,,,,,,T. Thompson,T. Thompson makes 2-pt layup from 1 ft (assist by P. Williams ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:17.0,,,,,,K. Love,Shooting foul by K. Love (drawn by T. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,10:17.0,,,,,,I. Okoro,I. Okoro enters the game for K. Love,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,10:17.0,,,,,,T. Thompson,T. Thompson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:57.0,,,,,,E. Mobley,E. Mobley misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:54.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,9:34.0,,,,,,T. Thompson,T. Thompson misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:30.0,,,,,,D. Garland,Defensive rebound by D. Garland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,9:23.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:20.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,9:12.0,,,,,,C. White,C. White misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:09.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,9:06.0,,,,,,D. Garland,D. Garland makes 2-pt jump shot from 5 ft (assist by L. Markkanen ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:06.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,9:06.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,9:06.0,,,,,,D. Windler,D. Windler enters the game for L. Stevens,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,8:45.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:42.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,8:37.0,,,,,,L. Markkanen,Offensive foul by L. Markkanen (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,8:37.0,,,,,,L. Markkanen,Turnover by L. Markkanen (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203260CLE,1,8:20.0,,,,,,P. Williams,P. Williams misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:18.0,,,,,,T. Thompson,Offensive rebound by T. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:18.0,,,,,,T. Thompson,T. Thompson misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:16.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,8:10.0,,,,,,D. Garland,D. Garland makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:55.0,,,,,,D. DeRozan,Offensive foul by D. DeRozan (drawn by I. Okoro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,7:55.0,,,,,,D. DeRozan,Turnover by D. DeRozan (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203260CLE,1,7:55.0,,,,,,A. Caruso,A. Caruso enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,7:55.0,,,,,,Z. LaVine,Z. LaVine enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,7:40.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:37.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,7:18.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt jump shot from 16 ft (assist by T. Thompson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:55.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:53.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,6:41.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt layup at rim (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:41.0,,,,,,D. Windler,Shooting foul by D. Windler (drawn by A. Dosunmu ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,6:41.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for T. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,6:41.0,,,,,,C. LeVert,C. LeVert enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,6:41.0,,,,,,K. Love,K. Love enters the game for D. Windler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,6:41.0,,,,,,A. Dosunmu,A. Dosunmu makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:24.0,,,,,,A. Dosunmu,Shooting foul by A. Dosunmu (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,6:24.0,,,,,,D. Garland,D. Garland makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:24.0,,,,,,D. Garland,D. Garland makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:00.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,6:00.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:44.0,,,,,,C. LeVert,C. LeVert misses 2-pt jump shot from 1 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:43.0,,,,,,C. LeVert,Offensive rebound by C. LeVert,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:38.0,,,,,,K. Love,K. Love misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:37.0,,,,,,E. Mobley,Offensive rebound by E. Mobley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:37.0,,,,,,E. Mobley,E. Mobley misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:36.0,,,,,,E. Mobley,Offensive rebound by E. Mobley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:36.0,,,,,,E. Mobley,E. Mobley misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:35.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,5:18.0,,,,,,P. Williams,P. Williams makes 2-pt jump shot from 18 ft (assist by N. VuÄeviÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:04.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:04.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,4:59.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 1 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:59.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,4:42.0,,,,,,A. Dosunmu,Shooting foul by A. Dosunmu (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,4:42.0,,,,,,D. Garland,D. Garland makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:42.0,,,,,,C. White,C. White enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:42.0,,,,,,D. Garland,D. Garland makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:28.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:26.0,,,,,,L. Markkanen,L. Markkanen enters the game for E. Mobley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:14.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,4:14.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:14.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:03.0,,,,,,D. Garland,D. Garland misses 2-pt layup from 1 ft (block by N. VuÄeviÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203260CLE,1,4:02.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:56.0,,,,,,N. VuÄeviÄ,Turnover by N. VuÄeviÄ (lost ball; steal by D. Garland ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,3:50.0,,,,,,D. Garland,D. Garland misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:48.0,,,,,,L. Markkanen,Offensive rebound by L. Markkanen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:48.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:43.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt dunk from 2 ft (assist by A. Caruso ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:28.0,,,,,,K. Love,K. Love misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:28.0,,,,,,D. Garland,Offensive rebound by D. Garland,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:22.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:19.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:09.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 6 ft (block by K. Love ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202203260CLE,1,3:08.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,2:57.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,2:57.0,,,,,,D. Garland,D. Garland makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:57.0,,,,,,D. Garland,D. Garland makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:44.0,,,,,,P. Williams,Turnover by P. Williams (bad pass; steal by C. LeVert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,2:35.0,,,,,,K. Love,K. Love misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:35.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,2:35.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,2:35.0,,,,,,E. Mobley,E. Mobley enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,2:14.0,,,,,,P. Williams,P. Williams makes 2-pt layup from 2 ft (assist by N. VuÄeviÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:49.0,,,,,,E. Mobley,E. Mobley makes 2-pt jump shot from 16 ft (assist by K. Love ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:27.0,,,,,,C. White,C. White misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:25.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,1:15.0,,,,,,E. Mobley,E. Mobley misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:14.0,,,,,,J. Green,J. Green enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:11.0,,,,,,D. Garland,D. Garland makes 2-pt jump shot from 10 ft (assist by I. Okoro ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:56.0,,,,,,P. Williams,P. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:54.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:54.0,,,,,,J. Green,J. Green makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:54.0,,,,,,E. Mobley,Shooting foul by E. Mobley (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,0:54.0,,,,,,J. Green,J. Green makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:29.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:27.0,,,,,,P. Williams,Defensive rebound by P. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,0:19.0,,,,,,K. Love,Shooting foul by K. Love (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,0:19.0,,,,,,T. Thompson,T. Thompson enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,0:19.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:19.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:03.0,,,,,,J. Green,Shooting foul by J. Green (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,0:03.0,,,,,,C. LeVert,C. LeVert misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:03.0,,,,,,C. White,C. White enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,0:03.0,,,,,,L. Stevens,L. Stevens enters the game for K. Love,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,0:03.0,,,,,,C. LeVert,C. LeVert makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:00.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 38 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:38.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt jump shot from 7 ft (assist by E. Mobley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:13.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:11.0,,,,,,A. Caruso,Offensive rebound by A. Caruso,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:11.0,,,,,,A. Caruso,A. Caruso makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:56.0,,,,,,A. Caruso,Shooting foul by A. Caruso (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,10:56.0,,,,,,C. LeVert,C. LeVert misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:56.0,,,,,,C. LeVert,C. LeVert misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:53.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,10:38.0,,,,,,Z. LaVine,Turnover by Z. LaVine (bad pass; steal by D. Garland ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,10:30.0,,,,,,C. LeVert,C. LeVert makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:11.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:09.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,9:54.0,,,,,,I. Okoro,I. Okoro makes 3-pt jump shot from 23 ft (assist by C. LeVert ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:37.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt dunk at rim (assist by D. DeRozan ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:27.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,9:27.0,,,,,,L. Markkanen,L. Markkanen makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:27.0,,,,,,L. Markkanen,L. Markkanen makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:18.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:16.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,9:06.0,,,,,,E. Mobley,E. Mobley makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:41.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:39.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,8:32.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:28.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,8:21.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,8:21.0,,,,,,A. Caruso,A. Caruso makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:21.0,,,,,,L. Stevens,L. Stevens enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,8:21.0,,,,,,A. Caruso,A. Caruso makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:05.0,,,,,,E. Mobley,E. Mobley misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:03.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,7:55.0,,,,,,L. Stevens,Shooting foul by L. Stevens (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,7:55.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:55.0,,,,,,D. DeRozan,D. DeRozan makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:40.0,,,,,,D. Garland,D. Garland misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:37.0,,,,,,I. Okoro,Offensive rebound by I. Okoro,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:32.0,,,,,,L. Stevens,L. Stevens misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:28.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,7:28.0,,,,,,A. Dosunmu,Turnover by A. Dosunmu (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,7:04.0,,,,,,L. Stevens,L. Stevens makes 3-pt jump shot from 23 ft (assist by E. Mobley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:38.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:36.0,,,,,,A. Caruso,Offensive rebound by A. Caruso,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:36.0,,,,,,A. Caruso,A. Caruso misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:35.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,6:26.0,,,,,,L. Stevens,L. Stevens makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:03.0,,,,,,A. Dosunmu,A. Dosunmu misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:03.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,5:49.0,,,,,,E. Mobley,E. Mobley misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:48.0,,,,,,E. Mobley,Offensive rebound by E. Mobley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:48.0,,,,,,E. Mobley,Turnover by E. Mobley (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,5:48.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,5:38.0,,,,,,C. LeVert,Personal foul by C. LeVert (drawn by A. Caruso ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,5:23.0,,,,,,A. Caruso,A. Caruso makes 3-pt jump shot from 24 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:00.0,,,,,,I. Okoro,I. Okoro makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:45.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:43.0,,,,,,N. VuÄeviÄ,Offensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:42.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:28.0,,,,,,D. Garland,D. Garland misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:26.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,4:22.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt layup from 1 ft (assist by D. DeRozan ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:22.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,4:22.0,,,,,,J. Green,J. Green enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:22.0,,,,,,C. White,C. White enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:22.0,,,,,,K. Love,K. Love enters the game for C. LeVert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:22.0,,,,,,D. Windler,D. Windler enters the game for E. Mobley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:08.0,,,,,,D. Garland,D. Garland misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:05.0,,,,,,D. Windler,Offensive rebound by D. Windler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:03.0,,,,,,K. Love,K. Love makes 3-pt jump shot from 24 ft (assist by L. Stevens ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:40.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:38.0,,,,,,D. Windler,Defensive rebound by D. Windler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:25.0,,,,,,K. Love,K. Love misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:24.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:24.0,,,,,,D. Windler,Loose ball foul by D. Windler (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,3:12.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt layup from 2 ft (block by I. Okoro ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203260CLE,1,3:10.0,,,,,,D. Windler,Defensive rebound by D. Windler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:01.0,,,,,,J. Green,Shooting foul by J. Green (drawn by D. Windler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,3:01.0,,,,,,D. Windler,D. Windler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:01.0,,,,,,D. Windler,D. Windler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:52.0,,,,,,L. Stevens,Personal foul by L. Stevens (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,2:52.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:52.0,,,,,,D. DeRozan,D. DeRozan makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:42.0,,,,,,J. Green,Personal foul by J. Green (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,2:42.0,,,,,,A. Caruso,A. Caruso enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,2:31.0,,,,,,D. Garland,Turnover by D. Garland (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,2:21.0,,,,,,J. Green,Turnover by J. Green (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,2:21.0,,,,,,E. Mobley,E. Mobley enters the game for I. Okoro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:57.0,,,,,,E. Mobley,E. Mobley misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:53.0,,,,,,K. Love,Offensive rebound by K. Love,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:51.0,,,,,,K. Love,K. Love makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:51.0,,,,,,T. Thompson,T. Thompson enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:51.0,,,,,,C. LeVert,C. LeVert enters the game for D. Garland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,1:31.0,,,,,,K. Love,Shooting foul by K. Love (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,1:31.0,,,,,,J. Green,J. Green makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:31.0,,,,,,J. Green,J. Green makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:11.0,,,,,,L. Stevens,L. Stevens misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:10.0,,,,,,L. Stevens,Offensive rebound by L. Stevens,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:10.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,1:04.0,,,,,,T. Thompson,Shooting foul by T. Thompson (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,1:04.0,,,,,,C. LeVert,C. LeVert makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:04.0,,,,,,C. LeVert,C. LeVert misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:01.0,,,,,,A. Caruso,Defensive rebound by A. Caruso,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,0:51.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:47.0,,,,,,D. Windler,Defensive rebound by D. Windler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,0:40.0,,,,,,C. LeVert,Turnover by C. LeVert (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,0:40.0,,,,,,I. Okoro,I. Okoro enters the game for D. Windler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,0:32.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 23 ft (assist by A. Caruso ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:25.0,,,,,,L. Stevens,L. Stevens makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:08.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:05.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,0:00.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:48.0,,,,,,C. White,Turnover by C. White (bad pass; steal by L. Stevens ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,11:44.0,,,,,,C. White,Shooting foul by C. White (drawn by L. Stevens ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,11:44.0,,,,,,L. Stevens,L. Stevens makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:44.0,,,,,,L. Stevens,L. Stevens makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:28.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:09.0,,,,,,C. LeVert,C. LeVert misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,11:09.0,,,,,,T. Thompson,Defensive rebound by T. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,10:59.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:55.0,,,,,,D. Garland,Defensive rebound by D. Garland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,10:49.0,,,,,,D. Garland,D. Garland makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:26.0,,,,,,L. Stevens,Shooting foul by L. Stevens (drawn by T. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,10:26.0,,,,,,T. Thompson,T. Thompson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:26.0,,,,,,T. Thompson,T. Thompson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,10:24.0,,,,,,L. Stevens,Defensive rebound by L. Stevens,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,10:14.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 1 ft (assist by D. Garland ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:48.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:28.0,,,,,,A. Caruso,Personal foul by A. Caruso (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,9:28.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for A. Caruso,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,9:19.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 7 ft (assist by D. Garland ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,9:04.0,,,,,,C. White,Turnover by C. White (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,8:54.0,,,,,,D. DeRozan,Personal foul by D. DeRozan (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,8:39.0,,,,,,C. LeVert,C. LeVert makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:39.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,8:39.0,,,,,,J. Green,J. Green enters the game for T. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,8:39.0,,,,,,Z. LaVine,Z. LaVine enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,8:39.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for P. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,8:23.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 13 ft (assist by N. VuÄeviÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,8:07.0,,,,,,J. Green,Shooting foul by J. Green (drawn by C. LeVert ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,7:56.0,,,,,,D. Garland,D. Garland makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:41.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 15 ft (assist by A. Dosunmu ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:25.0,,,,,,C. LeVert,C. LeVert makes 3-pt jump shot from 25 ft (assist by L. Markkanen ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:03.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,7:00.0,,,,,,C. LeVert,Defensive rebound by C. LeVert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,6:45.0,,,,,,L. Stevens,L. Stevens misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:42.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,6:36.0,,,,,,D. DeRozan,Turnover by D. DeRozan (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,6:36.0,,,,,,I. Okoro,I. Okoro enters the game for D. Windler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,6:19.0,,,,,,D. Garland,D. Garland misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:15.0,,,,,,I. Okoro,Offensive rebound by I. Okoro,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:02.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,6:00.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,5:49.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:47.0,,,,,,L. Stevens,Defensive rebound by L. Stevens,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,5:35.0,,,,,,C. LeVert,C. LeVert makes 2-pt dunk from 1 ft (assist by D. Garland ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,5:09.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:52.0,,,,,,D. Garland,D. Garland makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:51.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,4:51.0,,,,,,A. Caruso,A. Caruso enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,4:51.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:38.0,,,,,,D. DeRozan,D. DeRozan misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:35.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,4:16.0,,,,,,D. Garland,D. Garland misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,4:15.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:53.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,3:53.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:53.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:44.0,,,,,,D. DeRozan,Shooting foul by D. DeRozan (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,3:44.0,,,,,,L. Markkanen,L. Markkanen makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:44.0,,,,,,L. Markkanen,L. Markkanen misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:44.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,3:24.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:10.0,,,,,,L. Stevens,L. Stevens misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,3:07.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,2:54.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt layup from 1 ft (assist by N. VuÄeviÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:52.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,2:52.0,,,,,,E. Mobley,E. Mobley enters the game for L. Stevens,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,2:44.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:42.0,,,,,,D. Garland,Offensive rebound by D. Garland,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:38.0,,,,,,D. Garland,Turnover by D. Garland (bad pass; steal by Z. LaVine ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,2:17.0,,,,,,A. Caruso,A. Caruso misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,2:16.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,2:06.0,,,,,,C. LeVert,Turnover by C. LeVert (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,1:47.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:36.0,,,,,,C. LeVert,C. LeVert misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:33.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,1:12.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt layup from 1 ft (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:10.0,,,,,,A. Dosunmu,Personal foul by A. Dosunmu (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,1:10.0,,,,,,D. Garland,D. Garland makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:10.0,,,,,,D. Garland,D. Garland makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,1:00.0,,,,,,Z. LaVine,Turnover by Z. LaVine (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203260CLE,1,0:55.0,,,,,,D. Garland,D. Garland makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:42.0,,,,,,I. Okoro,Personal foul by I. Okoro (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,0:38.0,,,,,,L. Markkanen,Personal foul by L. Markkanen (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,0:38.0,,,,,,L. Stevens,L. Stevens enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,0:38.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:38.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:31.0,,,,,,D. Garland,D. Garland makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:29.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,0:29.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,0:24.0,,,,,,L. Stevens,Personal foul by L. Stevens (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,0:24.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:24.0,,,,,,Z. LaVine,Z. LaVine misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:23.0,,,,,,E. Mobley,Defensive rebound by E. Mobley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203260CLE,1,0:16.0,,,,,,E. Mobley,E. Mobley makes 3-pt jump shot from 26 ft (assist by C. LeVert ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:09.0,,,,,,N. VuÄeviÄ,Turnover by N. VuÄeviÄ (lost ball; steal by E. Mobley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203260CLE,1,0:09.0,,,,,,,Cleveland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203260CLE,1,0:09.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:09.0,,,,,,J. Green,J. Green enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,0:06.0,,,,,,A. Dosunmu,Shooting foul by A. Dosunmu (drawn by D. Garland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203260CLE,1,0:06.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203260CLE,1,0:06.0,,,,,,D. Garland,D. Garland misses free throw 1 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:06.0,,,,,,D. Garland,D. Garland makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:06.0,,,,,,D. Garland,D. Garland misses free throw 3 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203260CLE,1,0:06.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

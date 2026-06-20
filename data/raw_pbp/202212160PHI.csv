@@ -1,0 +1,454 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202212160PHI,1,11:45.0,,,,,,J. Harden,J. Harden misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:43.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:31.0,,,,,,J. Kuminga,J. Kuminga makes 2-pt jump shot from 18 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:17.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:14.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:00.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 28 ft (assist by D. DiVincenzo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:44.0,,,,,,J. Embiid,Turnover by J. Embiid (bad pass; steal by K. Thompson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,10:35.0,,,,,,K. Looney,K. Looney makes 2-pt layup from 2 ft (assist by J. Poole ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:18.0,,,,,,P. Tucker,P. Tucker makes 3-pt jump shot from 24 ft (assist by D. Melton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:01.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:38.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:34.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,9:29.0,,,,,,K. Thompson,Turnover by K. Thompson (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,9:11.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:08.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,9:02.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:47.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 1 ft (assist by J. Embiid ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:35.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:33.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,8:24.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:09.0,,,,,,K. Looney,K. Looney makes 2-pt layup from 2 ft (assist by J. Kuminga ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:54.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:48.0,,,,,,J. Embiid,Offensive rebound by J. Embiid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:48.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:38.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 29 ft (assist by J. Poole ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:27.0,,,,,,J. Harden,J. Harden misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:25.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,7:21.0,,,,,,D. DiVincenzo,Turnover by D. DiVincenzo (bad pass; steal by J. Embiid ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,7:04.0,,,,,,J. Kuminga,Shooting foul by J. Kuminga (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,7:04.0,,,,,,J. Harden,J. Harden makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:04.0,,,,,,D. House,D. House enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,7:04.0,,,,,,J. Harden,J. Harden makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:53.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 21 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:38.0,,,,,,D. House,D. House misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:34.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:34.0,,,,,,P. Tucker,P. Tucker makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:19.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by J. Kuminga ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:17.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,5:59.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:45.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:39.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:34.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:30.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:23.0,,,,,,J. Kuminga,Turnover by J. Kuminga (bad pass; steal by J. Embiid ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,5:18.0,,,,,,J. Embiid,Turnover by J. Embiid (lost ball; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,5:15.0,,,,,,J. Poole,Turnover by J. Poole (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,4:58.0,,,,,,K. Looney,Personal foul by K. Looney (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,4:46.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:30.0,,,,,,J. Kuminga,J. Kuminga makes 3-pt jump shot from 27 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:06.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:41.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:39.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,3:33.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:33.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:33.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,3:33.0,,,,,,J. Green,J. Green enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,3:33.0,,,,,,T. Jerome,T. Jerome enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,3:33.0,,,,,,A. Lamb,A. Lamb enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,3:33.0,,,,,,S. Milton,S. Milton enters the game for D. Melton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,3:33.0,,,,,,G. Niang,G. Niang enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,3:22.0,,,,,,A. Lamb,A. Lamb makes 3-pt jump shot from 26 ft (assist by T. Jerome ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:03.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 26 ft (assist by J. Embiid ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:51.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:51.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:51.0,,,,,,J. Harden,Shooting foul by J. Harden (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,2:51.0,,,,,,J. Green,J. Green makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:51.0,,,,,,M. Moody,M. Moody enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,2:51.0,,,,,,J. Green,J. Green misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:49.0,,,,,,D. House,Defensive rebound by D. House,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:39.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:39.0,,,,,,J. Green,Shooting foul by J. Green (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,2:39.0,,,,,,J. Embiid,J. Embiid misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:37.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:19.0,,,,,,A. Lamb,A. Lamb makes 3-pt jump shot from 29 ft (assist by M. Moody ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:02.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:00.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,1:52.0,,,,,,A. Lamb,A. Lamb misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:49.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:42.0,,,,,,T. Jerome,T. Jerome makes 2-pt jump shot from 3 ft (assist by M. Moody ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:21.0,,,,,,J. Embiid,J. Embiid misses 2-pt layup from 2 ft (block by A. Lamb ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,1:18.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,1:12.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 3-pt jump shot from 28 ft (assist by J. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:52.0,,,,,,D. House,D. House makes 3-pt jump shot from 25 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:36.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:33.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,0:26.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:02.0,,,,,,T. Jerome,T. Jerome misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:02.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:45.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:41.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:34.0,,,,,,S. Milton,S. Milton misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:32.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:23.0,,,,,,T. Jerome,T. Jerome misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:21.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:18.0,,,,,,D. Melton,Turnover by D. Melton (lost ball; steal by J. Poole ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,11:09.0,,,,,,M. Moody,M. Moody makes 3-pt jump shot from 25 ft (assist by T. Jerome ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:41.0,,,,,,M. Harrell,M. Harrell misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:38.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,10:29.0,,,,,,A. Lamb,A. Lamb misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:27.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:25.0,,,,,,J. Green,Turnover by J. Green (lost ball; steal by D. Melton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,10:22.0,,,,,,T. Jerome,Shooting foul by T. Jerome (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,10:22.0,,,,,,S. Milton,S. Milton misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:22.0,,,,,,M. Thybulle,M. Thybulle enters the game for D. House,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,10:22.0,,,,,,S. Milton,S. Milton misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:20.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,10:12.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:09.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,9:58.0,,,,,,D. Melton,D. Melton misses 2-pt layup from 6 ft (block by A. Lamb ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,9:53.0,,,,,,A. Lamb,Defensive rebound by A. Lamb,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,9:45.0,,,,,,A. Lamb,Turnover by A. Lamb (lost ball; steal by G. Niang ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,9:29.0,,,,,,S. Milton,S. Milton makes 3-pt jump shot from 25 ft (assist by D. Melton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:12.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:09.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,9:06.0,,,,,,S. Milton,Turnover by S. Milton (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,9:06.0,,,,,,J. Wiseman,J. Wiseman enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,8:59.0,,,,,,D. Melton,Personal foul by D. Melton (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,8:50.0,,,,,,J. Poole,J. Poole misses 2-pt layup from 4 ft (block by M. Harrell ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,8:45.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,8:36.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:33.0,,,,,,A. Lamb,Defensive rebound by A. Lamb,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,8:24.0,,,,,,M. Moody,M. Moody misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:22.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,8:10.0,,,,,,D. Melton,D. Melton makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:49.0,,,,,,T. Jerome,T. Jerome makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:31.0,,,,,,A. Lamb,Personal foul by A. Lamb (drawn by D. Melton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,7:31.0,,,,,,J. Kuminga,J. Kuminga enters the game for A. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,7:25.0,,,,,,M. Thybulle,M. Thybulle misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:22.0,,,,,,G. Niang,G. Niang misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:18.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,7:17.0,,,,,,J. Wiseman,Turnover by J. Wiseman (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,7:17.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,7:17.0,,,,,,D. DiVincenzo,D. DiVincenzo enters the game for T. Jerome,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,7:17.0,,,,,,K. Thompson,K. Thompson enters the game for M. Moody,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,7:17.0,,,,,,J. Embiid,J. Embiid enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,7:12.0,,,,,,J. Embiid,Turnover by J. Embiid (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,7:04.0,,,,,,J. Wiseman,J. Wiseman makes 2-pt dunk from 1 ft (assist by J. Poole ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:02.0,,,,,,G. Niang,Turnover by G. Niang (inbound),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,7:01.0,,,,,,J. Wiseman,Offensive foul by J. Wiseman (drawn by M. Thybulle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,7:01.0,,,,,,J. Wiseman,Turnover by J. Wiseman (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160PHI,1,7:01.0,,,,,,J. Harden,J. Harden enters the game for S. Milton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,6:46.0,,,,,,J. Wiseman,Shooting foul by J. Wiseman (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,6:46.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:46.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:24.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:21.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,6:14.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:12.0,,,,,,D. Melton,Offensive rebound by D. Melton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:10.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:06.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:48.0,,,,,,J. Kuminga,J. Kuminga misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:44.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:36.0,,,,,,J. Embiid,J. Embiid misses 2-pt layup from 2 ft (block by K. Thompson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,5:33.0,,,,,,M. Thybulle,Offensive rebound by M. Thybulle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:32.0,,,,,,M. Thybulle,M. Thybulle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:29.0,,,,,,J. Embiid,Offensive rebound by J. Embiid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:29.0,,,,,,J. Wiseman,Shooting foul by J. Wiseman (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,5:29.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:29.0,,,,,,K. Looney,K. Looney enters the game for J. Wiseman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:29.0,,,,,,S. Milton,S. Milton enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:29.0,,,,,,P. Tucker,P. Tucker enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:29.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:13.0,,,,,,J. Kuminga,J. Kuminga makes 2-pt dunk at rim (assist by K. Looney ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:58.0,,,,,,J. Embiid,Turnover by J. Embiid (lost ball; steal by K. Thompson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,4:53.0,,,,,,J. Kuminga,J. Kuminga misses 2-pt layup from 4 ft (block by S. Milton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,4:50.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,4:46.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:38.0,,,,,,S. Milton,Personal foul by S. Milton (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,4:30.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:16.0,,,,,,S. Milton,S. Milton misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:14.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,3:58.0,,,,,,J. Harden,Shooting foul by J. Harden (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,3:58.0,,,,,,K. Looney,K. Looney makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:58.0,,,,,,K. Looney,K. Looney makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:47.0,,,,,,D. DiVincenzo,Personal foul by D. DiVincenzo (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,3:47.0,,,,,,S. Milton,S. Milton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:47.0,,,,,,S. Milton,S. Milton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:36.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:32.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,3:13.0,,,,,,D. Melton,D. Melton misses 2-pt layup from 2 ft (block by K. Looney ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,3:13.0,,,,,,J. Embiid,Offensive rebound by J. Embiid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:13.0,,,,,,K. Looney,Shooting foul by K. Looney (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,3:13.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:13.0,,,,,,J. Embiid,J. Embiid misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:08.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:58.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:57.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:57.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,2:43.0,,,,,,J. Embiid,Turnover by J. Embiid (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,2:27.0,,,,,,K. Looney,K. Looney misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:26.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:16.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:12.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:04.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 27 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:47.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:44.0,,,,,,J. Harden,Offensive rebound by J. Harden,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:36.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,1:36.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:36.0,,,,,,G. Niang,G. Niang enters the game for S. Milton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,1:36.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:26.0,,,,,,J. Harden,Shooting foul by J. Harden (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,1:26.0,,,,,,S. Milton,S. Milton enters the game for J. Harden,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,1:26.0,,,,,,J. Poole,J. Poole misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:26.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:10.0,,,,,,D. Melton,D. Melton makes 3-pt jump shot from 23 ft (assist by J. Embiid ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:59.0,,,,,,J. Poole,Turnover by J. Poole (lost ball; steal by D. Melton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,0:48.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 10 ft (assist by S. Milton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:33.0,,,,,,K. Looney,K. Looney makes 2-pt layup from 2 ft (assist by D. DiVincenzo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:13.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:10.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,0:00.0,,,,,,J. Poole,J. Poole misses 2-pt layup from 4 ft (block by J. Embiid ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,0:00.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:49.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:45.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:36.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 18 ft (assist by J. Harden ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:12.0,,,,,,J. Kuminga,J. Kuminga misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:09.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,10:56.0,,,,,,J. Embiid,J. Embiid makes 3-pt jump shot from 27 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:39.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 26 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:17.0,,,,,,J. Harden,Turnover by J. Harden (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,10:11.0,,,,,,S. Milton,Personal foul by S. Milton (drawn by K. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,10:02.0,,,,,,K. Thompson,Turnover by K. Thompson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,9:55.0,,,,,,J. Poole,Personal foul by J. Poole (drawn by D. Melton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,9:46.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:42.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,9:37.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:30.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:30.0,,,,,,K. Looney,K. Looney makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:26.0,,,,,,J. Poole,Personal foul by J. Poole (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,9:17.0,,,,,,D. Melton,D. Melton makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:04.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:45.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:44.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,8:37.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 27 ft (assist by D. DiVincenzo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:36.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,8:16.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 28 ft (assist by D. Melton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:47.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:45.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:45.0,,,,,,K. Looney,K. Looney makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:18.0,,,,,,D. Melton,D. Melton makes 3-pt jump shot from 28 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:00.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:57.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,6:54.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:51.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,6:44.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:40.0,,,,,,D. DiVincenzo,Offensive rebound by D. DiVincenzo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:38.0,,,,,,J. Kuminga,J. Kuminga misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:37.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,6:32.0,,,,,,J. Embiid,J. Embiid makes 3-pt jump shot from 27 ft (assist by D. Melton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:31.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,6:21.0,,,,,,D. Melton,Shooting foul by D. Melton (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,6:21.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:21.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:06.0,,,,,,J. Harden,J. Harden makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:54.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:50.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:46.0,,,,,,J. Embiid,Turnover by J. Embiid (lost ball; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,5:45.0,,,,,,D. DiVincenzo,D. DiVincenzo makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:24.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:20.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:20.0,,,,,,P. Tucker,P. Tucker makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:09.0,,,,,,K. Thompson,Turnover by K. Thompson (bad pass; steal by S. Milton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,4:53.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:50.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,4:43.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:42.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,4:37.0,,,,,,S. Milton,S. Milton makes 2-pt layup from 1 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:11.0,,,,,,J. Kuminga,J. Kuminga misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:10.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,4:06.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,4:06.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:06.0,,,,,,J. Green,J. Green enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,4:06.0,,,,,,T. Jerome,T. Jerome enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,4:06.0,,,,,,A. Lamb,A. Lamb enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,4:06.0,,,,,,G. Niang,G. Niang enters the game for J. Harden,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,4:06.0,,,,,,M. Thybulle,M. Thybulle enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,4:06.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:45.0,,,,,,J. Green,Turnover by J. Green (lost ball; steal by J. Embiid ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,3:39.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 2 ft (assist by J. Embiid ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:39.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,3:39.0,,,,,,M. Moody,M. Moody enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,3:29.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:26.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,3:17.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:13.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,3:05.0,,,,,,T. Jerome,T. Jerome misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:00.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:40.0,,,,,,S. Milton,S. Milton makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:27.0,,,,,,J. Poole,J. Poole misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:25.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:11.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 3 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:56.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 2 ft (assist by J. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:42.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:38.0,,,,,,M. Moody,Defensive rebound by M. Moody,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,1:34.0,,,,,,J. Green,Turnover by J. Green (bad pass; steal by S. Milton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,1:29.0,,,,,,G. Niang,G. Niang makes 3-pt jump shot from 27 ft (assist by S. Milton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:06.0,,,,,,T. Jerome,T. Jerome makes 3-pt jump shot from 23 ft (assist by J. Poole ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:46.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:44.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,0:39.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:30.0,,,,,,J. Embiid,J. Embiid misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:28.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,0:05.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 25 ft (block by M. Thybulle ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,0:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:05.0,,,,,,M. Harrell,M. Harrell enters the game for J. Embiid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,0:04.0,,,,,,J. Poole,Turnover by J. Poole (bad pass; steal by G. Niang ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,0:00.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:41.0,,,,,,D. House,D. House misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:37.0,,,,,,T. Jerome,Defensive rebound by T. Jerome,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,11:26.0,,,,,,J. Wiseman,J. Wiseman makes 2-pt jump shot from 19 ft (assist by T. Jerome ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,11:10.0,,,,,,M. Thybulle,M. Thybulle makes 3-pt jump shot from 25 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:55.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:52.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,10:33.0,,,,,,G. Niang,G. Niang makes 2-pt jump shot from 17 ft (assist by J. Harden ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:18.0,,,,,,M. Moody,M. Moody misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:15.0,,,,,,J. Wiseman,Offensive rebound by J. Wiseman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:12.0,,,,,,M. Moody,M. Moody misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:09.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,10:02.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,10:02.0,,,,,,J. Harden,J. Harden misses free throw 1 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:02.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:02.0,,,,,,J. Harden,J. Harden makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,10:02.0,,,,,,J. Harden,J. Harden makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:45.0,,,,,,T. Jerome,T. Jerome misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:41.0,,,,,,M. Moody,Offensive rebound by M. Moody,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:39.0,,,,,,A. Lamb,A. Lamb misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:37.0,,,,,,M. Thybulle,Loose ball foul by M. Thybulle (drawn by M. Moody ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,9:28.0,,,,,,T. Jerome,T. Jerome misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:26.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,9:12.0,,,,,,A. Lamb,Shooting foul by A. Lamb (drawn by G. Niang ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,9:12.0,,,,,,G. Niang,G. Niang makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:12.0,,,,,,G. Niang,G. Niang makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:12.0,,,,,,G. Niang,G. Niang makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:03.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,9:00.0,,,,,,A. Lamb,Offensive rebound by A. Lamb,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:59.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 26 ft (assist by A. Lamb ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,8:46.0,,,,,,J. Harden,Turnover by J. Harden (palming),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,8:46.0,,,,,,D. DiVincenzo,D. DiVincenzo enters the game for M. Moody,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,8:33.0,,,,,,K. Thompson,Turnover by K. Thompson (bad pass; steal by M. Thybulle ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,8:24.0,,,,,,J. Harden,Turnover by J. Harden (bad pass; steal by K. Thompson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,8:15.0,,,,,,T. Jerome,T. Jerome makes 2-pt layup from 1 ft (assist by D. DiVincenzo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:57.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:54.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,7:48.0,,,,,,J. Wiseman,J. Wiseman makes 2-pt dunk from 1 ft (assist by D. DiVincenzo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:48.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,7:30.0,,,,,,G. Niang,G. Niang makes 3-pt jump shot from 25 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:13.0,,,,,,A. Lamb,A. Lamb misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:10.0,,,,,,D. DiVincenzo,Offensive rebound by D. DiVincenzo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:04.0,,,,,,T. Jerome,T. Jerome misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,7:02.0,,,,,,M. Thybulle,Defensive rebound by M. Thybulle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,6:57.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:54.0,,,,,,J. Wiseman,Defensive rebound by J. Wiseman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,6:44.0,,,,,,J. Wiseman,J. Wiseman misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:42.0,,,,,,D. House,Defensive rebound by D. House,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,6:34.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:31.0,,,,,,M. Harrell,Offensive rebound by M. Harrell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,6:23.0,,,,,,G. Niang,Turnover by G. Niang (bad pass; steal by T. Jerome ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,6:16.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 24 ft (assist by T. Jerome ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:57.0,,,,,,G. Niang,G. Niang misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:56.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:49.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:46.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:44.0,,,,,,D. House,D. House makes 2-pt dunk from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:44.0,,,,,,A. Lamb,Shooting foul by A. Lamb (drawn by D. House ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,5:44.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,5:44.0,,,,,,J. Kuminga,J. Kuminga enters the game for T. Jerome,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:44.0,,,,,,K. Looney,K. Looney enters the game for A. Lamb,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:44.0,,,,,,J. Poole,J. Poole enters the game for J. Wiseman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:44.0,,,,,,J. Embiid,J. Embiid enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:44.0,,,,,,D. Melton,D. Melton enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:44.0,,,,,,P. Tucker,P. Tucker enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:44.0,,,,,,D. House,D. House makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:31.0,,,,,,J. Poole,Turnover by J. Poole (bad pass; steal by J. Embiid ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,5:22.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:19.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,5:06.0,,,,,,D. House,Shooting foul by D. House (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,5:06.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,5:06.0,,,,,,S. Milton,S. Milton enters the game for D. House,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,5:06.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:43.0,,,,,,J. Harden,J. Harden misses 2-pt layup from 2 ft (block by K. Looney ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,4:40.0,,,,,,D. DiVincenzo,Defensive rebound by D. DiVincenzo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,4:40.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 1 ft (assist by D. DiVincenzo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:21.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 2 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:21.0,,,,,,K. Looney,Shooting foul by K. Looney (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,4:21.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:13.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,4:09.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,3:49.0,,,,,,J. Harden,Turnover by J. Harden (lost ball; steal by D. DiVincenzo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160PHI,1,3:45.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:43.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,3:40.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:36.0,,,,,,D. Melton,Offensive rebound by D. Melton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:34.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:22.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 12 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:22.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,3:13.0,,,,,,J. Kuminga,Personal foul by J. Kuminga (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,3:13.0,,,,,,J. Harden,J. Harden misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,3:13.0,,,,,,J. Harden,J. Harden makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:49.0,,,,,,K. Looney,K. Looney misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:47.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,2:43.0,,,,,,J. Embiid,J. Embiid makes 2-pt dunk from 1 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:42.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,2:31.0,,,,,,D. DiVincenzo,D. DiVincenzo misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:28.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:26.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 3 ft (assist by K. Looney ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:26.0,,,,,,J. Harden,Shooting foul by J. Harden (drawn by K. Thompson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,2:26.0,,,,,,K. Thompson,K. Thompson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:24.0,,,,,,P. Tucker,Offensive foul by P. Tucker (drawn by D. DiVincenzo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,2:24.0,,,,,,P. Tucker,Turnover by P. Tucker (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160PHI,1,2:19.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,2:16.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,1:57.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:55.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,1:55.0,,,,,,P. Tucker,Loose ball foul by P. Tucker (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,1:42.0,,,,,,K. Looney,K. Looney makes 2-pt dunk at rim (assist by J. Kuminga ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:37.0,,,,,,D. DiVincenzo,Personal foul by D. DiVincenzo (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,1:37.0,,,,,,S. Milton,S. Milton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:37.0,,,,,,S. Milton,S. Milton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:27.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:23.0,,,,,,D. DiVincenzo,Offensive rebound by D. DiVincenzo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:22.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:22.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,1:20.0,,,,,,D. DiVincenzo,Loose ball foul by D. DiVincenzo (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,1:20.0,,,,,,J. Harden,J. Harden makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,1:20.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160PHI,1,1:20.0,,,,,,P. Baldwin,P. Baldwin enters the game for D. DiVincenzo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,1:20.0,,,,,,A. Lamb,A. Lamb enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,1:20.0,,,,,,M. Moody,M. Moody enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,1:20.0,,,,,,R. Rollins,R. Rollins enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,1:20.0,,,,,,J. Wiseman,J. Wiseman enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,1:20.0,,,,,,J. Harden,J. Harden makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:59.0,,,,,,R. Rollins,R. Rollins misses 2-pt layup from 3 ft (block by J. Embiid ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,0:59.0,,,,,,R. Rollins,Offensive rebound by R. Rollins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:59.0,,,,,,R. Rollins,Turnover by R. Rollins (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160PHI,1,0:59.0,,,,,,G. Niang,G. Niang enters the game for J. Embiid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,0:59.0,,,,,,P. Reed,P. Reed enters the game for J. Harden,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,0:59.0,,,,,,M. Thybulle,M. Thybulle enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160PHI,1,0:39.0,,,,,,G. Niang,G. Niang misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:37.0,,,,,,P. Reed,Offensive rebound by P. Reed,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:36.0,,,,,,P. Reed,P. Reed misses 2-pt layup from 3 ft (block by R. Rollins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160PHI,1,0:35.0,,,,,,R. Rollins,Defensive rebound by R. Rollins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160PHI,1,0:35.0,,,,,,P. Reed,Personal foul by P. Reed (drawn by R. Rollins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160PHI,1,0:35.0,,,,,,R. Rollins,R. Rollins makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:35.0,,,,,,R. Rollins,R. Rollins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:16.0,,,,,,P. Reed,P. Reed makes 2-pt hook shot from 3 ft (assist by S. Milton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:06.0,,,,,,J. Wiseman,J. Wiseman misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160PHI,1,0:02.0,,,,,,P. Reed,Defensive rebound by P. Reed,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

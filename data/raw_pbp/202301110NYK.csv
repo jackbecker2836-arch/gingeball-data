@@ -1,0 +1,457 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202301110NYK,1,11:50.0,,,,,,J. Johnson,J. Johnson misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:48.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,11:42.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 25 ft (assist by J. Randle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:25.0,,,,,,B. Hield,B. Hield misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:23.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,11:11.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:09.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,11:00.0,,,,,,A. Nembhard,A. Nembhard makes 3-pt jump shot from 25 ft (assist by J. Johnson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:32.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:21.0,,,,,,T. Haliburton,Turnover by T. Haliburton (bad pass; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,10:14.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:12.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,10:07.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:05.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:55.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:54.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:53.0,,,,,,J. Johnson,Shooting foul by J. Johnson (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,9:53.0,,,,,,M. Robinson,M. Robinson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:53.0,,,,,,M. Robinson,M. Robinson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:31.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:08.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:06.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:01.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:35.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 23 ft (assist by J. Brunson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:26.0,,,,,,A. Nembhard,A. Nembhard makes 2-pt layup from 2 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:10.0,,,,,,M. Robinson,M. Robinson makes 2-pt dunk from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:00.0,,,,,,J. Smith,J. Smith misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:58.0,,,,,,J. Brunson,Defensive rebound by J. Brunson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,7:46.0,,,,,,J. Brunson,J. Brunson makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:33.0,,,,,,J. Smith,J. Smith misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:31.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,7:21.0,,,,,,J. Randle,Turnover by J. Randle (lost ball; steal by J. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,7:17.0,,,,,,Q. Grimes,Shooting foul by Q. Grimes (drawn by J. Smith ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,7:17.0,,,,,,J. Smith,J. Smith misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:17.0,,,,,,J. Smith,J. Smith makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:06.0,,,,,,J. Brunson,J. Brunson makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:06.0,,,,,,A. Nembhard,Shooting foul by A. Nembhard (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,7:06.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,7:06.0,,,,,,J. Brunson,J. Brunson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:52.0,,,,,,J. Smith,J. Smith misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:50.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,6:43.0,,,,,,J. Randle,Turnover by J. Randle (bad pass; steal by J. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,6:39.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 25 ft (assist by A. Nembhard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:16.0,,,,,,J. Brunson,J. Brunson makes 3-pt jump shot from 23 ft (assist by Q. Grimes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:09.0,,,,,,A. Nembhard,A. Nembhard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:07.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,6:00.0,,,,,,J. Brunson,J. Brunson misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:58.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,5:48.0,,,,,,J. Smith,J. Smith makes 2-pt layup from 1 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:31.0,,,,,,J. Brunson,J. Brunson makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:18.0,,,,,,T. Haliburton,T. Haliburton misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:16.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,5:14.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:12.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,5:06.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:04.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:45.0,,,,,,J. Brunson,J. Brunson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:36.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:34.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:23.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:23.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,4:23.0,,,,,,I. Jackson,I. Jackson enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,4:23.0,,,,,,B. Mathurin,B. Mathurin enters the game for J. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,4:23.0,,,,,,T. McConnell,T. McConnell enters the game for A. Nembhard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,4:23.0,,,,,,T. Taylor,T. Taylor enters the game for J. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,4:23.0,,,,,,I. Quickley,I. Quickley enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,4:05.0,,,,,,I. Quickley,Personal foul by I. Quickley (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,3:52.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt hook shot from 4 ft (assist by I. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:29.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:27.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,3:09.0,,,,,,T. Haliburton,Turnover by T. Haliburton (lost ball; steal by Q. Grimes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,3:04.0,,,,,,J. Brunson,J. Brunson makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:56.0,,,,,,B. Mathurin,B. Mathurin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:54.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,2:47.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:45.0,,,,,,B. Mathurin,Defensive rebound by B. Mathurin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,2:27.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:03.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:55.0,,,,,,I. Jackson,I. Jackson makes 2-pt dunk from 1 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:35.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:33.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,1:28.0,,,,,,T. Taylor,T. Taylor misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:26.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,1:15.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:13.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:09.0,,,,,,J. Randle,J. Randle misses 2-pt dunk from 1 ft (block by I. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,1:08.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:07.0,,,,,,T. Taylor,Shooting foul by T. Taylor (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,1:07.0,,,,,,I. Hartenstein,I. Hartenstein enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,1:07.0,,,,,,J. Randle,J. Randle misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:07.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:51.0,,,,,,T. Taylor,T. Taylor misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:49.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,0:49.0,,,,,,T. Taylor,Loose ball foul by T. Taylor (drawn by Q. Grimes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,0:49.0,,,,,,C. Duarte,C. Duarte enters the game for T. Taylor,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:49.0,,,,,,O. Toppin,O. Toppin enters the game for J. Randle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:49.0,,,,,,Q. Grimes,Q. Grimes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:49.0,,,,,,Q. Grimes,Q. Grimes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:36.0,,,,,,C. Duarte,C. Duarte misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:34.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,0:18.0,,,,,,Q. Grimes,Q. Grimes makes 3-pt jump shot from 22 ft (assist by O. Toppin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:03.0,,,,,,B. Mathurin,Offensive foul by B. Mathurin (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,0:03.0,,,,,,B. Mathurin,Turnover by B. Mathurin (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301110NYK,1,0:03.0,,,,,,R. Barrett,R. Barrett enters the game for Q. Grimes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:00.0,,,,,,R. Barrett,Turnover by R. Barrett (bad pass; steal by T. McConnell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,11:47.0,,,,,,I. Quickley,I. Quickley makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:32.0,,,,,,B. Mathurin,B. Mathurin misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:30.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,11:16.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 25 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:00.0,,,,,,T. McConnell,T. McConnell misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:58.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,10:50.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:48.0,,,,,,B. Mathurin,Defensive rebound by B. Mathurin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,10:31.0,,,,,,C. Duarte,C. Duarte makes 3-pt jump shot from 26 ft (assist by J. Smith ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:05.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:03.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:51.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:42.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:40.0,,,,,,J. Smith,Defensive rebound by J. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:32.0,,,,,,C. Duarte,C. Duarte misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:30.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:13.0,,,,,,M. McBride,M. McBride misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:11.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:03.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:03.0,,,,,,M. McBride,Shooting foul by M. McBride (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,9:03.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:51.0,,,,,,I. Quickley,Turnover by I. Quickley (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301110NYK,1,8:38.0,,,,,,I. Jackson,I. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:36.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,8:24.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:23.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:12.0,,,,,,O. Toppin,Shooting foul by O. Toppin (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,8:12.0,,,,,,M. Robinson,M. Robinson enters the game for I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,8:12.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:12.0,,,,,,B. Mathurin,B. Mathurin misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:10.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,7:53.0,,,,,,M. McBride,M. McBride misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:51.0,,,,,,B. Mathurin,Defensive rebound by B. Mathurin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,7:34.0,,,,,,C. Duarte,Turnover by C. Duarte (bad pass; steal by O. Toppin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,7:27.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 2 ft (assist by O. Toppin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:10.0,,,,,,C. Duarte,C. Duarte misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:08.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,6:51.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:49.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,6:49.0,,,,,,I. Jackson,Turnover by I. Jackson (bad pass; steal by M. McBride ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,6:48.0,,,,,,I. Jackson,Shooting foul by I. Jackson (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,6:48.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,6:48.0,,,,,,G. Bitadze,G. Bitadze enters the game for C. Duarte,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,6:48.0,,,,,,B. Hield,B. Hield enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,6:48.0,,,,,,J. Brunson,J. Brunson enters the game for M. McBride,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,6:48.0,,,,,,O. Toppin,O. Toppin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:48.0,,,,,,O. Toppin,O. Toppin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:35.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 5 ft (assist by B. Mathurin ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:17.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:16.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:15.0,,,,,,B. Hield,Personal foul by B. Hield (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,6:15.0,,,,,,Q. Grimes,Q. Grimes enters the game for I. Quickley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,6:03.0,,,,,,J. Brunson,J. Brunson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:01.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,5:57.0,,,,,,B. Mathurin,Turnover by B. Mathurin (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301110NYK,1,5:43.0,,,,,,B. Mathurin,Shooting foul by B. Mathurin (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,5:43.0,,,,,,T. Haliburton,T. Haliburton enters the game for B. Mathurin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,5:43.0,,,,,,A. Nembhard,A. Nembhard enters the game for T. McConnell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,5:43.0,,,,,,J. Randle,J. Randle enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,5:43.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:43.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:43.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:28.0,,,,,,B. Hield,Turnover by B. Hield (bad pass; steal by Q. Grimes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,5:24.0,,,,,,J. Brunson,J. Brunson makes 2-pt jump shot from 6 ft (assist by Q. Grimes ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:21.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,5:21.0,,,,,,J. Johnson,J. Johnson enters the game for J. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,5:07.0,,,,,,T. Haliburton,T. Haliburton makes 3-pt jump shot from 26 ft (assist by J. Johnson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:41.0,,,,,,J. Randle,Turnover by J. Randle (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301110NYK,1,4:31.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:29.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:17.0,,,,,,J. Brunson,J. Brunson misses 2-pt jump shot from 6 ft (block by J. Johnson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,4:15.0,,,,,,J. Johnson,Defensive rebound by J. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:07.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:05.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:58.0,,,,,,T. Haliburton,Turnover by T. Haliburton (lost ball; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,3:49.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:47.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,3:47.0,,,,,,I. Jackson,I. Jackson enters the game for G. Bitadze,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,3:34.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:32.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,3:17.0,,,,,,B. Hield,Personal foul by B. Hield (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,3:11.0,,,,,,Q. Grimes,Q. Grimes makes 3-pt jump shot from 23 ft (assist by J. Brunson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:01.0,,,,,,J. Johnson,Offensive foul by J. Johnson (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,3:01.0,,,,,,J. Johnson,Turnover by J. Johnson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301110NYK,1,2:43.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:41.0,,,,,,R. Barrett,Offensive rebound by R. Barrett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:40.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:32.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:32.0,,,,,,Q. Grimes,Shooting foul by Q. Grimes (drawn by T. Haliburton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,2:32.0,,,,,,T. Haliburton,T. Haliburton misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:30.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,2:19.0,,,,,,J. Brunson,J. Brunson misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:17.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,2:07.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:05.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,1:48.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:46.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,1:38.0,,,,,,A. Nembhard,A. Nembhard makes 2-pt jump shot from 9 ft (assist by T. Haliburton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:24.0,,,,,,B. Hield,Shooting foul by B. Hield (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,1:24.0,,,,,,C. Duarte,C. Duarte enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,1:24.0,,,,,,J. Brunson,J. Brunson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:24.0,,,,,,J. Brunson,J. Brunson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:11.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:09.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,0:58.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 26 ft (assist by R. Barrett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:53.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:29.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301110NYK,1,0:29.0,,,,,,I. Quickley,I. Quickley enters the game for Q. Grimes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:05.0,,,,,,A. Nembhard,A. Nembhard misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:03.0,,,,,,A. Nembhard,Offensive rebound by A. Nembhard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:02.0,,,,,,A. Nembhard,A. Nembhard misses 2-pt layup from 2 ft (block by M. Robinson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,0:01.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,11:47.0,,,,,,R. Barrett,R. Barrett makes 2-pt hook shot from 4 ft (assist by J. Randle ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:30.0,,,,,,J. Brunson,Shooting foul by J. Brunson (drawn by A. Nembhard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,11:30.0,,,,,,A. Nembhard,A. Nembhard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:30.0,,,,,,A. Nembhard,A. Nembhard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:12.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:11.0,,,,,,R. Barrett,Offensive rebound by R. Barrett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:10.0,,,,,,A. Nembhard,Shooting foul by A. Nembhard (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,11:10.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:10.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:55.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 25 ft (assist by J. Smith ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:27.0,,,,,,Q. Grimes,Q. Grimes makes 2-pt layup from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:09.0,,,,,,M. Robinson,Shooting foul by M. Robinson (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,10:09.0,,,,,,B. Mathurin,B. Mathurin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:09.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:09.0,,,,,,B. Mathurin,B. Mathurin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:57.0,,,,,,J. Smith,Shooting foul by J. Smith (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,9:57.0,,,,,,J. Brunson,J. Brunson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:57.0,,,,,,J. Brunson,J. Brunson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:48.0,,,,,,Q. Grimes,Shooting foul by Q. Grimes (drawn by T. Haliburton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,9:48.0,,,,,,T. Haliburton,T. Haliburton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:48.0,,,,,,T. Haliburton,T. Haliburton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:25.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 23 ft (assist by J. Randle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:06.0,,,,,,A. Nembhard,A. Nembhard makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:49.0,,,,,,J. Brunson,J. Brunson misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:47.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:47.0,,,,,,M. Robinson,M. Robinson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:40.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:36.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,8:27.0,,,,,,B. Mathurin,Personal foul by B. Mathurin (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,8:15.0,,,,,,Q. Grimes,Turnover by Q. Grimes (lost ball; steal by J. Smith ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,8:14.0,,,,,,J. Smith,J. Smith makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:13.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,7:56.0,,,,,,J. Randle,Turnover by J. Randle (bad pass; steal by T. Haliburton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,7:55.0,,,,,,A. Nembhard,Turnover by A. Nembhard (lost ball; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,7:53.0,,,,,,A. Nembhard,Shooting foul by A. Nembhard (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,7:53.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:53.0,,,,,,J. Randle,J. Randle misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:52.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:42.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:40.0,,,,,,T. Haliburton,Loose ball foul by T. Haliburton (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,7:40.0,,,,,,M. Robinson,M. Robinson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:40.0,,,,,,M. Robinson,M. Robinson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:29.0,,,,,,B. Mathurin,B. Mathurin makes 3-pt jump shot from 25 ft (assist by J. Smith ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:13.0,,,,,,J. Randle,Offensive foul by J. Randle (drawn by B. Hield ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,7:13.0,,,,,,J. Randle,Turnover by J. Randle (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301110NYK,1,7:03.0,,,,,,M. Robinson,Shooting foul by M. Robinson (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,7:03.0,,,,,,B. Mathurin,B. Mathurin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:03.0,,,,,,B. Mathurin,B. Mathurin misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:01.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,6:54.0,,,,,,M. Robinson,M. Robinson makes 2-pt dunk from 2 ft (assist by J. Brunson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:39.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 26 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:22.0,,,,,,J. Smith,Shooting foul by J. Smith (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,6:22.0,,,,,,I. Jackson,I. Jackson enters the game for J. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,6:22.0,,,,,,J. Brunson,J. Brunson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:22.0,,,,,,J. Brunson,J. Brunson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:06.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 24 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:50.0,,,,,,I. Jackson,Personal foul by I. Jackson (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,5:50.0,,,,,,J. Brunson,J. Brunson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:50.0,,,,,,J. Brunson,J. Brunson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:33.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 25 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:07.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:05.0,,,,,,A. Nembhard,Defensive rebound by A. Nembhard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:54.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:54.0,,,,,,J. Brunson,Shooting foul by J. Brunson (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,4:54.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:37.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:35.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:22.0,,,,,,B. Mathurin,B. Mathurin misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:20.0,,,,,,J. Brunson,Defensive rebound by J. Brunson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:13.0,,,,,,J. Brunson,J. Brunson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:55.0,,,,,,T. Haliburton,Turnover by T. Haliburton (bad pass; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,3:46.0,,,,,,J. Brunson,J. Brunson misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:45.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,3:41.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt dunk from 1 ft (assist by A. Nembhard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:25.0,,,,,,Q. Grimes,Q. Grimes misses 2-pt layup from 2 ft (block by I. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,3:23.0,,,,,,B. Mathurin,Defensive rebound by B. Mathurin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,3:22.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt layup from 2 ft (assist by A. Nembhard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:22.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,3:22.0,,,,,,T. McConnell,T. McConnell enters the game for A. Nembhard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,3:22.0,,,,,,I. Hartenstein,I. Hartenstein enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,3:22.0,,,,,,I. Quickley,I. Quickley enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,3:22.0,,,,,,J. Brunson,Technical foul by J. Brunson,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,3:22.0,,,,,,B. Hield,B. Hield makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:56.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:39.0,,,,,,T. Haliburton,T. Haliburton misses 2-pt layup from 3 ft (block by I. Hartenstein ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,2:37.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,2:32.0,,,,,,I. Jackson,Personal take foul by I. Jackson (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,2:32.0,,,,,,I. Hartenstein,Technical foul by I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,2:32.0,,,,,,I. Jackson,Technical foul by I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,2:32.0,,,,,,C. Duarte,C. Duarte enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,2:32.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:32.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:21.0,,,,,,I. Jackson,I. Jackson makes 2-pt layup from 2 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:21.0,,,,,,J. Randle,Shooting foul by J. Randle (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,2:21.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:21.0,,,,,,I. Jackson,I. Jackson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:05.0,,,,,,Q. Grimes,Turnover by Q. Grimes (bad pass; steal by B. Hield ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,2:01.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:59.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,1:47.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:45.0,,,,,,C. Duarte,Defensive rebound by C. Duarte,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,1:31.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:14.0,,,,,,Q. Grimes,Q. Grimes makes 3-pt jump shot from 24 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:03.0,,,,,,C. Duarte,C. Duarte misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:01.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,0:44.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:42.0,,,,,,C. Duarte,Defensive rebound by C. Duarte,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,0:34.0,,,,,,I. Jackson,I. Jackson misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:33.0,,,,,,B. Mathurin,Offensive rebound by B. Mathurin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:33.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:33.0,,,,,,I. Quickley,Shooting foul by I. Quickley (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,0:33.0,,,,,,A. Nembhard,A. Nembhard enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:33.0,,,,,,J. Smith,J. Smith enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:33.0,,,,,,R. Barrett,R. Barrett enters the game for Q. Grimes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:33.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:13.0,,,,,,A. Nembhard,Shooting foul by A. Nembhard (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,0:13.0,,,,,,B. Hield,B. Hield enters the game for A. Nembhard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:13.0,,,,,,M. McBride,M. McBride enters the game for J. Brunson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,0:13.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:13.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:47.0,,,,,,T. McConnell,T. McConnell makes 2-pt layup from 2 ft (assist by J. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:20.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 24 ft (block by G. Bitadze ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,11:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:19.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301110NYK,1,11:09.0,,,,,,C. Duarte,C. Duarte misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:07.0,,,,,,T. McConnell,Offensive rebound by T. McConnell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:05.0,,,,,,T. McConnell,T. McConnell misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:04.0,,,,,,T. McConnell,Offensive rebound by T. McConnell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:03.0,,,,,,I. Hartenstein,Shooting foul by I. Hartenstein (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,11:03.0,,,,,,J. Brunson,J. Brunson enters the game for I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,11:03.0,,,,,,M. Robinson,M. Robinson enters the game for M. McBride,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,11:03.0,,,,,,T. McConnell,T. McConnell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,11:03.0,,,,,,T. McConnell,T. McConnell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:54.0,,,,,,J. Brunson,Turnover by J. Brunson (lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301110NYK,1,10:54.0,,,,,,J. Brunson,Loose ball foul by J. Brunson (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,10:41.0,,,,,,A. Nembhard,A. Nembhard misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:39.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,10:29.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,10:27.0,,,,,,J. Smith,Defensive rebound by J. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,10:23.0,,,,,,G. Bitadze,G. Bitadze makes 2-pt layup from 2 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:57.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:56.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:54.0,,,,,,M. Robinson,M. Robinson misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:53.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:43.0,,,,,,C. Duarte,C. Duarte misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:41.0,,,,,,J. Smith,Offensive rebound by J. Smith,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:39.0,,,,,,J. Smith,J. Smith makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:39.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,9:39.0,,,,,,J. Randle,J. Randle enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,9:21.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,9:19.0,,,,,,A. Nembhard,Defensive rebound by A. Nembhard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,9:13.0,,,,,,G. Bitadze,G. Bitadze makes 3-pt jump shot from 27 ft (assist by A. Nembhard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:52.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 23 ft (assist by J. Brunson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:41.0,,,,,,J. Smith,Offensive foul by J. Smith (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,8:41.0,,,,,,J. Smith,Turnover by J. Smith (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301110NYK,1,8:18.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:16.0,,,,,,I. Quickley,Offensive rebound by I. Quickley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,8:16.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301110NYK,1,8:05.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:47.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 25 ft (assist by M. Robinson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:35.0,,,,,,G. Bitadze,G. Bitadze misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:29.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,7:29.0,,,,,,B. Hield,B. Hield enters the game for J. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,7:16.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 3 ft (assist by J. Randle ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,7:01.0,,,,,,T. McConnell,T. McConnell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:59.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,6:38.0,,,,,,J. Randle,Turnover by J. Randle (bad pass; steal by T. McConnell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,6:34.0,,,,,,C. Duarte,C. Duarte makes 2-pt layup from 1 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:20.0,,,,,,I. Quickley,I. Quickley makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:14.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,6:06.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,6:04.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,5:48.0,,,,,,J. Brunson,J. Brunson misses 2-pt jump shot from 4 ft (block by C. Duarte ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,5:46.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,5:41.0,,,,,,A. Nembhard,A. Nembhard misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:39.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,5:19.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:17.0,,,,,,R. Barrett,Offensive rebound by R. Barrett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:07.0,,,,,,G. Bitadze,Shooting foul by G. Bitadze (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,5:07.0,,,,,,B. Mathurin,B. Mathurin enters the game for C. Duarte,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,5:07.0,,,,,,M. Robinson,M. Robinson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:07.0,,,,,,M. Robinson,M. Robinson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,5:05.0,,,,,,G. Bitadze,Defensive rebound by G. Bitadze,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:54.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt layup from 1 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:32.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:30.0,,,,,,B. Mathurin,Defensive rebound by B. Mathurin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:24.0,,,,,,A. Nembhard,A. Nembhard misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:22.0,,,,,,J. Brunson,Defensive rebound by J. Brunson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,4:05.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,4:03.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,3:57.0,,,,,,B. Mathurin,B. Mathurin misses 2-pt layup from 2 ft (block by M. Robinson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,3:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:55.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,3:49.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:49.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:28.0,,,,,,J. Brunson,J. Brunson misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:26.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:22.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:20.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,3:10.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 25 ft (assist by G. Bitadze ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,3:01.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,2:50.0,,,,,,J. Brunson,J. Brunson makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:38.0,,,,,,T. McConnell,T. McConnell misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:36.0,,,,,,G. Bitadze,Offensive rebound by G. Bitadze,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:33.0,,,,,,B. Mathurin,B. Mathurin misses 2-pt layup from 2 ft (block by J. Randle ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301110NYK,1,2:31.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,2:20.0,,,,,,J. Brunson,J. Brunson makes 3-pt jump shot from 23 ft (assist by R. Barrett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:19.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,2:10.0,,,,,,B. Mathurin,B. Mathurin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:09.0,,,,,,T. McConnell,Offensive rebound by T. McConnell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301110NYK,1,2:08.0,,,,,,T. McConnell,Turnover by T. McConnell (bad pass; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,2:07.0,,,,,,G. Bitadze,Personal foul by G. Bitadze (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,1:59.0,,,,,,T. McConnell,Personal foul by T. McConnell (drawn by J. Brunson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,1:57.0,,,,,,R. Barrett,Turnover by R. Barrett (bad pass; steal by G. Bitadze ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301110NYK,1,1:54.0,,,,,,B. Hield,B. Hield makes 2-pt layup at rim (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:34.0,,,,,,J. Brunson,J. Brunson makes 2-pt jump shot from 1 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:22.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:22.0,,,,,,R. Barrett,Shooting foul by R. Barrett (drawn by B. Hield ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,1:22.0,,,,,,B. Hield,B. Hield makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:15.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301110NYK,1,1:15.0,,,,,,Q. Grimes,Q. Grimes enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301110NYK,1,1:03.0,,,,,,J. Brunson,J. Brunson misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,1:01.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,0:49.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:47.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301110NYK,1,0:25.0,,,,,,Q. Grimes,Q. Grimes makes 3-pt jump shot from 23 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:21.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 2 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:18.0,,,,,,A. Nembhard,Personal take foul by A. Nembhard (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301110NYK,1,0:18.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:18.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:11.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt layup from 1 ft (assist by T. McConnell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:06.0,,,,,,Q. Grimes,Q. Grimes makes 2-pt dunk at rim (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:01.0,,,,,,T. McConnell,T. McConnell misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301110NYK,1,0:00.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

@@ -1,0 +1,456 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202211040IND,1,11:41.0,,,,,,C. Duarte,C. Duarte misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:39.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,11:22.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:20.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,11:17.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:15.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,11:12.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:08.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,11:00.0,,,,,,M. Turner,M. Turner makes 2-pt jump shot from 8 ft (assist by C. Duarte ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:45.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 12 ft (assist by T. Herro ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:31.0,,,,,,C. Duarte,C. Duarte misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:29.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,10:17.0,,,,,,T. Herro,T. Herro makes 3-pt jump shot from 23 ft (assist by C. Martin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:02.0,,,,,,J. Smith,Turnover by J. Smith (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,9:54.0,,,,,,T. Herro,Turnover by T. Herro (bad pass; steal by T. Haliburton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,9:50.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt dunk from 1 ft (assist by C. Duarte ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:29.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 15 ft (assist by M. Strus ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:21.0,,,,,,M. Turner,Turnover by M. Turner (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,9:14.0,,,,,,T. Herro,Turnover by T. Herro (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,9:06.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 26 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:40.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 27 ft (assist by K. Lowry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:29.0,,,,,,C. Martin,Personal foul by C. Martin (drawn by M. Turner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,8:24.0,,,,,,M. Turner,Turnover by M. Turner (bad pass; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,8:21.0,,,,,,M. Strus,M. Strus makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:19.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,8:09.0,,,,,,J. Smith,J. Smith misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:04.0,,,,,,M. Turner,Offensive rebound by M. Turner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:04.0,,,,,,M. Turner,M. Turner makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:52.0,,,,,,T. Herro,T. Herro makes 2-pt jump shot from 8 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:42.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:21.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:18.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:12.0,,,,,,C. Duarte,Shooting foul by C. Duarte (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,7:12.0,,,,,,K. Lowry,K. Lowry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:12.0,,,,,,B. Mathurin,B. Mathurin enters the game for C. Duarte,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,7:12.0,,,,,,K. Lowry,K. Lowry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:58.0,,,,,,M. Turner,M. Turner makes 2-pt dunk from 1 ft (assist by J. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:58.0,,,,,,C. Martin,Shooting foul by C. Martin (drawn by M. Turner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,6:58.0,,,,,,M. Turner,M. Turner misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:57.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,6:45.0,,,,,,J. Smith,Shooting foul by J. Smith (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,6:45.0,,,,,,M. Strus,M. Strus makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:45.0,,,,,,G. Vincent,G. Vincent enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,6:45.0,,,,,,T. McConnell,T. McConnell enters the game for J. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,6:45.0,,,,,,M. Strus,M. Strus makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:33.0,,,,,,B. Mathurin,B. Mathurin misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:29.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,6:26.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:20.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:20.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:18.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:12.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,6:00.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:56.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:48.0,,,,,,G. Vincent,G. Vincent misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:44.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,5:38.0,,,,,,T. McConnell,T. McConnell makes 2-pt jump shot from 13 ft (assist by T. Haliburton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:22.0,,,,,,T. McConnell,Shooting foul by T. McConnell (drawn by T. Herro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,5:22.0,,,,,,T. Herro,T. Herro makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:22.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,5:22.0,,,,,,D. Robinson,D. Robinson enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,5:22.0,,,,,,I. Jackson,I. Jackson enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,5:22.0,,,,,,T. Herro,T. Herro makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:08.0,,,,,,T. Haliburton,Turnover by T. Haliburton (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,4:55.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:52.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:45.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 1 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:28.0,,,,,,M. Strus,Turnover by M. Strus (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,4:21.0,,,,,,I. Jackson,I. Jackson misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:17.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:11.0,,,,,,D. Dedmon,Offensive foul by D. Dedmon (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,4:11.0,,,,,,D. Dedmon,Turnover by D. Dedmon (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211040IND,1,4:11.0,,,,,,A. Nembhard,A. Nembhard enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,4:02.0,,,,,,M. Strus,Shooting foul by M. Strus (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,4:02.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:02.0,,,,,,B. Mathurin,B. Mathurin makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:02.0,,,,,,B. Mathurin,B. Mathurin makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:50.0,,,,,,G. Vincent,Turnover by G. Vincent (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,3:32.0,,,,,,A. Nembhard,A. Nembhard misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:28.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,3:20.0,,,,,,T. Herro,Turnover by T. Herro (bad pass; steal by B. Hield ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,3:16.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 1 ft (assist by A. Nembhard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:16.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:00.0,,,,,,D. Dedmon,D. Dedmon misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:56.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,2:49.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,2:49.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,2:49.0,,,,,,I. Jackson,I. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:49.0,,,,,,I. Jackson,I. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:32.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 27 ft (assist by T. Herro ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:13.0,,,,,,B. Hield,B. Hield makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:48.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:45.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,1:38.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:35.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,1:27.0,,,,,,I. Jackson,Shooting foul by I. Jackson (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,1:27.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:27.0,,,,,,K. Lowry,K. Lowry enters the game for T. Herro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,1:27.0,,,,,,C. Martin,C. Martin enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,1:27.0,,,,,,T. Haliburton,T. Haliburton enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,1:27.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:10.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,1:10.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:10.0,,,,,,B. Mathurin,B. Mathurin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:49.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:46.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:43.0,,,,,,T. McConnell,T. McConnell misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:41.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:34.0,,,,,,A. Nembhard,Personal foul by A. Nembhard (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,0:34.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:34.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:32.0,,,,,,I. Jackson,Turnover by I. Jackson (bad pass; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,0:28.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:26.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:11.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:08.0,,,,,,D. Robinson,Defensive rebound by D. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:00.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:46.0,,,,,,G. Vincent,G. Vincent makes 2-pt layup from 1 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:31.0,,,,,,A. Nembhard,A. Nembhard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:29.0,,,,,,K. Lowry,Loose ball foul by K. Lowry (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,11:23.0,,,,,,T. McConnell,T. McConnell misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:19.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,11:08.0,,,,,,C. Martin,C. Martin makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:59.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt layup from 1 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:59.0,,,,,,K. Lowry,Shooting foul by K. Lowry (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,10:59.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:47.0,,,,,,G. Vincent,G. Vincent makes 2-pt layup from 2 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:45.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,10:45.0,,,,,,B. Hield,B. Hield enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,10:45.0,,,,,,M. Turner,M. Turner enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,10:28.0,,,,,,T. McConnell,T. McConnell makes 2-pt layup from 1 ft (assist by A. Nembhard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:10.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:07.0,,,,,,B. Mathurin,Defensive rebound by B. Mathurin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,10:02.0,,,,,,B. Mathurin,B. Mathurin misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:58.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,9:51.0,,,,,,B. Adebayo,Offensive foul by B. Adebayo (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,9:51.0,,,,,,B. Adebayo,Turnover by B. Adebayo (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211040IND,1,9:37.0,,,,,,T. McConnell,T. McConnell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:33.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,9:26.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:24.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,9:15.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,9:15.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:15.0,,,,,,B. Mathurin,B. Mathurin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:08.0,,,,,,C. Martin,C. Martin misses 2-pt dunk from 1 ft (block by M. Turner ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211040IND,1,9:06.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,9:02.0,,,,,,B. Adebayo,Personal foul by B. Adebayo (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,8:59.0,,,,,,M. Turner,M. Turner misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:57.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,8:50.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:50.0,,,,,,M. Turner,Shooting foul by M. Turner (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,8:50.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:34.0,,,,,,T. McConnell,T. McConnell misses 2-pt layup from 1 ft (block by C. Martin ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211040IND,1,8:32.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,8:30.0,,,,,,K. Lowry,K. Lowry misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:28.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,8:24.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by M. Turner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,8:24.0,,,,,,M. Turner,M. Turner misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:24.0,,,,,,T. Herro,T. Herro enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,8:24.0,,,,,,M. Turner,M. Turner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:15.0,,,,,,B. Adebayo,B. Adebayo misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:13.0,,,,,,A. Nembhard,Defensive rebound by A. Nembhard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,8:09.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 28 ft (assist by A. Nembhard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:52.0,,,,,,A. Nembhard,Personal foul by A. Nembhard (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,7:38.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:34.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,7:26.0,,,,,,B. Hield,B. Hield makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:03.0,,,,,,K. Lowry,K. Lowry misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:01.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,6:58.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 30 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:56.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,6:56.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,6:56.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,6:56.0,,,,,,O. Brissett,O. Brissett enters the game for B. Mathurin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,6:56.0,,,,,,T. Haliburton,T. Haliburton enters the game for T. McConnell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,6:44.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:40.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,6:27.0,,,,,,C. Martin,Shooting foul by C. Martin (drawn by O. Brissett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,6:27.0,,,,,,O. Brissett,O. Brissett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:27.0,,,,,,H. Highsmith,H. Highsmith enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,6:27.0,,,,,,O. Brissett,O. Brissett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:12.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 32 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:08.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,6:03.0,,,,,,B. Hield,Turnover by B. Hield (bad pass; steal by T. Herro ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,5:59.0,,,,,,T. Herro,T. Herro makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:41.0,,,,,,M. Turner,M. Turner misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:38.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,5:31.0,,,,,,T. Herro,T. Herro makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:15.0,,,,,,B. Hield,B. Hield makes 2-pt layup from 1 ft (assist by T. Haliburton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:00.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:57.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:52.0,,,,,,M. Turner,M. Turner makes 3-pt jump shot from 28 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:27.0,,,,,,M. Strus,M. Strus misses 2-pt layup from 2 ft (block by M. Turner ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211040IND,1,4:24.0,,,,,,A. Nembhard,Defensive rebound by A. Nembhard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:22.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt layup at rim (assist by A. Nembhard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:01.0,,,,,,M. Turner,Personal foul by M. Turner (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,4:01.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,4:01.0,,,,,,I. Jackson,I. Jackson enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,3:48.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:44.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,3:39.0,,,,,,I. Jackson,Offensive foul by I. Jackson (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,3:39.0,,,,,,I. Jackson,Turnover by I. Jackson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211040IND,1,3:24.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:20.0,,,,,,O. Brissett,Defensive rebound by O. Brissett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,3:07.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 28 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:54.0,,,,,,H. Highsmith,Turnover by H. Highsmith (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,2:54.0,,,,,,B. Mathurin,B. Mathurin enters the game for A. Nembhard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,2:41.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,2:41.0,,,,,,B. Mathurin,B. Mathurin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:41.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,2:41.0,,,,,,B. Mathurin,B. Mathurin misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:39.0,,,,,,O. Brissett,Offensive rebound by O. Brissett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:32.0,,,,,,B. Mathurin,B. Mathurin makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:16.0,,,,,,I. Jackson,Shooting foul by I. Jackson (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,2:16.0,,,,,,K. Lowry,K. Lowry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:16.0,,,,,,M. Turner,M. Turner enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,2:16.0,,,,,,K. Lowry,K. Lowry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:04.0,,,,,,M. Strus,Shooting foul by M. Strus (drawn by T. Haliburton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,2:04.0,,,,,,T. Haliburton,T. Haliburton misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:04.0,,,,,,T. Haliburton,T. Haliburton misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:02.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,1:52.0,,,,,,D. Dedmon,D. Dedmon misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:50.0,,,,,,K. Lowry,Offensive rebound by K. Lowry,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:40.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:37.0,,,,,,D. Dedmon,Offensive rebound by D. Dedmon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:37.0,,,,,,T. Haliburton,Personal foul by T. Haliburton (drawn by T. Herro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,1:37.0,,,,,,T. Herro,T. Herro makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:37.0,,,,,,T. Herro,T. Herro makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:19.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:15.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,1:13.0,,,,,,T. Herro,Offensive foul by T. Herro (drawn by O. Brissett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,1:13.0,,,,,,T. Herro,Turnover by T. Herro (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211040IND,1,1:03.0,,,,,,T. Haliburton,T. Haliburton misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:58.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:52.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 27 ft (assist by T. Herro ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:34.0,,,,,,T. Haliburton,T. Haliburton misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:32.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:23.0,,,,,,M. Strus,Turnover by M. Strus (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,0:06.0,,,,,,T. Haliburton,T. Haliburton makes 3-pt jump shot from 26 ft (assist by O. Brissett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:00.0,,,,,,H. Highsmith,H. Highsmith misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:40.0,,,,,,C. Martin,C. Martin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:36.0,,,,,,J. Smith,Defensive rebound by J. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,11:35.0,,,,,,J. Smith,Turnover by J. Smith (lost ball; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,11:30.0,,,,,,T. Herro,T. Herro makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:09.0,,,,,,B. Mathurin,Turnover by B. Mathurin (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,11:01.0,,,,,,M. Turner,Shooting foul by M. Turner (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,11:01.0,,,,,,K. Lowry,K. Lowry makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:01.0,,,,,,K. Lowry,K. Lowry makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:01.0,,,,,,K. Lowry,K. Lowry makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:51.0,,,,,,B. Mathurin,B. Mathurin misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:48.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,10:35.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:32.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,10:21.0,,,,,,J. Smith,J. Smith misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:19.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,10:16.0,,,,,,K. Lowry,Turnover by K. Lowry (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,10:08.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:52.0,,,,,,T. Herro,T. Herro makes 2-pt jump shot from 7 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:35.0,,,,,,M. Turner,M. Turner makes 2-pt dunk from 1 ft (assist by B. Mathurin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:23.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:20.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,9:13.0,,,,,,T. Haliburton,T. Haliburton makes 3-pt jump shot from 28 ft (assist by B. Mathurin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:52.0,,,,,,C. Martin,C. Martin makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:33.0,,,,,,M. Turner,M. Turner makes 2-pt layup from 1 ft (assist by J. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:09.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:07.0,,,,,,C. Martin,Offensive rebound by C. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:59.0,,,,,,T. Herro,T. Herro makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:39.0,,,,,,B. Hield,Turnover by B. Hield (bad pass; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,7:34.0,,,,,,K. Lowry,K. Lowry misses 2-pt layup from 1 ft (block by B. Mathurin ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211040IND,1,7:30.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,7:28.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:24.0,,,,,,M. Turner,Offensive rebound by M. Turner,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:24.0,,,,,,M. Turner,M. Turner makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:05.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:03.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,6:57.0,,,,,,J. Smith,Offensive foul by J. Smith (drawn by T. Herro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,6:57.0,,,,,,J. Smith,Turnover by J. Smith (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211040IND,1,6:57.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,6:38.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 29 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:27.0,,,,,,B. Mathurin,Turnover by B. Mathurin (lost ball; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,6:24.0,,,,,,M. Strus,M. Strus makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:03.0,,,,,,J. Smith,J. Smith misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:00.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,5:51.0,,,,,,M. Strus,M. Strus makes 2-pt layup from 1 ft (assist by C. Martin ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:50.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,5:50.0,,,,,,T. McConnell,T. McConnell enters the game for J. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,5:32.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt jump shot from 12 ft (assist by T. McConnell ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:05.0,,,,,,C. Martin,C. Martin makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:54.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 34 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:51.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:36.0,,,,,,T. Herro,T. Herro makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:21.0,,,,,,T. Haliburton,T. Haliburton makes 3-pt jump shot from 26 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:06.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:05.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:01.0,,,,,,B. Mathurin,B. Mathurin misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:56.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,3:50.0,,,,,,B. Adebayo,Turnover by B. Adebayo (lost ball; steal by T. McConnell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,3:46.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:43.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,3:30.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:28.0,,,,,,B. Hield,Defensive rebound by B. Hield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,3:11.0,,,,,,B. Mathurin,B. Mathurin makes 2-pt layup from 1 ft (assist by M. Turner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:11.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,3:11.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,3:11.0,,,,,,D. Robinson,D. Robinson enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,3:11.0,,,,,,G. Vincent,G. Vincent enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,3:11.0,,,,,,I. Jackson,I. Jackson enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,2:53.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:50.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,2:43.0,,,,,,B. Mathurin,Turnover by B. Mathurin (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,2:43.0,,,,,,A. Nembhard,A. Nembhard enters the game for B. Mathurin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,2:23.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:19.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,2:05.0,,,,,,B. Hield,Turnover by B. Hield (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,1:45.0,,,,,,T. Herro,T. Herro misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:43.0,,,,,,I. Jackson,Defensive rebound by I. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,1:38.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:34.0,,,,,,C. Martin,Defensive rebound by C. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,1:24.0,,,,,,C. Martin,Turnover by C. Martin (bad pass; steal by T. Haliburton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,1:20.0,,,,,,B. Hield,Turnover by B. Hield (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,1:20.0,,,,,,K. Lowry,K. Lowry enters the game for T. Herro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,1:20.0,,,,,,M. Strus,M. Strus enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:58.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 27 ft (assist by M. Strus ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:42.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:39.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:33.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:30.0,,,,,,T. McConnell,Defensive rebound by T. McConnell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:13.0,,,,,,D. Dedmon,Personal foul by D. Dedmon (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,0:13.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:13.0,,,,,,C. Martin,C. Martin enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:10.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:06.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:01.0,,,,,,B. Hield,Personal foul by B. Hield (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,0:01.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:01.0,,,,,,D. Robinson,D. Robinson enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:01.0,,,,,,O. Brissett,O. Brissett enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:01.0,,,,,,B. Mathurin,B. Mathurin enters the game for B. Hield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:00.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:39.0,,,,,,O. Brissett,O. Brissett misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:35.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,11:23.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,11:09.0,,,,,,B. Mathurin,B. Mathurin makes 3-pt jump shot from 26 ft (assist by T. McConnell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:52.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 26 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:37.0,,,,,,A. Nembhard,A. Nembhard misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,10:37.0,,,,,,K. Lowry,Loose ball foul by K. Lowry (drawn by I. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,10:28.0,,,,,,T. McConnell,Turnover by T. McConnell (lost ball; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,10:24.0,,,,,,M. Strus,Turnover by M. Strus (bad pass; steal by T. McConnell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,10:14.0,,,,,,I. Jackson,I. Jackson makes 2-pt dunk from 2 ft (assist by A. Nembhard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:58.0,,,,,,I. Jackson,Shooting foul by I. Jackson (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,9:58.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:58.0,,,,,,B. Adebayo,B. Adebayo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:37.0,,,,,,I. Jackson,I. Jackson misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:33.0,,,,,,I. Jackson,Offensive rebound by I. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:33.0,,,,,,I. Jackson,I. Jackson makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:25.0,,,,,,B. Adebayo,Offensive foul by B. Adebayo (drawn by T. McConnell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,9:25.0,,,,,,B. Adebayo,Turnover by B. Adebayo (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202211040IND,1,9:09.0,,,,,,A. Nembhard,A. Nembhard misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:03.0,,,,,,A. Nembhard,A. Nembhard misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,9:00.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,8:51.0,,,,,,D. Robinson,D. Robinson misses 2-pt layup from 2 ft (block by I. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211040IND,1,8:48.0,,,,,,A. Nembhard,Defensive rebound by A. Nembhard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,8:47.0,,,,,,B. Mathurin,B. Mathurin makes 3-pt jump shot from 31 ft (assist by A. Nembhard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:45.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,8:45.0,,,,,,T. Herro,T. Herro enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,8:45.0,,,,,,C. Martin,C. Martin enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,8:37.0,,,,,,B. Adebayo,Turnover by B. Adebayo (dbl dribble),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,8:17.0,,,,,,G. Vincent,Personal foul by G. Vincent (drawn by A. Nembhard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,8:14.0,,,,,,B. Mathurin,B. Mathurin misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,8:11.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,8:01.0,,,,,,T. Herro,Turnover by T. Herro (lost ball; steal by O. Brissett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,7:58.0,,,,,,A. Nembhard,A. Nembhard makes 2-pt layup from 2 ft (assist by O. Brissett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:45.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:26.0,,,,,,I. Jackson,I. Jackson misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:23.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,7:12.0,,,,,,B. Mathurin,Personal foul by B. Mathurin (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,7:00.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 2 ft (assist by M. Strus ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,7:00.0,,,,,,A. Nembhard,Shooting foul by A. Nembhard (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,7:00.0,,,,,,T. Haliburton,T. Haliburton enters the game for O. Brissett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,7:00.0,,,,,,B. Hield,B. Hield enters the game for I. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,7:00.0,,,,,,M. Turner,M. Turner enters the game for T. McConnell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,7:00.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:44.0,,,,,,A. Nembhard,A. Nembhard makes 2-pt jump shot from 14 ft (assist by T. Haliburton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,6:22.0,,,,,,G. Vincent,G. Vincent makes 2-pt layup from 2 ft (assist by T. Herro ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:54.0,,,,,,B. Hield,B. Hield misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:50.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,5:35.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 24 ft (assist by T. Herro ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,5:09.0,,,,,,A. Nembhard,Turnover by A. Nembhard (lost ball; steal by T. Herro ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,4:52.0,,,,,,B. Adebayo,Turnover by B. Adebayo (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,4:39.0,,,,,,B. Hield,B. Hield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:36.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:14.0,,,,,,C. Martin,Turnover by C. Martin (lost ball; steal by B. Hield ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,4:10.0,,,,,,A. Nembhard,A. Nembhard misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,4:06.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,4:03.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,4:03.0,,,,,,K. Lowry,K. Lowry enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,3:44.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:40.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,3:22.0,,,,,,B. Hield,B. Hield makes 3-pt jump shot from 29 ft (assist by T. Haliburton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,3:00.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:57.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,2:47.0,,,,,,B. Mathurin,B. Mathurin misses 2-pt layup at rim (block by K. Lowry ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211040IND,1,2:47.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,2:26.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,2:23.0,,,,,,M. Turner,Defensive rebound by M. Turner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,2:01.0,,,,,,M. Turner,Turnover by M. Turner (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202211040IND,1,1:40.0,,,,,,T. Herro,T. Herro misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:39.0,,,,,,M. Strus,Offensive rebound by M. Strus,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:39.0,,,,,,M. Strus,M. Strus misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:39.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,1:23.0,,,,,,T. Haliburton,T. Haliburton makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:20.0,,,,,,M. Turner,Shooting foul by M. Turner (drawn by T. Herro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,1:20.0,,,,,,T. Herro,T. Herro makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:20.0,,,,,,T. Herro,T. Herro makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,1:20.0,,,,,,T. Herro,T. Herro makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:59.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by T. Haliburton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,0:59.0,,,,,,T. Haliburton,T. Haliburton misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:59.0,,,,,,T. Haliburton,T. Haliburton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:49.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:46.0,,,,,,T. Haliburton,Defensive rebound by T. Haliburton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202211040IND,1,0:28.0,,,,,,T. Haliburton,T. Haliburton misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:25.0,,,,,,B. Hield,Offensive rebound by B. Hield,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:23.0,,,,,,B. Hield,Turnover by B. Hield (lost ball; steal by G. Vincent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202211040IND,1,0:21.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,0:21.0,,,,,,T. McConnell,T. McConnell enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:10.0,,,,,,M. Strus,M. Strus misses 2-pt layup from 1 ft (block by M. Turner ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202211040IND,1,0:10.0,,,,,,K. Lowry,Offensive rebound by K. Lowry,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:10.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:10.0,,,,,,T. Haliburton,T. Haliburton enters the game for T. McConnell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:08.0,,,,,,A. Nembhard,Personal foul by A. Nembhard (drawn by T. Herro ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,0:08.0,,,,,,T. Herro,T. Herro makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:08.0,,,,,,T. Herro,T. Herro makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:08.0,,,,,,,Indiana full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,0:08.0,,,,,,C. Martin,C. Martin enters the game for T. Herro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:08.0,,,,,,T. McConnell,T. McConnell enters the game for M. Turner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:07.0,,,,,,M. Strus,Personal foul by M. Strus (drawn by B. Mathurin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202211040IND,1,0:07.0,,,,,,B. Mathurin,B. Mathurin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:07.0,,,,,,D. Dedmon,D. Dedmon enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:07.0,,,,,,M. Turner,M. Turner enters the game for T. Haliburton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:07.0,,,,,,B. Mathurin,B. Mathurin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:07.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202211040IND,1,0:07.0,,,,,,T. Herro,T. Herro enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:07.0,,,,,,G. Vincent,G. Vincent enters the game for C. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202211040IND,1,0:01.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202211040IND,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False

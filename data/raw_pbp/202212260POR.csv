@@ -1,0 +1,479 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202212260POR,1,11:45.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 27 ft (assist by D. Lillard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:25.0,,,,,,T. Rozier,Turnover by T. Rozier (bad pass; steal by J. NurkiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,11:24.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (bad pass; steal by G. Hayward ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,11:20.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 27 ft (assist by G. Hayward ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:56.0,,,,,,A. Simons,A. Simons makes 2-pt jump shot from 12 ft (assist by D. Lillard ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:38.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:36.0,,,,,,G. Hayward,Offensive rebound by G. Hayward,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:34.0,,,,,,G. Hayward,G. Hayward makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:23.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 28 ft (assist by D. Lillard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:08.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:05.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,9:55.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:46.0,,,,,,A. Simons,Turnover by A. Simons (bad pass; steal by M. Plumlee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,9:39.0,,,,,,G. Hayward,G. Hayward misses 2-pt layup from 8 ft (block by J. NurkiÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,9:39.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:30.0,,,,,,L. Ball,L. Ball makes 2-pt jump shot from 13 ft (assist by M. Plumlee ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:05.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt hook shot from 6 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:59.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:57.0,,,,,,L. Ball,Offensive rebound by L. Ball,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:57.0,,,,,,L. Ball,Turnover by L. Ball (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,8:43.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:40.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,8:21.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:18.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:18.0,,,,,,M. Plumlee,M. Plumlee misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:17.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,8:14.0,,,,,,A. Simons,A. Simons misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:12.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,8:01.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:59.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:48.0,,,,,,J. Grant,J. Grant makes 3-pt jump shot from 27 ft (assist by J. NurkiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:30.0,,,,,,P. Washington,P. Washington makes 3-pt jump shot from 27 ft (assist by T. Rozier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:15.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:14.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:02.0,,,,,,M. Plumlee,M. Plumlee makes 2-pt jump shot from 9 ft (assist by T. Rozier ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:37.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 3-pt jump shot from 23 ft (assist by D. Lillard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:26.0,,,,,,P. Washington,P. Washington makes 3-pt jump shot from 26 ft (assist by T. Rozier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:13.0,,,,,,D. Lillard,Turnover by D. Lillard (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,6:13.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,6:13.0,,,,,,K. Oubre,K. Oubre enters the game for G. Hayward,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,6:13.0,,,,,,K. Johnson,K. Johnson enters the game for J. Grant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,6:13.0,,,,,,T. Watford,T. Watford enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,6:01.0,,,,,,K. Oubre,Turnover by K. Oubre (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,5:46.0,,,,,,D. Lillard,D. Lillard misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:43.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:43.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:40.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,5:35.0,,,,,,K. Oubre,K. Oubre makes 3-pt jump shot from 23 ft (assist by T. Rozier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:15.0,,,,,,T. Watford,T. Watford makes 2-pt layup from 2 ft (assist by J. NurkiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:01.0,,,,,,M. Plumlee,M. Plumlee makes 2-pt jump shot from 12 ft (assist by L. Ball ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:50.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,4:50.0,,,,,,J. McDaniels,J. McDaniels enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,4:34.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:31.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,4:25.0,,,,,,K. Johnson,K. Johnson makes 2-pt layup from 2 ft (assist by J. Hart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:17.0,,,,,,J. Hart,Personal foul by J. Hart (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,4:17.0,,,,,,D. Eubanks,D. Eubanks enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,4:09.0,,,,,,J. McDaniels,Turnover by J. McDaniels (bad pass; steal by T. Watford ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,4:06.0,,,,,,J. McDaniels,Personal foul by J. McDaniels (drawn by T. Watford ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,4:06.0,,,,,,M. Williams,M. Williams enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,3:58.0,,,,,,D. Lillard,Turnover by D. Lillard (dbl dribble),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,3:58.0,,,,,,T. Maledon,T. Maledon enters the game for L. Ball,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,3:33.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:30.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,3:28.0,,,,,,J. Hart,J. Hart makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:28.0,,,,,,J. McDaniels,Shooting foul by J. McDaniels (drawn by J. Hart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,3:28.0,,,,,,A. Simons,A. Simons enters the game for D. Lillard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,3:28.0,,,,,,J. Hart,J. Hart makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:16.0,,,,,,D. Eubanks,Shooting foul by D. Eubanks (drawn by T. Rozier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,3:16.0,,,,,,T. Rozier,T. Rozier makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:16.0,,,,,,T. Rozier,T. Rozier makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:05.0,,,,,,K. Johnson,Turnover by K. Johnson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,2:46.0,,,,,,T. Watford,Personal foul by T. Watford (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,2:46.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,2:46.0,,,,,,G. Hayward,G. Hayward enters the game for T. Rozier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,2:46.0,,,,,,S. Sharpe,S. Sharpe enters the game for J. Hart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,2:44.0,,,,,,T. Maledon,Turnover by T. Maledon (bad pass; steal by K. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,2:41.0,,,,,,K. Johnson,K. Johnson makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:27.0,,,,,,K. Johnson,Shooting foul by K. Johnson (drawn by T. Maledon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,2:27.0,,,,,,T. Maledon,T. Maledon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:27.0,,,,,,T. Maledon,T. Maledon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:17.0,,,,,,K. Johnson,K. Johnson misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:12.0,,,,,,M. Williams,Defensive rebound by M. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,2:08.0,,,,,,K. Johnson,Personal foul by K. Johnson (drawn by M. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,2:08.0,,,,,,M. Williams,M. Williams makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:08.0,,,,,,M. Williams,M. Williams makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:56.0,,,,,,K. Johnson,Turnover by K. Johnson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,1:43.0,,,,,,G. Hayward,G. Hayward makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:28.0,,,,,,K. Johnson,K. Johnson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:24.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,1:18.0,,,,,,J. McDaniels,J. McDaniels misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:16.0,,,,,,T. Maledon,Offensive rebound by T. Maledon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:12.0,,,,,,M. Williams,M. Williams makes 2-pt dunk from 2 ft (assist by T. Maledon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:52.0,,,,,,K. Johnson,Turnover by K. Johnson (bad pass; steal by J. McDaniels ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,0:49.0,,,,,,G. Hayward,G. Hayward makes 2-pt layup from 1 ft (assist by J. McDaniels ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:40.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:31.0,,,,,,M. Williams,M. Williams makes 2-pt layup from 2 ft (assist by G. Hayward ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:13.0,,,,,,A. Simons,A. Simons makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:00.0,,,,,,T. Maledon,Turnover by T. Maledon (bad pass; steal by K. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,0:00.0,,,,,,K. Johnson,K. Johnson misses 3-pt jump shot from 52 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:51.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:48.0,,,,,,S. Sharpe,Defensive rebound by S. Sharpe,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,11:39.0,,,,,,M. Williams,Personal foul by M. Williams (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,11:36.0,,,,,,K. Oubre,Shooting foul by K. Oubre (drawn by A. Simons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,11:36.0,,,,,,A. Simons,A. Simons makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:36.0,,,,,,A. Simons,A. Simons makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:36.0,,,,,,A. Simons,A. Simons makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:22.0,,,,,,K. Oubre,K. Oubre makes 2-pt jump shot from 2 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:07.0,,,,,,K. Johnson,K. Johnson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:07.0,,,,,,M. Williams,Loose ball foul by M. Williams (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,11:01.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:58.0,,,,,,M. Williams,Defensive rebound by M. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,10:52.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt layup from 2 ft (assist by T. Maledon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:34.0,,,,,,K. Johnson,K. Johnson makes 2-pt layup from 3 ft (assist by J. Grant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:20.0,,,,,,K. Oubre,K. Oubre makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:01.0,,,,,,K. Johnson,K. Johnson makes 2-pt jump shot from 22 ft (assist by J. Grant ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:47.0,,,,,,K. Oubre,K. Oubre makes 3-pt jump shot from 25 ft (assist by T. Maledon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:31.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (bad pass; steal by M. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,9:26.0,,,,,,M. Williams,M. Williams makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:26.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,9:26.0,,,,,,J. Hart,J. Hart enters the game for K. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,9:26.0,,,,,,D. Lillard,D. Lillard enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,9:16.0,,,,,,K. Oubre,Shooting foul by K. Oubre (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,9:16.0,,,,,,D. Lillard,D. Lillard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:16.0,,,,,,D. Lillard,D. Lillard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:04.0,,,,,,J. Grant,Personal foul by J. Grant (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,8:54.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:54.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,8:39.0,,,,,,D. Lillard,D. Lillard misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:38.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,8:33.0,,,,,,J. McDaniels,J. McDaniels makes 3-pt jump shot from 28 ft (assist by T. Maledon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:15.0,,,,,,T. Maledon,Personal foul by T. Maledon (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,8:15.0,,,,,,D. Lillard,D. Lillard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:15.0,,,,,,L. Ball,L. Ball enters the game for T. Maledon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,8:15.0,,,,,,P. Washington,P. Washington enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,8:15.0,,,,,,A. Simons,A. Simons enters the game for S. Sharpe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,8:15.0,,,,,,D. Lillard,D. Lillard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:00.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 12 ft (block by D. Lillard ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,7:57.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:52.0,,,,,,D. Lillard,Turnover by D. Lillard (bad pass; steal by M. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,7:50.0,,,,,,J. Hart,Personal foul by J. Hart (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,7:50.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:50.0,,,,,,D. Eubanks,D. Eubanks enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,7:50.0,,,,,,L. Ball,L. Ball makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:50.0,,,,,,M. Plumlee,M. Plumlee enters the game for M. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,7:44.0,,,,,,K. Oubre,K. Oubre misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:42.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:42.0,,,,,,M. Plumlee,M. Plumlee makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:27.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:26.0,,,,,,D. Eubanks,Offensive rebound by D. Eubanks,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:22.0,,,,,,D. Eubanks,D. Eubanks makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:13.0,,,,,,L. Ball,L. Ball makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:58.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:58.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:48.0,,,,,,P. Washington,P. Washington misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:46.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:38.0,,,,,,J. Hart,J. Hart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:35.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:27.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:25.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:17.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:13.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:10.0,,,,,,P. Washington,P. Washington makes 2-pt layup at rim (assist by L. Ball ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:47.0,,,,,,J. Grant,J. Grant makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:42.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,5:42.0,,,,,,T. Rozier,T. Rozier enters the game for G. Hayward,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,5:27.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup from 1 ft (block by D. Eubanks ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,5:25.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:19.0,,,,,,M. Plumlee,M. Plumlee misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:17.0,,,,,,L. Ball,Offensive rebound by L. Ball,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:17.0,,,,,,L. Ball,L. Ball makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:02.0,,,,,,J. Grant,J. Grant makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:48.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:47.0,,,,,,D. Eubanks,Defensive rebound by D. Eubanks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,4:24.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:21.0,,,,,,T. Rozier,Defensive rebound by T. Rozier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,4:17.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:16.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,4:08.0,,,,,,J. Hart,J. Hart misses 2-pt layup from 2 ft (block by P. Washington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,4:08.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,3:54.0,,,,,,P. Washington,P. Washington makes 2-pt jump shot from 11 ft (assist by L. Ball ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:36.0,,,,,,L. Ball,Personal foul by L. Ball (drawn by J. Hart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,3:36.0,,,,,,J. Hart,J. Hart makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:36.0,,,,,,J. NurkiÄ,J. NurkiÄ enters the game for D. Eubanks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,3:36.0,,,,,,J. Hart,J. Hart makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:20.0,,,,,,A. Simons,Shooting foul by A. Simons (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,3:20.0,,,,,,K. Oubre,K. Oubre makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:20.0,,,,,,K. Oubre,K. Oubre misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:18.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,3:01.0,,,,,,J. Grant,J. Grant makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:52.0,,,,,,P. Washington,P. Washington makes 3-pt jump shot from 24 ft (assist by T. Rozier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:42.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:41.0,,,,,,G. Hayward,G. Hayward enters the game for K. Oubre,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,2:37.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:35.0,,,,,,T. Rozier,Defensive rebound by T. Rozier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,2:30.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 6 ft (block by D. Lillard ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,2:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:26.0,,,,,,J. Grant,Personal foul by J. Grant (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,2:16.0,,,,,,G. Hayward,G. Hayward makes 2-pt jump shot from 19 ft (assist by L. Ball ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:05.0,,,,,,T. Rozier,Personal foul by T. Rozier (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,2:05.0,,,,,,J. Grant,J. Grant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:05.0,,,,,,J. Grant,J. Grant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:52.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:47.0,,,,,,G. Hayward,Offensive rebound by G. Hayward,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:47.0,,,,,,G. Hayward,G. Hayward misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:46.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,1:44.0,,,,,,J. Hart,J. Hart misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:42.0,,,,,,J. Grant,Offensive rebound by J. Grant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:42.0,,,,,,J. Grant,J. Grant makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:22.0,,,,,,M. Plumlee,M. Plumlee makes 2-pt layup from 2 ft (assist by P. Washington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:22.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,1:22.0,,,,,,M. Plumlee,M. Plumlee misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:20.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,1:13.0,,,,,,M. Plumlee,Shooting foul by M. Plumlee (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,1:13.0,,,,,,D. Lillard,D. Lillard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:13.0,,,,,,D. Lillard,D. Lillard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:56.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:53.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,0:47.0,,,,,,P. Washington,Shooting foul by P. Washington (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,0:47.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:47.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:40.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:37.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,0:32.0,,,,,,D. Lillard,D. Lillard makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:11.0,,,,,,L. Ball,Turnover by L. Ball (bad pass; steal by J. NurkiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,0:04.0,,,,,,D. Lillard,D. Lillard misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:02.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,0:02.0,,,,,,J. NurkiÄ,Personal foul by J. NurkiÄ (drawn by L. Ball ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,0:02.0,,,,,,L. Ball,L. Ball misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:02.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:00.0,,,,,,L. Ball,L. Ball misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:48.0,,,,,,P. Washington,P. Washington misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:47.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:41.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:39.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,11:32.0,,,,,,J. Grant,J. Grant makes 3-pt jump shot from 25 ft (assist by J. Hart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:07.0,,,,,,L. Ball,L. Ball misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:06.0,,,,,,D. Lillard,Defensive rebound by D. Lillard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,10:59.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 3-pt jump shot from 26 ft (assist by J. Grant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:45.0,,,,,,L. Ball,L. Ball misses 2-pt layup from 2 ft (block by J. NurkiÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,10:45.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:42.0,,,,,,P. Washington,P. Washington makes 3-pt jump shot from 25 ft (assist by L. Ball ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:17.0,,,,,,J. Grant,J. Grant misses 2-pt layup from 1 ft (block by P. Washington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,10:17.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,10:09.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:07.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,10:03.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:00.0,,,,,,D. Lillard,Offensive rebound by D. Lillard,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:58.0,,,,,,L. Ball,Personal foul by L. Ball (drawn by D. Lillard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,9:51.0,,,,,,J. Hart,J. Hart misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:48.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:46.0,,,,,,J. Grant,J. Grant makes 3-pt jump shot from 25 ft (assist by J. NurkiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:27.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 24 ft (block by J. Grant ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,9:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:23.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:20.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,9:14.0,,,,,,J. Hart,J. Hart makes 2-pt layup from 2 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:14.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,8:58.0,,,,,,L. Ball,L. Ball makes 2-pt jump shot from 22 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:39.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt hook shot from 5 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:27.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:24.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:22.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:20.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,8:12.0,,,,,,J. Grant,J. Grant makes 3-pt jump shot from 27 ft (assist by J. Hart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:48.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 24 ft (assist by M. Plumlee ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:27.0,,,,,,D. Lillard,Turnover by D. Lillard (bad pass; steal by G. Hayward ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,7:20.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:18.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:15.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:12.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:06.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 32 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:03.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:54.0,,,,,,D. Lillard,D. Lillard makes 2-pt layup from 1 ft (assist by J. NurkiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:45.0,,,,,,P. Washington,Turnover by P. Washington (bad pass; steal by A. Simons ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,6:42.0,,,,,,A. Simons,A. Simons makes 2-pt dunk from 1 ft (assist by J. NurkiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:36.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:36.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:24.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:21.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:09.0,,,,,,P. Washington,P. Washington makes 2-pt jump shot from 13 ft (assist by L. Ball ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:45.0,,,,,,P. Washington,Shooting foul by P. Washington (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,5:45.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:45.0,,,,,,K. Oubre,K. Oubre enters the game for G. Hayward,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,5:45.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:34.0,,,,,,J. Grant,Shooting foul by J. Grant (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,5:34.0,,,,,,M. Plumlee,M. Plumlee makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:34.0,,,,,,M. Plumlee,M. Plumlee makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:16.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:12.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,5:06.0,,,,,,D. Lillard,Shooting foul by D. Lillard (drawn by L. Ball ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,5:06.0,,,,,,L. Ball,L. Ball makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:06.0,,,,,,J. McDaniels,J. McDaniels enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,5:06.0,,,,,,K. Johnson,K. Johnson enters the game for J. Grant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,5:06.0,,,,,,T. Watford,T. Watford enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,5:06.0,,,,,,L. Ball,L. Ball makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:52.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:29.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:26.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,4:22.0,,,,,,J. Hart,Turnover by J. Hart (lost ball; steal by L. Ball ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,4:08.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:06.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,3:57.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 3-pt jump shot from 26 ft (assist by D. Lillard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:30.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:27.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,3:26.0,,,,,,J. Hart,J. Hart makes 2-pt dunk from 1 ft (assist by J. NurkiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:26.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,3:26.0,,,,,,D. Eubanks,D. Eubanks enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,3:09.0,,,,,,K. Oubre,K. Oubre misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:09.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:09.0,,,,,,J. Hart,Shooting foul by J. Hart (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,3:09.0,,,,,,M. Plumlee,M. Plumlee makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:09.0,,,,,,M. Plumlee,M. Plumlee makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:54.0,,,,,,D. Lillard,D. Lillard makes 3-pt jump shot from 25 ft (assist by D. Eubanks ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:40.0,,,,,,M. Plumlee,M. Plumlee makes 2-pt dunk from 1 ft (assist by K. Oubre ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:21.0,,,,,,D. Lillard,Turnover by D. Lillard (lost ball; steal by L. Ball ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,2:17.0,,,,,,J. McDaniels,Turnover by J. McDaniels (lost ball; steal by J. Hart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,2:13.0,,,,,,D. Eubanks,D. Eubanks makes 2-pt layup from 2 ft (assist by D. Lillard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:06.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:06.0,,,,,,T. Watford,Loose ball foul by T. Watford (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,2:06.0,,,,,,G. Hayward,G. Hayward enters the game for T. Rozier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,2:01.0,,,,,,D. Lillard,Shooting foul by D. Lillard (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,2:01.0,,,,,,G. Hayward,G. Hayward makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:01.0,,,,,,M. Williams,M. Williams enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,2:01.0,,,,,,G. Hayward,G. Hayward makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:44.0,,,,,,J. Hart,J. Hart makes 2-pt layup from 2 ft (assist by T. Watford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:36.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:34.0,,,,,,D. Lillard,Defensive rebound by D. Lillard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,1:30.0,,,,,,D. Eubanks,D. Eubanks makes 3-pt jump shot from 26 ft (assist by K. Johnson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:12.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt hook shot from 9 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:48.0,,,,,,K. Johnson,K. Johnson misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:48.0,,,,,,D. Eubanks,Offensive rebound by D. Eubanks,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:48.0,,,,,,L. Ball,Shooting foul by L. Ball (drawn by D. Eubanks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,0:48.0,,,,,,D. Eubanks,D. Eubanks misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:48.0,,,,,,D. Eubanks,D. Eubanks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:33.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:31.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 33 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:28.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,0:10.0,,,,,,L. Ball,L. Ball makes 3-pt jump shot from 31 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:49.0,,,,,,J. Grant,J. Grant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:45.0,,,,,,T. Rozier,Defensive rebound by T. Rozier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,11:43.0,,,,,,T. Rozier,Turnover by T. Rozier (bad pass; steal by J. Grant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212260POR,1,11:39.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:38.0,,,,,,J. Grant,Offensive rebound by J. Grant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:37.0,,,,,,J. Grant,J. Grant misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:37.0,,,,,,J. Grant,Offensive rebound by J. Grant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:32.0,,,,,,J. Grant,J. Grant makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:13.0,,,,,,T. Rozier,T. Rozier misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,11:12.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,11:03.0,,,,,,K. Oubre,Personal foul by K. Oubre (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,10:57.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:54.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,10:50.0,,,,,,K. Oubre,Turnover by K. Oubre (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,10:37.0,,,,,,J. Grant,J. Grant misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:35.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,10:32.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:29.0,,,,,,J. McDaniels,Offensive rebound by J. McDaniels,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:28.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt layup from 5 ft (block by K. Johnson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,10:26.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,10:23.0,,,,,,J. Grant,J. Grant makes 2-pt dunk from 1 ft (assist by A. Simons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:13.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,10:13.0,,,,,,K. Oubre,K. Oubre makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:13.0,,,,,,P. Washington,P. Washington enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,10:13.0,,,,,,K. Oubre,K. Oubre misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,10:11.0,,,,,,T. Watford,Defensive rebound by T. Watford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,9:59.0,,,,,,M. Williams,Personal foul by M. Williams (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,9:53.0,,,,,,J. Grant,J. Grant misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:52.0,,,,,,M. Williams,Defensive rebound by M. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,9:44.0,,,,,,T. Watford,Shooting foul by T. Watford (drawn by M. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,9:44.0,,,,,,M. Williams,M. Williams makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:44.0,,,,,,M. Williams,M. Williams misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:42.0,,,,,,T. Watford,Defensive rebound by T. Watford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,9:32.0,,,,,,J. Grant,J. Grant misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:29.0,,,,,,M. Williams,Defensive rebound by M. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,9:19.0,,,,,,T. Rozier,T. Rozier makes 2-pt jump shot from 20 ft (assist by M. Williams ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:01.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,9:00.0,,,,,,K. Johnson,Offensive rebound by K. Johnson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:55.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 3-pt jump shot from 25 ft (assist by J. Grant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:34.0,,,,,,P. Washington,P. Washington makes 2-pt jump shot from 4 ft (assist by T. Rozier ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:15.0,,,,,,K. Johnson,K. Johnson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,8:14.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,8:14.0,,,,,,T. Watford,Loose ball foul by T. Watford (drawn by M. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,8:14.0,,,,,,D. Lillard,D. Lillard enters the game for K. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,8:01.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:57.0,,,,,,M. Williams,Offensive rebound by M. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:56.0,,,,,,M. Williams,M. Williams misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:55.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:43.0,,,,,,M. Williams,Shooting foul by M. Williams (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,7:43.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:43.0,,,,,,L. Ball,L. Ball enters the game for G. Hayward,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,7:43.0,,,,,,J. Hart,J. Hart enters the game for T. Watford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,7:43.0,,,,,,J. NurkiÄ,J. NurkiÄ misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:40.0,,,,,,M. Williams,Defensive rebound by M. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:24.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:22.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,7:09.0,,,,,,M. Williams,Shooting foul by M. Williams (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,7:09.0,,,,,,J. NurkiÄ,J. NurkiÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:09.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,7:09.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:49.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,6:47.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,6:31.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,6:31.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,6:31.0,,,,,,M. Plumlee,M. Plumlee enters the game for M. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,6:19.0,,,,,,L. Ball,Offensive foul by L. Ball (drawn by J. Hart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,6:19.0,,,,,,L. Ball,Turnover by L. Ball (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212260POR,1,6:01.0,,,,,,J. Grant,J. Grant makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:46.0,,,,,,P. Washington,P. Washington misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:44.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,5:30.0,,,,,,J. Grant,Turnover by J. Grant (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212260POR,1,5:15.0,,,,,,K. Oubre,K. Oubre misses 2-pt layup from 5 ft (block by J. NurkiÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,5:15.0,,,,,,K. Oubre,Offensive rebound by K. Oubre,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:09.0,,,,,,K. Oubre,K. Oubre misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:06.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,5:04.0,,,,,,J. Grant,J. Grant makes 2-pt dunk from 2 ft (assist by A. Simons ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,5:04.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,5:04.0,,,,,,G. Hayward,G. Hayward enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,4:45.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:41.0,,,,,,L. Ball,Offensive rebound by L. Ball,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:41.0,,,,,,L. Ball,L. Ball misses 2-pt jump shot from 2 ft (block by J. Grant ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,4:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:33.0,,,,,,T. Rozier,T. Rozier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:30.0,,,,,,K. Oubre,Offensive rebound by K. Oubre,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:30.0,,,,,,K. Oubre,K. Oubre makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,4:14.0,,,,,,D. Lillard,D. Lillard makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:54.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:53.0,,,,,,K. Oubre,Offensive rebound by K. Oubre,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:53.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,3:53.0,,,,,,K. Oubre,K. Oubre makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:53.0,,,,,,K. Oubre,K. Oubre misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:51.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,3:36.0,,,,,,D. Lillard,D. Lillard misses 2-pt layup from 1 ft (block by P. Washington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212260POR,1,3:36.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,3:36.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212260POR,1,3:36.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:24.0,,,,,,L. Ball,L. Ball makes 2-pt jump shot from 1 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,3:04.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 3-pt jump shot from 24 ft (assist by J. Grant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:52.0,,,,,,L. Ball,L. Ball misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:51.0,,,,,,J. Hart,Defensive rebound by J. Hart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,2:32.0,,,,,,D. Lillard,D. Lillard makes 2-pt jump shot from 23 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,2:24.0,,,,,,T. Rozier,T. Rozier makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:59.0,,,,,,D. Lillard,D. Lillard misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:57.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,1:50.0,,,,,,P. Washington,P. Washington makes 2-pt hook shot from 1 ft (assist by L. Ball ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:50.0,,,,,,,Instant Replay,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:31.0,,,,,,A. Simons,A. Simons misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:30.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,1:26.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:22.0,,,,,,T. Rozier,Offensive rebound by T. Rozier,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:18.0,,,,,,T. Rozier,T. Rozier misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,1:16.0,,,,,,J. Grant,Defensive rebound by J. Grant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,0:54.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:51.0,,,,,,J. Grant,Offensive rebound by J. Grant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:42.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:40.0,,,,,,L. Ball,Defensive rebound by L. Ball,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,0:36.0,,,,,,L. Ball,L. Ball misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:35.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212260POR,1,0:35.0,,,,,,L. Ball,Personal take foul by L. Ball (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,0:35.0,,,,,,J. NurkiÄ,J. NurkiÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:35.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:35.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:35.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:28.0,,,,,,L. Ball,L. Ball makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:24.0,,,,,,L. Ball,Personal take foul by L. Ball (drawn by J. Grant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212260POR,1,0:24.0,,,,,,T. Maledon,T. Maledon enters the game for L. Ball,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,0:24.0,,,,,,K. Johnson,K. Johnson enters the game for D. Lillard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,0:24.0,,,,,,J. Grant,J. Grant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:24.0,,,,,,G. Brown,G. Brown enters the game for J. Hart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,0:24.0,,,,,,S. Sharpe,S. Sharpe enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,0:24.0,,,,,,J. Walker,J. Walker enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212260POR,1,0:24.0,,,,,,J. Grant,J. Grant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212260POR,1,0:00.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

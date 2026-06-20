@@ -1,0 +1,475 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202301100PHI,1,11:35.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:14.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:11.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,11:06.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 16 ft (block by N. Noel ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,11:02.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,10:59.0,,,,,,J. Ivey,J. Ivey makes 3-pt jump shot from 27 ft (assist by S. Bey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:39.0,,,,,,T. Harris,T. Harris makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:25.0,,,,,,N. Noel,N. Noel misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:22.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,10:18.0,,,,,,T. Harris,T. Harris makes 3-pt jump shot from 27 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:00.0,,,,,,J. Ivey,J. Ivey misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:57.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,9:50.0,,,,,,J. Embiid,Offensive foul by J. Embiid (drawn by N. Noel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,9:50.0,,,,,,J. Embiid,Turnover by J. Embiid (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301100PHI,1,9:36.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:33.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,9:30.0,,,,,,J. Embiid,J. Embiid makes 2-pt dunk at rim (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:11.0,,,,,,N. Noel,N. Noel makes 2-pt layup from 1 ft (assist by S. Bey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:55.0,,,,,,J. Harden,J. Harden makes 2-pt jump shot from 2 ft (assist by T. Maxey ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:48.0,,,,,,J. Ivey,Turnover by J. Ivey (lost ball; steal by T. Maxey ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,8:43.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 25 ft (assist by T. Harris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:42.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,8:23.0,,,,,,K. Knox,K. Knox misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:20.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,8:05.0,,,,,,T. Maxey,Offensive foul by T. Maxey (drawn by J. Ivey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,8:05.0,,,,,,T. Maxey,Turnover by T. Maxey (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301100PHI,1,7:53.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:49.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,7:39.0,,,,,,J. Embiid,J. Embiid misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:36.0,,,,,,J. Ivey,Defensive rebound by J. Ivey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,7:31.0,,,,,,K. Hayes,K. Hayes makes 3-pt jump shot from 27 ft (assist by J. Ivey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:18.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 9 ft (assist by J. Harden ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:04.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:01.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,6:56.0,,,,,,J. Embiid,J. Embiid makes 3-pt jump shot from 26 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:39.0,,,,,,K. Knox,K. Knox makes 3-pt jump shot from 24 ft (assist by K. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:32.0,,,,,,S. Bey,Personal foul by S. Bey (drawn by T. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,6:32.0,,,,,,D. Melton,D. Melton enters the game for T. Maxey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:25.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:23.0,,,,,,J. Ivey,Defensive rebound by J. Ivey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,6:10.0,,,,,,P. Tucker,Shooting foul by P. Tucker (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,6:10.0,,,,,,S. Bey,S. Bey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:10.0,,,,,,S. Bey,S. Bey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:55.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 11 ft (assist by J. Harden ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:37.0,,,,,,K. Knox,K. Knox misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:31.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,5:26.0,,,,,,N. Noel,Personal foul by N. Noel (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,5:10.0,,,,,,J. Embiid,J. Embiid misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:07.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,4:51.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:47.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,4:47.0,,,,,,A. Burks,A. Burks enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,4:47.0,,,,,,H. Diallo,H. Diallo enters the game for J. Ivey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,4:47.0,,,,,,G. Niang,G. Niang enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,4:36.0,,,,,,J. Harden,Turnover by J. Harden (lost ball; steal by N. Noel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,4:29.0,,,,,,H. Diallo,H. Diallo makes 2-pt layup from 1 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:16.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:13.0,,,,,,K. Hayes,Defensive rebound by K. Hayes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,4:03.0,,,,,,K. Hayes,K. Hayes misses 2-pt layup from 8 ft (block by J. Embiid ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,4:03.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,3:56.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:49.0,,,,,,D. Melton,Shooting foul by D. Melton (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,3:49.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:49.0,,,,,,M. Thybulle,M. Thybulle enters the game for T. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,3:49.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:32.0,,,,,,J. Embiid,Turnover by J. Embiid (bad pass; steal by A. Burks ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,3:30.0,,,,,,A. Burks,A. Burks misses 2-pt layup from 2 ft (block by J. Embiid ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,3:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:30.0,,,,,,S. Bey,S. Bey enters the game for N. Noel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,3:30.0,,,,,,M. Harrell,M. Harrell enters the game for J. Embiid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,3:21.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 24 ft (block by M. Thybulle ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,3:17.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,3:10.0,,,,,,G. Niang,Offensive foul by G. Niang (drawn by H. Diallo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,3:10.0,,,,,,G. Niang,Turnover by G. Niang (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301100PHI,1,2:55.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:54.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:50.0,,,,,,G. Niang,Technical foul by G. Niang,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,2:50.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,2:50.0,,,,,,S. Milton,S. Milton enters the game for J. Harden,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,2:50.0,,,,,,K. Hayes,K. Hayes misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:50.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:38.0,,,,,,M. Thybulle,M. Thybulle makes 2-pt layup from 1 ft (assist by M. Harrell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:23.0,,,,,,K. Knox,K. Knox misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:13.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:10.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:05.0,,,,,,S. Milton,S. Milton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:02.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:02.0,,,,,,J. Ivey,J. Ivey enters the game for K. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,2:02.0,,,,,,R. McGruder,R. McGruder enters the game for K. Knox,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,1:51.0,,,,,,M. Thybulle,Shooting foul by M. Thybulle (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,1:51.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:51.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:38.0,,,,,,S. Milton,Turnover by S. Milton (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301100PHI,1,1:35.0,,,,,,J. Ivey,J. Ivey misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:33.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,1:22.0,,,,,,M. Harrell,Offensive foul by M. Harrell (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,1:22.0,,,,,,M. Harrell,Turnover by M. Harrell (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301100PHI,1,1:22.0,,,,,,T. Maxey,T. Maxey enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,1:10.0,,,,,,J. Ivey,Turnover by J. Ivey (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301100PHI,1,0:49.0,,,,,,M. Harrell,M. Harrell makes 2-pt hook shot from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:39.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 8 ft (block by S. Milton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,0:38.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:32.0,,,,,,T. Maxey,T. Maxey misses 2-pt layup from 5 ft (block by S. Bey ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,0:32.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:29.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:26.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:26.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 3 ft (block by S. Milton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,0:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:24.0,,,,,,M. Harrell,Shooting foul by M. Harrell (drawn by H. Diallo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,0:24.0,,,,,,H. Diallo,H. Diallo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:24.0,,,,,,H. Diallo,H. Diallo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:22.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:05.0,,,,,,G. Niang,G. Niang misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:05.0,,,,,,A. Burks,Turnover by A. Burks (lost ball; steal by D. Melton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,0:05.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:00.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:00.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,11:51.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:48.0,,,,,,G. Niang,Defensive rebound by G. Niang,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,11:35.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 2 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:17.0,,,,,,H. Diallo,H. Diallo makes 2-pt jump shot from 17 ft (assist by J. Ivey ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:04.0,,,,,,S. Milton,S. Milton makes 2-pt jump shot from 2 ft (assist by D. Melton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:54.0,,,,,,H. Diallo,H. Diallo makes 2-pt layup from 1 ft (assist by J. Ivey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:33.0,,,,,,T. Maxey,T. Maxey misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:30.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,10:24.0,,,,,,J. Ivey,Turnover by J. Ivey (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301100PHI,1,10:24.0,,,,,,T. Harris,T. Harris enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,10:16.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 2 ft (assist by S. Milton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:01.0,,,,,,J. Ivey,J. Ivey makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:44.0,,,,,,T. Harris,Turnover by T. Harris (bad pass; steal by H. Diallo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,9:35.0,,,,,,R. McGruder,R. McGruder makes 3-pt jump shot from 26 ft (assist by J. Ivey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:11.0,,,,,,T. Maxey,T. Maxey makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:02.0,,,,,,S. Milton,Personal foul by S. Milton (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,8:55.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:52.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,8:47.0,,,,,,D. Melton,Turnover by D. Melton (lost ball; steal by H. Diallo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,8:44.0,,,,,,H. Diallo,H. Diallo misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:42.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,8:33.0,,,,,,M. Harrell,Turnover by M. Harrell (lost ball; steal by J. Ivey ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,8:19.0,,,,,,J. Ivey,J. Ivey misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:17.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,8:13.0,,,,,,T. Maxey,T. Maxey makes 3-pt jump shot from 26 ft (assist by T. Harris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:12.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,8:12.0,,,,,,K. Hayes,K. Hayes enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,8:12.0,,,,,,J. Harden,J. Harden enters the game for D. Melton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,7:58.0,,,,,,K. Hayes,Turnover by K. Hayes (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301100PHI,1,7:47.0,,,,,,T. Harris,T. Harris makes 2-pt layup from 2 ft (assist by M. Harrell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:22.0,,,,,,J. Ivey,J. Ivey misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:20.0,,,,,,S. Milton,Defensive rebound by S. Milton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,7:16.0,,,,,,K. Hayes,Personal foul by K. Hayes (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,7:16.0,,,,,,N. Noel,N. Noel enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,7:16.0,,,,,,J. Embiid,J. Embiid enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,7:11.0,,,,,,J. Harden,Offensive foul by J. Harden (drawn by R. McGruder ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,7:11.0,,,,,,J. Harden,Turnover by J. Harden (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301100PHI,1,6:49.0,,,,,,R. McGruder,R. McGruder misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:44.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,6:34.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 8 ft (assist by J. Harden ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:34.0,,,,,,N. Noel,Shooting foul by N. Noel (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,6:34.0,,,,,,C. Joseph,C. Joseph enters the game for H. Diallo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:34.0,,,,,,K. Knox,K. Knox enters the game for J. Ivey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:34.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:22.0,,,,,,T. Maxey,Personal foul by T. Maxey (drawn by C. Joseph ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,6:22.0,,,,,,P. Tucker,P. Tucker enters the game for S. Milton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:16.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:14.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,6:01.0,,,,,,T. Harris,T. Harris makes 2-pt hook shot from 3 ft (assist by P. Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:47.0,,,,,,N. Noel,N. Noel misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:45.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,5:37.0,,,,,,J. Embiid,J. Embiid misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:36.0,,,,,,J. Embiid,Offensive rebound by J. Embiid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:36.0,,,,,,J. Embiid,J. Embiid misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:36.0,,,,,,J. Embiid,Offensive rebound by J. Embiid,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:36.0,,,,,,C. Joseph,Shooting foul by C. Joseph (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,5:36.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:36.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:21.0,,,,,,C. Joseph,C. Joseph misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:18.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,5:08.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:06.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:05.0,,,,,,R. McGruder,Personal foul by R. McGruder (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,5:00.0,,,,,,R. McGruder,Shooting foul by R. McGruder (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,5:00.0,,,,,,J. Harden,J. Harden makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:00.0,,,,,,A. Burks,A. Burks enters the game for R. McGruder,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,5:00.0,,,,,,J. Harden,J. Harden misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:59.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,4:59.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,4:40.0,,,,,,N. Noel,N. Noel makes 3-pt jump shot from 26 ft (assist by K. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:24.0,,,,,,J. Embiid,J. Embiid makes 2-pt dunk from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:12.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:09.0,,,,,,T. Maxey,Defensive rebound by T. Maxey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,4:04.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:01.0,,,,,,K. Knox,Defensive rebound by K. Knox,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,3:54.0,,,,,,N. Noel,N. Noel misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:51.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,3:32.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:30.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,3:25.0,,,,,,K. Knox,K. Knox makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:25.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,3:05.0,,,,,,T. Harris,T. Harris makes 3-pt jump shot from 23 ft (assist by T. Maxey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:49.0,,,,,,A. Burks,A. Burks makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:46.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:36.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft (block by A. Burks ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,2:35.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:34.0,,,,,,N. Noel,Turnover by N. Noel (bad pass; steal by J. Harden ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,2:32.0,,,,,,J. Harden,J. Harden makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:18.0,,,,,,C. Joseph,C. Joseph makes 3-pt jump shot from 27 ft (assist by N. Noel ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:03.0,,,,,,J. Embiid,J. Embiid makes 2-pt jump shot from 13 ft (assist by J. Harden ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:50.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:47.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,1:42.0,,,,,,J. Embiid,J. Embiid makes 2-pt dunk from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:24.0,,,,,,K. Knox,K. Knox misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:21.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,1:12.0,,,,,,J. Embiid,Offensive foul by J. Embiid (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,1:12.0,,,,,,J. Embiid,Turnover by J. Embiid (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301100PHI,1,1:12.0,,,,,,D. Melton,D. Melton enters the game for T. Maxey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,0:58.0,,,,,,K. Hayes,K. Hayes misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:58.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:58.0,,,,,,K. Knox,Personal foul by K. Knox (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,0:58.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:58.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:45.0,,,,,,A. Burks,A. Burks makes 2-pt jump shot from 14 ft (assist by C. Joseph ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:23.0,,,,,,P. Tucker,P. Tucker makes 3-pt jump shot from 23 ft (assist by J. Embiid ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:01.0,,,,,,K. Knox,K. Knox makes 2-pt layup from 1 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:00.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 48 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:45.0,,,,,,K. Knox,K. Knox misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:43.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,11:27.0,,,,,,P. Tucker,P. Tucker makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:13.0,,,,,,K. Hayes,K. Hayes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:11.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,11:07.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:03.0,,,,,,N. Noel,Defensive rebound by N. Noel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,10:56.0,,,,,,T. Maxey,Shooting foul by T. Maxey (drawn by J. Ivey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,10:56.0,,,,,,J. Ivey,J. Ivey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:56.0,,,,,,J. Ivey,J. Ivey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:40.0,,,,,,T. Maxey,T. Maxey makes 2-pt jump shot from 12 ft (assist by J. Harden ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:40.0,,,,,,J. Ivey,Shooting foul by J. Ivey (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,10:40.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:27.0,,,,,,S. Bey,S. Bey misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:24.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:22.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,10:13.0,,,,,,J. Harden,Turnover by J. Harden (bad pass; steal by K. Hayes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,10:10.0,,,,,,J. Embiid,Personal foul by J. Embiid (drawn by J. Ivey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,10:00.0,,,,,,K. Hayes,K. Hayes misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:57.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,9:43.0,,,,,,T. Maxey,T. Maxey misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:39.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:39.0,,,,,,P. Tucker,P. Tucker misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:38.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:37.0,,,,,,P. Tucker,P. Tucker misses 2-pt layup from 5 ft (block by N. Noel ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,9:34.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,9:31.0,,,,,,J. Ivey,J. Ivey makes 3-pt jump shot from 28 ft (assist by K. Hayes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:19.0,,,,,,J. Harden,J. Harden makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:19.0,,,,,,K. Hayes,Shooting foul by K. Hayes (drawn by J. Harden ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,9:19.0,,,,,,J. Harden,J. Harden makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:00.0,,,,,,J. Ivey,J. Ivey makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:42.0,,,,,,T. Harris,Turnover by T. Harris (lost ball; steal by K. Hayes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,8:35.0,,,,,,K. Knox,K. Knox makes 2-pt layup from 2 ft (assist by K. Hayes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:24.0,,,,,,J. Embiid,J. Embiid misses 2-pt jump shot from 11 ft (block by N. Noel ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,8:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:13.0,,,,,,J. Harden,J. Harden misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:10.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:05.0,,,,,,J. Embiid,J. Embiid makes 2-pt dunk at rim (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:44.0,,,,,,K. Hayes,K. Hayes makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:31.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:31.0,,,,,,N. Noel,Shooting foul by N. Noel (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,7:31.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:16.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:12.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,7:11.0,,,,,,T. Maxey,T. Maxey makes 2-pt layup from 1 ft (assist by T. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:11.0,,,,,,J. Ivey,Shooting foul by J. Ivey (drawn by T. Maxey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,7:11.0,,,,,,T. Maxey,T. Maxey makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:07.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,7:07.0,,,,,,A. Burks,A. Burks enters the game for K. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,7:07.0,,,,,,H. Diallo,H. Diallo enters the game for N. Noel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:59.0,,,,,,P. Tucker,Shooting foul by P. Tucker (drawn by H. Diallo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,6:59.0,,,,,,H. Diallo,H. Diallo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:59.0,,,,,,H. Diallo,H. Diallo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:57.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,6:46.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:33.0,,,,,,K. Knox,K. Knox misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:30.0,,,,,,T. Harris,Defensive rebound by T. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,6:23.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup at rim (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:23.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,6:23.0,,,,,,D. Melton,D. Melton enters the game for T. Maxey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:13.0,,,,,,A. Burks,Turnover by A. Burks (lost ball; steal by J. Harden ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,6:09.0,,,,,,J. Embiid,J. Embiid makes 2-pt layup from 1 ft (assist by J. Harden ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:00.0,,,,,,S. Bey,S. Bey misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:00.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,5:47.0,,,,,,D. Melton,D. Melton makes 3-pt jump shot from 26 ft (assist by J. Harden ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:33.0,,,,,,J. Ivey,Turnover by J. Ivey (bad pass; steal by D. Melton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,5:25.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:22.0,,,,,,J. Harden,Offensive rebound by J. Harden,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:22.0,,,,,,S. Bey,Shooting foul by S. Bey (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,5:22.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:22.0,,,,,,C. Joseph,C. Joseph enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,5:22.0,,,,,,R. McGruder,R. McGruder enters the game for J. Ivey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,5:22.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:14.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:10.0,,,,,,J. Embiid,Defensive rebound by J. Embiid,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,4:48.0,,,,,,J. Harden,J. Harden makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:33.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:30.0,,,,,,J. Harden,Defensive rebound by J. Harden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,4:21.0,,,,,,A. Burks,Personal foul by A. Burks (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,4:21.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:21.0,,,,,,G. Niang,G. Niang enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,4:21.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:06.0,,,,,,R. McGruder,R. McGruder misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:05.0,,,,,,H. Diallo,Offensive rebound by H. Diallo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:05.0,,,,,,H. Diallo,H. Diallo misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:02.0,,,,,,H. Diallo,Offensive rebound by H. Diallo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:00.0,,,,,,H. Diallo,H. Diallo makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:53.0,,,,,,K. Knox,Personal foul by K. Knox (drawn by J. Embiid ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,3:53.0,,,,,,J. Embiid,J. Embiid makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:53.0,,,,,,M. Thybulle,M. Thybulle enters the game for T. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,3:53.0,,,,,,J. Embiid,J. Embiid makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:50.0,,,,,,D. Melton,Personal take foul by D. Melton (drawn by C. Joseph ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,3:50.0,,,,,,M. Harrell,M. Harrell enters the game for J. Embiid,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,3:40.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 27 ft (assist by C. Joseph ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:20.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:20.0,,,,,,S. Milton,S. Milton enters the game for J. Harden,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,3:09.0,,,,,,M. Thybulle,M. Thybulle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:06.0,,,,,,K. Knox,Defensive rebound by K. Knox,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:59.0,,,,,,H. Diallo,H. Diallo makes 2-pt jump shot from 17 ft (assist by K. Knox ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:48.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:45.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:44.0,,,,,,A. Burks,Turnover by A. Burks (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301100PHI,1,2:44.0,,,,,,S. Bey,S. Bey enters the game for K. Knox,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,2:30.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 1 ft (assist by S. Milton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:17.0,,,,,,R. McGruder,Turnover by R. McGruder (bad pass; steal by M. Thybulle ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,2:10.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:58.0,,,,,,A. Burks,A. Burks makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:51.0,,,,,,D. Melton,Offensive foul by D. Melton (drawn by C. Joseph ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,1:51.0,,,,,,D. Melton,Turnover by D. Melton (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301100PHI,1,1:46.0,,,,,,R. McGruder,R. McGruder makes 3-pt jump shot from 27 ft (assist by C. Joseph ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:32.0,,,,,,M. Harrell,Turnover by M. Harrell (bad pass; steal by C. Joseph ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,1:28.0,,,,,,S. Bey,S. Bey makes 2-pt dunk from 2 ft (assist by C. Joseph ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:06.0,,,,,,M. Harrell,M. Harrell makes 2-pt dunk from 1 ft (assist by M. Thybulle ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:54.0,,,,,,S. Milton,Shooting foul by S. Milton (drawn by C. Joseph ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,0:54.0,,,,,,C. Joseph,C. Joseph makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:54.0,,,,,,C. Joseph,C. Joseph makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:39.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:30.0,,,,,,A. Burks,A. Burks makes 2-pt jump shot from 5 ft (assist by H. Diallo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:30.0,,,,,,D. Melton,Shooting foul by D. Melton (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,0:30.0,,,,,,A. Burks,A. Burks makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:10.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:06.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:00.0,,,,,,H. Diallo,H. Diallo misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:00.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,11:44.0,,,,,,G. Niang,Turnover by G. Niang (lost ball; steal by R. McGruder ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,11:39.0,,,,,,S. Bey,S. Bey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:23.0,,,,,,J. Rhoden,Shooting foul by J. Rhoden (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,11:23.0,,,,,,M. Harrell,M. Harrell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:23.0,,,,,,D. House,D. House enters the game for G. Niang,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,11:23.0,,,,,,M. Harrell,M. Harrell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:14.0,,,,,,R. McGruder,R. McGruder makes 3-pt jump shot from 24 ft (assist by C. Joseph ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,11:03.0,,,,,,S. Milton,S. Milton makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:48.0,,,,,,S. Bey,S. Bey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:33.0,,,,,,M. Thybulle,M. Thybulle makes 2-pt jump shot from 6 ft (assist by S. Milton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:25.0,,,,,,M. Harrell,Shooting foul by M. Harrell (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,10:25.0,,,,,,S. Bey,S. Bey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:25.0,,,,,,P. Reed,P. Reed enters the game for M. Harrell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,10:25.0,,,,,,S. Bey,S. Bey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:13.0,,,,,,S. Milton,S. Milton makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:13.0,,,,,,R. McGruder,Shooting foul by R. McGruder (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,10:13.0,,,,,,S. Milton,S. Milton makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:03.0,,,,,,P. Reed,Shooting foul by P. Reed (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,10:03.0,,,,,,S. Bey,S. Bey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,10:03.0,,,,,,S. Bey,S. Bey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:49.0,,,,,,S. Milton,S. Milton makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:43.0,,,,,,M. Thybulle,Shooting foul by M. Thybulle (drawn by R. McGruder ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,9:43.0,,,,,,R. McGruder,R. McGruder makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:43.0,,,,,,R. McGruder,R. McGruder misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:43.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:43.0,,,,,,R. McGruder,R. McGruder makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:25.0,,,,,,S. Milton,S. Milton misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:21.0,,,,,,M. Thybulle,Offensive rebound by M. Thybulle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:21.0,,,,,,M. Thybulle,M. Thybulle misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:20.0,,,,,,J. Rhoden,Defensive rebound by J. Rhoden,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,9:10.0,,,,,,C. Joseph,C. Joseph misses 2-pt layup from 3 ft (block by P. Reed ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,9:09.0,,,,,,H. Diallo,Offensive rebound by H. Diallo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,9:07.0,,,,,,H. Diallo,H. Diallo makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:55.0,,,,,,F. Korkmaz,F. Korkmaz misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:50.0,,,,,,S. Bey,Defensive rebound by S. Bey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,8:43.0,,,,,,S. Bey,S. Bey makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:43.0,,,,,,S. Milton,Shooting foul by S. Milton (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,8:43.0,,,,,,K. Hayes,K. Hayes enters the game for C. Joseph,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,8:43.0,,,,,,J. Ivey,J. Ivey enters the game for R. McGruder,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,8:43.0,,,,,,J. Springer,J. Springer enters the game for M. Thybulle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,8:43.0,,,,,,S. Bey,S. Bey makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:27.0,,,,,,S. Bey,Shooting foul by S. Bey (drawn by F. Korkmaz ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,8:27.0,,,,,,F. Korkmaz,F. Korkmaz misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:27.0,,,,,,F. Korkmaz,F. Korkmaz makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:09.0,,,,,,J. Springer,Shooting foul by J. Springer (drawn by S. Bey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,8:09.0,,,,,,S. Bey,S. Bey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,8:09.0,,,,,,S. Bey,S. Bey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:56.0,,,,,,J. Rhoden,Shooting foul by J. Rhoden (drawn by S. Milton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,7:56.0,,,,,,S. Milton,S. Milton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:56.0,,,,,,S. Milton,S. Milton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:44.0,,,,,,F. Korkmaz,Shooting foul by F. Korkmaz (drawn by J. Ivey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,7:44.0,,,,,,J. Ivey,J. Ivey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:44.0,,,,,,J. Ivey,J. Ivey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:27.0,,,,,,F. Korkmaz,F. Korkmaz misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:24.0,,,,,,J. Springer,Offensive rebound by J. Springer,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:24.0,,,,,,J. Springer,J. Springer makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:18.0,,,,,,H. Diallo,Turnover by H. Diallo (lost ball; steal by J. Springer ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301100PHI,1,7:15.0,,,,,,J. Springer,J. Springer makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,7:03.0,,,,,,J. Rhoden,J. Rhoden makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:49.0,,,,,,J. Springer,J. Springer makes 2-pt layup from 1 ft (assist by P. Reed ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:40.0,,,,,,S. Milton,Personal foul by S. Milton (drawn by J. Ivey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,6:40.0,,,,,,,Philadelphia full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,6:40.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:40.0,,,,,,C. Joseph,C. Joseph enters the game for H. Diallo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:40.0,,,,,,K. Knox,K. Knox enters the game for K. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:40.0,,,,,,J. Ivey,J. Ivey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:40.0,,,,,,J. Ivey,J. Ivey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:23.0,,,,,,F. Korkmaz,F. Korkmaz makes 3-pt jump shot from 27 ft (assist by J. Springer ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:06.0,,,,,,J. Springer,Shooting foul by J. Springer (drawn by C. Joseph ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,6:06.0,,,,,,C. Joseph,C. Joseph misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,6:06.0,,,,,,R. McGruder,R. McGruder enters the game for J. Ivey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,6:06.0,,,,,,C. Joseph,C. Joseph makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:54.0,,,,,,J. Rhoden,Shooting foul by J. Rhoden (drawn by P. Reed ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,5:54.0,,,,,,P. Reed,P. Reed makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:54.0,,,,,,P. Reed,P. Reed makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:42.0,,,,,,C. Joseph,C. Joseph makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:35.0,,,,,,P. Reed,P. Reed makes 2-pt dunk from 1 ft (assist by S. Milton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:24.0,,,,,,C. Joseph,C. Joseph misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,5:21.0,,,,,,P. Reed,Defensive rebound by P. Reed,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,5:10.0,,,,,,D. House,D. House makes 3-pt jump shot from 25 ft (assist by S. Milton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:52.0,,,,,,D. House,Shooting foul by D. House (drawn by K. Knox ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,4:52.0,,,,,,K. Knox,K. Knox misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:52.0,,,,,,K. Knox,K. Knox makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:42.0,,,,,,K. Knox,Shooting foul by K. Knox (drawn by D. House ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,4:42.0,,,,,,D. House,D. House makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:42.0,,,,,,D. House,D. House makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:24.0,,,,,,S. Bey,S. Bey misses 2-pt layup from 5 ft (block by P. Reed ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,4:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:19.0,,,,,,J. Rhoden,J. Rhoden misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:17.0,,,,,,P. Reed,Loose ball foul by P. Reed (drawn by C. Joseph ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,4:17.0,,,,,,C. Joseph,C. Joseph makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,4:17.0,,,,,,C. Joseph,C. Joseph makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:55.0,,,,,,F. Korkmaz,F. Korkmaz misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:52.0,,,,,,C. Joseph,Defensive rebound by C. Joseph,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,3:48.0,,,,,,R. McGruder,R. McGruder makes 3-pt jump shot from 26 ft (assist by C. Joseph ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:25.0,,,,,,C. Joseph,Personal foul by C. Joseph (drawn by J. Springer ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301100PHI,1,3:25.0,,,,,,J. Springer,J. Springer makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:25.0,,,,,,J. Springer,J. Springer makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:15.0,,,,,,R. McGruder,R. McGruder makes 3-pt jump shot from 25 ft (assist by C. Joseph ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,3:03.0,,,,,,P. Reed,P. Reed makes 2-pt layup from 2 ft (assist by S. Milton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:57.0,,,,,,,Detroit full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301100PHI,1,2:57.0,,,,,,H. Diallo,H. Diallo enters the game for S. Bey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301100PHI,1,2:42.0,,,,,,C. Joseph,C. Joseph misses 3-pt jump shot from 28 ft (block by P. Reed ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202301100PHI,1,2:39.0,,,,,,P. Reed,Defensive rebound by P. Reed,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,2:32.0,,,,,,D. House,D. House makes 2-pt layup from 2 ft (assist by S. Milton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,2:11.0,,,,,,K. Knox,K. Knox makes 3-pt jump shot from 27 ft (assist by C. Joseph ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:43.0,,,,,,D. House,D. House misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:39.0,,,,,,J. Springer,Offensive rebound by J. Springer,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:39.0,,,,,,J. Springer,J. Springer makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:22.0,,,,,,C. Joseph,C. Joseph misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,1:18.0,,,,,,D. House,Defensive rebound by D. House,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,1:05.0,,,,,,P. Reed,Turnover by P. Reed (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301100PHI,1,0:56.0,,,,,,R. McGruder,R. McGruder misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:53.0,,,,,,P. Reed,Defensive rebound by P. Reed,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:43.0,,,,,,D. House,D. House misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:40.0,,,,,,H. Diallo,Defensive rebound by H. Diallo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:31.0,,,,,,J. Rhoden,J. Rhoden misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301100PHI,1,0:25.0,,,,,,D. House,Defensive rebound by D. House,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301100PHI,1,0:04.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

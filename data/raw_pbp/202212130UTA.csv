@@ -1,0 +1,508 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202212130UTA,1,11:42.0,,,,,,J. Clarkson,Shooting foul by J. Clarkson (drawn by H. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,11:42.0,,,,,,H. Jones,H. Jones makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:42.0,,,,,,H. Jones,H. Jones makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:29.0,,,,,,M. Conley,Turnover by M. Conley (bad pass; steal by C. McCollum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,11:21.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 26 ft (assist by Z. Williamson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:05.0,,,,,,K. Olynyk,K. Olynyk misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:02.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:00.0,,,,,,J. Clarkson,Turnover by J. Clarkson (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,10:45.0,,,,,,T. Murphy,T. Murphy misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:41.0,,,,,,J. ValanÄiÅ«nas,Offensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:40.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:27.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 24 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:15.0,,,,,,Z. Williamson,Z. Williamson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:13.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:08.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:08.0,,,,,,H. Jones,Shooting foul by H. Jones (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,10:08.0,,,,,,L. Markkanen,L. Markkanen makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:50.0,,,,,,T. Murphy,T. Murphy misses 2-pt dunk from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:49.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,9:40.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:36.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,9:31.0,,,,,,C. McCollum,C. McCollum makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:24.0,,,,,,M. Conley,M. Conley makes 3-pt jump shot from 25 ft (assist by J. Vanderbilt ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:13.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:11.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,9:05.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:02.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:53.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt jump shot from 4 ft (assist by T. Murphy ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:36.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:22.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt layup from 2 ft (assist by J. ValanÄiÅ«nas ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:13.0,,,,,,L. Markkanen,L. Markkanen misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:09.0,,,,,,L. Markkanen,Offensive rebound by L. Markkanen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:09.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:59.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt layup from 3 ft (assist by Z. Williamson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:49.0,,,,,,M. Conley,Turnover by M. Conley (bad pass; steal by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,7:45.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt dunk from 1 ft (assist by T. Murphy ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:26.0,,,,,,K. Olynyk,K. Olynyk makes 2-pt jump shot from 15 ft (assist by M. Conley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:14.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:12.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,7:04.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt jump shot from 7 ft (assist by J. Clarkson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:51.0,,,,,,J. Vanderbilt,Shooting foul by J. Vanderbilt (drawn by Z. Williamson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,6:51.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,6:51.0,,,,,,D. Daniels,D. Daniels enters the game for H. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:51.0,,,,,,M. Beasley,M. Beasley enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:51.0,,,,,,Z. Williamson,Z. Williamson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:51.0,,,,,,Z. Williamson,Z. Williamson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:40.0,,,,,,K. Olynyk,K. Olynyk misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:38.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,6:22.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:19.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,6:19.0,,,,,,K. Olynyk,Turnover by K. Olynyk (bad pass; steal by Z. Williamson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,6:19.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:19.0,,,,,,J. Vanderbilt,Shooting foul by J. Vanderbilt (drawn by Z. Williamson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,6:19.0,,,,,,W. Kessler,W. Kessler enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:19.0,,,,,,Z. Williamson,Z. Williamson misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:17.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,6:07.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:05.0,,,,,,Z. Williamson,Defensive rebound by Z. Williamson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,5:55.0,,,,,,C. McCollum,Turnover by C. McCollum (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,5:55.0,,,,,,N. Marshall,N. Marshall enters the game for Z. Williamson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,5:46.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:42.0,,,,,,D. Daniels,Defensive rebound by D. Daniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,5:35.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:33.0,,,,,,J. ValanÄiÅ«nas,Offensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:29.0,,,,,,T. Murphy,Turnover by T. Murphy (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,5:08.0,,,,,,J. Clarkson,Turnover by J. Clarkson (bad pass; steal by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,5:02.0,,,,,,J. ValanÄiÅ«nas,Offensive foul by J. ValanÄiÅ«nas (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,5:02.0,,,,,,J. ValanÄiÅ«nas,Turnover by J. ValanÄiÅ«nas (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212130UTA,1,4:52.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:50.0,,,,,,W. Kessler,Offensive rebound by W. Kessler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:50.0,,,,,,W. Kessler,W. Kessler misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:50.0,,,,,,J. ValanÄiÅ«nas,Loose ball foul by J. ValanÄiÅ«nas (drawn by W. Kessler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,4:50.0,,,,,,L. Nance,L. Nance enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,4:42.0,,,,,,M. Beasley,M. Beasley makes 2-pt jump shot from 9 ft (assist by M. Conley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:28.0,,,,,,W. Kessler,Shooting foul by W. Kessler (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,4:28.0,,,,,,C. McCollum,C. McCollum misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:28.0,,,,,,C. McCollum,C. McCollum makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:14.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:08.0,,,,,,T. Murphy,Personal foul by T. Murphy (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,3:57.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:55.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,3:47.0,,,,,,L. Nance,L. Nance misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:44.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,3:39.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:37.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:25.0,,,,,,N. Marshall,N. Marshall makes 2-pt jump shot from 8 ft (assist by L. Nance ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:07.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt layup from 2 ft (assist by K. Olynyk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:57.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:52.0,,,,,,C. McCollum,Offensive rebound by C. McCollum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:52.0,,,,,,C. McCollum,C. McCollum makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:45.0,,,,,,M. Conley,Turnover by M. Conley (bad pass; steal by C. McCollum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,2:40.0,,,,,,N. Marshall,N. Marshall misses 2-pt layup from 3 ft (block by J. Clarkson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,2:36.0,,,,,,D. Daniels,Offensive rebound by D. Daniels,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:36.0,,,,,,D. Daniels,D. Daniels makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:18.0,,,,,,W. Kessler,W. Kessler misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:16.0,,,,,,L. Nance,Defensive rebound by L. Nance,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,2:09.0,,,,,,C. McCollum,Offensive foul by C. McCollum (drawn by J. Clarkson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,2:09.0,,,,,,C. McCollum,Turnover by C. McCollum (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212130UTA,1,2:09.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,2:09.0,,,,,,D. Graham,D. Graham enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,2:09.0,,,,,,Z. Williamson,Z. Williamson enters the game for T. Murphy,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,2:09.0,,,,,,N. Alexander-Walker,N. Alexander-Walker enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,2:09.0,,,,,,R. Gay,R. Gay enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,2:09.0,,,,,,L. Markkanen,L. Markkanen enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,1:51.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes 2-pt jump shot from 8 ft (assist by M. Beasley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:31.0,,,,,,L. Nance,L. Nance makes 2-pt dunk from 2 ft (assist by N. Marshall ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:10.0,,,,,,M. Beasley,M. Beasley misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:08.0,,,,,,Z. Williamson,Defensive rebound by Z. Williamson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:55.0,,,,,,N. Marshall,N. Marshall misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:53.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:45.0,,,,,,R. Gay,R. Gay misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:43.0,,,,,,D. Daniels,Defensive rebound by D. Daniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:35.0,,,,,,Z. Williamson,Offensive foul by Z. Williamson (drawn by R. Gay ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,0:35.0,,,,,,Z. Williamson,Turnover by Z. Williamson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212130UTA,1,0:25.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 22 ft (assist by N. Alexander-Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:02.0,,,,,,L. Nance,L. Nance misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:02.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,11:44.0,,,,,,W. Kessler,W. Kessler makes 2-pt layup from 2 ft (assist by N. Alexander-Walker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:29.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:27.0,,,,,,N. Alexander-Walker,Defensive rebound by N. Alexander-Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,11:22.0,,,,,,N. Alexander-Walker,Turnover by N. Alexander-Walker (lost ball; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,11:18.0,,,,,,D. Graham,D. Graham makes 2-pt layup from 2 ft (assist by Z. Williamson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:02.0,,,,,,R. Gay,Turnover by R. Gay (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,10:51.0,,,,,,Z. Williamson,Z. Williamson misses 2-pt jump shot from 10 ft (block by W. Kessler ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,10:50.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:50.0,,,,,,Z. Williamson,Personal foul by Z. Williamson (drawn by W. Kessler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,10:40.0,,,,,,M. Beasley,M. Beasley misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:38.0,,,,,,Z. Williamson,Defensive rebound by Z. Williamson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:26.0,,,,,,L. Nance,L. Nance makes 2-pt layup from 3 ft (assist by D. Graham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:11.0,,,,,,L. Markkanen,L. Markkanen misses 2-pt jump shot from 4 ft (block by N. Marshall ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,10:09.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:01.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:01.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,9:48.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes 2-pt jump shot from 17 ft (assist by L. Markkanen ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:36.0,,,,,,J. Alvarado,Turnover by J. Alvarado (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,9:25.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt jump shot from 7 ft (assist by N. Alexander-Walker ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:25.0,,,,,,Z. Williamson,Shooting foul by Z. Williamson (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,9:25.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas enters the game for Z. Williamson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,9:25.0,,,,,,L. Markkanen,L. Markkanen misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:22.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,9:10.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:07.0,,,,,,L. Nance,Offensive rebound by L. Nance,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:56.0,,,,,,N. Marshall,N. Marshall misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:54.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:48.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:46.0,,,,,,J. Alvarado,Defensive rebound by J. Alvarado,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:37.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:35.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:25.0,,,,,,N. Alexander-Walker,Turnover by N. Alexander-Walker (lost ball; steal by J. Alvarado ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,8:21.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by N. Marshall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,8:21.0,,,,,,N. Marshall,N. Marshall makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:21.0,,,,,,C. McCollum,C. McCollum enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,8:21.0,,,,,,T. Murphy,T. Murphy enters the game for L. Nance,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,8:21.0,,,,,,J. Vanderbilt,J. Vanderbilt enters the game for W. Kessler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,8:21.0,,,,,,N. Marshall,N. Marshall makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:10.0,,,,,,N. Alexander-Walker,N. Alexander-Walker misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:07.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:59.0,,,,,,R. Gay,R. Gay misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:55.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,7:54.0,,,,,,N. Alexander-Walker,Technical foul by N. Alexander-Walker,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,7:54.0,,,,,,T. Murphy,T. Murphy misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:53.0,,,,,,J. Alvarado,Turnover by J. Alvarado (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,7:44.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 25 ft (assist by N. Alexander-Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:41.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,7:28.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:24.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,7:03.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt jump shot from 12 ft (assist by J. Vanderbilt ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:39.0,,,,,,J. ValanÄiÅ«nas,Turnover by J. ValanÄiÅ«nas (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,6:39.0,,,,,,H. Jones,H. Jones enters the game for N. Marshall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:39.0,,,,,,J. Clarkson,J. Clarkson enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:25.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes 2-pt jump shot from 19 ft (assist by J. Vanderbilt ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:07.0,,,,,,T. Murphy,T. Murphy misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:03.0,,,,,,J. ValanÄiÅ«nas,Offensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:03.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:52.0,,,,,,N. Alexander-Walker,Turnover by N. Alexander-Walker (bad pass; steal by J. Alvarado ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,5:47.0,,,,,,H. Jones,H. Jones makes 2-pt layup from 3 ft (assist by J. Alvarado ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:31.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:29.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,5:29.0,,,,,,M. Conley,M. Conley enters the game for N. Alexander-Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,5:29.0,,,,,,K. Olynyk,K. Olynyk enters the game for R. Gay,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,5:19.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 17 ft (assist by H. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:03.0,,,,,,K. Olynyk,Offensive foul by K. Olynyk (drawn by H. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,5:03.0,,,,,,K. Olynyk,Turnover by K. Olynyk (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212130UTA,1,4:49.0,,,,,,H. Jones,H. Jones misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:45.0,,,,,,K. Olynyk,Defensive rebound by K. Olynyk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,4:40.0,,,,,,M. Beasley,M. Beasley misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:38.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:36.0,,,,,,J. Vanderbilt,J. Vanderbilt misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:36.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:34.0,,,,,,J. Vanderbilt,Turnover by J. Vanderbilt (lost ball; steal by J. Alvarado ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,4:30.0,,,,,,K. Olynyk,Personal foul by K. Olynyk (drawn by T. Murphy ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,4:30.0,,,,,,L. Nance,L. Nance enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,4:30.0,,,,,,L. Markkanen,L. Markkanen enters the game for M. Beasley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,4:25.0,,,,,,T. Murphy,T. Murphy misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:22.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,4:13.0,,,,,,L. Nance,Personal foul by L. Nance (drawn by K. Olynyk ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,3:58.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,3:44.0,,,,,,L. Nance,Offensive foul by L. Nance (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,3:44.0,,,,,,L. Nance,Turnover by L. Nance (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212130UTA,1,3:44.0,,,,,,L. Nance,Technical foul by L. Nance,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,3:44.0,,,,,,J. Clarkson,J. Clarkson makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:32.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:27.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:27.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:20.0,,,,,,M. Conley,Shooting foul by M. Conley (drawn by J. Alvarado ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,3:20.0,,,,,,J. Alvarado,J. Alvarado misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:20.0,,,,,,J. Alvarado,J. Alvarado makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:04.0,,,,,,J. Clarkson,Turnover by J. Clarkson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,2:50.0,,,,,,J. Alvarado,J. Alvarado misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:46.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,2:35.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt dunk from 3 ft (assist by J. Clarkson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:21.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:17.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,2:10.0,,,,,,K. Olynyk,Offensive foul by K. Olynyk (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,2:10.0,,,,,,K. Olynyk,Turnover by K. Olynyk (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212130UTA,1,2:10.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:10.0,,,,,,M. Beasley,M. Beasley enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,1:58.0,,,,,,J. Alvarado,J. Alvarado misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:57.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,1:57.0,,,,,,J. Alvarado,Personal foul by J. Alvarado (drawn by L. Markkanen ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,1:57.0,,,,,,J. Clarkson,J. Clarkson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:57.0,,,,,,D. Daniels,D. Daniels enters the game for J. Alvarado,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,1:37.0,,,,,,D. Daniels,Shooting foul by D. Daniels (drawn by J. Vanderbilt ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,1:37.0,,,,,,J. Vanderbilt,J. Vanderbilt misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:37.0,,,,,,J. Vanderbilt,J. Vanderbilt makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:27.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:25.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,1:19.0,,,,,,L. Markkanen,L. Markkanen makes 3-pt jump shot from 25 ft (assist by J. Vanderbilt ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:11.0,,,,,,M. Beasley,Personal foul by M. Beasley (drawn by D. Daniels ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,0:59.0,,,,,,H. Jones,H. Jones misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:53.0,,,,,,M. Beasley,Defensive rebound by M. Beasley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:49.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:46.0,,,,,,L. Nance,Defensive rebound by L. Nance,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:36.0,,,,,,D. Daniels,D. Daniels misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:34.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:32.0,,,,,,L. Markkanen,Turnover by L. Markkanen (lost ball; steal by T. Murphy ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,0:28.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:25.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:03.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:01.0,,,,,,N. Marshall,N. Marshall enters the game for L. Nance,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,0:00.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:39.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 10 ft (block by T. Murphy ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,11:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:35.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,11:23.0,,,,,,T. Murphy,T. Murphy misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:19.0,,,,,,Z. Williamson,Offensive rebound by Z. Williamson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:18.0,,,,,,Z. Williamson,Turnover by Z. Williamson (lost ball; steal by J. Vanderbilt ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,11:13.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:10.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:10.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:10.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,10:59.0,,,,,,C. McCollum,C. McCollum makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:59.0,,,,,,M. Conley,Shooting foul by M. Conley (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,10:59.0,,,,,,C. McCollum,C. McCollum misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:58.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:44.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup from 3 ft (assist by K. Olynyk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:34.0,,,,,,C. McCollum,C. McCollum misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:31.0,,,,,,J. ValanÄiÅ«nas,Offensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:31.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:31.0,,,,,,Z. Williamson,Offensive rebound by Z. Williamson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:28.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:21.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:17.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:12.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:10.0,,,,,,K. Olynyk,Offensive rebound by K. Olynyk,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:08.0,,,,,,K. Olynyk,K. Olynyk makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:53.0,,,,,,T. Murphy,T. Murphy misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:50.0,,,,,,J. ValanÄiÅ«nas,Offensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:49.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 2-pt layup from 1 ft (block by J. Vanderbilt ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,9:47.0,,,,,,J. Vanderbilt,Defensive rebound by J. Vanderbilt,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,9:45.0,,,,,,K. Olynyk,K. Olynyk makes 2-pt layup from 2 ft (assist by J. Vanderbilt ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:27.0,,,,,,J. Vanderbilt,Shooting foul by J. Vanderbilt (drawn by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,9:27.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:27.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:13.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt layup from 3 ft (assist by K. Olynyk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:13.0,,,,,,J. ValanÄiÅ«nas,Shooting foul by J. ValanÄiÅ«nas (drawn by J. Vanderbilt ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,9:13.0,,,,,,J. Vanderbilt,J. Vanderbilt makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:04.0,,,,,,K. Olynyk,Shooting foul by K. Olynyk (drawn by Z. Williamson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,9:04.0,,,,,,Z. Williamson,Z. Williamson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:04.0,,,,,,M. Beasley,M. Beasley enters the game for K. Olynyk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,9:04.0,,,,,,Z. Williamson,Z. Williamson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:02.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:44.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:42.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:31.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:29.0,,,,,,Z. Williamson,Offensive rebound by Z. Williamson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:28.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:28.0,,,,,,J. Vanderbilt,Shooting foul by J. Vanderbilt (drawn by Z. Williamson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,8:28.0,,,,,,Z. Williamson,Z. Williamson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:14.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:09.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:03.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt dunk from 1 ft (assist by H. Jones ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:46.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 26 ft (assist by J. Vanderbilt ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:31.0,,,,,,Z. Williamson,Z. Williamson misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:31.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:31.0,,,,,,J. Vanderbilt,Loose ball foul by J. Vanderbilt (drawn by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,7:31.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:31.0,,,,,,W. Kessler,W. Kessler enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,7:31.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:20.0,,,,,,J. ValanÄiÅ«nas,Shooting foul by J. ValanÄiÅ«nas (drawn by W. Kessler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,7:20.0,,,,,,W. Kessler,W. Kessler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:20.0,,,,,,L. Nance,L. Nance enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,7:20.0,,,,,,W. Kessler,W. Kessler misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:18.0,,,,,,Z. Williamson,Defensive rebound by Z. Williamson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,7:08.0,,,,,,L. Markkanen,Shooting foul by L. Markkanen (drawn by Z. Williamson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,7:08.0,,,,,,Z. Williamson,Z. Williamson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:08.0,,,,,,Z. Williamson,Z. Williamson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:06.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,6:56.0,,,,,,L. Markkanen,L. Markkanen makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:34.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:32.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,6:24.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:20.0,,,,,,L. Nance,Defensive rebound by L. Nance,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,6:15.0,,,,,,Z. Williamson,Turnover by Z. Williamson (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,5:57.0,,,,,,W. Kessler,W. Kessler misses 2-pt hook shot from 4 ft (block by L. Nance ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,5:53.0,,,,,,W. Kessler,Offensive rebound by W. Kessler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:53.0,,,,,,W. Kessler,W. Kessler makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:39.0,,,,,,T. Murphy,T. Murphy misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:37.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,5:30.0,,,,,,M. Beasley,M. Beasley makes 3-pt jump shot from 26 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:21.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,5:21.0,,,,,,D. Daniels,D. Daniels enters the game for H. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,5:21.0,,,,,,N. Marshall,N. Marshall enters the game for T. Murphy,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,5:14.0,,,,,,Z. Williamson,Z. Williamson misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:12.0,,,,,,L. Nance,Offensive rebound by L. Nance,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:10.0,,,,,,D. Daniels,D. Daniels makes 3-pt jump shot from 25 ft (assist by L. Nance ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:54.0,,,,,,L. Markkanen,L. Markkanen misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:53.0,,,,,,L. Nance,Defensive rebound by L. Nance,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,4:49.0,,,,,,Z. Williamson,Turnover by Z. Williamson (lost ball; steal by M. Conley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,4:42.0,,,,,,M. Beasley,M. Beasley makes 2-pt layup from 3 ft (assist by M. Conley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:31.0,,,,,,L. Nance,L. Nance misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:30.0,,,,,,L. Markkanen,Defensive rebound by L. Markkanen,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,4:20.0,,,,,,L. Markkanen,Turnover by L. Markkanen (lost ball; steal by Z. Williamson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,4:20.0,,,,,,Z. Williamson,Clear path foul by Z. Williamson,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,4:20.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:20.0,,,,,,N. Alexander-Walker,N. Alexander-Walker enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,4:20.0,,,,,,Z. Williamson,Z. Williamson misses clear path free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:20.0,,,,,,Z. Williamson,Z. Williamson makes clear path free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:11.0,,,,,,D. Daniels,D. Daniels misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:07.0,,,,,,L. Nance,Offensive rebound by L. Nance,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:06.0,,,,,,L. Nance,L. Nance misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:06.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,3:49.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes 3-pt jump shot from 25 ft (assist by J. Clarkson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:36.0,,,,,,C. McCollum,Turnover by C. McCollum (bad pass; steal by L. Markkanen ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,3:31.0,,,,,,L. Markkanen,L. Markkanen misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:26.0,,,,,,W. Kessler,Offensive rebound by W. Kessler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:26.0,,,,,,W. Kessler,W. Kessler misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:22.0,,,,,,W. Kessler,Offensive rebound by W. Kessler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:22.0,,,,,,W. Kessler,W. Kessler makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:17.0,,,,,,C. McCollum,C. McCollum misses 2-pt layup from 3 ft (block by N. Alexander-Walker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,3:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:17.0,,,,,,J. Alvarado,J. Alvarado enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,3:03.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt layup from 4 ft (assist by L. Nance ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:47.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:44.0,,,,,,N. Marshall,Defensive rebound by N. Marshall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,2:24.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:24.0,,,,,,R. Gay,R. Gay enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,2:07.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 5 ft (assist by N. Alexander-Walker ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:53.0,,,,,,Z. Williamson,Z. Williamson makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:38.0,,,,,,J. Clarkson,Turnover by J. Clarkson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,1:27.0,,,,,,J. Clarkson,Shooting foul by J. Clarkson (drawn by D. Daniels ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,1:27.0,,,,,,D. Daniels,D. Daniels makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:27.0,,,,,,D. Daniels,D. Daniels makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:15.0,,,,,,M. Beasley,M. Beasley misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:12.0,,,,,,Z. Williamson,Defensive rebound by Z. Williamson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,1:04.0,,,,,,Z. Williamson,Z. Williamson misses 2-pt layup from 3 ft (block by W. Kessler ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,1:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:58.0,,,,,,J. Alvarado,J. Alvarado misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:56.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:47.0,,,,,,M. Beasley,M. Beasley makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:47.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:34.0,,,,,,J. Alvarado,J. Alvarado misses 2-pt layup from 7 ft (block by W. Kessler ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,0:31.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:28.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes 3-pt jump shot from 22 ft (assist by M. Beasley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:13.0,,,,,,Z. Williamson,Z. Williamson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:10.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:00.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:43.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt hook shot from 3 ft (assist by J. Alvarado ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:26.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,11:23.0,,,,,,D. Daniels,Defensive rebound by D. Daniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,11:16.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt jump shot from 18 ft (assist by J. Alvarado ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:57.0,,,,,,R. Gay,R. Gay misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:56.0,,,,,,J. Alvarado,Defensive rebound by J. Alvarado,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:50.0,,,,,,L. Nance,L. Nance misses 2-pt jump shot from 3 ft (block by N. Alexander-Walker ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,10:48.0,,,,,,M. Beasley,Defensive rebound by M. Beasley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:44.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:40.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,10:28.0,,,,,,M. Conley,Shooting foul by M. Conley (drawn by J. Alvarado ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,10:28.0,,,,,,J. Alvarado,J. Alvarado misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:28.0,,,,,,J. Alvarado,J. Alvarado makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,10:16.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:56.0,,,,,,J. Alvarado,Turnover by J. Alvarado (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,9:43.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:39.0,,,,,,D. Daniels,Defensive rebound by D. Daniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,9:30.0,,,,,,J. ValanÄiÅ«nas,Offensive foul by J. ValanÄiÅ«nas (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,9:30.0,,,,,,J. ValanÄiÅ«nas,Turnover by J. ValanÄiÅ«nas (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212130UTA,1,9:30.0,,,,,,C. McCollum,C. McCollum enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,9:15.0,,,,,,W. Kessler,W. Kessler makes 2-pt dunk from 3 ft (assist by M. Beasley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,9:15.0,,,,,,Z. Williamson,Z. Williamson enters the game for L. Nance,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,9:15.0,,,,,,L. Markkanen,L. Markkanen enters the game for M. Beasley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,8:55.0,,,,,,J. Alvarado,J. Alvarado misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:52.0,,,,,,W. Kessler,Defensive rebound by W. Kessler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:42.0,,,,,,N. Alexander-Walker,N. Alexander-Walker misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:40.0,,,,,,L. Markkanen,Offensive rebound by L. Markkanen,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:31.0,,,,,,R. Gay,R. Gay makes 2-pt dunk from 3 ft (assist by N. Alexander-Walker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:18.0,,,,,,J. Alvarado,J. Alvarado makes 2-pt jump shot from 7 ft (assist by Z. Williamson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:18.0,,,,,,W. Kessler,Shooting foul by W. Kessler (drawn by J. Alvarado ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,8:18.0,,,,,,J. Vanderbilt,J. Vanderbilt enters the game for W. Kessler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,8:18.0,,,,,,J. Alvarado,J. Alvarado misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:14.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,8:09.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt dunk from 4 ft (assist by M. Conley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,8:09.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,8:09.0,,,,,,H. Jones,H. Jones enters the game for J. Alvarado,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,7:54.0,,,,,,H. Jones,H. Jones misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:51.0,,,,,,C. McCollum,Offensive rebound by C. McCollum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:49.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 3 ft (block by R. Gay ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,7:47.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,7:47.0,,,,,,C. McCollum,Technical foul by C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,7:47.0,,,,,,M. Conley,M. Conley makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:34.0,,,,,,D. Daniels,Shooting foul by D. Daniels (drawn by N. Alexander-Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,7:34.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:34.0,,,,,,N. Alexander-Walker,N. Alexander-Walker misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:32.0,,,,,,J. Vanderbilt,Offensive rebound by J. Vanderbilt,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:23.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt hook shot from 7 ft (assist by R. Gay ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,7:07.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 7 ft (assist by N. Marshall ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:43.0,,,,,,M. Conley,M. Conley makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:35.0,,,,,,H. Jones,H. Jones makes 2-pt layup from 2 ft (assist by D. Daniels ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:13.0,,,,,,M. Conley,M. Conley misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:11.0,,,,,,Z. Williamson,Defensive rebound by Z. Williamson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,6:08.0,,,,,,N. Marshall,N. Marshall makes 2-pt layup from 2 ft (assist by Z. Williamson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,6:08.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212130UTA,1,6:08.0,,,,,,J. Hayes,J. Hayes enters the game for H. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:08.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez enters the game for N. Marshall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:08.0,,,,,,K. Lewis,K. Lewis enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:08.0,,,,,,G. Temple,G. Temple enters the game for Z. Williamson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,6:08.0,,,,,,M. Beasley,M. Beasley enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,5:54.0,,,,,,K. Lewis,Personal foul by K. Lewis (drawn by N. Alexander-Walker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,5:50.0,,,,,,M. Beasley,M. Beasley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:46.0,,,,,,J. Hayes,Defensive rebound by J. Hayes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,5:34.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses 2-pt dunk from 6 ft (block by L. Markkanen ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,5:34.0,,,,,,G. Temple,Offensive rebound by G. Temple,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:33.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 2-pt dunk from 3 ft (assist by G. Temple ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:11.0,,,,,,J. Vanderbilt,J. Vanderbilt makes 2-pt jump shot from 3 ft (assist by M. Beasley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,5:02.0,,,,,,J. Hayes,Turnover by J. Hayes (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,5:02.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for L. Markkanen,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,4:52.0,,,,,,R. Gay,R. Gay misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:49.0,,,,,,G. Temple,Defensive rebound by G. Temple,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,4:39.0,,,,,,J. Hayes,J. Hayes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:36.0,,,,,,N. Alexander-Walker,Defensive rebound by N. Alexander-Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,4:30.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:28.0,,,,,,R. Gay,Offensive rebound by R. Gay,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:25.0,,,,,,R. Gay,R. Gay makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:11.0,,,,,,T. Horton-Tucker,Personal foul by T. Horton-Tucker (drawn by W. HernangÃ³mez ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,4:11.0,,,,,,W. Kessler,W. Kessler enters the game for J. Vanderbilt,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,4:03.0,,,,,,K. Lewis,K. Lewis misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,4:00.0,,,,,,N. Alexander-Walker,Defensive rebound by N. Alexander-Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,3:52.0,,,,,,N. Alexander-Walker,N. Alexander-Walker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:50.0,,,,,,O. Agbaji,O. Agbaji enters the game for M. Beasley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,3:50.0,,,,,,U. Azubuike,U. Azubuike enters the game for R. Gay,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,3:46.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212130UTA,1,3:32.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 2-pt layup from 11 ft (assist by D. Daniels ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:09.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:07.0,,,,,,W. Kessler,Offensive rebound by W. Kessler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:06.0,,,,,,W. Kessler,W. Kessler misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:05.0,,,,,,W. Kessler,Offensive rebound by W. Kessler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,3:04.0,,,,,,W. Kessler,W. Kessler makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:56.0,,,,,,K. Lewis,K. Lewis makes 2-pt layup from 3 ft (assist by W. HernangÃ³mez ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:45.0,,,,,,N. Alexander-Walker,N. Alexander-Walker makes 3-pt jump shot from 26 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:30.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes 3-pt jump shot from 25 ft (assist by D. Daniels ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:09.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:06.0,,,,,,K. Lewis,Defensive rebound by K. Lewis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,2:04.0,,,,,,O. Agbaji,Shooting foul by O. Agbaji (drawn by K. Lewis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,2:04.0,,,,,,K. Lewis,K. Lewis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,2:04.0,,,,,,L. Bolmaro,L. Bolmaro enters the game for W. Kessler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212130UTA,1,2:04.0,,,,,,K. Lewis,K. Lewis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:48.0,,,,,,N. Alexander-Walker,Turnover by N. Alexander-Walker (lost ball; steal by W. HernangÃ³mez ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,1:42.0,,,,,,K. Lewis,K. Lewis misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:34.0,,,,,,K. Lewis,K. Lewis misses 2-pt layup from 2 ft (block by U. Azubuike ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212130UTA,1,1:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:32.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:28.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,1:19.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:13.0,,,,,,U. Azubuike,Shooting foul by U. Azubuike (drawn by W. HernangÃ³mez ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212130UTA,1,1:13.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:13.0,,,,,,W. HernangÃ³mez,W. HernangÃ³mez makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,1:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:49.0,,,,,,G. Temple,G. Temple makes 3-pt jump shot from 24 ft (assist by W. HernangÃ³mez ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:36.0,,,,,,L. Bolmaro,L. Bolmaro misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:33.0,,,,,,U. Azubuike,Offensive rebound by U. Azubuike,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:32.0,,,,,,O. Agbaji,O. Agbaji misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212130UTA,1,0:32.0,,,,,,W. HernangÃ³mez,Defensive rebound by W. HernangÃ³mez,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212130UTA,1,0:25.0,,,,,,W. HernangÃ³mez,Turnover by W. HernangÃ³mez (bad pass; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212130UTA,1,0:01.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

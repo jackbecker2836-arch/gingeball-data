@@ -1,0 +1,462 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202212160LAL,1,11:52.0,,,,,,L. Walker,L. Walker misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:52.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,11:43.0,,,,,,N. JokiÄ,N. JokiÄ makes 3-pt jump shot from 25 ft (assist by J. Murray ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:28.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:18.0,,,,,,J. Murray,Turnover by J. Murray (lost ball; steal by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,11:12.0,,,,,,P. Beverley,P. Beverley makes 2-pt layup from 2 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:53.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 28 ft (assist by J. Murray ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:39.0,,,,,,L. James,L. James makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:19.0,,,,,,A. Gordon,A. Gordon makes 2-pt dunk from 2 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:07.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:55.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 3 ft (block by A. Gordon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,9:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:51.0,,,,,,A. Davis,A. Davis misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:48.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,9:44.0,,,,,,A. Gordon,A. Gordon misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:41.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,9:36.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 3-pt jump shot from 24 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:14.0,,,,,,L. James,Shooting foul by L. James (drawn by A. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,9:14.0,,,,,,A. Gordon,A. Gordon misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:14.0,,,,,,A. Gordon,A. Gordon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:58.0,,,,,,P. Beverley,P. Beverley misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:54.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:41.0,,,,,,J. Murray,Turnover by J. Murray (bad pass; steal by A. Davis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,8:38.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 2 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:25.0,,,,,,A. Gordon,A. Gordon misses 2-pt layup from 6 ft (block by A. Davis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,8:25.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:20.0,,,,,,L. James,L. James misses 2-pt layup from 4 ft (block by B. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,8:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:12.0,,,,,,L. Walker,L. Walker makes 3-pt jump shot from 25 ft (assist by A. Davis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:57.0,,,,,,L. Walker,Shooting foul by L. Walker (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,7:57.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:57.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:36.0,,,,,,P. Beverley,P. Beverley makes 2-pt layup from 2 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:28.0,,,,,,B. Brown,B. Brown makes 2-pt layup from 4 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:17.0,,,,,,L. Walker,L. Walker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:13.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,7:11.0,,,,,,D. SchrÃ¶der,Shooting foul by D. SchrÃ¶der (drawn by J. Murray ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,7:11.0,,,,,,J. Murray,J. Murray makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:11.0,,,,,,J. Murray,J. Murray makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:59.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 3 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:51.0,,,,,,A. Gordon,A. Gordon misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:49.0,,,,,,L. Walker,Defensive rebound by L. Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,6:38.0,,,,,,L. Walker,Turnover by L. Walker (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,6:38.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,6:38.0,,,,,,C. Braun,C. Braun enters the game for J. Murray,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,6:17.0,,,,,,C. Braun,Offensive foul by C. Braun (drawn by P. Beverley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,6:17.0,,,,,,C. Braun,Turnover by C. Braun (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160LAL,1,6:17.0,,,,,,A. Reaves,A. Reaves enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,6:17.0,,,,,,R. Westbrook,R. Westbrook enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,5:57.0,,,,,,L. James,L. James misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:54.0,,,,,,R. Westbrook,Offensive rebound by R. Westbrook,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:53.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:36.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:21.0,,,,,,R. Westbrook,Turnover by R. Westbrook (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,5:06.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:06.0,,,,,,A. Davis,Shooting foul by A. Davis (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,5:06.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:55.0,,,,,,A. Gordon,Shooting foul by A. Gordon (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,4:55.0,,,,,,A. Davis,A. Davis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:55.0,,,,,,A. Davis,A. Davis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:43.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:41.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,4:34.0,,,,,,A. Davis,A. Davis makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:27.0,,,,,,B. Brown,B. Brown makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:21.0,,,,,,K. Caldwell-Pope,Shooting foul by K. Caldwell-Pope (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,4:21.0,,,,,,L. James,L. James misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:21.0,,,,,,J. Green,J. Green enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:21.0,,,,,,B. Hyland,B. Hyland enters the game for A. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:21.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:07.0,,,,,,C. Braun,C. Braun misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:04.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,4:00.0,,,,,,L. James,L. James misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:57.0,,,,,,B. Hyland,Defensive rebound by B. Hyland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,3:56.0,,,,,,J. Green,J. Green makes 2-pt layup from 2 ft (assist by B. Hyland ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:56.0,,,,,,L. Walker,Shooting foul by L. Walker (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,3:56.0,,,,,,T. Brown,T. Brown enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,3:56.0,,,,,,M. Christie,M. Christie enters the game for L. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,3:56.0,,,,,,J. Green,J. Green makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:32.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:30.0,,,,,,C. Braun,Defensive rebound by C. Braun,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,3:21.0,,,,,,N. JokiÄ,Turnover by N. JokiÄ (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,3:09.0,,,,,,A. Davis,A. Davis makes 2-pt dunk from 2 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:54.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:52.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,2:40.0,,,,,,A. Reaves,Turnover by A. Reaves (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,2:40.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,2:40.0,,,,,,D. Jordan,D. Jordan enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:40.0,,,,,,J. Murray,J. Murray enters the game for N. JokiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:40.0,,,,,,T. Bryant,T. Bryant enters the game for A. Davis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:24.0,,,,,,J. Green,Turnover by J. Green (lost ball; steal by R. Westbrook ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,2:22.0,,,,,,C. Braun,Shooting foul by C. Braun (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,2:22.0,,,,,,R. Westbrook,R. Westbrook misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:22.0,,,,,,R. Westbrook,R. Westbrook misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:20.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,2:11.0,,,,,,B. Hyland,B. Hyland makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:11.0,,,,,,M. Christie,Shooting foul by M. Christie (drawn by B. Hyland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,2:11.0,,,,,,B. Hyland,B. Hyland makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:59.0,,,,,,R. Westbrook,R. Westbrook misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:58.0,,,,,,M. Christie,Offensive rebound by M. Christie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:57.0,,,,,,M. Christie,M. Christie misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:54.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:38.0,,,,,,C. Braun,C. Braun misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:36.0,,,,,,M. Christie,Defensive rebound by M. Christie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:32.0,,,,,,D. Jordan,Shooting foul by D. Jordan (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,1:32.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:32.0,,,,,,R. Westbrook,R. Westbrook misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:28.0,,,,,,D. Jordan,Defensive rebound by D. Jordan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:19.0,,,,,,J. Murray,Turnover by J. Murray (bad pass; steal by T. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,1:14.0,,,,,,T. Bryant,T. Bryant makes 2-pt dunk from 4 ft (assist by T. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:04.0,,,,,,B. Hyland,Turnover by B. Hyland (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,0:59.0,,,,,,R. Westbrook,Turnover by R. Westbrook (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,0:38.0,,,,,,D. Jordan,D. Jordan makes 2-pt hook shot from 4 ft (assist by B. Hyland ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:31.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:11.0,,,,,,B. Hyland,B. Hyland misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:11.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:11.0,,,,,,J. Green,J. Green misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:11.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:11.0,,,,,,J. Green,J. Green makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:11.0,,,,,,B. Hyland,Technical foul by B. Hyland,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,0:11.0,,,,,,A. Reaves,A. Reaves makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:46.0,,,,,,J. Murray,J. Murray makes 2-pt layup from 3 ft (assist by J. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:46.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by J. Murray ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,11:46.0,,,,,,J. Murray,J. Murray misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:43.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,11:29.0,,,,,,L. James,L. James misses 2-pt layup from 4 ft (block by J. Green ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,11:25.0,,,,,,B. Hyland,Defensive rebound by B. Hyland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,11:24.0,,,,,,B. Hyland,B. Hyland misses 2-pt layup from 3 ft (block by T. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,11:21.0,,,,,,D. Reed,Offensive rebound by D. Reed,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:09.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:06.0,,,,,,T. Brown,Defensive rebound by T. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,10:56.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:37.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:35.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,10:32.0,,,,,,D. Reed,Shooting foul by D. Reed (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,10:32.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:32.0,,,,,,R. Westbrook,R. Westbrook makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:18.0,,,,,,B. Hyland,B. Hyland makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:57.0,,,,,,T. Bryant,T. Bryant makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:39.0,,,,,,A. Reaves,Shooting foul by A. Reaves (drawn by J. Murray ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,9:39.0,,,,,,J. Murray,J. Murray misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:39.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:39.0,,,,,,P. Beverley,P. Beverley enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,9:39.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,9:39.0,,,,,,J. Murray,J. Murray makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:18.0,,,,,,P. Beverley,P. Beverley makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:05.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:03.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:59.0,,,,,,L. James,L. James makes 3-pt jump shot from 26 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:59.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,8:59.0,,,,,,B. Brown,B. Brown enters the game for B. Hyland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,8:46.0,,,,,,D. SchrÃ¶der,Shooting foul by D. SchrÃ¶der (drawn by J. Murray ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,8:46.0,,,,,,J. Murray,J. Murray makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:46.0,,,,,,J. Murray,J. Murray makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:32.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:30.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:19.0,,,,,,D. Jordan,D. Jordan makes 2-pt dunk from 2 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:07.0,,,,,,D. Reed,Personal foul by D. Reed (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,8:07.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for J. Murray,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,8:07.0,,,,,,A. Davis,A. Davis enters the game for T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,7:58.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 5 ft (block by B. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,7:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:52.0,,,,,,L. James,L. James misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:49.0,,,,,,D. Jordan,Defensive rebound by D. Jordan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,7:47.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 23 ft (assist by D. Reed ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:36.0,,,,,,A. Davis,Turnover by A. Davis (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,7:36.0,,,,,,N. JokiÄ,N. JokiÄ enters the game for D. Jordan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,7:21.0,,,,,,A. Davis,Shooting foul by A. Davis (drawn by B. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,7:21.0,,,,,,B. Brown,B. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:21.0,,,,,,A. Gordon,A. Gordon enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,7:21.0,,,,,,L. Walker,L. Walker enters the game for T. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,7:21.0,,,,,,B. Brown,B. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:07.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:05.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,6:53.0,,,,,,A. Gordon,A. Gordon makes 2-pt layup from 1 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:49.0,,,,,,B. Brown,Shooting foul by B. Brown (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,6:49.0,,,,,,L. James,L. James makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:49.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:34.0,,,,,,A. Gordon,A. Gordon makes 2-pt dunk from 2 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:16.0,,,,,,A. Davis,Turnover by A. Davis (lost ball; steal by N. JokiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,6:12.0,,,,,,A. Gordon,A. Gordon misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:10.0,,,,,,N. JokiÄ,Offensive rebound by N. JokiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:10.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:10.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,6:10.0,,,,,,J. Murray,J. Murray enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,6:10.0,,,,,,A. Reaves,A. Reaves enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,6:10.0,,,,,,R. Westbrook,R. Westbrook enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,5:50.0,,,,,,L. Walker,L. Walker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:47.0,,,,,,A. Gordon,Defensive rebound by A. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,5:45.0,,,,,,A. Reaves,Shooting foul by A. Reaves (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,5:45.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:45.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:29.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:24.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,5:21.0,,,,,,A. Gordon,A. Gordon misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:19.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,5:14.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:14.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,5:03.0,,,,,,D. Reed,D. Reed misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:59.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,4:52.0,,,,,,R. Westbrook,Turnover by R. Westbrook (bad pass; steal by N. JokiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,4:49.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt layup from 1 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:35.0,,,,,,R. Westbrook,Turnover by R. Westbrook (bad pass; steal by N. JokiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,4:29.0,,,,,,A. Gordon,A. Gordon makes 2-pt layup from 3 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:29.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,4:29.0,,,,,,B. Brown,B. Brown enters the game for D. Reed,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:29.0,,,,,,L. James,L. James enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:29.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for L. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:10.0,,,,,,A. Davis,A. Davis misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:08.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,4:02.0,,,,,,A. Gordon,A. Gordon misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:59.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,3:49.0,,,,,,A. Reaves,A. Reaves makes 2-pt layup from 2 ft (assist by A. Davis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:35.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,3:26.0,,,,,,R. Westbrook,R. Westbrook misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:26.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,3:09.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,2:48.0,,,,,,A. Reaves,A. Reaves makes 3-pt jump shot from 25 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:32.0,,,,,,A. Gordon,Turnover by A. Gordon (lost ball; steal by R. Westbrook ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,2:30.0,,,,,,K. Caldwell-Pope,Shooting foul by K. Caldwell-Pope (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,2:30.0,,,,,,A. Reaves,A. Reaves makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:30.0,,,,,,A. Reaves,A. Reaves makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:15.0,,,,,,A. Gordon,A. Gordon makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:06.0,,,,,,A. Reaves,Turnover by A. Reaves (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,1:51.0,,,,,,B. Brown,B. Brown makes 3-pt jump shot from 24 ft (assist by J. Murray ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:39.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:29.0,,,,,,A. Reaves,A. Reaves makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:29.0,,,,,,A. Gordon,Shooting foul by A. Gordon (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,1:29.0,,,,,,A. Reaves,A. Reaves makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:19.0,,,,,,J. Murray,J. Murray misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:16.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:05.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:48.0,,,,,,J. Murray,Turnover by J. Murray (bad pass; steal by L. James ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,0:43.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:43.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,0:43.0,,,,,,J. Green,J. Green enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,0:33.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:29.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,0:27.0,,,,,,L. James,L. James makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:07.0,,,,,,A. Gordon,A. Gordon makes 3-pt jump shot from 24 ft (assist by J. Murray ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:00.0,,,,,,A. Reaves,A. Reaves misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:41.0,,,,,,J. Murray,J. Murray makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:27.0,,,,,,L. Walker,L. Walker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:25.0,,,,,,A. Gordon,Defensive rebound by A. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,11:15.0,,,,,,N. JokiÄ,Offensive foul by N. JokiÄ (drawn by T. Bryant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,11:15.0,,,,,,N. JokiÄ,Turnover by N. JokiÄ (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160LAL,1,11:01.0,,,,,,L. James,L. James makes 2-pt dunk from 2 ft (assist by P. Beverley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:35.0,,,,,,J. Murray,J. Murray misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:32.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,10:22.0,,,,,,L. Walker,L. Walker misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:20.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,10:15.0,,,,,,B. Brown,B. Brown misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:15.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,10:07.0,,,,,,P. Beverley,P. Beverley misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:03.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,10:01.0,,,,,,A. Gordon,A. Gordon makes 2-pt dunk from 2 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:37.0,,,,,,T. Bryant,T. Bryant misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:34.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,9:28.0,,,,,,J. Murray,J. Murray makes 2-pt dunk from 2 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:14.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:12.0,,,,,,D. SchrÃ¶der,Offensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:11.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass; steal by A. Gordon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,9:06.0,,,,,,B. Brown,B. Brown makes 3-pt jump shot from 25 ft (assist by A. Gordon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:06.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,9:06.0,,,,,,A. Reaves,A. Reaves enters the game for L. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,8:49.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:47.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:39.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt jump shot from 7 ft (assist by B. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:21.0,,,,,,N. JokiÄ,Shooting foul by N. JokiÄ (drawn by T. Bryant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,8:21.0,,,,,,T. Bryant,T. Bryant misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:21.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:21.0,,,,,,T. Bryant,T. Bryant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:03.0,,,,,,J. Murray,J. Murray makes 3-pt jump shot from 27 ft (assist by N. JokiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:45.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 3-pt jump shot from 23 ft (assist by P. Beverley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:18.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:17.0,,,,,,B. Brown,Offensive rebound by B. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:15.0,,,,,,J. Murray,J. Murray misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:15.0,,,,,,P. Beverley,Defensive rebound by P. Beverley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,7:04.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:01.0,,,,,,T. Bryant,Offensive rebound by T. Bryant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:00.0,,,,,,L. James,L. James makes 2-pt dunk from 2 ft (assist by T. Bryant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:45.0,,,,,,J. Murray,Turnover by J. Murray (bad pass; steal by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,6:45.0,,,,,,D. Reed,D. Reed enters the game for J. Murray,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,6:45.0,,,,,,R. Westbrook,R. Westbrook enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,6:34.0,,,,,,N. JokiÄ,Shooting foul by N. JokiÄ (drawn by T. Bryant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,6:34.0,,,,,,T. Bryant,T. Bryant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:34.0,,,,,,T. Bryant,T. Bryant misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:31.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,6:21.0,,,,,,A. Reaves,Shooting foul by A. Reaves (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,6:21.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:21.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:06.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (lost ball; steal by N. JokiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,6:03.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt layup from 4 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:44.0,,,,,,T. Bryant,T. Bryant makes 2-pt layup from 3 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:26.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:24.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,5:18.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:15.0,,,,,,T. Bryant,Offensive rebound by T. Bryant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:14.0,,,,,,T. Bryant,T. Bryant makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:14.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,5:14.0,,,,,,J. Murray,J. Murray enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,5:14.0,,,,,,T. Brown,T. Brown enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:55.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by A. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,4:55.0,,,,,,A. Gordon,A. Gordon misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:55.0,,,,,,A. Gordon,A. Gordon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:31.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:28.0,,,,,,T. Bryant,Offensive rebound by T. Bryant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:27.0,,,,,,T. Bryant,T. Bryant misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:27.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,4:07.0,,,,,,A. Gordon,Turnover by A. Gordon (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,4:07.0,,,,,,K. Caldwell-Pope,Loose ball foul by K. Caldwell-Pope (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,4:07.0,,,,,,J. Green,J. Green enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:07.0,,,,,,B. Hyland,B. Hyland enters the game for A. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,3:47.0,,,,,,D. Reed,Flagrant foul type 1 by D. Reed (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,3:47.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:47.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes flagrant free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:47.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes flagrant free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:34.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:34.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,3:27.0,,,,,,R. Westbrook,Shooting foul by R. Westbrook (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,3:27.0,,,,,,N. JokiÄ,N. JokiÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:27.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:14.0,,,,,,T. Bryant,T. Bryant makes 2-pt hook shot from 5 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:57.0,,,,,,J. Green,J. Green misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:55.0,,,,,,T. Brown,Defensive rebound by T. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,2:50.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:28.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:28.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,2:28.0,,,,,,B. Brown,B. Brown enters the game for J. Murray,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:28.0,,,,,,L. James,L. James enters the game for T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:28.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:18.0,,,,,,A. Reaves,A. Reaves makes 3-pt jump shot from 23 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:56.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:53.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:50.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:27.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:26.0,,,,,,N. JokiÄ,Offensive rebound by N. JokiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:25.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt layup from 2 ft (block by A. Reaves ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,1:22.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:16.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:07.0,,,,,,L. James,Offensive foul by L. James (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,1:07.0,,,,,,L. James,Turnover by L. James (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202212160LAL,1,0:57.0,,,,,,N. JokiÄ,Turnover by N. JokiÄ (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202212160LAL,1,0:41.0,,,,,,L. James,L. James makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:30.0,,,,,,N. JokiÄ,N. JokiÄ misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:27.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,0:10.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:07.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:01.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 3-pt jump shot from 23 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:00.0,,,,,,N. JokiÄ,Turnover by N. JokiÄ (bad pass; steal by A. Reaves ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,11:39.0,,,,,,P. Beverley,P. Beverley makes 3-pt jump shot from 23 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:13.0,,,,,,B. Brown,B. Brown misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:09.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,11:06.0,,,,,,L. Walker,L. Walker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,11:03.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,10:52.0,,,,,,R. Westbrook,Personal foul by R. Westbrook (drawn by A. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,10:38.0,,,,,,J. Murray,J. Murray makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:18.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:17.0,,,,,,M. Christie,Offensive rebound by M. Christie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:17.0,,,,,,M. Christie,M. Christie misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:16.0,,,,,,R. Westbrook,Offensive rebound by R. Westbrook,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,10:15.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:58.0,,,,,,J. Murray,J. Murray misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:54.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:54.0,,,,,,J. Green,J. Green misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:54.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:52.0,,,,,,J. Green,J. Green misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:51.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,9:47.0,,,,,,L. James,Turnover by L. James (bad pass; steal by J. Murray ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,9:44.0,,,,,,J. Murray,J. Murray makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:24.0,,,,,,M. Christie,M. Christie makes 3-pt jump shot from 28 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:08.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,9:06.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:47.0,,,,,,M. Christie,M. Christie makes 3-pt jump shot from 22 ft (assist by L. Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:47.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,8:47.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,8:47.0,,,,,,N. JokiÄ,N. JokiÄ enters the game for B. Hyland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,8:47.0,,,,,,T. Bryant,T. Bryant enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,8:36.0,,,,,,B. Brown,B. Brown misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:34.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:26.0,,,,,,M. Christie,M. Christie misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:22.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,8:17.0,,,,,,P. Beverley,Personal foul by P. Beverley (drawn by A. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,8:17.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,8:17.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,8:17.0,,,,,,A. Reaves,A. Reaves enters the game for L. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,8:07.0,,,,,,J. Murray,J. Murray makes 2-pt jump shot from 15 ft (assist by N. JokiÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:49.0,,,,,,T. Bryant,Turnover by T. Bryant (bad pass; steal by A. Gordon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,7:44.0,,,,,,A. Gordon,Turnover by A. Gordon (bad pass; steal by T. Bryant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,7:33.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:32.0,,,,,,A. Gordon,Defensive rebound by A. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,7:32.0,,,,,,L. James,L. James enters the game for P. Beverley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,7:22.0,,,,,,N. JokiÄ,N. JokiÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,7:19.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,7:13.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:58.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:53.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,6:52.0,,,,,,T. Bryant,T. Bryant makes 2-pt dunk from 2 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:52.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,6:43.0,,,,,,J. Murray,J. Murray misses 3-pt jump shot from 25 ft (block by M. Christie ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202212160LAL,1,6:37.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,6:35.0,,,,,,T. Bryant,T. Bryant makes 2-pt dunk from 3 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,6:28.0,,,,,,N. JokiÄ,Turnover by N. JokiÄ (bad pass; steal by T. Bryant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,6:08.0,,,,,,T. Bryant,T. Bryant makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:44.0,,,,,,J. Murray,J. Murray misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:40.0,,,,,,J. Murray,Offensive rebound by J. Murray,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:40.0,,,,,,J. Murray,J. Murray makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:23.0,,,,,,R. Westbrook,R. Westbrook misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:20.0,,,,,,T. Bryant,Offensive rebound by T. Bryant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,5:10.0,,,,,,L. James,L. James makes 2-pt layup from 3 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:57.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt jump shot from 9 ft (assist by J. Murray ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:57.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,4:57.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,4:57.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:34.0,,,,,,L. James,L. James makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,4:20.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt jump shot from 5 ft (assist by J. Murray ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:51.0,,,,,,L. James,L. James makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:38.0,,,,,,A. Gordon,Turnover by A. Gordon (lost ball; steal by L. James ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202212160LAL,1,3:35.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:34.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202212160LAL,1,3:22.0,,,,,,J. Murray,J. Murray misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,3:20.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,2:59.0,,,,,,L. James,L. James misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:53.0,,,,,,A. Reaves,Offensive rebound by A. Reaves,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:53.0,,,,,,A. Reaves,A. Reaves makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:35.0,,,,,,J. Murray,J. Murray misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:32.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,2:26.0,,,,,,A. Gordon,Personal take foul by A. Gordon (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,2:26.0,,,,,,C. Braun,C. Braun enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:26.0,,,,,,V. ÄanÄar,V. ÄanÄar enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:26.0,,,,,,Z. Nnaji,Z. Nnaji enters the game for A. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:26.0,,,,,,D. Reed,D. Reed enters the game for N. JokiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:26.0,,,,,,I. Smith,I. Smith enters the game for J. Murray,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:26.0,,,,,,R. Westbrook,R. Westbrook enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:15.0,,,,,,Z. Nnaji,Shooting foul by Z. Nnaji (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,2:15.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,2:15.0,,,,,,L. Walker,L. Walker enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,2:15.0,,,,,,R. Westbrook,R. Westbrook makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:55.0,,,,,,I. Smith,I. Smith makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:45.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:43.0,,,,,,I. Smith,Defensive rebound by I. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:28.0,,,,,,Z. Nnaji,Z. Nnaji misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:24.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,1:14.0,,,,,,T. Bryant,T. Bryant makes 2-pt dunk from 1 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,1:13.0,,,,,,D. SchrÃ¶der,Personal take foul by D. SchrÃ¶der (drawn by I. Smith ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,1:13.0,,,,,,D. Jones,D. Jones enters the game for T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,1:13.0,,,,,,K. Nunn,K. Nunn enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202212160LAL,1,1:00.0,,,,,,V. ÄanÄar,V. ÄanÄar makes 3-pt jump shot from 25 ft (assist by D. Reed ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:36.0,,,,,,K. Nunn,K. Nunn misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:33.0,,,,,,D. Reed,Defensive rebound by D. Reed,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202212160LAL,1,0:30.0,,,,,,D. SchrÃ¶der,Personal foul by D. SchrÃ¶der (drawn by D. Reed ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202212160LAL,1,0:30.0,,,,,,D. Reed,D. Reed misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:30.0,,,,,,D. Reed,D. Reed makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202212160LAL,1,0:06.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

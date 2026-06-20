@@ -1,0 +1,404 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202202140LAC,1,11:42.0,,,,,,K. Looney,K. Looney makes 2-pt dunk at rim (assist by K. Thompson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:22.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:15.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:15.0,,,,,,I. Zubac,I. Zubac makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:59.0,,,,,,K. Looney,K. Looney misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:57.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:55.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:52.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:46.0,,,,,,T. Mann,T. Mann makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:23.0,,,,,,K. Thompson,Turnover by K. Thompson (bad pass; steal by N. Batum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,10:22.0,,,,,,A. Wiggins,Personal foul by A. Wiggins (drawn by N. Batum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,10:22.0,,,,,,,Instant Replay (Request: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:13.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 24 ft (assist by I. Zubac ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:48.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:44.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,9:38.0,,,,,,T. Mann,T. Mann makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:24.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:08.0,,,,,,N. Batum,N. Batum misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:04.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:55.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 27 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:41.0,,,,,,I. Zubac,I. Zubac misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:38.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:38.0,,,,,,I. Zubac,I. Zubac makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:21.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:19.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:14.0,,,,,,T. Mann,T. Mann misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:13.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:13.0,,,,,,K. Looney,Loose ball foul by K. Looney (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,8:03.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:01.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,7:50.0,,,,,,J. Kuminga,J. Kuminga makes 2-pt jump shot from 9 ft (assist by K. Thompson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:36.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:22.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:20.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,7:11.0,,,,,,T. Mann,Turnover by T. Mann (bad pass; steal by K. Thompson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,7:09.0,,,,,,T. Mann,Personal take foul by T. Mann (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,7:04.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 13 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:38.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:22.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 25 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:11.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:08.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:05.0,,,,,,I. Zubac,I. Zubac makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:43.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 28 ft (assist by J. Kuminga ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:42.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,5:42.0,,,,,,G. Payton,G. Payton enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,5:42.0,,,,,,J. Poole,J. Poole enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,5:29.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:26.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,5:16.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:04.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:53.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:40.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 25 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:24.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:02.0,,,,,,I. Zubac,I. Zubac makes 2-pt dunk from 1 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:02.0,,,,,,K. Looney,Shooting foul by K. Looney (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,4:02.0,,,,,,N. Bjelica,N. Bjelica enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,4:02.0,,,,,,I. Zubac,I. Zubac makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:51.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:48.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,3:32.0,,,,,,G. Payton,Personal foul by G. Payton (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,3:25.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:06.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:04.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,2:56.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:47.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,2:47.0,,,,,,D. Lee,D. Lee enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:47.0,,,,,,A. Coffey,A. Coffey enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:47.0,,,,,,R. Covington,R. Covington enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:37.0,,,,,,N. Bjelica,N. Bjelica makes 3-pt jump shot from 26 ft (assist by A. Wiggins ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:13.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 26 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:01.0,,,,,,R. Covington,Personal foul by R. Covington (drawn by N. Bjelica ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,1:51.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 29 ft (assist by J. Poole ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:31.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:27.0,,,,,,D. Lee,Defensive rebound by D. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:20.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:17.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:11.0,,,,,,A. Coffey,A. Coffey misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:07.0,,,,,,D. Lee,Defensive rebound by D. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:01.0,,,,,,D. Lee,D. Lee makes 3-pt jump shot from 23 ft (assist by N. Bjelica ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:49.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:46.0,,,,,,D. Lee,Defensive rebound by D. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,0:38.0,,,,,,N. Bjelica,N. Bjelica makes 2-pt jump shot from 6 ft (assist by J. Poole ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:29.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:26.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,0:06.0,,,,,,D. Lee,D. Lee misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:02.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,0:00.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 46 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:54.0,,,,,,I. Hartenstein,Offensive foul by I. Hartenstein (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,11:54.0,,,,,,I. Hartenstein,Turnover by I. Hartenstein (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202140LAC,1,11:28.0,,,,,,K. Thompson,K. Thompson makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:16.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by A. Coffey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,11:16.0,,,,,,A. Coffey,A. Coffey misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:16.0,,,,,,A. Coffey,A. Coffey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:03.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:01.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:53.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass; steal by J. Poole ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,10:48.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:45.0,,,,,,O. Porter,Offensive rebound by O. Porter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:36.0,,,,,,S. Curry,Turnover by S. Curry (bad pass; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,10:32.0,,,,,,J. Poole,Personal foul by J. Poole (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,10:20.0,,,,,,I. Hartenstein,I. Hartenstein makes 2-pt layup from 3 ft (assist by R. Hood ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:10.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:07.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:05.0,,,,,,O. Porter,Personal foul by O. Porter (drawn by I. Hartenstein ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,9:57.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:41.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:41.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:29.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 23 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:27.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,9:27.0,,,,,,D. Lee,D. Lee enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,9:08.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:05.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:59.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:55.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:36.0,,,,,,O. Porter,O. Porter makes 2-pt jump shot from 15 ft (assist by N. Bjelica ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:20.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:16.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:12.0,,,,,,A. Coffey,Personal foul by A. Coffey (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,8:12.0,,,,,,J. Kuminga,J. Kuminga enters the game for N. Bjelica,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,8:04.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:42.0,,,,,,R. Hood,R. Hood misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:38.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,7:31.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 27 ft (assist by D. Lee ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:30.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,7:30.0,,,,,,T. Mann,T. Mann enters the game for A. Coffey,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,7:14.0,,,,,,J. Kuminga,Shooting foul by J. Kuminga (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,7:14.0,,,,,,R. Covington,R. Covington makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:14.0,,,,,,N. Batum,N. Batum enters the game for R. Hood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,7:14.0,,,,,,R. Covington,R. Covington makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:03.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,7:03.0,,,,,,J. Kuminga,J. Kuminga makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:03.0,,,,,,J. Poole,J. Poole enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,7:03.0,,,,,,J. Kuminga,J. Kuminga makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:50.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:47.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,6:42.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:23.0,,,,,,R. Covington,R. Covington makes 2-pt layup from 1 ft (assist by N. Batum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:13.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:07.0,,,,,,O. Porter,Offensive rebound by O. Porter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:07.0,,,,,,O. Porter,O. Porter makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:50.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 23 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:37.0,,,,,,J. Kuminga,J. Kuminga misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:35.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,5:25.0,,,,,,I. Hartenstein,I. Hartenstein makes 3-pt jump shot from 24 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:07.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:05.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,4:55.0,,,,,,N. Batum,N. Batum makes 2-pt jump shot from 21 ft (assist by R. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:51.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,4:51.0,,,,,,S. Curry,S. Curry enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,4:51.0,,,,,,A. Wiggins,A. Wiggins enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,4:42.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:40.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,4:33.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:32.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,4:20.0,,,,,,A. Wiggins,Turnover by A. Wiggins (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,4:04.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,4:04.0,,,,,,T. Mann,T. Mann misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:04.0,,,,,,I. Zubac,I. Zubac enters the game for I. Hartenstein,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,4:04.0,,,,,,T. Mann,T. Mann makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:52.0,,,,,,J. Kuminga,Turnover by J. Kuminga (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,3:36.0,,,,,,I. Zubac,I. Zubac makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:36.0,,,,,,J. Kuminga,Shooting foul by J. Kuminga (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,3:36.0,,,,,,O. Porter,O. Porter enters the game for D. Lee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,3:36.0,,,,,,I. Zubac,I. Zubac misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:33.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,3:26.0,,,,,,S. Curry,Offensive foul by S. Curry (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,3:26.0,,,,,,S. Curry,Turnover by S. Curry (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202140LAC,1,3:18.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:15.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,3:04.0,,,,,,J. Poole,Turnover by J. Poole (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,3:04.0,,,,,,K. Looney,K. Looney enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:54.0,,,,,,I. Zubac,I. Zubac misses 2-pt dunk from 7 ft (block by J. Kuminga ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202140LAC,1,2:51.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,2:49.0,,,,,,J. Kuminga,J. Kuminga misses 2-pt layup from 3 ft (block by T. Mann ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202140LAC,1,2:46.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,2:46.0,,,,,,M. Morris,M. Morris enters the game for R. Covington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:22.0,,,,,,R. Jackson,Turnover by R. Jackson (lost ball; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,2:05.0,,,,,,O. Porter,O. Porter misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:02.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:47.0,,,,,,T. Mann,T. Mann makes 2-pt jump shot from 9 ft (assist by R. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:30.0,,,,,,R. Jackson,Loose ball foul by R. Jackson (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,1:25.0,,,,,,N. Batum,Personal foul by N. Batum (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,1:25.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:25.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:07.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:57.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 30 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:46.0,,,,,,R. Jackson,R. Jackson misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:41.0,,,,,,N. Batum,Offensive rebound by N. Batum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:30.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:27.0,,,,,,J. Kuminga,Defensive rebound by J. Kuminga,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,0:26.0,,,,,,J. Kuminga,Turnover by J. Kuminga (lost ball; steal by N. Batum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,0:20.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:17.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,0:00.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:45.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:25.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:25.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,11:17.0,,,,,,T. Mann,Offensive foul by T. Mann (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,11:17.0,,,,,,T. Mann,Turnover by T. Mann (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202140LAC,1,11:17.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:05.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:03.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:53.0,,,,,,I. Zubac,Turnover by I. Zubac (lost ball; steal by J. Kuminga ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,10:51.0,,,,,,R. Jackson,Loose ball foul by R. Jackson (drawn by J. Kuminga ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,10:36.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:14.0,,,,,,I. Zubac,I. Zubac makes 2-pt dunk at rim (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:02.0,,,,,,J. Kuminga,Turnover by J. Kuminga (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,9:48.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:44.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,9:38.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:35.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,9:25.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:08.0,,,,,,J. Kuminga,J. Kuminga misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:06.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:49.0,,,,,,R. Jackson,R. Jackson makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:49.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,8:39.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:36.0,,,,,,N. Batum,Defensive rebound by N. Batum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:22.0,,,,,,T. Mann,T. Mann makes 2-pt dunk from 3 ft (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:05.0,,,,,,K. Looney,K. Looney makes 2-pt dunk from 1 ft (assist by K. Thompson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:44.0,,,,,,I. Zubac,I. Zubac makes 2-pt layup from 3 ft (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:28.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:25.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,7:16.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:14.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,7:11.0,,,,,,K. Thompson,K. Thompson misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:11.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,6:56.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:54.0,,,,,,I. Zubac,Offensive rebound by I. Zubac,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:54.0,,,,,,I. Zubac,I. Zubac makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:41.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 33 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:39.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,6:22.0,,,,,,N. Batum,N. Batum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:20.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,6:08.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:50.0,,,,,,N. Batum,N. Batum makes 3-pt jump shot from 23 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:36.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by K. Looney ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,5:36.0,,,,,,K. Looney,K. Looney misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:36.0,,,,,,G. Payton,G. Payton enters the game for J. Kuminga,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,5:36.0,,,,,,J. Poole,J. Poole enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,5:36.0,,,,,,K. Looney,K. Looney makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:23.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:21.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,5:18.0,,,,,,I. Zubac,Shooting foul by I. Zubac (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,5:18.0,,,,,,A. Wiggins,A. Wiggins misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:18.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:18.0,,,,,,A. Wiggins,A. Wiggins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:01.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:46.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:43.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:37.0,,,,,,K. Looney,K. Looney misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:24.0,,,,,,K. Looney,K. Looney makes 2-pt layup from 3 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:06.0,,,,,,R. Jackson,R. Jackson makes 3-pt jump shot from 28 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:52.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt jump shot from 13 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:42.0,,,,,,K. Looney,Personal foul by K. Looney (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,3:42.0,,,,,,N. Bjelica,N. Bjelica enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,3:36.0,,,,,,N. Bjelica,Shooting foul by N. Bjelica (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,3:36.0,,,,,,I. Zubac,I. Zubac makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:36.0,,,,,,I. Zubac,I. Zubac misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:34.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,3:16.0,,,,,,N. Bjelica,Turnover by N. Bjelica (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,3:16.0,,,,,,M. Moody,M. Moody enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,3:16.0,,,,,,A. Coffey,A. Coffey enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:52.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:50.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,2:39.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 27 ft (assist by N. Bjelica ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:39.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,2:39.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,2:39.0,,,,,,R. Covington,R. Covington enters the game for N. Batum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:39.0,,,,,,I. Hartenstein,I. Hartenstein enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,2:39.0,,,,,,S. Curry,S. Curry makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:22.0,,,,,,T. Mann,T. Mann makes 3-pt jump shot from 23 ft (assist by R. Covington ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:04.0,,,,,,G. Payton,Turnover by G. Payton (bad pass; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,2:01.0,,,,,,J. Poole,Personal foul by J. Poole (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,2:01.0,,,,,,K. Thompson,K. Thompson enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,1:51.0,,,,,,A. Coffey,Turnover by A. Coffey (bad pass; steal by G. Payton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,1:51.0,,,,,,A. Coffey,Loose ball foul by A. Coffey (drawn by G. Payton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,1:51.0,,,,,,G. Payton,G. Payton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:51.0,,,,,,G. Payton,G. Payton misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:49.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:36.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:34.0,,,,,,N. Bjelica,Defensive rebound by N. Bjelica,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:23.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:20.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:12.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:02.0,,,,,,N. Bjelica,N. Bjelica misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:02.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,0:48.0,,,,,,T. Mann,T. Mann makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:48.0,,,,,,M. Moody,Shooting foul by M. Moody (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,0:48.0,,,,,,T. Mann,T. Mann makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:36.0,,,,,,J. Poole,Turnover by J. Poole (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,0:36.0,,,,,,O. Porter,O. Porter enters the game for N. Bjelica,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,0:21.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:00.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 11 ft (assist by K. Thompson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:40.0,,,,,,S. Curry,Turnover by S. Curry (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,11:30.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 2 ft (assist by R. Covington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:18.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,11:18.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,11:07.0,,,,,,R. Jackson,Turnover by R. Jackson (bad pass; steal by O. Porter ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,11:07.0,,,,,,I. Hartenstein,Personal take foul by I. Hartenstein (drawn by O. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,10:57.0,,,,,,O. Porter,O. Porter misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:54.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:43.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:40.0,,,,,,D. Lee,Defensive rebound by D. Lee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:34.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:31.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:10.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,10:07.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,10:03.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:59.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,9:45.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:42.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,9:24.0,,,,,,M. Moody,M. Moody misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:23.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,9:20.0,,,,,,D. Lee,Shooting foul by D. Lee (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,9:20.0,,,,,,R. Covington,R. Covington makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:20.0,,,,,,A. Wiggins,A. Wiggins enters the game for M. Moody,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,9:20.0,,,,,,R. Covington,R. Covington misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,9:17.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,9:10.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:53.0,,,,,,R. Covington,Offensive foul by R. Covington (drawn by D. Lee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,8:53.0,,,,,,R. Covington,Turnover by R. Covington (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202140LAC,1,8:53.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,8:53.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:45.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:42.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,8:33.0,,,,,,A. Coffey,A. Coffey makes 3-pt jump shot from 23 ft (assist by T. Mann ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:24.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt layup from 2 ft (block by R. Covington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202140LAC,1,8:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:22.0,,,,,,O. Porter,O. Porter makes 3-pt jump shot from 26 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,8:05.0,,,,,,O. Porter,Personal foul by O. Porter (drawn by R. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,7:56.0,,,,,,R. Jackson,R. Jackson misses 2-pt layup from 6 ft (block by A. Wiggins ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202140LAC,1,7:56.0,,,,,,R. Covington,Offensive rebound by R. Covington,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:56.0,,,,,,R. Covington,R. Covington misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:52.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,7:38.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:36.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,7:30.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 23 ft (assist by A. Coffey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:16.0,,,,,,S. Curry,Turnover by S. Curry (bad pass; steal by T. Mann ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,7:11.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,7:11.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,7:11.0,,,,,,J. Kuminga,J. Kuminga enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,7:11.0,,,,,,M. Moody,M. Moody enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,7:11.0,,,,,,J. Poole,J. Poole enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,7:11.0,,,,,,J. Toscano-Anderson,J. Toscano-Anderson enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,6:48.0,,,,,,J. Kuminga,J. Kuminga makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:25.0,,,,,,I. Hartenstein,I. Hartenstein makes 2-pt dunk from 1 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:04.0,,,,,,J. Kuminga,J. Kuminga misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,6:04.0,,,,,,D. Lee,Offensive rebound by D. Lee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:56.0,,,,,,M. Moody,M. Moody makes 3-pt jump shot from 27 ft (assist by D. Lee ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:35.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:21.0,,,,,,J. Toscano-Anderson,Turnover by J. Toscano-Anderson (lost ball; steal by I. Hartenstein ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,5:18.0,,,,,,J. Kuminga,Shooting foul by J. Kuminga (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,5:18.0,,,,,,T. Mann,T. Mann misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:18.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:18.0,,,,,,T. Mann,T. Mann misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,5:16.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,5:02.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:59.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,4:45.0,,,,,,I. Hartenstein,I. Hartenstein makes 2-pt dunk from 1 ft (assist by R. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:27.0,,,,,,M. Moody,M. Moody misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,4:25.0,,,,,,R. Jackson,Defensive rebound by R. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,4:25.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202140LAC,1,4:25.0,,,,,,B. Boston,B. Boston enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,4:25.0,,,,,,S. Ojeleye,S. Ojeleye enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202140LAC,1,4:05.0,,,,,,B. Boston,B. Boston makes 3-pt jump shot from 27 ft (assist by I. Hartenstein ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:45.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:33.0,,,,,,I. Hartenstein,Turnover by I. Hartenstein (lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,3:33.0,,,,,,I. Hartenstein,Loose ball foul by I. Hartenstein (drawn by J. Toscano-Anderson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,3:20.0,,,,,,M. Moody,M. Moody misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,3:16.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,3:02.0,,,,,,S. Ojeleye,S. Ojeleye misses 2-pt jump shot from 13 ft (block by M. Moody ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202140LAC,1,2:59.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,2:55.0,,,,,,J. Kuminga,J. Kuminga makes 2-pt dunk from 2 ft (assist by J. Poole ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:39.0,,,,,,B. Boston,B. Boston makes 3-pt jump shot from 25 ft (assist by A. Coffey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:26.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 3 ft (assist by J. Toscano-Anderson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:14.0,,,,,,A. Coffey,A. Coffey misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:11.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,2:08.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by J. Poole ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,2:08.0,,,,,,J. Poole,J. Poole makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,2:08.0,,,,,,J. Poole,J. Poole makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:53.0,,,,,,B. Boston,B. Boston makes 2-pt layup from 2 ft (assist by I. Hartenstein ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:43.0,,,,,,R. Covington,Personal foul by R. Covington (drawn by D. Lee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202140LAC,1,1:34.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:23.0,,,,,,S. Ojeleye,S. Ojeleye misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:21.0,,,,,,J. Toscano-Anderson,Defensive rebound by J. Toscano-Anderson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,1:17.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:13.0,,,,,,M. Moody,Offensive rebound by M. Moody,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:11.0,,,,,,D. Lee,D. Lee misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,1:06.0,,,,,,I. Hartenstein,Defensive rebound by I. Hartenstein,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202140LAC,1,0:48.0,,,,,,S. Ojeleye,Turnover by S. Ojeleye (bad pass; steal by D. Lee ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202140LAC,1,0:47.0,,,,,,D. Lee,D. Lee makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:39.0,,,,,,S. Ojeleye,Turnover by S. Ojeleye (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202140LAC,1,0:31.0,,,,,,J. Poole,J. Poole misses 2-pt dunk from 4 ft (block by B. Boston ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202140LAC,1,0:27.0,,,,,,J. Poole,Offensive rebound by J. Poole,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202140LAC,1,0:23.0,,,,,,J. Kuminga,J. Kuminga makes 2-pt dunk at rim (assist by J. Toscano-Anderson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False

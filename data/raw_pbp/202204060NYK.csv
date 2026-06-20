@@ -1,0 +1,464 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202204060NYK,1,11:47.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by K. Durant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:29.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:27.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,11:09.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 12 ft (assist by B. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:53.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 25 ft (assist by J. Sims ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:26.0,,,,,,A. Drummond,A. Drummond misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:24.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,10:13.0,,,,,,A. Drummond,Shooting foul by A. Drummond (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,10:13.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:13.0,,,,,,A. Burks,A. Burks misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:11.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,9:59.0,,,,,,K. Durant,Turnover by K. Durant (bad pass; steal by J. Sims ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,9:53.0,,,,,,K. Irving,Shooting foul by K. Irving (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,9:53.0,,,,,,O. Toppin,O. Toppin makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:53.0,,,,,,O. Toppin,O. Toppin misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:51.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,9:34.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:14.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 25 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:00.0,,,,,,K. Irving,K. Irving makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:54.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,8:47.0,,,,,,J. Sims,J. Sims makes 2-pt dunk from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:36.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:34.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:33.0,,,,,,A. Drummond,A. Drummond misses 2-pt dunk from 3 ft (block by J. Sims ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,8:31.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:11.0,,,,,,O. Toppin,O. Toppin misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:09.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,7:54.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:52.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,7:35.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:33.0,,,,,,K. Irving,Defensive rebound by K. Irving,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,7:28.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 25 ft (assist by B. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:21.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:14.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:12.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:10.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:08.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,6:58.0,,,,,,K. Irving,K. Irving makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:38.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 23 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:21.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:19.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,6:17.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:15.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,6:01.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:59.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:54.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:52.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:44.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:42.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:36.0,,,,,,A. Burks,A. Burks makes 2-pt layup from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:18.0,,,,,,K. Durant,K. Durant misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:16.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:06.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:04.0,,,,,,J. Sims,Offensive rebound by J. Sims,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:02.0,,,,,,J. Sims,J. Sims misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:00.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:00.0,,,,,,J. Sims,Loose ball foul by J. Sims (drawn by A. Drummond ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,5:00.0,,,,,,,Brooklyn full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,5:00.0,,,,,,N. Claxton,N. Claxton enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,5:00.0,,,,,,K. Edwards,K. Edwards enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,4:49.0,,,,,,N. Claxton,N. Claxton makes 2-pt hook shot from 2 ft (assist by K. Durant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:49.0,,,,,,A. Burks,Shooting foul by A. Burks (drawn by N. Claxton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,4:49.0,,,,,,N. Claxton,N. Claxton misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:47.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,4:36.0,,,,,,E. Fournier,Turnover by E. Fournier (bad pass; steal by K. Irving ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,4:29.0,,,,,,N. Claxton,N. Claxton makes 2-pt dunk from 1 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:15.0,,,,,,R. Barrett,Turnover by R. Barrett (bad pass; steal by K. Irving ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,4:11.0,,,,,,K. Edwards,K. Edwards makes 2-pt layup from 1 ft (assist by K. Irving ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:05.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,4:05.0,,,,,,L. Aldridge,L. Aldridge enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,4:05.0,,,,,,T. Gibson,T. Gibson enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,4:05.0,,,,,,I. Quickley,I. Quickley enters the game for J. Sims,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,3:54.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:52.0,,,,,,L. Aldridge,Defensive rebound by L. Aldridge,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,3:43.0,,,,,,K. Edwards,K. Edwards misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:41.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,3:41.0,,,,,,P. Mills,P. Mills enters the game for K. Irving,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,3:28.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 1 ft (block by L. Aldridge ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,3:26.0,,,,,,R. Barrett,Offensive rebound by R. Barrett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:18.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup from 3 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:07.0,,,,,,K. Edwards,K. Edwards makes 3-pt jump shot from 23 ft (assist by K. Durant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:54.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:52.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:34.0,,,,,,K. Edwards,K. Edwards misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:32.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:30.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 4 ft (block by K. Edwards ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,2:28.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:19.0,,,,,,K. Durant,K. Durant misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:17.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:11.0,,,,,,E. Fournier,E. Fournier makes 2-pt jump shot from 10 ft (assist by O. Toppin ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:55.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:38.0,,,,,,E. Fournier,E. Fournier makes 3-pt jump shot from 23 ft (assist by I. Quickley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:26.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:24.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,1:17.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:15.0,,,,,,L. Aldridge,Defensive rebound by L. Aldridge,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,1:08.0,,,,,,L. Aldridge,Turnover by L. Aldridge (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,0:55.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:54.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:53.0,,,,,,T. Gibson,T. Gibson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:40.0,,,,,,P. Mills,P. Mills misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:38.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:30.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 22 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:05.0,,,,,,K. Edwards,K. Edwards misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:03.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:00.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:48.0,,,,,,T. Gibson,T. Gibson makes 3-pt jump shot from 22 ft (assist by R. Barrett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:25.0,,,,,,N. Claxton,N. Claxton misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:23.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,11:08.0,,,,,,R. Barrett,R. Barrett makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:08.0,,,,,,L. Aldridge,Shooting foul by L. Aldridge (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,11:08.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:57.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 15 ft (block by T. Gibson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,10:56.0,,,,,,K. Irving,Offensive rebound by K. Irving,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:50.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:48.0,,,,,,M. McBride,Defensive rebound by M. McBride,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,10:42.0,,,,,,M. McBride,M. McBride misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:40.0,,,,,,L. Aldridge,Defensive rebound by L. Aldridge,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,10:26.0,,,,,,N. Claxton,N. Claxton misses 2-pt layup from 2 ft (block by O. Toppin ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,10:24.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,10:20.0,,,,,,C. Thomas,Personal foul by C. Thomas (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,10:20.0,,,,,,B. Brown,B. Brown enters the game for L. Aldridge,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,10:20.0,,,,,,O. Toppin,O. Toppin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:20.0,,,,,,O. Toppin,O. Toppin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:04.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:02.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,9:55.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup from 2 ft (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:45.0,,,,,,K. Irving,K. Irving makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:24.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:22.0,,,,,,N. Claxton,Defensive rebound by N. Claxton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,9:17.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:15.0,,,,,,B. Brown,Offensive rebound by B. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:14.0,,,,,,O. Toppin,Shooting foul by O. Toppin (drawn by B. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,9:14.0,,,,,,A. Burks,A. Burks enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,9:14.0,,,,,,J. Sims,J. Sims enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,9:14.0,,,,,,B. Brown,B. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:14.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:14.0,,,,,,B. Brown,B. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:54.0,,,,,,M. McBride,M. McBride misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:52.0,,,,,,N. Claxton,Defensive rebound by N. Claxton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:45.0,,,,,,K. Irving,Turnover by K. Irving (bad pass; steal by I. Quickley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,8:43.0,,,,,,B. Brown,Shooting foul by B. Brown (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,8:43.0,,,,,,I. Quickley,I. Quickley misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:43.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:43.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:26.0,,,,,,N. Claxton,N. Claxton misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:24.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:19.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:17.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:05.0,,,,,,K. Irving,K. Irving makes 2-pt layup from 2 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:50.0,,,,,,A. Burks,A. Burks makes 2-pt jump shot from 8 ft (assist by I. Quickley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:32.0,,,,,,C. Thomas,C. Thomas misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:30.0,,,,,,N. Claxton,Offensive rebound by N. Claxton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:21.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:19.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,7:10.0,,,,,,M. McBride,M. McBride makes 3-pt jump shot from 23 ft (assist by J. Sims ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:01.0,,,,,,,Brooklyn full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,7:01.0,,,,,,A. Drummond,A. Drummond enters the game for N. Claxton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,7:01.0,,,,,,P. Mills,P. Mills enters the game for C. Thomas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,6:56.0,,,,,,I. Quickley,Personal foul by I. Quickley (drawn by K. Irving ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,6:52.0,,,,,,K. Irving,K. Irving makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:52.0,,,,,,J. Sims,Shooting foul by J. Sims (drawn by K. Irving ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,6:52.0,,,,,,K. Irving,K. Irving makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:41.0,,,,,,A. Burks,A. Burks makes 2-pt jump shot from 11 ft (assist by I. Quickley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:29.0,,,,,,P. Mills,P. Mills makes 3-pt jump shot from 25 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:12.0,,,,,,K. Irving,Shooting foul by K. Irving (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,6:12.0,,,,,,K. Durant,K. Durant enters the game for K. Irving,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,6:12.0,,,,,,R. Barrett,R. Barrett enters the game for M. McBride,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,6:12.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:12.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:01.0,,,,,,B. Brown,B. Brown makes 2-pt jump shot from 12 ft (assist by K. Durant ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:44.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:42.0,,,,,,T. Gibson,Offensive rebound by T. Gibson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:40.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 23 ft (assist by T. Gibson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:22.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 13 ft (assist by P. Mills ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:10.0,,,,,,R. Barrett,Turnover by R. Barrett (bad pass; steal by S. Curry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,5:04.0,,,,,,P. Mills,P. Mills misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:02.0,,,,,,T. Gibson,Defensive rebound by T. Gibson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,4:41.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft (block by B. Brown ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,4:39.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,4:32.0,,,,,,T. Gibson,Shooting foul by T. Gibson (drawn by K. Durant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,4:32.0,,,,,,K. Edwards,K. Edwards enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,4:32.0,,,,,,K. Irving,K. Irving enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,4:32.0,,,,,,E. Fournier,E. Fournier enters the game for T. Gibson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,4:32.0,,,,,,O. Toppin,O. Toppin enters the game for I. Quickley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,4:32.0,,,,,,K. Durant,K. Durant makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:32.0,,,,,,K. Durant,K. Durant makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:32.0,,,,,,K. Durant,K. Durant makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:16.0,,,,,,O. Toppin,O. Toppin makes 3-pt jump shot from 26 ft (assist by R. Barrett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:05.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:03.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,3:59.0,,,,,,P. Mills,Shooting foul by P. Mills (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,3:59.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:59.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:39.0,,,,,,P. Mills,Turnover by P. Mills (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,3:25.0,,,,,,R. Barrett,R. Barrett makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:09.0,,,,,,O. Toppin,Shooting foul by O. Toppin (drawn by K. Irving ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,3:09.0,,,,,,B. Brown,B. Brown enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,3:09.0,,,,,,N. Claxton,N. Claxton enters the game for P. Mills,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,3:09.0,,,,,,K. Irving,K. Irving makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:09.0,,,,,,K. Irving,K. Irving makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:57.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 26 ft (assist by O. Toppin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:43.0,,,,,,K. Irving,Turnover by K. Irving (lost ball; steal by O. Toppin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,2:39.0,,,,,,E. Fournier,E. Fournier makes 3-pt jump shot from 24 ft (assist by O. Toppin ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:37.0,,,,,,,Brooklyn full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,2:20.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:20.0,,,,,,N. Claxton,Offensive foul by N. Claxton (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,2:20.0,,,,,,N. Claxton,Turnover by N. Claxton (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204060NYK,1,2:09.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 3 ft (block by N. Claxton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,2:07.0,,,,,,N. Claxton,Defensive rebound by N. Claxton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,1:53.0,,,,,,B. Brown,B. Brown misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:51.0,,,,,,N. Claxton,Offensive rebound by N. Claxton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:49.0,,,,,,N. Claxton,N. Claxton makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:25.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:23.0,,,,,,N. Claxton,Defensive rebound by N. Claxton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,1:15.0,,,,,,K. Durant,Turnover by K. Durant (lost ball; steal by A. Burks ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,1:09.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:08.0,,,,,,N. Claxton,Loose ball foul by N. Claxton (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,1:08.0,,,,,,J. Sims,J. Sims misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:08.0,,,,,,J. Sims,J. Sims misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:07.0,,,,,,E. Fournier,Offensive rebound by E. Fournier,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:03.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:01.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:51.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:48.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:36.0,,,,,,J. Sims,J. Sims makes 2-pt dunk from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:15.0,,,,,,K. Irving,K. Irving makes 2-pt jump shot from 4 ft (assist by K. Edwards ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:00.0,,,,,,B. Brown,Shooting foul by B. Brown (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,0:00.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:00.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:50.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:30.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:29.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,11:29.0,,,,,,B. Brown,Loose ball foul by B. Brown (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,11:16.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,11:16.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:16.0,,,,,,R. Barrett,R. Barrett misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:14.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,11:03.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 20 ft (assist by K. Irving ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:46.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:44.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:39.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup from 6 ft (block by K. Durant ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,10:38.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,10:36.0,,,,,,A. Burks,Personal take foul by A. Burks (drawn by K. Durant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,10:25.0,,,,,,A. Drummond,A. Drummond makes 2-pt dunk from 1 ft (assist by K. Durant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:25.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,10:12.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:10.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,10:03.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:42.0,,,,,,E. Fournier,E. Fournier misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:40.0,,,,,,J. Sims,Offensive rebound by J. Sims,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:40.0,,,,,,K. Durant,Shooting foul by K. Durant (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,9:40.0,,,,,,J. Sims,J. Sims misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:40.0,,,,,,J. Sims,J. Sims makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:27.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:25.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,9:16.0,,,,,,A. Burks,A. Burks misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:14.0,,,,,,K. Irving,Defensive rebound by K. Irving,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:55.0,,,,,,E. Fournier,Shooting foul by E. Fournier (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,8:55.0,,,,,,S. Curry,S. Curry makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:55.0,,,,,,S. Curry,S. Curry misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:55.0,,,,,,S. Curry,S. Curry makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:41.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:40.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:40.0,,,,,,J. Sims,Loose ball foul by J. Sims (drawn by K. Durant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,8:22.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:20.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:09.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:07.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:03.0,,,,,,B. Brown,B. Brown misses 2-pt layup from 2 ft (block by O. Toppin ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,8:01.0,,,,,,K. Irving,Offensive rebound by K. Irving,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:52.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:50.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,7:49.0,,,,,,A. Burks,Turnover by A. Burks (bad pass; steal by A. Drummond ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,7:45.0,,,,,,A. Drummond,A. Drummond misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:43.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:40.0,,,,,,K. Durant,K. Durant misses 2-pt layup from 3 ft (block by J. Sims ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,7:40.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,7:40.0,,,,,,E. Fournier,Turnover by E. Fournier (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,7:29.0,,,,,,B. Brown,B. Brown misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:27.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,7:23.0,,,,,,A. Drummond,Loose ball foul by A. Drummond (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:16.0,,,,,,K. Irving,Personal foul by K. Irving (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:16.0,,,,,,A. Burks,A. Burks misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:16.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:54.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:52.0,,,,,,A. Drummond,Offensive rebound by A. Drummond,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:47.0,,,,,,A. Drummond,A. Drummond makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:34.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:32.0,,,,,,A. Drummond,Defensive rebound by A. Drummond,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,6:24.0,,,,,,A. Drummond,Turnover by A. Drummond (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,6:12.0,,,,,,J. Sims,J. Sims makes 2-pt dunk from 1 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:57.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:55.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:52.0,,,,,,R. Barrett,Turnover by R. Barrett (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,5:39.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:37.0,,,,,,J. Sims,Defensive rebound by J. Sims,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:30.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:28.0,,,,,,J. Sims,Offensive rebound by J. Sims,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:28.0,,,,,,J. Sims,J. Sims makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:18.0,,,,,,R. Barrett,Personal foul by R. Barrett (drawn by K. Durant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,5:18.0,,,,,,N. Claxton,N. Claxton enters the game for A. Drummond,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,5:10.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:08.0,,,,,,N. Claxton,Offensive rebound by N. Claxton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:05.0,,,,,,N. Claxton,N. Claxton misses 2-pt layup from 1 ft (block by J. Sims ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,5:02.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,4:51.0,,,,,,N. Claxton,Shooting foul by N. Claxton (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,4:51.0,,,,,,J. Sims,J. Sims misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:51.0,,,,,,J. Sims,J. Sims makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:26.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,4:14.0,,,,,,A. Burks,Turnover by A. Burks (bad pass; steal by K. Durant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,4:09.0,,,,,,N. Claxton,N. Claxton makes 2-pt dunk from 1 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:09.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,4:09.0,,,,,,P. Mills,P. Mills enters the game for S. Curry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,3:58.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:40.0,,,,,,K. Irving,K. Irving misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:38.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,3:28.0,,,,,,J. Sims,J. Sims misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:26.0,,,,,,K. Irving,Defensive rebound by K. Irving,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,3:14.0,,,,,,K. Durant,K. Durant makes 3-pt jump shot from 26 ft (assist by B. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:56.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:54.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:43.0,,,,,,B. Brown,Turnover by B. Brown (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,2:43.0,,,,,,K. Edwards,K. Edwards enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,2:43.0,,,,,,I. Quickley,I. Quickley enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,2:21.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:20.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:20.0,,,,,,T. Gibson,T. Gibson enters the game for J. Sims,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,2:01.0,,,,,,K. Irving,K. Irving makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:34.0,,,,,,O. Toppin,O. Toppin makes 2-pt jump shot from 6 ft (assist by R. Barrett ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:23.0,,,,,,R. Barrett,Shooting foul by R. Barrett (drawn by K. Durant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,1:23.0,,,,,,K. Durant,K. Durant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:23.0,,,,,,K. Durant,K. Durant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:04.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:02.0,,,,,,K. Edwards,Defensive rebound by K. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:54.0,,,,,,K. Durant,Turnover by K. Durant (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,0:40.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:38.0,,,,,,K. Edwards,Defensive rebound by K. Edwards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:22.0,,,,,,K. Durant,K. Durant makes 3-pt jump shot from 26 ft (assist by P. Mills ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:04.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:02.0,,,,,,K. Irving,Defensive rebound by K. Irving,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:01.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:50.0,,,,,,P. Mills,P. Mills makes 3-pt jump shot from 25 ft (assist by K. Durant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:23.0,,,,,,M. McBride,M. McBride misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:22.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,11:18.0,,,,,,K. Irving,K. Irving makes 3-pt jump shot from 28 ft (assist by K. Durant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:07.0,,,,,,K. Edwards,Shooting foul by K. Edwards (drawn by I. Quickley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,11:07.0,,,,,,A. Burks,A. Burks enters the game for M. McBride,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,11:07.0,,,,,,I. Quickley,I. Quickley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,11:07.0,,,,,,I. Quickley,I. Quickley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:56.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:54.0,,,,,,T. Gibson,Loose ball foul by T. Gibson (drawn by N. Claxton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,10:46.0,,,,,,P. Mills,P. Mills makes 3-pt jump shot from 26 ft (assist by K. Irving ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:34.0,,,,,,A. Burks,Turnover by A. Burks (lost ball; steal by K. Irving ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,10:30.0,,,,,,K. Durant,K. Durant makes 2-pt dunk at rim (assist by K. Irving ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:30.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,10:17.0,,,,,,I. Quickley,Offensive foul by I. Quickley (drawn by P. Mills ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,10:17.0,,,,,,I. Quickley,Turnover by I. Quickley (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204060NYK,1,10:03.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:01.0,,,,,,K. Edwards,Offensive rebound by K. Edwards,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,10:01.0,,,,,,K. Edwards,K. Edwards makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:44.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:42.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,9:32.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,9:11.0,,,,,,I. Quickley,I. Quickley makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:51.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:49.0,,,,,,I. Quickley,Defensive rebound by I. Quickley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,8:39.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:37.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:37.0,,,,,,O. Toppin,O. Toppin makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:23.0,,,,,,P. Mills,P. Mills makes 3-pt jump shot from 23 ft (assist by K. Durant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,8:04.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup at rim (assist by I. Quickley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:51.0,,,,,,N. Claxton,Offensive foul by N. Claxton (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:51.0,,,,,,N. Claxton,Turnover by N. Claxton (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204060NYK,1,7:51.0,,,,,,J. Sims,J. Sims enters the game for T. Gibson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,7:36.0,,,,,,N. Claxton,Shooting foul by N. Claxton (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:36.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:36.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:29.0,,,,,,J. Sims,Shooting foul by J. Sims (drawn by K. Durant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:29.0,,,,,,B. Brown,B. Brown enters the game for N. Claxton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,7:29.0,,,,,,K. Durant,K. Durant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:29.0,,,,,,K. Durant,K. Durant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:24.0,,,,,,K. Durant,Personal foul by K. Durant (drawn by J. Sims ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:10.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:10.0,,,,,,K. Durant,Shooting foul by K. Durant (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,7:10.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,7:08.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,6:46.0,,,,,,K. Edwards,K. Edwards misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:44.0,,,,,,B. Brown,Offensive rebound by B. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:41.0,,,,,,B. Brown,B. Brown misses 2-pt layup from 1 ft (block by O. Toppin ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,6:39.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,6:36.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:35.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,6:35.0,,,,,,,Brooklyn full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,6:35.0,,,,,,S. Curry,S. Curry enters the game for K. Edwards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202204060NYK,1,6:10.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,6:08.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:54.0,,,,,,O. Toppin,O. Toppin misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:52.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,5:45.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:43.0,,,,,,K. Durant,Offensive rebound by K. Durant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:39.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:34.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 16 ft (assist by K. Irving ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:11.0,,,,,,B. Brown,Shooting foul by B. Brown (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,5:11.0,,,,,,,Brooklyn full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,5:11.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:11.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:11.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,5:11.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:57.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 13 ft (assist by K. Irving ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:35.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:33.0,,,,,,J. Sims,Offensive rebound by J. Sims,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:32.0,,,,,,J. Sims,Turnover by J. Sims (lost ball; steal by P. Mills ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202204060NYK,1,4:15.0,,,,,,K. Durant,K. Durant makes 2-pt jump shot from 18 ft (assist by K. Irving ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,4:13.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202204060NYK,1,3:56.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:54.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,3:37.0,,,,,,K. Irving,Turnover by K. Irving (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202204060NYK,1,3:28.0,,,,,,A. Burks,Offensive foul by A. Burks (drawn by K. Irving ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,3:28.0,,,,,,A. Burks,Turnover by A. Burks (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204060NYK,1,3:18.0,,,,,,R. Barrett,Personal foul by R. Barrett (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,3:08.0,,,,,,K. Irving,K. Irving misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,3:06.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,3:01.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 4 ft (block by K. Durant ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202204060NYK,1,2:59.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:53.0,,,,,,K. Durant,K. Durant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:51.0,,,,,,K. Durant,Offensive rebound by K. Durant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:48.0,,,,,,K. Irving,K. Irving makes 3-pt jump shot from 25 ft (assist by K. Durant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:26.0,,,,,,A. Burks,A. Burks misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,2:24.0,,,,,,K. Irving,Defensive rebound by K. Irving,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,2:14.0,,,,,,K. Durant,Offensive foul by K. Durant (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,2:14.0,,,,,,K. Durant,Turnover by K. Durant (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202204060NYK,1,1:55.0,,,,,,A. Burks,A. Burks misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:53.0,,,,,,K. Irving,Defensive rebound by K. Irving,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,1:36.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 28 ft (assist by K. Durant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:30.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,1:30.0,,,,,,O. Toppin,O. Toppin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:30.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:30.0,,,,,,O. Toppin,O. Toppin makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,1:06.0,,,,,,P. Mills,P. Mills makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:56.0,,,,,,I. Quickley,I. Quickley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:54.0,,,,,,K. Durant,Defensive rebound by K. Durant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202204060NYK,1,0:36.0,,,,,,J. Sims,Personal take foul by J. Sims (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,0:33.0,,,,,,A. Burks,Personal foul by A. Burks (drawn by K. Durant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,0:33.0,,,,,,K. Durant,K. Durant misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:33.0,,,,,,K. Durant,K. Durant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:27.0,,,,,,K. Durant,Shooting foul by K. Durant (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202204060NYK,1,0:27.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:27.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202204060NYK,1,0:06.0,,,,,,B. Brown,B. Brown makes 2-pt layup from 1 ft (assist by K. Durant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False

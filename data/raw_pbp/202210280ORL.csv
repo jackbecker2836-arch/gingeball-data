@@ -1,0 +1,456 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202210280ORL,1,11:37.0,,,,,,D. Smith,D. Smith misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:34.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,11:16.0,,,,,,W. Carter,W. Carter misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:13.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,11:09.0,,,,,,K. Oubre,K. Oubre misses 2-pt layup from 12 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:04.0,,,,,,M. Plumlee,Offensive rebound by M. Plumlee,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:03.0,,,,,,M. Plumlee,Turnover by M. Plumlee (bad pass; steal by F. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,10:57.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:53.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,10:42.0,,,,,,M. Plumlee,M. Plumlee misses 2-pt hook shot from 11 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:42.0,,,,,,D. Smith,Offensive rebound by D. Smith,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:37.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:33.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,10:25.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:22.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,10:08.0,,,,,,G. Hayward,G. Hayward makes 3-pt jump shot from 23 ft (assist by M. Plumlee ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:43.0,,,,,,F. Wagner,F. Wagner makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:43.0,,,,,,D. Smith,Shooting foul by D. Smith (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,9:43.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:23.0,,,,,,D. Smith,D. Smith misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:22.0,,,,,,K. Oubre,Offensive rebound by K. Oubre,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:22.0,,,,,,K. Oubre,K. Oubre makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:15.0,,,,,,B. Bol,B. Bol makes 2-pt dunk from 2 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:04.0,,,,,,K. Oubre,K. Oubre misses 2-pt layup from 4 ft (block by T. Ross ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,9:01.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:55.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:40.0,,,,,,M. Plumlee,M. Plumlee makes 2-pt layup from 3 ft (assist by G. Hayward ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:26.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 26 ft (assist by B. Bol ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:26.0,,,,,,P. Washington,Shooting foul by P. Washington (drawn by T. Ross ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,8:26.0,,,,,,T. Ross,T. Ross misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:24.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:07.0,,,,,,D. Smith,Turnover by D. Smith (bad pass; steal by T. Ross ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,8:01.0,,,,,,F. Wagner,Turnover by F. Wagner (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,7:48.0,,,,,,G. Hayward,Turnover by G. Hayward (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,7:29.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:29.0,,,,,,K. Oubre,Defensive rebound by K. Oubre,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,7:14.0,,,,,,D. Smith,D. Smith makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:07.0,,,,,,B. Bol,Turnover by B. Bol (lost ball; steal by D. Smith ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,7:01.0,,,,,,B. Bol,Personal foul by B. Bol (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,6:51.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:48.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,6:40.0,,,,,,P. Banchero,P. Banchero makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:29.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,6:29.0,,,,,,C. Okeke,C. Okeke enters the game for P. Banchero,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,6:21.0,,,,,,K. Oubre,K. Oubre makes 3-pt jump shot from 26 ft (assist by G. Hayward ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:58.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:37.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:33.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:28.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:22.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:22.0,,,,,,T. Ross,Personal foul by T. Ross (drawn by M. Plumlee ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,5:22.0,,,,,,J. Bouknight,J. Bouknight enters the game for K. Oubre,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:22.0,,,,,,J. McDaniels,J. McDaniels enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:13.0,,,,,,G. Hayward,G. Hayward makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:46.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 34 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:43.0,,,,,,J. Bouknight,Defensive rebound by J. Bouknight,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:35.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:35.0,,,,,,T. Maledon,T. Maledon enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,4:35.0,,,,,,N. Richards,N. Richards enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,4:35.0,,,,,,R. Hampton,R. Hampton enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,4:28.0,,,,,,J. Bouknight,Turnover by J. Bouknight (bad pass; steal by W. Carter ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,4:20.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:16.0,,,,,,C. Okeke,Offensive rebound by C. Okeke,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:11.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:10.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:10.0,,,,,,C. Okeke,Personal foul by C. Okeke (drawn by J. McDaniels ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,3:55.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:51.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:44.0,,,,,,B. Bol,B. Bol misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:41.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:34.0,,,,,,J. Bouknight,J. Bouknight makes 2-pt layup from 1 ft (assist by J. McDaniels ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:23.0,,,,,,R. Hampton,Turnover by R. Hampton (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,3:23.0,,,,,,C. Houstan,C. Houstan enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,3:03.0,,,,,,N. Richards,N. Richards makes 2-pt layup from 2 ft (assist by T. Maledon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:03.0,,,,,,C. Okeke,Shooting foul by C. Okeke (drawn by N. Richards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,3:03.0,,,,,,N. Richards,N. Richards misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:59.0,,,,,,J. McDaniels,Offensive rebound by J. McDaniels,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:56.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt jump shot from 11 ft (block by B. Bol ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,2:52.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,2:43.0,,,,,,W. Carter,W. Carter misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:40.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,2:34.0,,,,,,J. Bouknight,Turnover by J. Bouknight (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,2:34.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,2:34.0,,,,,,P. Washington,P. Washington enters the game for G. Hayward,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,2:34.0,,,,,,M. Bamba,M. Bamba enters the game for B. Bol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,2:34.0,,,,,,P. Banchero,P. Banchero enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,2:18.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:16.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,2:12.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:08.0,,,,,,R. Hampton,Defensive rebound by R. Hampton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:58.0,,,,,,R. Hampton,R. Hampton misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:58.0,,,,,,P. Banchero,Offensive rebound by P. Banchero,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:56.0,,,,,,P. Banchero,P. Banchero misses 2-pt layup from 1 ft (block by P. Washington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,1:56.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:42.0,,,,,,J. Bouknight,J. Bouknight misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:39.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:26.0,,,,,,C. Houstan,C. Houstan makes 3-pt jump shot from 27 ft (assist by C. Okeke ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:04.0,,,,,,P. Washington,P. Washington misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:04.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:54.0,,,,,,M. Bamba,M. Bamba makes 2-pt dunk from 2 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:54.0,,,,,,J. McDaniels,Shooting foul by J. McDaniels (drawn by M. Bamba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,0:54.0,,,,,,M. Bamba,M. Bamba makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:42.0,,,,,,J. McDaniels,J. McDaniels misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:37.0,,,,,,N. Richards,Offensive rebound by N. Richards,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:36.0,,,,,,N. Richards,N. Richards misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:36.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:25.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:21.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:19.0,,,,,,J. Bouknight,J. Bouknight misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:19.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:00.0,,,,,,M. Bamba,M. Bamba makes 2-pt jump shot from 21 ft (assist by P. Banchero ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:46.0,,,,,,C. Houstan,Turnover by C. Houstan (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,11:26.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,11:26.0,,,,,,K. Oubre,K. Oubre makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:26.0,,,,,,K. Oubre,K. Oubre misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:22.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,11:13.0,,,,,,M. Bamba,M. Bamba makes 2-pt dunk from 2 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:05.0,,,,,,P. Washington,Turnover by P. Washington (bad pass; steal by R. Hampton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,11:03.0,,,,,,R. Hampton,R. Hampton makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:54.0,,,,,,D. Smith,Turnover by D. Smith (lost ball; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,10:52.0,,,,,,P. Washington,Shooting foul by P. Washington (drawn by C. Okeke ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,10:52.0,,,,,,C. Okeke,C. Okeke makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:52.0,,,,,,J. Thor,J. Thor enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,10:52.0,,,,,,C. Okeke,C. Okeke makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:40.0,,,,,,J. McDaniels,Turnover by J. McDaniels (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,10:28.0,,,,,,P. Banchero,Turnover by P. Banchero (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,10:18.0,,,,,,C. Houstan,Shooting foul by C. Houstan (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,10:18.0,,,,,,K. Oubre,K. Oubre misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:18.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:18.0,,,,,,K. Oubre,K. Oubre makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:06.0,,,,,,N. Richards,Shooting foul by N. Richards (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,10:06.0,,,,,,P. Banchero,P. Banchero misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:06.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:50.0,,,,,,N. Richards,N. Richards makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:37.0,,,,,,P. Banchero,Turnover by P. Banchero (bad pass; steal by J. McDaniels ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,9:32.0,,,,,,J. McDaniels,J. McDaniels makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:17.0,,,,,,J. McDaniels,Personal foul by J. McDaniels (drawn by C. Houstan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,9:06.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:52.0,,,,,,D. Smith,D. Smith misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:49.0,,,,,,R. Hampton,Defensive rebound by R. Hampton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:39.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:35.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:30.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:27.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:21.0,,,,,,C. Houstan,C. Houstan misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:19.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:02.0,,,,,,K. Oubre,K. Oubre misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:58.0,,,,,,C. Houstan,Defensive rebound by C. Houstan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,7:55.0,,,,,,C. Houstan,C. Houstan misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:52.0,,,,,,J. Thor,Defensive rebound by J. Thor,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,7:46.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:43.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,7:38.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,7:38.0,,,,,,G. Hayward,G. Hayward enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,7:38.0,,,,,,T. Ross,T. Ross enters the game for R. Hampton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,7:38.0,,,,,,A. Schofield,A. Schofield enters the game for C. Houstan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,7:38.0,,,,,,F. Wagner,F. Wagner enters the game for C. Okeke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,7:31.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:26.0,,,,,,N. Richards,Defensive rebound by N. Richards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,7:04.0,,,,,,D. Smith,D. Smith misses 2-pt layup from 2 ft (block by M. Bamba ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,6:58.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,6:55.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:53.0,,,,,,N. Richards,Defensive rebound by N. Richards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,6:47.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,6:47.0,,,,,,G. Hayward,G. Hayward makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:47.0,,,,,,B. Bol,B. Bol enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,6:47.0,,,,,,W. Carter,W. Carter enters the game for P. Banchero,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,6:47.0,,,,,,G. Hayward,G. Hayward makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:27.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:08.0,,,,,,K. Oubre,Turnover by K. Oubre (lost ball; steal by W. Carter ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,5:50.0,,,,,,T. Ross,T. Ross misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:47.0,,,,,,N. Richards,Defensive rebound by N. Richards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:39.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:35.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:24.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,5:24.0,,,,,,F. Wagner,F. Wagner makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:24.0,,,,,,T. Maledon,T. Maledon enters the game for N. Richards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:24.0,,,,,,M. Plumlee,M. Plumlee enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:18.0,,,,,,M. Plumlee,Shooting foul by M. Plumlee (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,5:18.0,,,,,,W. Carter,W. Carter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:18.0,,,,,,W. Carter,W. Carter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:06.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:03.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:54.0,,,,,,A. Schofield,A. Schofield misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:48.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:33.0,,,,,,J. Thor,Turnover by J. Thor (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,4:20.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:59.0,,,,,,T. Maledon,T. Maledon makes 3-pt jump shot from 25 ft (assist by J. Thor ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:39.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:35.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:28.0,,,,,,W. Carter,Personal foul by W. Carter (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,3:28.0,,,,,,J. Bouknight,J. Bouknight enters the game for K. Oubre,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,3:28.0,,,,,,J. McDaniels,J. McDaniels enters the game for J. Thor,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,3:28.0,,,,,,P. Banchero,P. Banchero enters the game for A. Schofield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,3:14.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:12.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:07.0,,,,,,J. McDaniels,Shooting foul by J. McDaniels (drawn by B. Bol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,3:07.0,,,,,,B. Bol,B. Bol makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:07.0,,,,,,J. Thor,J. Thor enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,3:07.0,,,,,,B. Bol,B. Bol makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:46.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:44.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,2:44.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,2:44.0,,,,,,D. Smith,D. Smith enters the game for T. Maledon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,2:26.0,,,,,,T. Ross,T. Ross makes 2-pt jump shot from 10 ft (assist by F. Wagner ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:10.0,,,,,,J. Thor,J. Thor misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:06.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:57.0,,,,,,D. Smith,Shooting foul by D. Smith (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,1:57.0,,,,,,P. Banchero,P. Banchero misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:57.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:57.0,,,,,,T. Maledon,T. Maledon enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,1:57.0,,,,,,P. Banchero,P. Banchero misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:54.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:43.0,,,,,,G. Hayward,G. Hayward misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:40.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:36.0,,,,,,M. Plumlee,Personal foul by M. Plumlee (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,1:36.0,,,,,,P. Banchero,P. Banchero misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:36.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:11.0,,,,,,J. Bouknight,J. Bouknight misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:08.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:02.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:00.0,,,,,,P. Banchero,Offensive rebound by P. Banchero,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:59.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 27 ft (assist by P. Banchero ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:39.0,,,,,,J. Bouknight,Turnover by J. Bouknight (bad pass; steal by B. Bol ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,0:37.0,,,,,,B. Bol,B. Bol makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:37.0,,,,,,J. Thor,Shooting foul by J. Thor (drawn by B. Bol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,0:37.0,,,,,,B. Bol,B. Bol makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:29.0,,,,,,J. Thor,J. Thor misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:25.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:10.0,,,,,,W. Carter,W. Carter makes 2-pt dunk from 1 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:01.0,,,,,,T. Maledon,T. Maledon misses 2-pt layup from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:01.0,,,,,,B. Bol,Defensive rebound by B. Bol,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,11:44.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:27.0,,,,,,D. Smith,D. Smith makes 2-pt layup from 2 ft (assist by M. Plumlee ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:13.0,,,,,,B. Bol,Turnover by B. Bol (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,11:03.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:59.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,10:56.0,,,,,,F. Wagner,Turnover by F. Wagner (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,10:36.0,,,,,,G. Hayward,G. Hayward misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:32.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,10:13.0,,,,,,W. Carter,W. Carter misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:10.0,,,,,,G. Hayward,Defensive rebound by G. Hayward,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,10:08.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:04.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,9:53.0,,,,,,P. Banchero,P. Banchero makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:37.0,,,,,,K. Oubre,K. Oubre misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:35.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,9:26.0,,,,,,P. Banchero,P. Banchero makes 2-pt layup from 2 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:19.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,9:14.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:10.0,,,,,,K. Oubre,Offensive rebound by K. Oubre,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:10.0,,,,,,T. Ross,Personal foul by T. Ross (drawn by K. Oubre ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,9:04.0,,,,,,G. Hayward,G. Hayward makes 3-pt jump shot from 27 ft (assist by M. Plumlee ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:37.0,,,,,,B. Bol,B. Bol makes 2-pt dunk at rim (assist by F. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:16.0,,,,,,K. Oubre,K. Oubre makes 3-pt jump shot from 25 ft (assist by G. Hayward ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:48.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 18 ft (assist by F. Wagner ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:42.0,,,,,,M. Plumlee,Turnover by M. Plumlee (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,7:33.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:33.0,,,,,,M. Plumlee,Shooting foul by M. Plumlee (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,7:33.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:16.0,,,,,,G. Hayward,G. Hayward makes 2-pt jump shot from 22 ft (assist by K. Oubre ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:00.0,,,,,,W. Carter,W. Carter misses 2-pt layup from 5 ft (block by P. Washington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,7:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:52.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:48.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,6:35.0,,,,,,K. Oubre,K. Oubre misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:32.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,6:21.0,,,,,,W. Carter,Turnover by W. Carter (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,6:06.0,,,,,,K. Oubre,K. Oubre makes 2-pt jump shot from 14 ft (assist by M. Plumlee ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:06.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,6:06.0,,,,,,C. Okeke,C. Okeke enters the game for P. Banchero,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:50.0,,,,,,W. Carter,W. Carter makes 2-pt dunk from 1 ft (assist by T. Ross ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:27.0,,,,,,P. Washington,P. Washington misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:27.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:19.0,,,,,,B. Bol,B. Bol makes 2-pt layup from 1 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:19.0,,,,,,K. Oubre,Shooting foul by K. Oubre (drawn by B. Bol ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,5:19.0,,,,,,J. Bouknight,J. Bouknight enters the game for K. Oubre,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:19.0,,,,,,J. McDaniels,J. McDaniels enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:19.0,,,,,,B. Bol,B. Bol misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:15.0,,,,,,M. Plumlee,Defensive rebound by M. Plumlee,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:01.0,,,,,,G. Hayward,G. Hayward makes 2-pt jump shot from 12 ft (assist by D. Smith ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:47.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:31.0,,,,,,J. McDaniels,J. McDaniels misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:28.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:19.0,,,,,,B. Bol,B. Bol misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:17.0,,,,,,J. Bouknight,Defensive rebound by J. Bouknight,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:17.0,,,,,,T. Ross,Personal foul by T. Ross (drawn by J. Bouknight ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,4:17.0,,,,,,T. Maledon,T. Maledon enters the game for M. Plumlee,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,4:17.0,,,,,,N. Richards,N. Richards enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,4:17.0,,,,,,C. Houstan,C. Houstan enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,4:16.0,,,,,,G. Hayward,Turnover by G. Hayward (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,4:04.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 5 ft (assist by F. Wagner ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:04.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:50.0,,,,,,J. Bouknight,J. Bouknight misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:48.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:40.0,,,,,,N. Richards,Shooting foul by N. Richards (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,3:40.0,,,,,,W. Carter,W. Carter misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:40.0,,,,,,R. Hampton,R. Hampton enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,3:40.0,,,,,,W. Carter,W. Carter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:26.0,,,,,,C. Okeke,Shooting foul by C. Okeke (drawn by G. Hayward ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,3:26.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,3:26.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:26.0,,,,,,G. Hayward,G. Hayward makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:26.0,,,,,,G. Hayward,G. Hayward misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:23.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:10.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 2 ft (assist by R. Hampton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:53.0,,,,,,G. Hayward,G. Hayward makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:37.0,,,,,,C. Houstan,Turnover by C. Houstan (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,2:37.0,,,,,,P. Washington,P. Washington enters the game for G. Hayward,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,2:37.0,,,,,,M. Bamba,M. Bamba enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,2:21.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt jump shot from 6 ft (block by M. Bamba ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,2:16.0,,,,,,C. Houstan,Defensive rebound by C. Houstan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,2:06.0,,,,,,R. Hampton,R. Hampton misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:03.0,,,,,,J. Bouknight,Defensive rebound by J. Bouknight,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,2:03.0,,,,,,C. Houstan,Shooting foul by C. Houstan (drawn by J. Bouknight ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,2:03.0,,,,,,J. Bouknight,J. Bouknight misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:03.0,,,,,,J. Bouknight,J. Bouknight misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:00.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:46.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:41.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:40.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by N. Richards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,1:40.0,,,,,,N. Richards,N. Richards makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:40.0,,,,,,P. Banchero,P. Banchero enters the game for B. Bol,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,1:40.0,,,,,,N. Richards,N. Richards makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:28.0,,,,,,M. Bamba,M. Bamba misses 2-pt dunk from 1 ft (block by P. Washington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,1:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:22.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:19.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,1:17.0,,,,,,J. Bouknight,J. Bouknight misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:10.0,,,,,,T. Maledon,Offensive rebound by T. Maledon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:10.0,,,,,,T. Maledon,T. Maledon makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:06.0,,,,,,P. Washington,Personal foul by P. Washington (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,0:50.0,,,,,,C. Houstan,C. Houstan misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:47.0,,,,,,N. Richards,Defensive rebound by N. Richards,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:43.0,,,,,,C. Okeke,Shooting foul by C. Okeke (drawn by J. McDaniels ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,0:43.0,,,,,,J. McDaniels,J. McDaniels makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:43.0,,,,,,J. McDaniels,J. McDaniels makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:31.0,,,,,,J. Bouknight,Shooting foul by J. Bouknight (drawn by R. Hampton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,0:31.0,,,,,,R. Hampton,R. Hampton makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:31.0,,,,,,R. Hampton,R. Hampton makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:31.0,,,,,,R. Hampton,R. Hampton makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:14.0,,,,,,T. Maledon,T. Maledon misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:13.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:00.0,,,,,,C. Okeke,C. Okeke makes 3-pt jump shot from 27 ft (assist by P. Banchero ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:46.0,,,,,,N. Richards,N. Richards makes 2-pt layup from 2 ft (assist by D. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:46.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by N. Richards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,11:46.0,,,,,,N. Richards,N. Richards makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:29.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:25.0,,,,,,P. Washington,Defensive rebound by P. Washington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,11:21.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:19.0,,,,,,N. Richards,Offensive rebound by N. Richards,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:17.0,,,,,,N. Richards,N. Richards misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,11:17.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,11:08.0,,,,,,M. Bamba,Offensive foul by M. Bamba (drawn by N. Richards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,11:08.0,,,,,,M. Bamba,Turnover by M. Bamba (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202210280ORL,1,10:57.0,,,,,,N. Richards,N. Richards makes 2-pt layup from 1 ft (assist by D. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:44.0,,,,,,P. Banchero,P. Banchero makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:23.0,,,,,,P. Washington,P. Washington makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:13.0,,,,,,N. Richards,Shooting foul by N. Richards (drawn by R. Hampton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,10:13.0,,,,,,R. Hampton,R. Hampton makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,10:13.0,,,,,,R. Hampton,R. Hampton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:58.0,,,,,,P. Washington,P. Washington makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:37.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:32.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,9:28.0,,,,,,P. Washington,P. Washington misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:24.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,9:10.0,,,,,,M. Bamba,M. Bamba makes 3-pt jump shot from 26 ft (assist by R. Hampton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,9:09.0,,,,,,,Charlotte full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202210280ORL,1,9:09.0,,,,,,J. Thor,J. Thor enters the game for P. Washington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,9:09.0,,,,,,A. Schofield,A. Schofield enters the game for P. Banchero,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,8:56.0,,,,,,J. Bouknight,J. Bouknight misses 2-pt layup from 3 ft (block by M. Bamba ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,8:51.0,,,,,,C. Houstan,Defensive rebound by C. Houstan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:44.0,,,,,,M. Bamba,M. Bamba makes 2-pt layup from 1 ft (assist by C. Houstan ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:36.0,,,,,,J. Bouknight,J. Bouknight misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:32.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:20.0,,,,,,C. Okeke,C. Okeke misses 2-pt layup from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:18.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:16.0,,,,,,R. Hampton,R. Hampton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:13.0,,,,,,J. Thor,Defensive rebound by J. Thor,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,8:12.0,,,,,,N. Richards,N. Richards makes 2-pt layup from 1 ft (assist by D. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,8:12.0,,,,,,R. Hampton,Shooting foul by R. Hampton (drawn by N. Richards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,8:12.0,,,,,,N. Richards,N. Richards makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:56.0,,,,,,M. Bamba,M. Bamba makes 3-pt jump shot from 26 ft (assist by C. Okeke ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:38.0,,,,,,J. Thor,J. Thor misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:35.0,,,,,,R. Hampton,Defensive rebound by R. Hampton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,7:22.0,,,,,,A. Schofield,A. Schofield makes 3-pt jump shot from 26 ft (assist by M. Bamba ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:07.0,,,,,,D. Smith,D. Smith misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,7:06.0,,,,,,M. Bamba,Loose ball foul by M. Bamba (drawn by N. Richards ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,7:06.0,,,,,,T. Maledon,T. Maledon enters the game for N. Richards,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,7:06.0,,,,,,M. Williams,M. Williams enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,6:53.0,,,,,,T. Maledon,T. Maledon makes 3-pt jump shot from 28 ft (assist by J. McDaniels ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:33.0,,,,,,M. Bamba,M. Bamba makes 2-pt jump shot from 11 ft (assist by R. Hampton ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:21.0,,,,,,J. McDaniels,J. McDaniels misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:21.0,,,,,,M. Williams,Offensive rebound by M. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:16.0,,,,,,M. Williams,M. Williams makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,6:02.0,,,,,,M. Bamba,M. Bamba makes 2-pt layup from 1 ft (assist by C. Houstan ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:48.0,,,,,,M. Williams,M. Williams misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:45.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:39.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:34.0,,,,,,J. McDaniels,Defensive rebound by J. McDaniels,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,5:31.0,,,,,,C. Houstan,Shooting foul by C. Houstan (drawn by J. McDaniels ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,5:31.0,,,,,,J. McDaniels,J. McDaniels makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:31.0,,,,,,K. Jones,K. Jones enters the game for J. Thor,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:31.0,,,,,,K. Harris,K. Harris enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:31.0,,,,,,J. McDaniels,J. McDaniels makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:19.0,,,,,,J. Bouknight,Personal foul by J. Bouknight (drawn by R. Hampton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,5:19.0,,,,,,B. McGowens,B. McGowens enters the game for J. McDaniels,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202210280ORL,1,5:08.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,5:05.0,,,,,,B. McGowens,Defensive rebound by B. McGowens,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:57.0,,,,,,T. Maledon,Turnover by T. Maledon (bad pass; steal by R. Hampton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,4:51.0,,,,,,K. Harris,K. Harris makes 2-pt layup at rim (assist by R. Hampton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:27.0,,,,,,B. McGowens,B. McGowens misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:27.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202210280ORL,1,4:12.0,,,,,,C. Houstan,C. Houstan misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:08.0,,,,,,M. Williams,Defensive rebound by M. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,4:00.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by K. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,4:00.0,,,,,,K. Jones,K. Jones makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,4:00.0,,,,,,K. Jones,K. Jones misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:57.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:43.0,,,,,,R. Hampton,R. Hampton misses 2-pt jump shot from 4 ft (block by K. Jones ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202210280ORL,1,3:39.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,3:37.0,,,,,,B. McGowens,B. McGowens makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,3:15.0,,,,,,C. Okeke,C. Okeke makes 3-pt jump shot from 24 ft (assist by K. Harris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:57.0,,,,,,J. Bouknight,J. Bouknight makes 3-pt jump shot from 26 ft (assist by K. Jones ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:37.0,,,,,,K. Harris,Turnover by K. Harris (lost ball; steal by B. McGowens ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202210280ORL,1,2:33.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by K. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,2:33.0,,,,,,K. Jones,K. Jones makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:33.0,,,,,,K. Jones,K. Jones misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,2:33.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,2:17.0,,,,,,C. Okeke,C. Okeke makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:55.0,,,,,,M. Williams,M. Williams makes 2-pt dunk from 3 ft (assist by T. Maledon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:45.0,,,,,,R. Hampton,R. Hampton makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:32.0,,,,,,M. Williams,M. Williams misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:30.0,,,,,,M. Williams,Offensive rebound by M. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:30.0,,,,,,M. Williams,M. Williams makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:30.0,,,,,,C. Houstan,Shooting foul by C. Houstan (drawn by M. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202210280ORL,1,1:30.0,,,,,,M. Williams,M. Williams makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:15.0,,,,,,A. Schofield,A. Schofield makes 2-pt layup from 1 ft (assist by K. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,1:04.0,,,,,,J. Bouknight,J. Bouknight makes 3-pt jump shot from 26 ft (assist by K. Jones ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:55.0,,,,,,K. Harris,K. Harris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:52.0,,,,,,R. Hampton,Offensive rebound by R. Hampton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:50.0,,,,,,C. Houstan,C. Houstan misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:46.0,,,,,,M. Williams,Defensive rebound by M. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:41.0,,,,,,K. Jones,K. Jones makes 2-pt dunk at rim (assist by B. McGowens ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:30.0,,,,,,R. Hampton,R. Hampton misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202210280ORL,1,0:26.0,,,,,,T. Maledon,Defensive rebound by T. Maledon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202210280ORL,1,0:23.0,,,,,,J. Bouknight,J. Bouknight makes 3-pt jump shot from 27 ft (assist by T. Maledon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False

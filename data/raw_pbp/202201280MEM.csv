@@ -1,0 +1,438 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202201280MEM,1,11:37.0,,,,,,S. Adams,S. Adams misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:32.0,,,,,,J. Morant,Offensive rebound by J. Morant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:32.0,,,,,,J. Morant,J. Morant makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:11.0,,,,,,M. Conley,M. Conley misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:08.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,11:01.0,,,,,,S. Adams,S. Adams misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:58.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:40.0,,,,,,R. O'Neale,R. O'Neale makes 3-pt jump shot from 25 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:23.0,,,,,,D. Bane,D. Bane misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:21.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:03.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:46.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:43.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,9:38.0,,,,,,R. O'Neale,R. O'Neale makes 3-pt jump shot from 25 ft (assist by J. Ingles ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:26.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,9:26.0,,,,,,D. Bane,D. Bane misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:26.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:22.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:22.0,,,,,,H. Whiteside,Shooting foul by H. Whiteside (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,9:22.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:04.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 2 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:01.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,8:58.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:55.0,,,,,,H. Whiteside,Defensive rebound by H. Whiteside,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,8:41.0,,,,,,J. Ingles,J. Ingles makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:28.0,,,,,,S. Adams,Offensive foul by S. Adams (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,8:28.0,,,,,,S. Adams,Turnover by S. Adams (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201280MEM,1,8:16.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft (block by J. Jackson ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,8:13.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,8:11.0,,,,,,Z. Williams,Z. Williams makes 2-pt dunk at rim (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:50.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by H. Whiteside ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,7:50.0,,,,,,J. Jackson,Technical foul by J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,7:50.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:50.0,,,,,,H. Whiteside,H. Whiteside misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:50.0,,,,,,H. Whiteside,H. Whiteside makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:36.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:36.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:28.0,,,,,,Z. Williams,Z. Williams makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:13.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:13.0,,,,,,B. BogdanoviÄ,Offensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:06.0,,,,,,B. BogdanoviÄ,Turnover by B. BogdanoviÄ (bad pass; steal by J. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,6:58.0,,,,,,J. Morant,J. Morant misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:55.0,,,,,,J. Morant,Offensive rebound by J. Morant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:55.0,,,,,,J. Morant,J. Morant misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:54.0,,,,,,J. Ingles,Defensive rebound by J. Ingles,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,6:51.0,,,,,,J. Ingles,J. Ingles misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:51.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,6:39.0,,,,,,S. Adams,Turnover by S. Adams (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,6:39.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,6:39.0,,,,,,T. Forrest,T. Forrest enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:39.0,,,,,,B. Clarke,B. Clarke enters the game for D. Bane,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:39.0,,,,,,D. Melton,D. Melton enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:18.0,,,,,,J. Ingles,J. Ingles misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:15.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,6:10.0,,,,,,Z. Williams,Z. Williams makes 2-pt dunk from 1 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:53.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:51.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:47.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:42.0,,,,,,T. Forrest,Defensive rebound by T. Forrest,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:27.0,,,,,,T. Forrest,T. Forrest misses 2-pt jump shot from 10 ft (block by D. Melton ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,5:26.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:13.0,,,,,,H. Whiteside,Shooting foul by H. Whiteside (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,5:13.0,,,,,,J. Morant,J. Morant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:13.0,,,,,,J. Clarkson,J. Clarkson enters the game for J. Ingles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:13.0,,,,,,E. Paschall,E. Paschall enters the game for H. Whiteside,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:13.0,,,,,,J. Konchar,J. Konchar enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:13.0,,,,,,K. Tillie,K. Tillie enters the game for Z. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:13.0,,,,,,J. Morant,J. Morant misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:59.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,4:55.0,,,,,,E. Paschall,E. Paschall makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:42.0,,,,,,K. Tillie,K. Tillie makes 3-pt jump shot from 24 ft (assist by D. Melton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:27.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:22.0,,,,,,R. O'Neale,Offensive rebound by R. O'Neale,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:20.0,,,,,,R. O'Neale,Turnover by R. O'Neale (back court),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,4:20.0,,,,,,J. Clarkson,Technical foul by J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,4:20.0,,,,,,J. Morant,J. Morant makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:14.0,,,,,,J. Clarkson,Shooting foul by J. Clarkson (drawn by B. Clarke ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,4:14.0,,,,,,B. Clarke,B. Clarke makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:14.0,,,,,,R. Gay,R. Gay enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,4:14.0,,,,,,D. House,D. House enters the game for R. O'Neale,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,4:14.0,,,,,,B. Clarke,B. Clarke makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:59.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:49.0,,,,,,D. Melton,D. Melton makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:38.0,,,,,,J. Konchar,Shooting foul by J. Konchar (drawn by R. Gay ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,3:38.0,,,,,,R. Gay,R. Gay makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:38.0,,,,,,R. Gay,R. Gay makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:29.0,,,,,,E. Paschall,Shooting foul by E. Paschall (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,3:29.0,,,,,,J. Morant,J. Morant misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:29.0,,,,,,J. Morant,J. Morant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:14.0,,,,,,T. Forrest,Turnover by T. Forrest (bad pass; steal by B. Clarke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,3:11.0,,,,,,T. Forrest,Personal foul by T. Forrest (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,3:11.0,,,,,,J. Morant,J. Morant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:11.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,3:11.0,,,,,,J. Morant,J. Morant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:00.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:56.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,2:40.0,,,,,,K. Tillie,K. Tillie misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:36.0,,,,,,D. Melton,Offensive rebound by D. Melton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:31.0,,,,,,B. Clarke,B. Clarke misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:27.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,2:19.0,,,,,,E. Paschall,E. Paschall makes 3-pt jump shot from 23 ft (assist by J. Clarkson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:01.0,,,,,,D. Melton,D. Melton makes 3-pt jump shot from 25 ft (assist by J. Konchar ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:40.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:38.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,1:32.0,,,,,,D. Melton,Turnover by D. Melton (bad pass; steal by D. House ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,1:29.0,,,,,,D. House,D. House makes 2-pt dunk from 1 ft (assist by R. Gay ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:10.0,,,,,,B. Clarke,B. Clarke makes 2-pt layup from 1 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:55.0,,,,,,J. Morant,Shooting foul by J. Morant (drawn by D. House ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,0:55.0,,,,,,D. House,D. House makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:55.0,,,,,,D. House,D. House makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:55.0,,,,,,M. Conley,M. Conley enters the game for T. Forrest,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:55.0,,,,,,D. Bane,D. Bane enters the game for J. Morant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:55.0,,,,,,J. Jackson,J. Jackson enters the game for K. Tillie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:55.0,,,,,,D. House,D. House makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:40.0,,,,,,B. Clarke,B. Clarke misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:37.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,0:29.0,,,,,,D. House,D. House makes 3-pt jump shot from 23 ft (assist by J. Clarkson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:15.0,,,,,,B. Clarke,B. Clarke makes 2-pt layup at rim (assist by J. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:03.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:01.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,0:00.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 47 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:48.0,,,,,,M. Conley,Turnover by M. Conley (bad pass; steal by J. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,11:45.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:18.0,,,,,,D. House,D. House makes 3-pt jump shot from 25 ft (assist by R. Gay ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:56.0,,,,,,D. Bane,D. Bane makes 2-pt layup from 4 ft (assist by J. Jackson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:39.0,,,,,,D. House,D. House makes 3-pt jump shot from 25 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:39.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,10:26.0,,,,,,D. House,Personal foul by D. House (drawn by D. Bane ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,10:18.0,,,,,,D. Bane,D. Bane misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:15.0,,,,,,D. House,Defensive rebound by D. House,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:09.0,,,,,,R. Gay,Turnover by R. Gay (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,9:55.0,,,,,,J. Jackson,Turnover by J. Jackson (bad pass; steal by R. Gay ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,9:49.0,,,,,,D. House,Turnover by D. House (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,9:28.0,,,,,,J. Jackson,J. Jackson misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:25.0,,,,,,E. Paschall,Defensive rebound by E. Paschall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,9:24.0,,,,,,D. Bane,Shooting foul by D. Bane (drawn by R. Gay ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,9:24.0,,,,,,R. Gay,R. Gay makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:24.0,,,,,,T. Forrest,T. Forrest enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,9:24.0,,,,,,R. Gay,R. Gay misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:22.0,,,,,,D. Bane,Defensive rebound by D. Bane,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,9:09.0,,,,,,J. Konchar,J. Konchar makes 2-pt dunk from 1 ft (assist by D. Bane ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:48.0,,,,,,E. Paschall,E. Paschall misses 2-pt layup from 2 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,8:48.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,8:30.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 1 ft (assist by B. Clarke ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:08.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:54.0,,,,,,D. Bane,D. Bane misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:50.0,,,,,,J. Clarkson,Defensive rebound by J. Clarkson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,7:49.0,,,,,,J. Konchar,Personal foul by J. Konchar (drawn by J. Clarkson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,7:49.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for D. House,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,7:49.0,,,,,,H. Whiteside,H. Whiteside enters the game for E. Paschall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,7:49.0,,,,,,S. Adams,S. Adams enters the game for B. Clarke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,7:39.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:37.0,,,,,,R. Gay,Offensive rebound by R. Gay,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:29.0,,,,,,J. Clarkson,J. Clarkson makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:14.0,,,,,,Z. Williams,Z. Williams makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:58.0,,,,,,J. Clarkson,Turnover by J. Clarkson (lost ball; steal by J. Konchar ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,6:46.0,,,,,,J. Jackson,J. Jackson makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:28.0,,,,,,R. Gay,Turnover by R. Gay (bad pass; steal by D. Bane ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,6:23.0,,,,,,D. Bane,D. Bane makes 3-pt jump shot from 25 ft (assist by S. Adams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:23.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,6:23.0,,,,,,R. O'Neale,R. O'Neale enters the game for R. Gay,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:23.0,,,,,,D. Melton,D. Melton enters the game for D. Bane,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:23.0,,,,,,J. Morant,J. Morant enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:23.0,,,,,,K. Tillie,K. Tillie enters the game for J. Konchar,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:04.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:03.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:51.0,,,,,,H. Whiteside,Shooting foul by H. Whiteside (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,5:51.0,,,,,,J. Morant,J. Morant misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:51.0,,,,,,J. Ingles,J. Ingles enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:51.0,,,,,,E. Paschall,E. Paschall enters the game for H. Whiteside,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:51.0,,,,,,J. Morant,J. Morant misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:48.0,,,,,,R. O'Neale,Defensive rebound by R. O'Neale,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:40.0,,,,,,S. Adams,Shooting foul by S. Adams (drawn by E. Paschall ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,5:40.0,,,,,,E. Paschall,E. Paschall makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:40.0,,,,,,J. Clarkson,J. Clarkson enters the game for T. Forrest,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:40.0,,,,,,E. Paschall,E. Paschall makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:25.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 4 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:58.0,,,,,,E. Paschall,E. Paschall misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:56.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,4:44.0,,,,,,D. Melton,D. Melton misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:42.0,,,,,,D. Melton,Offensive rebound by D. Melton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:34.0,,,,,,E. Paschall,Shooting foul by E. Paschall (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,4:34.0,,,,,,J. Morant,J. Morant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:34.0,,,,,,J. Morant,J. Morant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:18.0,,,,,,E. Paschall,Turnover by E. Paschall (lost ball; steal by D. Melton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,4:14.0,,,,,,D. Melton,D. Melton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:59.0,,,,,,E. Paschall,E. Paschall misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:57.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:53.0,,,,,,J. Morant,J. Morant makes 3-pt jump shot from 26 ft (assist by D. Melton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:37.0,,,,,,R. O'Neale,R. O'Neale misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:35.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:18.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:15.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:15.0,,,,,,M. Conley,M. Conley enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,3:13.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 1 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:55.0,,,,,,E. Paschall,E. Paschall makes 3-pt jump shot from 23 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:42.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by M. Conley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,2:38.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt layup from 2 ft (assist by J. Ingles ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:19.0,,,,,,K. Tillie,Turnover by K. Tillie (bad pass; steal by M. Conley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,2:15.0,,,,,,M. Conley,M. Conley misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:12.0,,,,,,Z. Williams,Defensive rebound by Z. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,2:08.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 2 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:49.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:45.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,1:38.0,,,,,,J. Morant,J. Morant misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:35.0,,,,,,R. O'Neale,Defensive rebound by R. O'Neale,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,1:25.0,,,,,,K. Tillie,Personal foul by K. Tillie (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,1:25.0,,,,,,D. Bane,D. Bane enters the game for K. Tillie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,1:25.0,,,,,,J. Jackson,J. Jackson enters the game for Z. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,1:10.0,,,,,,J. Ingles,J. Ingles misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:08.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,0:51.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:48.0,,,,,,R. O'Neale,Defensive rebound by R. O'Neale,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,0:43.0,,,,,,D. Bane,Personal foul by D. Bane (drawn by J. Ingles ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,0:43.0,,,,,,J. Ingles,J. Ingles makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:43.0,,,,,,B. Clarke,B. Clarke enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:43.0,,,,,,J. Ingles,J. Ingles makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:34.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:31.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,0:09.0,,,,,,E. Paschall,E. Paschall misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:06.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,0:00.0,,,,,,J. Morant,J. Morant misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:46.0,,,,,,M. Conley,M. Conley makes 3-pt jump shot from 26 ft (assist by J. Ingles ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:30.0,,,,,,D. Bane,D. Bane makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:10.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:08.0,,,,,,D. Bane,Defensive rebound by D. Bane,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:58.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:45.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,10:34.0,,,,,,H. Whiteside,H. Whiteside makes 2-pt hook shot from 2 ft (assist by J. Ingles ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:24.0,,,,,,B. BogdanoviÄ,Personal foul by B. BogdanoviÄ (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,10:17.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:12.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:12.0,,,,,,S. Adams,S. Adams misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:11.0,,,,,,M. Conley,Defensive rebound by M. Conley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:05.0,,,,,,R. O'Neale,R. O'Neale misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:05.0,,,,,,H. Whiteside,Offensive rebound by H. Whiteside,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:02.0,,,,,,H. Whiteside,H. Whiteside makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:53.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:39.0,,,,,,,Turnover by  (5 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,9:27.0,,,,,,J. Jackson,Offensive foul by J. Jackson (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,9:27.0,,,,,,J. Jackson,Turnover by J. Jackson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201280MEM,1,9:08.0,,,,,,M. Conley,M. Conley makes 2-pt layup from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:44.0,,,,,,S. Adams,S. Adams makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:29.0,,,,,,M. Conley,M. Conley makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:29.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,8:29.0,,,,,,M. Conley,M. Conley makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:14.0,,,,,,D. Bane,D. Bane makes 2-pt jump shot from 12 ft (assist by S. Adams ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:49.0,,,,,,M. Conley,Turnover by M. Conley (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,7:29.0,,,,,,Z. Williams,Z. Williams misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:25.0,,,,,,M. Conley,Defensive rebound by M. Conley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,7:18.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 5 ft (assist by M. Conley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:06.0,,,,,,J. Morant,Turnover by J. Morant (lost ball; steal by R. O'Neale ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,7:00.0,,,,,,J. Ingles,J. Ingles misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:57.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,6:53.0,,,,,,S. Adams,Offensive foul by S. Adams (drawn by H. Whiteside ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,6:53.0,,,,,,S. Adams,Turnover by S. Adams (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201280MEM,1,6:53.0,,,,,,J. Clarkson,J. Clarkson enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:53.0,,,,,,T. Forrest,T. Forrest enters the game for J. Ingles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:53.0,,,,,,D. Melton,D. Melton enters the game for D. Bane,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:53.0,,,,,,K. Tillie,K. Tillie enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:33.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:31.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,6:28.0,,,,,,J. Morant,J. Morant makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:06.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:06.0,,,,,,K. Tillie,Shooting foul by K. Tillie (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,6:06.0,,,,,,J. Konchar,J. Konchar enters the game for Z. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:06.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:58.0,,,,,,K. Tillie,K. Tillie makes 2-pt layup from 2 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:34.0,,,,,,J. Clarkson,Offensive foul by J. Clarkson (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,5:34.0,,,,,,J. Clarkson,Turnover by J. Clarkson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201280MEM,1,5:24.0,,,,,,H. Whiteside,Shooting foul by H. Whiteside (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,5:24.0,,,,,,J. Morant,J. Morant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:24.0,,,,,,E. Paschall,E. Paschall enters the game for H. Whiteside,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:24.0,,,,,,B. Clarke,B. Clarke enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:24.0,,,,,,J. Morant,J. Morant misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:22.0,,,,,,E. Paschall,Defensive rebound by E. Paschall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:03.0,,,,,,B. BogdanoviÄ,Turnover by B. BogdanoviÄ (lost ball; steal by D. Melton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,5:00.0,,,,,,B. Clarke,B. Clarke makes 2-pt layup from 1 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:00.0,,,,,,,Utah full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,4:54.0,,,,,,K. Tillie,Personal foul by K. Tillie (drawn by B. BogdanoviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,4:45.0,,,,,,T. Forrest,Turnover by T. Forrest (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,4:32.0,,,,,,B. Clarke,B. Clarke makes 2-pt jump shot from 3 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:15.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:13.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,4:08.0,,,,,,B. Clarke,B. Clarke misses 2-pt layup from 1 ft (block by J. Clarkson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,4:03.0,,,,,,R. O'Neale,Defensive rebound by R. O'Neale,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,4:01.0,,,,,,E. Paschall,E. Paschall misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:57.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:54.0,,,,,,B. Clarke,B. Clarke makes 2-pt layup from 1 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:34.0,,,,,,R. O'Neale,R. O'Neale makes 3-pt jump shot from 25 ft (assist by B. BogdanoviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:22.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by T. Forrest ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,3:17.0,,,,,,E. Paschall,E. Paschall misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:14.0,,,,,,K. Tillie,Defensive rebound by K. Tillie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:10.0,,,,,,D. Melton,D. Melton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:07.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:07.0,,,,,,R. Gay,R. Gay enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,3:07.0,,,,,,D. House,D. House enters the game for R. O'Neale,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,2:53.0,,,,,,T. Forrest,T. Forrest makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:26.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 35 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:25.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,2:25.0,,,,,,M. Conley,M. Conley enters the game for T. Forrest,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,2:15.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:12.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,2:04.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:46.0,,,,,,M. Conley,Turnover by M. Conley (bad pass; steal by J. Morant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,1:27.0,,,,,,J. Morant,Turnover by J. Morant (lost ball; steal by D. House ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,1:23.0,,,,,,D. House,D. House misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:18.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,1:13.0,,,,,,B. Clarke,B. Clarke makes 2-pt dunk from 1 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:43.0,,,,,,D. House,D. House makes 2-pt layup from 1 ft (assist by M. Conley ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:33.0,,,,,,K. Tillie,K. Tillie misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:29.0,,,,,,E. Paschall,Defensive rebound by E. Paschall,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,0:08.0,,,,,,M. Conley,M. Conley makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:01.0,,,,,,B. Clarke,B. Clarke makes 2-pt dunk from 1 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:00.0,,,,,,D. House,Turnover by D. House (bad pass; steal by J. Konchar ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,11:57.0,,,,,,D. Bane,Turnover by D. Bane (bad pass; steal by R. Gay ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,11:54.0,,,,,,D. House,D. House makes 3-pt jump shot from 26 ft (assist by R. Gay ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:41.0,,,,,,B. Clarke,B. Clarke makes 2-pt jump shot from 12 ft (assist by J. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:25.0,,,,,,R. Gay,R. Gay misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:23.0,,,,,,R. Gay,Offensive rebound by R. Gay,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:14.0,,,,,,D. House,D. House misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,11:11.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:59.0,,,,,,D. House,Shooting foul by D. House (drawn by D. Bane ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,10:59.0,,,,,,D. Bane,D. Bane makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:59.0,,,,,,D. Bane,D. Bane makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:48.0,,,,,,R. Gay,R. Gay misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:43.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:33.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:17.0,,,,,,H. Whiteside,H. Whiteside misses 2-pt jump shot from 6 ft (block by J. Jackson ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,10:14.0,,,,,,B. Clarke,Defensive rebound by B. Clarke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:10.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,10:06.0,,,,,,R. Gay,Defensive rebound by R. Gay,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,10:01.0,,,,,,M. Conley,M. Conley makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:53.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:49.0,,,,,,J. Ingles,Shooting foul by J. Ingles (drawn by J. Konchar ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,9:49.0,,,,,,J. Konchar,J. Konchar makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:49.0,,,,,,J. Konchar,J. Konchar makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:34.0,,,,,,D. House,D. House misses 3-pt jump shot from 25 ft (block by J. Jackson ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,9:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:26.0,,,,,,R. Gay,R. Gay makes 2-pt jump shot from 9 ft (assist by D. House ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,9:10.0,,,,,,D. Bane,D. Bane makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:56.0,,,,,,M. Conley,M. Conley misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:54.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,8:44.0,,,,,,D. Bane,D. Bane misses 2-pt jump shot from 20 ft (block by R. Gay ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,8:42.0,,,,,,H. Whiteside,Defensive rebound by H. Whiteside,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,8:31.0,,,,,,R. Gay,R. Gay makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,8:17.0,,,,,,B. Clarke,Offensive foul by B. Clarke (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,8:17.0,,,,,,B. Clarke,Turnover by B. Clarke (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201280MEM,1,8:17.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ enters the game for D. House,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,8:17.0,,,,,,J. Clarkson,J. Clarkson enters the game for J. Ingles,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,7:59.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ makes 3-pt jump shot from 24 ft (assist by M. Conley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:59.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,7:59.0,,,,,,S. Adams,S. Adams enters the game for B. Clarke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,7:59.0,,,,,,D. Melton,D. Melton enters the game for Z. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,7:37.0,,,,,,J. Jackson,J. Jackson makes 2-pt dunk at rim (assist by D. Bane ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:22.0,,,,,,R. Gay,R. Gay misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,7:19.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,7:14.0,,,,,,M. Conley,Personal foul by M. Conley (drawn by D. Melton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,7:14.0,,,,,,T. Forrest,T. Forrest enters the game for M. Conley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,7:06.0,,,,,,J. Jackson,J. Jackson misses 2-pt jump shot from 7 ft (block by H. Whiteside ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,7:03.0,,,,,,H. Whiteside,Defensive rebound by H. Whiteside,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,6:55.0,,,,,,J. Clarkson,J. Clarkson makes 3-pt jump shot from 27 ft (assist by T. Forrest ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:44.0,,,,,,D. Melton,D. Melton makes 3-pt jump shot from 26 ft (assist by S. Adams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:35.0,,,,,,B. BogdanoviÄ,Turnover by B. BogdanoviÄ (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,6:35.0,,,,,,J. Morant,J. Morant enters the game for J. Konchar,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,6:22.0,,,,,,D. Bane,D. Bane makes 2-pt jump shot from 17 ft (assist by J. Morant ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,6:04.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:59.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:58.0,,,,,,J. Morant,Turnover by J. Morant (lost ball; steal by T. Forrest ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,5:53.0,,,,,,H. Whiteside,H. Whiteside makes 2-pt dunk at rim (assist by R. Gay ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:39.0,,,,,,D. Bane,D. Bane misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:38.0,,,,,,T. Forrest,Defensive rebound by T. Forrest,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,5:38.0,,,,,,M. Conley,M. Conley enters the game for T. Forrest,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:38.0,,,,,,R. O'Neale,R. O'Neale enters the game for R. Gay,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,5:32.0,,,,,,J. Jackson,Personal foul by J. Jackson (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,5:23.0,,,,,,M. Conley,M. Conley misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:20.0,,,,,,H. Whiteside,Offensive rebound by H. Whiteside,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:18.0,,,,,,H. Whiteside,H. Whiteside makes 2-pt jump shot from 1 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,5:02.0,,,,,,D. Bane,D. Bane misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:59.0,,,,,,H. Whiteside,Defensive rebound by H. Whiteside,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,4:45.0,,,,,,J. Clarkson,J. Clarkson misses 2-pt layup from 1 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,4:41.0,,,,,,J. Clarkson,Offensive rebound by J. Clarkson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:39.0,,,,,,R. O'Neale,R. O'Neale makes 3-pt jump shot from 27 ft (assist by J. Clarkson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:38.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,4:38.0,,,,,,B. Clarke,B. Clarke enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,4:21.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 7 ft (assist by D. Bane ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:05.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,4:02.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:48.0,,,,,,J. Morant,Turnover by J. Morant (lost ball; steal by R. O'Neale ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201280MEM,1,3:43.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:41.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:41.0,,,,,,B. BogdanoviÄ,Technical foul by B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,3:41.0,,,,,,D. Bane,D. Bane makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:25.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:23.0,,,,,,M. Conley,Defensive rebound by M. Conley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,3:10.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 27 ft (block by J. Morant ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202201280MEM,1,3:05.0,,,,,,B. BogdanoviÄ,Offensive rebound by B. BogdanoviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:01.0,,,,,,M. Conley,M. Conley misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:01.0,,,,,,H. Whiteside,Offensive rebound by H. Whiteside,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,3:01.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201280MEM,1,2:40.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:36.0,,,,,,B. Clarke,Offensive rebound by B. Clarke,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:36.0,,,,,,B. Clarke,B. Clarke makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:21.0,,,,,,J. Clarkson,J. Clarkson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:16.0,,,,,,H. Whiteside,Offensive rebound by H. Whiteside,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,2:16.0,,,,,,H. Whiteside,H. Whiteside makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:52.0,,,,,,J. Jackson,J. Jackson makes 3-pt jump shot from 25 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:40.0,,,,,,J. Morant,Personal foul by J. Morant (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,1:36.0,,,,,,B. BogdanoviÄ,B. BogdanoviÄ misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:32.0,,,,,,D. Melton,Defensive rebound by D. Melton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201280MEM,1,1:28.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 2 ft (assist by D. Melton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:05.0,,,,,,D. Bane,Shooting foul by D. Bane (drawn by J. Clarkson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,1:05.0,,,,,,J. Clarkson,J. Clarkson makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:05.0,,,,,,J. Clarkson,J. Clarkson makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,1:05.0,,,,,,J. Clarkson,J. Clarkson makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:47.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:40.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by M. Conley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,0:40.0,,,,,,M. Conley,M. Conley misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:40.0,,,,,,E. Paschall,E. Paschall enters the game for H. Whiteside,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:40.0,,,,,,M. Conley,M. Conley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:36.0,,,,,,M. Conley,Personal take foul by M. Conley (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,0:35.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201280MEM,1,0:35.0,,,,,,T. Forrest,T. Forrest enters the game for B. BogdanoviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:35.0,,,,,,D. House,D. House enters the game for J. Clarkson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:23.0,,,,,,E. Paschall,Personal take foul by E. Paschall (drawn by B. Clarke ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201280MEM,1,0:23.0,,,,,,B. Clarke,B. Clarke makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:23.0,,,,,,H. Whiteside,H. Whiteside enters the game for T. Forrest,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201280MEM,1,0:23.0,,,,,,B. Clarke,B. Clarke makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:13.0,,,,,,D. House,D. House misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:12.0,,,,,,D. House,Offensive rebound by D. House,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201280MEM,1,0:12.0,,,,,,D. House,D. House makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False

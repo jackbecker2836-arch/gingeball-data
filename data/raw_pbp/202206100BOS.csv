@@ -1,0 +1,451 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202206100BOS,1,11:49.0,,,,,,M. Smart,M. Smart makes 2-pt layup from 6 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:22.0,,,,,,K. Thompson,K. Thompson makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:56.0,,,,,,S. Curry,Shooting foul by S. Curry (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,10:56.0,,,,,,J. Tatum,J. Tatum misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:56.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:44.0,,,,,,M. Smart,Shooting foul by M. Smart (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,10:44.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:44.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:35.0,,,,,,M. Smart,Turnover by M. Smart (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,10:21.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:18.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:01.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 26 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:52.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 8 ft (block by R. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,9:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:45.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:43.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,9:33.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:32.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:31.0,,,,,,R. Williams,R. Williams makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:20.0,,,,,,S. Curry,Turnover by S. Curry (lost ball; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,9:15.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 24 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:58.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:56.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:47.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:45.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:41.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:39.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:24.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:22.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:16.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:14.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,7:57.0,,,,,,M. Smart,Turnover by M. Smart (bad pass; steal by D. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,7:53.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 4 ft (assist by D. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:31.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:28.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:23.0,,,,,,A. Wiggins,Shooting foul by A. Wiggins (drawn by R. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,7:23.0,,,,,,R. Williams,R. Williams makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:23.0,,,,,,K. Looney,K. Looney enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,7:23.0,,,,,,D. White,D. White enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,7:23.0,,,,,,R. Williams,R. Williams misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:23.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,7:06.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:04.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:02.0,,,,,,K. Looney,Offensive foul by K. Looney (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,7:02.0,,,,,,K. Looney,Turnover by K. Looney (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202206100BOS,1,7:02.0,,,,,,A. Horford,A. Horford enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,6:41.0,,,,,,J. Tatum,Offensive foul by J. Tatum (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,6:41.0,,,,,,J. Tatum,Turnover by J. Tatum (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202206100BOS,1,6:41.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,6:41.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:27.0,,,,,,K. Thompson,Turnover by K. Thompson (dbl dribble),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,6:12.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:09.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,6:03.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 26 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:46.0,,,,,,D. White,D. White misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:44.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,5:32.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:29.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:24.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 27 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:08.0,,,,,,J. Tatum,J. Tatum makes 2-pt jump shot from 15 ft (assist by J. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:53.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:51.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,4:44.0,,,,,,D. Green,Shooting foul by D. Green (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,4:44.0,,,,,,D. White,D. White makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:44.0,,,,,,G. Williams,G. Williams enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,4:44.0,,,,,,D. White,D. White makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:35.0,,,,,,G. Williams,Personal foul by G. Williams (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,4:23.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:18.0,,,,,,D. Green,Offensive foul by D. Green (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,4:18.0,,,,,,D. Green,Turnover by D. Green (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202206100BOS,1,4:18.0,,,,,,O. Porter,O. Porter enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:57.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:55.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,3:44.0,,,,,,A. Wiggins,A. Wiggins makes 3-pt jump shot from 28 ft (assist by K. Looney ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:25.0,,,,,,K. Looney,Shooting foul by K. Looney (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,3:25.0,,,,,,D. White,D. White makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:25.0,,,,,,G. Payton,G. Payton enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:25.0,,,,,,D. White,D. White makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:06.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt jump shot from 15 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:54.0,,,,,,D. White,Turnover by D. White (lost ball; steal by G. Payton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,2:48.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:18.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:17.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,2:03.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 30 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:01.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,2:01.0,,,,,,J. Poole,J. Poole enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:01.0,,,,,,J. Tatum,J. Tatum enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:01.0,,,,,,R. Williams,R. Williams enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,1:41.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:39.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,1:27.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:25.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,1:19.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 6 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:08.0,,,,,,K. Looney,Turnover by K. Looney (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,0:58.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:57.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:56.0,,,,,,R. Williams,R. Williams makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:42.0,,,,,,G. Williams,Personal foul by G. Williams (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,0:38.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:30.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:08.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 5 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:01.0,,,,,,G. Williams,G. Williams makes 3-pt jump shot from 23 ft (assist by R. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:42.0,,,,,,J. Poole,J. Poole misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:39.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,11:31.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:27.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,11:18.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:15.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,11:01.0,,,,,,D. White,D. White misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:00.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:58.0,,,,,,P. Pritchard,P. Pritchard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:56.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:49.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:47.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:33.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:32.0,,,,,,N. Bjelica,Defensive rebound by N. Bjelica,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:24.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:23.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:06.0,,,,,,J. Tatum,Turnover by J. Tatum (bad pass; steal by A. Wiggins ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,9:52.0,,,,,,G. Williams,Personal foul by G. Williams (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,9:52.0,,,,,,M. Smart,M. Smart enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,9:49.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 28 ft (assist by K. Thompson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:32.0,,,,,,J. Tatum,Turnover by J. Tatum (bad pass; steal by D. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,9:29.0,,,,,,J. Poole,J. Poole makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:27.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,9:27.0,,,,,,J. Brown,J. Brown enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,9:13.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:11.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:56.0,,,,,,D. Green,D. Green misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:54.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:44.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 24 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:29.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:27.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:16.0,,,,,,P. Pritchard,Turnover by P. Pritchard (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,8:04.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 19 ft (block by J. Tatum ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,8:02.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,7:57.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:55.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,7:42.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:28.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 28 ft (assist by R. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:28.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,7:28.0,,,,,,S. Curry,S. Curry enters the game for N. Bjelica,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,7:28.0,,,,,,J. Brown,J. Brown misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:28.0,,,,,,K. Thompson,Defensive rebound by K. Thompson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,7:20.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:18.0,,,,,,S. Curry,Offensive rebound by S. Curry,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:15.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:56.0,,,,,,J. Poole,Shooting foul by J. Poole (drawn by P. Pritchard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,6:56.0,,,,,,S. Kerr,Technical foul by S. Kerr,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,6:56.0,,,,,,J. Tatum,J. Tatum misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:56.0,,,,,,P. Pritchard,P. Pritchard misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:56.0,,,,,,A. Horford,A. Horford enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,6:56.0,,,,,,P. Pritchard,P. Pritchard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:46.0,,,,,,S. Curry,S. Curry makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:34.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 4 ft (assist by A. Horford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:24.0,,,,,,D. Green,D. Green misses 2-pt layup from 5 ft (block by A. Horford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,6:23.0,,,,,,P. Pritchard,Defensive rebound by P. Pritchard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,6:13.0,,,,,,J. Poole,Personal foul by J. Poole (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,6:03.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:50.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,5:50.0,,,,,,K. Looney,K. Looney enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,5:50.0,,,,,,G. Payton,G. Payton enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,5:50.0,,,,,,D. White,D. White enters the game for P. Pritchard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,5:44.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:42.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,5:18.0,,,,,,M. Smart,M. Smart misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:16.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,5:06.0,,,,,,A. Wiggins,Turnover by A. Wiggins (lost ball; steal by D. White ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,5:02.0,,,,,,D. White,Turnover by D. White (bad pass; steal by J. Poole ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,4:59.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,4:59.0,,,,,,A. Wiggins,A. Wiggins misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:59.0,,,,,,A. Wiggins,A. Wiggins makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:49.0,,,,,,J. Poole,Personal foul by J. Poole (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,4:49.0,,,,,,K. Thompson,K. Thompson enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,4:38.0,,,,,,M. Smart,M. Smart misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:36.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,4:29.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:27.0,,,,,,G. Payton,Offensive rebound by G. Payton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:25.0,,,,,,G. Payton,G. Payton makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:10.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:58.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:56.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,3:53.0,,,,,,J. Tatum,Turnover by J. Tatum (bad pass; steal by K. Thompson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,3:51.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:49.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,3:42.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 23 ft (assist by A. Horford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:27.0,,,,,,S. Curry,Turnover by S. Curry (bad pass; steal by J. Tatum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,3:24.0,,,,,,A. Wiggins,Shooting foul by A. Wiggins (drawn by A. Horford ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,3:24.0,,,,,,A. Horford,A. Horford makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:24.0,,,,,,A. Horford,A. Horford makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:06.0,,,,,,G. Payton,G. Payton misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:04.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,2:58.0,,,,,,D. White,D. White makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:58.0,,,,,,K. Thompson,Shooting foul by K. Thompson (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,2:58.0,,,,,,D. Green,D. Green enters the game for G. Payton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:58.0,,,,,,D. White,D. White makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:46.0,,,,,,J. Brown,Personal foul by J. Brown (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,2:42.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 13 ft (assist by K. Looney ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:42.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,2:42.0,,,,,,R. Williams,R. Williams enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:42.0,,,,,,S. Curry,S. Curry makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:25.0,,,,,,D. White,Turnover by D. White (bad pass; steal by K. Looney ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,2:18.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:16.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,1:55.0,,,,,,D. White,D. White misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:53.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,1:49.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:31.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:29.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,1:22.0,,,,,,S. Curry,Offensive foul by S. Curry (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,1:22.0,,,,,,S. Curry,Turnover by S. Curry (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202206100BOS,1,1:08.0,,,,,,D. White,D. White makes 3-pt jump shot from 24 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:54.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:53.0,,,,,,D. Green,Offensive rebound by D. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:52.0,,,,,,D. Green,D. Green misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:50.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,0:34.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:24.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt layup from 5 ft (block by R. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,0:23.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:13.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:12.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:12.0,,,,,,K. Looney,K. Looney makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:01.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:46.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 20 ft (assist by D. Green ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:29.0,,,,,,A. Horford,Turnover by A. Horford (bad pass; steal by D. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,11:22.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 28 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:01.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:58.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:50.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:44.0,,,,,,K. Thompson,Offensive rebound by K. Thompson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:39.0,,,,,,O. Porter,O. Porter misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:37.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:27.0,,,,,,K. Thompson,Personal foul by K. Thompson (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,10:20.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 28 ft (assist by A. Horford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:10.0,,,,,,D. Green,Turnover by D. Green (lost ball; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,10:06.0,,,,,,M. Smart,M. Smart makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:49.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:48.0,,,,,,D. Green,Offensive rebound by D. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:48.0,,,,,,D. Green,D. Green makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:37.0,,,,,,R. Williams,R. Williams makes 2-pt layup from 4 ft (assist by A. Horford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:16.0,,,,,,D. Green,D. Green misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:14.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,9:01.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:58.0,,,,,,J. Brown,Offensive rebound by J. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:52.0,,,,,,O. Porter,Shooting foul by O. Porter (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,8:52.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:52.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:42.0,,,,,,K. Thompson,K. Thompson makes 2-pt jump shot from 18 ft (assist by O. Porter ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:22.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:20.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:02.0,,,,,,K. Thompson,K. Thompson misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:00.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,7:52.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 6 ft (block by K. Thompson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,7:51.0,,,,,,O. Porter,Defensive rebound by O. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,7:47.0,,,,,,J. Tatum,Shooting foul by J. Tatum (drawn by O. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,7:47.0,,,,,,O. Porter,O. Porter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:47.0,,,,,,D. White,D. White enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,7:47.0,,,,,,O. Porter,O. Porter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:31.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:31.0,,,,,,D. Green,Shooting foul by D. Green (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,7:31.0,,,,,,K. Looney,K. Looney enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,7:31.0,,,,,,J. Brown,J. Brown makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:15.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 25 ft (assist by A. Wiggins ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:03.0,,,,,,J. Tatum,Turnover by J. Tatum (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,6:51.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:48.0,,,,,,D. White,Defensive rebound by D. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,6:35.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 27 ft (block by K. Thompson ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,6:33.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,6:31.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:28.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,6:14.0,,,,,,M. Smart,M. Smart makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:14.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,6:14.0,,,,,,G. Williams,G. Williams enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,5:59.0,,,,,,K. Looney,K. Looney makes 2-pt layup from 3 ft (assist by S. Curry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:34.0,,,,,,D. White,D. White makes 3-pt jump shot from 25 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:06.0,,,,,,D. Green,D. Green misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:04.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,4:58.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:56.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,4:46.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt hook shot from 8 ft (assist by D. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:29.0,,,,,,D. White,D. White misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:28.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,4:19.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:56.0,,,,,,M. Smart,M. Smart makes 2-pt jump shot from 17 ft (assist by J. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:37.0,,,,,,M. Smart,Personal foul by M. Smart (drawn by A. Wiggins ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,3:37.0,,,,,,G. Payton,G. Payton enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:37.0,,,,,,O. Porter,O. Porter enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:37.0,,,,,,A. Horford,A. Horford enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:37.0,,,,,,J. Tatum,J. Tatum enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:31.0,,,,,,S. Curry,Turnover by S. Curry (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,3:12.0,,,,,,D. White,D. White misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:10.0,,,,,,G. Payton,Defensive rebound by G. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,3:06.0,,,,,,G. Williams,Personal take foul by G. Williams (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,2:57.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 33 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:40.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:38.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,2:31.0,,,,,,A. Horford,Personal foul by A. Horford (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,2:31.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,2:31.0,,,,,,J. Poole,J. Poole enters the game for O. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:31.0,,,,,,K. Thompson,K. Thompson enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:31.0,,,,,,J. Brown,J. Brown enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:27.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:25.0,,,,,,K. Looney,Offensive rebound by K. Looney,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:25.0,,,,,,K. Looney,K. Looney misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:23.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,2:10.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:08.0,,,,,,M. Smart,Offensive rebound by M. Smart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:06.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 4 ft (block by G. Payton ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,2:04.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:03.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:57.0,,,,,,J. Brown,Personal foul by J. Brown (drawn by G. Payton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,1:57.0,,,,,,G. Payton,G. Payton misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:57.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:57.0,,,,,,G. Williams,G. Williams enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,1:57.0,,,,,,G. Payton,G. Payton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:42.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:40.0,,,,,,M. Smart,Offensive rebound by M. Smart,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:35.0,,,,,,D. White,D. White misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:33.0,,,,,,K. Looney,Defensive rebound by K. Looney,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,1:25.0,,,,,,G. Payton,G. Payton makes 2-pt dunk from 1 ft (assist by J. Poole ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:14.0,,,,,,A. Horford,A. Horford makes 3-pt jump shot from 28 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:58.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 23 ft (assist by G. Payton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:43.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:41.0,,,,,,G. Payton,Defensive rebound by G. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,0:35.0,,,,,,G. Payton,Offensive foul by G. Payton (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,0:35.0,,,,,,G. Payton,Turnover by G. Payton (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202206100BOS,1,0:31.0,,,,,,D. White,D. White misses 2-pt layup from 4 ft (block by J. Poole ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,0:31.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:31.0,,,,,,A. Wiggins,A. Wiggins enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,0:29.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:25.0,,,,,,G. Payton,Defensive rebound by G. Payton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,0:06.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:02.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:00.0,,,,,,S. Curry,S. Curry misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:45.0,,,,,,J. Tatum,Turnover by J. Tatum (lost ball; steal by D. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,11:43.0,,,,,,J. Tatum,Personal foul by J. Tatum (drawn by D. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,11:30.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:29.0,,,,,,D. Green,Offensive rebound by D. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:28.0,,,,,,N. Bjelica,N. Bjelica misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:27.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,11:16.0,,,,,,D. White,D. White makes 3-pt jump shot from 25 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,11:01.0,,,,,,J. Poole,J. Poole makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:46.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 26 ft (assist by R. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:25.0,,,,,,J. Poole,Turnover by J. Poole (bad pass; steal by R. Williams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,10:21.0,,,,,,P. Pritchard,P. Pritchard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:18.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:10.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,10:08.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,10:00.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 26 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:31.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 10 ft (assist by D. White ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,9:13.0,,,,,,A. Wiggins,Turnover by A. Wiggins (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,9:13.0,,,,,,S. Curry,S. Curry enters the game for K. Thompson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,8:59.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:57.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:49.0,,,,,,J. Poole,J. Poole makes 2-pt layup from 1 ft (assist by A. Wiggins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:28.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:26.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:19.0,,,,,,J. Poole,J. Poole misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:17.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,8:09.0,,,,,,J. Brown,Turnover by J. Brown (lost ball; steal by N. Bjelica ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,8:07.0,,,,,,N. Bjelica,N. Bjelica misses 2-pt layup from 3 ft (block by J. Tatum ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,8:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,8:06.0,,,,,,K. Thompson,K. Thompson enters the game for A. Wiggins,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,8:06.0,,,,,,M. Smart,M. Smart enters the game for P. Pritchard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,8:06.0,,,,,,N. Bjelica,Turnover by N. Bjelica (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,7:48.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 4 ft (assist by R. Williams ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:37.0,,,,,,S. Curry,Turnover by S. Curry (bad pass; steal by J. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,7:32.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:32.0,,,,,,J. Poole,Loose ball foul by J. Poole (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,7:32.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,7:32.0,,,,,,K. Looney,K. Looney enters the game for N. Bjelica,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,7:32.0,,,,,,A. Wiggins,A. Wiggins enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,7:32.0,,,,,,M. Smart,M. Smart makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:19.0,,,,,,S. Curry,S. Curry misses 2-pt layup from 7 ft (block by J. Tatum ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,7:18.0,,,,,,S. Curry,Offensive rebound by S. Curry,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:14.0,,,,,,A. Wiggins,A. Wiggins misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,7:11.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,6:46.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:45.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:45.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,6:29.0,,,,,,K. Thompson,K. Thompson makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:09.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:08.0,,,,,,J. Poole,Defensive rebound by J. Poole,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,6:02.0,,,,,,A. Wiggins,A. Wiggins misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,6:00.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:58.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:36.0,,,,,,S. Curry,Personal foul by S. Curry (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,5:33.0,,,,,,K. Thompson,Personal foul by K. Thompson (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,5:23.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 6 ft (block by K. Looney ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202206100BOS,1,5:21.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,5:18.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 28 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:57.0,,,,,,J. Poole,J. Poole misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:56.0,,,,,,A. Wiggins,Offensive rebound by A. Wiggins,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:55.0,,,,,,A. Wiggins,A. Wiggins makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:36.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:35.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,4:26.0,,,,,,K. Thompson,K. Thompson makes 3-pt jump shot from 26 ft (assist by S. Curry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:12.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,4:10.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,3:49.0,,,,,,S. Curry,S. Curry makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:41.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,3:41.0,,,,,,D. Green,D. Green enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:41.0,,,,,,A. Horford,A. Horford enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:28.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:27.0,,,,,,D. Green,Defensive rebound by D. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,3:21.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,3:21.0,,,,,,J. Poole,J. Poole enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,3:07.0,,,,,,S. Curry,S. Curry misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,3:05.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,3:05.0,,,,,,K. Looney,Loose ball foul by K. Looney (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,3:05.0,,,,,,D. Green,D. Green enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,2:45.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:44.0,,,,,,J. Brown,Offensive rebound by J. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:36.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,2:34.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,2:08.0,,,,,,K. Looney,Turnover by K. Looney (lost ball; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202206100BOS,1,1:55.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:53.0,,,,,,S. Curry,Defensive rebound by S. Curry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,1:42.0,,,,,,S. Curry,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:42.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,1:32.0,,,,,,A. Horford,A. Horford makes 3-pt jump shot from 25 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:16.0,,,,,,K. Thompson,K. Thompson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:14.0,,,,,,D. Green,Offensive rebound by D. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,1:04.0,,,,,,K. Looney,K. Looney makes 2-pt layup from 1 ft (assist by D. Green ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:56.0,,,,,,J. Brown,Turnover by J. Brown (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202206100BOS,1,0:56.0,,,,,,J. Poole,J. Poole enters the game for D. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,0:47.0,,,,,,A. Horford,Shooting foul by A. Horford (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,0:47.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,0:47.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:47.0,,,,,,D. Green,D. Green enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,0:47.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:47.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:39.0,,,,,,D. White,D. White misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:37.0,,,,,,A. Wiggins,Defensive rebound by A. Wiggins,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202206100BOS,1,0:25.0,,,,,,,Golden State full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202206100BOS,1,0:25.0,,,,,,J. Poole,J. Poole enters the game for K. Looney,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,0:19.0,,,,,,A. Horford,Personal foul by A. Horford (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,0:19.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:19.0,,,,,,K. Looney,K. Looney enters the game for J. Poole,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202206100BOS,1,0:19.0,,,,,,S. Curry,S. Curry misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:16.0,,,,,,D. Green,Offensive rebound by D. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:09.0,,,,,,J. Brown,Personal foul by J. Brown (drawn by S. Curry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202206100BOS,1,0:09.0,,,,,,S. Curry,S. Curry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202206100BOS,1,0:09.0,,,,,,S. Curry,S. Curry makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False

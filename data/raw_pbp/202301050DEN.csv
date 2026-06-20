@@ -1,0 +1,436 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202301050DEN,1,11:45.0,,,,,,A. Gordon,A. Gordon misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:42.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,11:30.0,,,,,,K. Leonard,Turnover by K. Leonard (bad pass; steal by N. JokiÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,11:25.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt layup from 2 ft (assist by A. Gordon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:10.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:07.0,,,,,,M. Porter,Defensive rebound by M. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,10:57.0,,,,,,J. Murray,J. Murray misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:55.0,,,,,,M. Morris,Defensive rebound by M. Morris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,10:41.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:39.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,10:32.0,,,,,,A. Gordon,A. Gordon makes 2-pt layup from 2 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:09.0,,,,,,P. George,P. George misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:06.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,10:00.0,,,,,,A. Gordon,A. Gordon makes 2-pt layup from 2 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:44.0,,,,,,M. Porter,Shooting foul by M. Porter (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,9:44.0,,,,,,I. Zubac,I. Zubac makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:44.0,,,,,,I. Zubac,I. Zubac makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:27.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:25.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,9:15.0,,,,,,P. George,P. George misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:11.0,,,,,,A. Gordon,Defensive rebound by A. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,9:04.0,,,,,,A. Gordon,A. Gordon makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:54.0,,,,,,P. George,P. George misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:51.0,,,,,,R. Jackson,Offensive rebound by R. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:50.0,,,,,,M. Morris,M. Morris makes 3-pt jump shot from 26 ft (assist by R. Jackson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:35.0,,,,,,M. Porter,M. Porter misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:33.0,,,,,,A. Gordon,Offensive rebound by A. Gordon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:33.0,,,,,,M. Morris,Shooting foul by M. Morris (drawn by A. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,8:33.0,,,,,,A. Gordon,A. Gordon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:33.0,,,,,,A. Gordon,A. Gordon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:17.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:11.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:07.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:58.0,,,,,,M. Porter,M. Porter misses 2-pt hook shot from 3 ft (block by I. Zubac ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,7:55.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:53.0,,,,,,J. Murray,Shooting foul by J. Murray (drawn by K. Leonard ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,7:53.0,,,,,,K. Leonard,K. Leonard makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:53.0,,,,,,K. Leonard,K. Leonard makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:36.0,,,,,,J. Murray,J. Murray makes 3-pt jump shot from 23 ft (assist by A. Gordon ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:20.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:17.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:10.0,,,,,,J. Murray,J. Murray makes 2-pt jump shot from 10 ft (assist by N. JokiÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:10.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,6:54.0,,,,,,M. Morris,M. Morris makes 2-pt jump shot from 11 ft (assist by R. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:32.0,,,,,,J. Murray,J. Murray makes 3-pt jump shot from 27 ft (assist by N. JokiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:18.0,,,,,,I. Zubac,I. Zubac makes 2-pt layup from 3 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:01.0,,,,,,J. Murray,J. Murray makes 2-pt jump shot from 16 ft (assist by N. JokiÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:49.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:49.0,,,,,,B. Brown,B. Brown enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:42.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:39.0,,,,,,M. Porter,Defensive rebound by M. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:39.0,,,,,,L. Kennard,L. Kennard enters the game for P. George,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:26.0,,,,,,N. JokiÄ,N. JokiÄ misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:22.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:12.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:08.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:05.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,4:52.0,,,,,,A. Gordon,Turnover by A. Gordon (bad pass; steal by K. Leonard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,4:47.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:44.0,,,,,,M. Porter,Defensive rebound by M. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,4:42.0,,,,,,M. Porter,M. Porter misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:42.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,4:27.0,,,,,,M. Morris,M. Morris misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:24.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,4:16.0,,,,,,M. Porter,M. Porter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:13.0,,,,,,A. Gordon,Offensive rebound by A. Gordon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:08.0,,,,,,B. Brown,B. Brown misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:05.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:58.0,,,,,,R. Jackson,R. Jackson makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:42.0,,,,,,J. Murray,J. Murray makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:23.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:20.0,,,,,,M. Porter,Defensive rebound by M. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:16.0,,,,,,B. Brown,B. Brown makes 2-pt layup from 4 ft (assist by A. Gordon ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:16.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,3:16.0,,,,,,R. Covington,R. Covington enters the game for R. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:16.0,,,,,,T. Mann,T. Mann enters the game for M. Morris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:16.0,,,,,,N. Powell,N. Powell enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:16.0,,,,,,V. ÄanÄar,V. ÄanÄar enters the game for A. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:16.0,,,,,,B. Hyland,B. Hyland enters the game for M. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:01.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:58.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:50.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:50.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:43.0,,,,,,L. Kennard,L. Kennard misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:39.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:32.0,,,,,,N. Powell,Shooting foul by N. Powell (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,2:32.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:32.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for J. Murray,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,2:32.0,,,,,,N. JokiÄ,N. JokiÄ misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:30.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:11.0,,,,,,K. Leonard,K. Leonard misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:09.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:09.0,,,,,,Z. Nnaji,Z. Nnaji enters the game for N. JokiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,1:51.0,,,,,,B. Hyland,B. Hyland makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:33.0,,,,,,N. Powell,N. Powell misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:30.0,,,,,,B. Hyland,Defensive rebound by B. Hyland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,1:14.0,,,,,,V. ÄanÄar,V. ÄanÄar makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:57.0,,,,,,B. Brown,Shooting foul by B. Brown (drawn by T. Mann ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,0:57.0,,,,,,T. Mann,T. Mann makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:57.0,,,,,,I. Zubac,I. Zubac enters the game for K. Leonard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,0:57.0,,,,,,T. Mann,T. Mann makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:38.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:35.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:31.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:28.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:06.0,,,,,,B. Hyland,B. Hyland misses 2-pt layup from 5 ft (block by R. Covington ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,0:04.0,,,,,,I. Zubac,Defensive rebound by I. Zubac,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:03.0,,,,,,I. Zubac,Turnover by I. Zubac (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050DEN,1,0:00.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 34 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:42.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:39.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,11:28.0,,,,,,N. Powell,Personal foul by N. Powell (drawn by V. ÄanÄar ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,11:18.0,,,,,,B. Brown,B. Brown makes 3-pt jump shot from 25 ft (assist by V. ÄanÄar ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:56.0,,,,,,L. Kennard,L. Kennard makes 2-pt jump shot from 12 ft (assist by N. Powell ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:28.0,,,,,,B. Hyland,B. Hyland misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:26.0,,,,,,Z. Nnaji,Offensive rebound by Z. Nnaji,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:20.0,,,,,,Z. Nnaji,Z. Nnaji makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:12.0,,,,,,I. Zubac,I. Zubac makes 2-pt dunk from 1 ft (assist by L. Kennard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:54.0,,,,,,Z. Nnaji,Z. Nnaji makes 2-pt layup from 3 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:37.0,,,,,,N. Powell,N. Powell misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:35.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,9:33.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by B. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:14.0,,,,,,Z. Nnaji,Shooting foul by Z. Nnaji (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,9:14.0,,,,,,I. Zubac,I. Zubac makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:14.0,,,,,,R. Jackson,R. Jackson enters the game for R. Covington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,9:14.0,,,,,,I. Zubac,I. Zubac makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:56.0,,,,,,B. Brown,B. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:51.0,,,,,,N. Powell,Defensive rebound by N. Powell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,8:46.0,,,,,,N. Powell,N. Powell makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:32.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by Z. Nnaji ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:16.0,,,,,,L. Kennard,Turnover by L. Kennard (lost ball; steal by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,8:13.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:53.0,,,,,,L. Kennard,Turnover by L. Kennard (bad pass; steal by B. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,7:45.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:43.0,,,,,,L. Kennard,Defensive rebound by L. Kennard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:36.0,,,,,,V. ÄanÄar,Personal foul by V. ÄanÄar (drawn by I. Zubac ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,7:28.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:22.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:18.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:14.0,,,,,,V. ÄanÄar,V. ÄanÄar makes 2-pt dunk from 1 ft (assist by B. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:14.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,7:14.0,,,,,,P. George,P. George enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,7:14.0,,,,,,K. Leonard,K. Leonard enters the game for N. Powell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,6:52.0,,,,,,P. George,P. George misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:49.0,,,,,,Z. Nnaji,Defensive rebound by Z. Nnaji,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,6:41.0,,,,,,T. Mann,Shooting foul by T. Mann (drawn by B. Hyland ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,6:41.0,,,,,,B. Hyland,B. Hyland makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:41.0,,,,,,B. Hyland,B. Hyland makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:20.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:17.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,6:09.0,,,,,,K. Caldwell-Pope,Offensive foul by K. Caldwell-Pope (drawn by P. George ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,6:09.0,,,,,,K. Caldwell-Pope,Turnover by K. Caldwell-Pope (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050DEN,1,6:09.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:09.0,,,,,,M. Morris,M. Morris enters the game for I. Zubac,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:53.0,,,,,,P. George,P. George misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:48.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:41.0,,,,,,,Def 3 sec tech foul by Team,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,5:41.0,,,,,,B. Hyland,B. Hyland makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:41.0,,,,,,A. Gordon,A. Gordon enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:41.0,,,,,,N. JokiÄ,N. JokiÄ enters the game for V. ÄanÄar,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:41.0,,,,,,J. Murray,J. Murray enters the game for Z. Nnaji,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:34.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:29.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:24.0,,,,,,P. George,P. George misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:21.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:15.0,,,,,,B. Brown,B. Brown makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:48.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 25 ft (block by B. Brown ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,4:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:48.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050DEN,1,4:48.0,,,,,,L. Kennard,L. Kennard enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,4:48.0,,,,,,M. Porter,M. Porter enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,4:34.0,,,,,,B. Hyland,B. Hyland makes 3-pt jump shot from 23 ft (assist by N. JokiÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:18.0,,,,,,P. George,P. George misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:15.0,,,,,,A. Gordon,Defensive rebound by A. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:57.0,,,,,,B. Hyland,B. Hyland makes 3-pt jump shot from 23 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:31.0,,,,,,K. Leonard,K. Leonard makes 2-pt jump shot from 16 ft (assist by P. George ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:08.0,,,,,,J. Murray,J. Murray misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:03.0,,,,,,A. Gordon,Offensive rebound by A. Gordon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:03.0,,,,,,A. Gordon,A. Gordon makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:48.0,,,,,,R. Jackson,R. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:44.0,,,,,,R. Jackson,Offensive rebound by R. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:42.0,,,,,,M. Morris,M. Morris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:38.0,,,,,,A. Gordon,Defensive rebound by A. Gordon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:24.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:24.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,2:24.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for B. Hyland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,2:19.0,,,,,,N. JokiÄ,N. JokiÄ misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:15.0,,,,,,K. Leonard,Defensive rebound by K. Leonard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:03.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:55.0,,,,,,K. Leonard,K. Leonard makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:34.0,,,,,,A. Gordon,A. Gordon makes 2-pt dunk from 1 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:20.0,,,,,,M. Morris,M. Morris makes 2-pt layup from 2 ft (assist by K. Leonard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:07.0,,,,,,J. Murray,J. Murray misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:07.0,,,,,,A. Gordon,Offensive rebound by A. Gordon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:07.0,,,,,,R. Jackson,Shooting foul by R. Jackson (drawn by A. Gordon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,1:07.0,,,,,,A. Gordon,A. Gordon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:07.0,,,,,,A. Gordon,A. Gordon misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:05.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:55.0,,,,,,K. Leonard,K. Leonard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:52.0,,,,,,J. Murray,Defensive rebound by J. Murray,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:33.0,,,,,,M. Porter,Turnover by M. Porter (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050DEN,1,0:14.0,,,,,,P. George,P. George makes 3-pt jump shot from 26 ft (assist by M. Morris ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:04.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:00.0,,,,,,P. George,Defensive rebound by P. George,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:00.0,,,,,,P. George,P. George misses 3-pt jump shot from 53 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:41.0,,,,,,T. Mann,T. Mann makes 2-pt dunk from 2 ft (assist by N. Powell ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:24.0,,,,,,J. Murray,J. Murray makes 3-pt jump shot from 26 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:04.0,,,,,,N. Powell,N. Powell makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:56.0,,,,,,J. Murray,J. Murray makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:41.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:37.0,,,,,,M. Porter,Defensive rebound by M. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,10:34.0,,,,,,M. Brown,Personal foul by M. Brown (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,10:27.0,,,,,,M. Porter,M. Porter makes 2-pt layup from 2 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:07.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:03.0,,,,,,N. Powell,N. Powell makes 3-pt jump shot from 25 ft (assist by A. Coffey ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:52.0,,,,,,N. JokiÄ,Turnover by N. JokiÄ (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050DEN,1,9:40.0,,,,,,L. Kennard,L. Kennard makes 2-pt layup from 2 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:40.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,9:15.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt hook shot from 8 ft (assist by J. Murray ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:53.0,,,,,,N. Powell,N. Powell misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:49.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,8:43.0,,,,,,M. Porter,M. Porter makes 3-pt jump shot from 25 ft (assist by K. Caldwell-Pope ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:19.0,,,,,,L. Kennard,L. Kennard misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:15.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:59.0,,,,,,M. Porter,M. Porter makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:47.0,,,,,,A. Coffey,A. Coffey misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:45.0,,,,,,N. JokiÄ,Defensive rebound by N. JokiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:41.0,,,,,,A. Coffey,Shooting foul by A. Coffey (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,7:41.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:41.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:27.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:24.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:11.0,,,,,,M. Porter,M. Porter makes 2-pt dunk from 2 ft (assist by N. JokiÄ ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:59.0,,,,,,N. Powell,N. Powell makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:50.0,,,,,,M. Porter,M. Porter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:49.0,,,,,,A. Coffey,Defensive rebound by A. Coffey,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,6:39.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 2 ft (assist by A. Coffey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:29.0,,,,,,N. JokiÄ,Turnover by N. JokiÄ (bad pass; steal by L. Kennard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,6:25.0,,,,,,J. Murray,Shooting foul by J. Murray (drawn by A. Coffey ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,6:25.0,,,,,,A. Coffey,A. Coffey makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:25.0,,,,,,A. Coffey,A. Coffey makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:04.0,,,,,,A. Gordon,A. Gordon misses 2-pt layup from 3 ft (block by M. Brown ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,6:01.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:59.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:48.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt layup from 2 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:48.0,,,,,,N. Powell,Shooting foul by N. Powell (drawn by N. JokiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,5:48.0,,,,,,B. Brown,B. Brown enters the game for J. Murray,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:48.0,,,,,,N. JokiÄ,N. JokiÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:44.0,,,,,,M. Brown,Turnover by M. Brown (bad pass; steal by B. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,5:35.0,,,,,,N. JokiÄ,N. JokiÄ makes 2-pt hook shot from 5 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:35.0,,,,,,V. ÄanÄar,V. ÄanÄar enters the game for A. Gordon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:04.0,,,,,,N. Powell,Turnover by N. Powell (lost ball; steal by V. ÄanÄar ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,5:02.0,,,,,,L. Kennard,Shooting foul by L. Kennard (drawn by M. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,5:02.0,,,,,,M. Porter,M. Porter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:02.0,,,,,,R. Covington,R. Covington enters the game for M. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,5:02.0,,,,,,M. Porter,M. Porter misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:00.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,4:42.0,,,,,,R. Covington,R. Covington misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:36.0,,,,,,T. Mann,T. Mann makes 2-pt dunk from 2 ft (assist by L. Kennard ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:16.0,,,,,,M. Porter,M. Porter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:13.0,,,,,,T. Mann,Defensive rebound by T. Mann,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,4:06.0,,,,,,T. Mann,T. Mann makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:46.0,,,,,,B. Brown,Turnover by B. Brown (bad pass; steal by N. Powell ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,3:40.0,,,,,,L. Kennard,L. Kennard misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:36.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:29.0,,,,,,V. ÄanÄar,V. ÄanÄar misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:29.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:22.0,,,,,,N. Powell,N. Powell misses 3-pt jump shot from 26 ft (block by B. Brown ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,3:21.0,,,,,,A. Coffey,Offensive rebound by A. Coffey,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:21.0,,,,,,A. Coffey,A. Coffey makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:21.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,3:21.0,,,,,,B. Boston,B. Boston enters the game for L. Kennard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:21.0,,,,,,J. Preston,J. Preston enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:21.0,,,,,,B. Hyland,B. Hyland enters the game for N. JokiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:21.0,,,,,,Z. Nnaji,Z. Nnaji enters the game for M. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,3:00.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:52.0,,,,,,V. ÄanÄar,Offensive rebound by V. ÄanÄar,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:52.0,,,,,,V. ÄanÄar,V. ÄanÄar makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:41.0,,,,,,A. Coffey,A. Coffey misses 2-pt layup from 5 ft (block by V. ÄanÄar ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,2:38.0,,,,,,B. Hyland,Defensive rebound by B. Hyland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:32.0,,,,,,B. Brown,Turnover by B. Brown (bad pass; steal by B. Boston ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,2:24.0,,,,,,B. Boston,B. Boston misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:22.0,,,,,,B. Hyland,Defensive rebound by B. Hyland,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:17.0,,,,,,B. Hyland,B. Hyland makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:02.0,,,,,,N. Powell,N. Powell makes 2-pt dunk from 2 ft (assist by R. Covington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:49.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:47.0,,,,,,J. Preston,Defensive rebound by J. Preston,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,1:43.0,,,,,,N. Powell,N. Powell misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:40.0,,,,,,R. Covington,Offensive rebound by R. Covington,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:34.0,,,,,,N. Powell,N. Powell makes 2-pt layup from 3 ft (assist by J. Preston ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:25.0,,,,,,V. ÄanÄar,V. ÄanÄar misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:25.0,,,,,,V. ÄanÄar,Offensive rebound by V. ÄanÄar,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:21.0,,,,,,V. ÄanÄar,V. ÄanÄar misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:20.0,,,,,,V. ÄanÄar,Offensive rebound by V. ÄanÄar,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:20.0,,,,,,V. ÄanÄar,V. ÄanÄar makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:11.0,,,,,,A. Coffey,A. Coffey misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:07.0,,,,,,B. Boston,Offensive rebound by B. Boston,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:07.0,,,,,,B. Boston,B. Boston misses 2-pt layup from 3 ft (block by Z. Nnaji ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,1:00.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:59.0,,,,,,B. Hyland,B. Hyland makes 2-pt layup from 1 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:51.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:51.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:45.0,,,,,,V. ÄanÄar,V. ÄanÄar makes 2-pt layup from 2 ft (assist by B. Hyland ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:32.0,,,,,,A. Coffey,A. Coffey misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:30.0,,,,,,B. Brown,Defensive rebound by B. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:27.0,,,,,,N. Powell,Personal foul by N. Powell (drawn by B. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,0:27.0,,,,,,B. Brown,B. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:27.0,,,,,,T. Mann,T. Mann enters the game for N. Powell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,0:27.0,,,,,,C. Braun,C. Braun enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,0:27.0,,,,,,B. Brown,B. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:10.0,,,,,,B. Boston,B. Boston misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:07.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:00.0,,,,,,C. Braun,C. Braun misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:42.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,11:39.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,11:24.0,,,,,,M. Brown,M. Brown makes 2-pt dunk from 1 ft (assist by T. Mann ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:58.0,,,,,,B. Brown,B. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:55.0,,,,,,J. Preston,Defensive rebound by J. Preston,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,10:51.0,,,,,,Z. Nnaji,Shooting foul by Z. Nnaji (drawn by B. Boston ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,10:51.0,,,,,,B. Boston,B. Boston makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:51.0,,,,,,B. Boston,B. Boston makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:34.0,,,,,,V. ÄanÄar,V. ÄanÄar misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:32.0,,,,,,Z. Nnaji,Offensive rebound by Z. Nnaji,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:30.0,,,,,,Z. Nnaji,Z. Nnaji makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:20.0,,,,,,T. Mann,T. Mann misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:19.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:19.0,,,,,,M. Brown,M. Brown makes 2-pt hook shot from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:19.0,,,,,,Z. Nnaji,Shooting foul by Z. Nnaji (drawn by M. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,10:19.0,,,,,,M. Brown,M. Brown misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,10:17.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,9:58.0,,,,,,T. Mann,Loose ball foul by T. Mann (drawn by Z. Nnaji ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,9:51.0,,,,,,V. ÄanÄar,Offensive foul by V. ÄanÄar (drawn by B. Boston ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,9:51.0,,,,,,V. ÄanÄar,Turnover by V. ÄanÄar (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050DEN,1,9:37.0,,,,,,B. Boston,B. Boston misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:33.0,,,,,,C. Braun,Defensive rebound by C. Braun,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,9:28.0,,,,,,C. Braun,C. Braun makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:17.0,,,,,,M. Brown,M. Brown makes 2-pt dunk from 1 ft (assist by J. Preston ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:03.0,,,,,,B. Hyland,B. Hyland misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,9:01.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,8:44.0,,,,,,J. Preston,J. Preston makes 3-pt jump shot from 23 ft (assist by B. Boston ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:43.0,,,,,,,Denver full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,8:43.0,,,,,,D. Reed,D. Reed enters the game for B. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,8:43.0,,,,,,I. Smith,I. Smith enters the game for B. Hyland,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,8:19.0,,,,,,C. Braun,C. Braun misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,8:16.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,8:03.0,,,,,,T. Mann,T. Mann misses 2-pt jump shot from 7 ft (block by D. Reed ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050DEN,1,8:00.0,,,,,,I. Smith,Defensive rebound by I. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,7:58.0,,,,,,C. Braun,C. Braun misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:51.0,,,,,,V. ÄanÄar,Offensive rebound by V. ÄanÄar,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:51.0,,,,,,V. ÄanÄar,V. ÄanÄar makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:36.0,,,,,,C. Braun,Shooting foul by C. Braun (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,7:36.0,,,,,,R. Covington,R. Covington makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:36.0,,,,,,A. Coffey,A. Coffey enters the game for T. Mann,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050DEN,1,7:36.0,,,,,,R. Covington,R. Covington makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:22.0,,,,,,D. Reed,D. Reed makes 3-pt jump shot from 26 ft (assist by Z. Nnaji ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,7:04.0,,,,,,R. Covington,R. Covington makes 2-pt jump shot from 7 ft (assist by J. Preston ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:51.0,,,,,,Z. Nnaji,Z. Nnaji makes 2-pt dunk from 2 ft (assist by I. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:51.0,,,,,,J. Preston,Shooting foul by J. Preston (drawn by Z. Nnaji ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,6:51.0,,,,,,Z. Nnaji,Z. Nnaji makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:38.0,,,,,,J. Preston,J. Preston misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:38.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:38.0,,,,,,Z. Nnaji,Shooting foul by Z. Nnaji (drawn by M. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,6:38.0,,,,,,M. Brown,M. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:38.0,,,,,,M. Brown,M. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,6:22.0,,,,,,I. Smith,Turnover by I. Smith (bad pass; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,6:17.0,,,,,,R. Covington,Turnover by R. Covington (bad pass; steal by Z. Nnaji ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,5:58.0,,,,,,D. Reed,D. Reed misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:56.0,,,,,,B. Boston,Defensive rebound by B. Boston,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:56.0,,,,,,V. ÄanÄar,Personal foul by V. ÄanÄar (drawn by B. Boston ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,5:56.0,,,,,,B. Boston,B. Boston makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:56.0,,,,,,B. Boston,B. Boston misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:52.0,,,,,,Z. Nnaji,Defensive rebound by Z. Nnaji,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:38.0,,,,,,C. Braun,C. Braun misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:35.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:27.0,,,,,,J. Preston,J. Preston misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:27.0,,,,,,D. Reed,Loose ball foul by D. Reed (drawn by M. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,5:27.0,,,,,,M. Brown,M. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:27.0,,,,,,M. Brown,M. Brown misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:25.0,,,,,,C. Braun,Defensive rebound by C. Braun,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:13.0,,,,,,D. Reed,D. Reed misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:10.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,5:00.0,,,,,,Z. Nnaji,Personal foul by Z. Nnaji (drawn by B. Boston ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,5:00.0,,,,,,B. Boston,B. Boston misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,5:00.0,,,,,,B. Boston,B. Boston makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:36.0,,,,,,Z. Nnaji,Z. Nnaji makes 2-pt dunk from 1 ft (assist by D. Reed ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:24.0,,,,,,R. Covington,R. Covington makes 2-pt jump shot from 4 ft (assist by B. Boston ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:18.0,,,,,,C. Braun,C. Braun makes 2-pt dunk from 2 ft (assist by I. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:04.0,,,,,,R. Covington,R. Covington misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,4:02.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:59.0,,,,,,V. ÄanÄar,Turnover by V. ÄanÄar (bad pass; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,3:51.0,,,,,,M. Brown,M. Brown misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:48.0,,,,,,D. Reed,Defensive rebound by D. Reed,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:43.0,,,,,,C. Braun,C. Braun misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:39.0,,,,,,J. Preston,Defensive rebound by J. Preston,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:28.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:25.0,,,,,,V. ÄanÄar,Defensive rebound by V. ÄanÄar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:15.0,,,,,,C. Braun,C. Braun misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,3:15.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,3:15.0,,,,,,,LA Clippers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050DEN,1,2:59.0,,,,,,M. Brown,M. Brown makes 2-pt dunk from 1 ft (assist by R. Covington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:33.0,,,,,,V. ÄanÄar,V. ÄanÄar misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,2:30.0,,,,,,J. Preston,Defensive rebound by J. Preston,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,2:14.0,,,,,,A. Coffey,A. Coffey makes 2-pt jump shot from 16 ft (assist by B. Boston ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:59.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by V. ÄanÄar ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,1:59.0,,,,,,V. ÄanÄar,V. ÄanÄar makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:59.0,,,,,,V. ÄanÄar,V. ÄanÄar makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:46.0,,,,,,M. Brown,M. Brown makes 2-pt dunk from 2 ft (assist by A. Coffey ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:26.0,,,,,,Z. Nnaji,Z. Nnaji misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:23.0,,,,,,M. Brown,Shooting foul by M. Brown (drawn by Z. Nnaji ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,1:23.0,,,,,,Z. Nnaji,Z. Nnaji makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:23.0,,,,,,Z. Nnaji,Z. Nnaji makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:08.0,,,,,,A. Coffey,A. Coffey misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:08.0,,,,,,M. Brown,Offensive rebound by M. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:08.0,,,,,,V. ÄanÄar,Shooting foul by V. ÄanÄar (drawn by M. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050DEN,1,1:08.0,,,,,,M. Brown,M. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:08.0,,,,,,M. Brown,M. Brown misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,1:06.0,,,,,,Z. Nnaji,Defensive rebound by Z. Nnaji,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:57.0,,,,,,V. ÄanÄar,V. ÄanÄar misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:55.0,,,,,,M. Brown,Defensive rebound by M. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:49.0,,,,,,B. Boston,B. Boston misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:46.0,,,,,,Z. Nnaji,Defensive rebound by Z. Nnaji,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050DEN,1,0:41.0,,,,,,I. Smith,Turnover by I. Smith (bad pass; steal by J. Preston ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050DEN,1,0:36.0,,,,,,J. Preston,J. Preston makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050DEN,1,0:11.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050DEN,1,0:08.0,,,,,,R. Covington,R. Covington makes 2-pt dunk from 1 ft (assist by B. Boston ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False

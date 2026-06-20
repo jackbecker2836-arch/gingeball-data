@@ -1,0 +1,513 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202203140LAL,1,11:36.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:31.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:31.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:08.0,,,,,,A. Reaves,A. Reaves misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:06.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:58.0,,,,,,S. Barnes,S. Barnes makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:28.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:25.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:25.0,,,,,,L. James,L. James misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:25.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:19.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 6 ft (assist by F. VanVleet ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:56.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:53.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,9:50.0,,,,,,F. VanVleet,F. VanVleet makes 3-pt jump shot from 26 ft (assist by G. Trent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:34.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:25.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:15.0,,,,,,L. James,Turnover by L. James (lost ball; steal by P. Siakam ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,9:09.0,,,,,,P. Siakam,Turnover by P. Siakam (bad pass; steal by M. Monk ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,9:04.0,,,,,,M. Monk,Turnover by M. Monk (bad pass; steal by S. Barnes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,8:59.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt dunk at rim (assist by P. Siakam ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:59.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,8:46.0,,,,,,S. Johnson,S. Johnson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:42.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:35.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 1 ft (assist by F. VanVleet ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:25.0,,,,,,L. James,L. James misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:23.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:22.0,,,,,,R. Westbrook,Personal take foul by R. Westbrook (drawn by S. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,8:15.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:12.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:10.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:07.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:57.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:55.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:47.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:23.0,,,,,,M. Monk,M. Monk misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:21.0,,,,,,R. Westbrook,Offensive rebound by R. Westbrook,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:20.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:18.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:11.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:09.0,,,,,,S. Johnson,Defensive rebound by S. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:01.0,,,,,,M. Monk,M. Monk misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:59.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:53.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 2 ft (assist by P. Siakam ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:53.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,6:53.0,,,,,,D. Augustin,D. Augustin enters the game for S. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:53.0,,,,,,A. Bradley,A. Bradley enters the game for M. Monk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:53.0,,,,,,W. Gabriel,W. Gabriel enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:43.0,,,,,,W. Gabriel,W. Gabriel misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:40.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:27.0,,,,,,A. Bradley,Shooting foul by A. Bradley (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,6:27.0,,,,,,G. Trent,G. Trent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:27.0,,,,,,G. Trent,G. Trent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:13.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:13.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:13.0,,,,,,C. Anthony,C. Anthony enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:05.0,,,,,,P. Siakam,Turnover by P. Siakam (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,5:53.0,,,,,,A. Bradley,A. Bradley makes 2-pt jump shot from 21 ft (assist by L. James ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:33.0,,,,,,P. Siakam,P. Siakam makes 3-pt jump shot from 24 ft (assist by F. VanVleet ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:17.0,,,,,,D. Augustin,D. Augustin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:14.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:56.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:41.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:37.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:32.0,,,,,,F. VanVleet,Shooting foul by F. VanVleet (drawn by A. Bradley ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:32.0,,,,,,A. Bradley,A. Bradley makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:32.0,,,,,,K. Birch,K. Birch enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:32.0,,,,,,C. Boucher,C. Boucher enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:32.0,,,,,,A. Bradley,A. Bradley makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:10.0,,,,,,S. Barnes,S. Barnes misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:10.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:10.0,,,,,,K. Birch,Loose ball foul by K. Birch (drawn by W. Gabriel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:02.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:58.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:46.0,,,,,,D. Augustin,D. Augustin misses 2-pt layup from 2 ft (block by K. Birch ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,3:42.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,3:42.0,,,,,,P. Siakam,Turnover by P. Siakam (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,3:23.0,,,,,,A. Bradley,A. Bradley misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:20.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,3:16.0,,,,,,P. Siakam,P. Siakam misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:12.0,,,,,,D. Augustin,Defensive rebound by D. Augustin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:57.0,,,,,,A. Bradley,A. Bradley misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:54.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:54.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:34.0,,,,,,S. Barnes,S. Barnes makes 3-pt jump shot from 25 ft (assist by P. Siakam ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:18.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:14.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:12.0,,,,,,A. Bradley,Shooting foul by A. Bradley (drawn by K. Birch ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,2:12.0,,,,,,K. Birch,K. Birch makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:12.0,,,,,,D. Banton,D. Banton enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:12.0,,,,,,G. Trent,G. Trent enters the game for P. Siakam,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:12.0,,,,,,T. Young,T. Young enters the game for F. VanVleet,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:12.0,,,,,,W. Ellington,W. Ellington enters the game for A. Bradley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:12.0,,,,,,K. Birch,K. Birch misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:08.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,1:51.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:50.0,,,,,,R. Westbrook,R. Westbrook enters the game for D. Augustin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,1:45.0,,,,,,K. Birch,Shooting foul by K. Birch (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,1:45.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:45.0,,,,,,R. Westbrook,R. Westbrook makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:25.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:20.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,1:18.0,,,,,,W. Gabriel,W. Gabriel makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:57.0,,,,,,D. Banton,D. Banton misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:55.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,0:48.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:45.0,,,,,,C. Anthony,Offensive rebound by C. Anthony,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:45.0,,,,,,G. Trent,Personal foul by G. Trent (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:45.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:45.0,,,,,,C. Anthony,C. Anthony makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:34.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 25 ft (assist by T. Young ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:25.0,,,,,,W. Ellington,W. Ellington misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:23.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,0:00.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:41.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:12.0,,,,,,T. Young,T. Young misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:10.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,11:03.0,,,,,,T. Young,Shooting foul by T. Young (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,11:03.0,,,,,,L. James,L. James misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:03.0,,,,,,S. Barnes,S. Barnes enters the game for D. Banton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,11:03.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:58.0,,,,,,S. Barnes,Turnover by S. Barnes (lost ball; steal by W. Ellington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,10:55.0,,,,,,W. Ellington,W. Ellington misses 2-pt layup from 3 ft (block by T. Young ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,10:54.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:53.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 2 ft (assist by G. Trent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:53.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by S. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,10:53.0,,,,,,S. Barnes,S. Barnes misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:50.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:36.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (lost ball; steal by T. Young ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,10:17.0,,,,,,S. Barnes,S. Barnes misses 2-pt hook shot from 10 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:15.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:11.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:08.0,,,,,,G. Trent,Defensive rebound by G. Trent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:03.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:58.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:58.0,,,,,,C. Boucher,C. Boucher makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:38.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:35.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,9:31.0,,,,,,T. Young,T. Young misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:27.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:25.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:22.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,9:20.0,,,,,,L. James,L. James makes 2-pt layup from 3 ft (assist by W. Ellington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:20.0,,,,,,S. Barnes,Shooting foul by S. Barnes (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,9:20.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for K. Birch,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,9:20.0,,,,,,W. Gabriel,W. Gabriel enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,9:20.0,,,,,,L. James,L. James makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:54.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:53.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:53.0,,,,,,F. VanVleet,F. VanVleet enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,8:53.0,,,,,,M. Monk,M. Monk enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,8:40.0,,,,,,W. Gabriel,W. Gabriel misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:37.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:27.0,,,,,,C. Boucher,C. Boucher makes 2-pt layup from 3 ft (assist by P. Achiuwa ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:22.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,8:15.0,,,,,,C. Boucher,Shooting foul by C. Boucher (drawn by M. Monk ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,8:15.0,,,,,,M. Monk,M. Monk makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:15.0,,,,,,M. Monk,M. Monk misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:12.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:52.0,,,,,,T. Young,Turnover by T. Young (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,7:38.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 28 ft (assist by M. Monk ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:23.0,,,,,,C. Boucher,C. Boucher makes 3-pt jump shot from 24 ft (assist by P. Achiuwa ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:12.0,,,,,,L. James,L. James misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:08.0,,,,,,W. Gabriel,Offensive rebound by W. Gabriel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:08.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:07.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:59.0,,,,,,T. Young,T. Young makes 2-pt layup from 1 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:42.0,,,,,,L. James,L. James misses 2-pt layup from 2 ft (block by P. Achiuwa ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,6:38.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:21.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:21.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:21.0,,,,,,P. Siakam,P. Siakam enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:12.0,,,,,,S. Barnes,Personal foul by S. Barnes (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,6:08.0,,,,,,L. James,Turnover by L. James (bad pass; steal by F. VanVleet ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,6:04.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:00.0,,,,,,M. Monk,Defensive rebound by M. Monk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,5:54.0,,,,,,M. Monk,M. Monk makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:32.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:13.0,,,,,,M. Monk,M. Monk makes 3-pt jump shot from 24 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:51.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:48.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:48.0,,,,,,L. James,Shooting foul by L. James (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:48.0,,,,,,C. Boucher,C. Boucher misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:48.0,,,,,,G. Trent,G. Trent enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:48.0,,,,,,C. Anthony,C. Anthony enters the game for W. Ellington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:48.0,,,,,,A. Reaves,A. Reaves enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:48.0,,,,,,R. Westbrook,R. Westbrook enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:48.0,,,,,,C. Boucher,C. Boucher makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:41.0,,,,,,G. Trent,Personal foul by G. Trent (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:41.0,,,,,,A. Reaves,A. Reaves misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:41.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:41.0,,,,,,S. Barnes,S. Barnes enters the game for C. Boucher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:41.0,,,,,,A. Reaves,A. Reaves makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:21.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:17.0,,,,,,G. Trent,Offensive rebound by G. Trent,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:13.0,,,,,,S. Barnes,S. Barnes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:09.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:04.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:42.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:39.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:36.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:34.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,3:28.0,,,,,,M. Monk,M. Monk misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:26.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,3:26.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,3:26.0,,,,,,L. James,L. James enters the game for W. Gabriel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,3:10.0,,,,,,F. VanVleet,Offensive foul by F. VanVleet (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,3:10.0,,,,,,F. VanVleet,Turnover by F. VanVleet (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203140LAL,1,3:07.0,,,,,,M. Monk,Turnover by M. Monk (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,2:55.0,,,,,,P. Siakam,P. Siakam makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:34.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt layup from 2 ft (assist by M. Monk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:34.0,,,,,,S. Barnes,Shooting foul by S. Barnes (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,2:34.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,2:34.0,,,,,,,Instant Replay (Challenge: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:34.0,,,,,,T. Young,T. Young enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:34.0,,,,,,W. Gabriel,W. Gabriel enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:34.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:12.0,,,,,,P. Siakam,P. Siakam misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:09.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:05.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:05.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:53.0,,,,,,W. Gabriel,Personal foul by W. Gabriel (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,1:43.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:40.0,,,,,,M. Monk,Defensive rebound by M. Monk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,1:36.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:32.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,1:28.0,,,,,,F. VanVleet,F. VanVleet makes 3-pt jump shot from 27 ft (assist by P. Siakam ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:16.0,,,,,,L. James,L. James makes 2-pt dunk from 3 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:01.0,,,,,,W. Gabriel,Personal foul by W. Gabriel (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,1:01.0,,,,,,F. VanVleet,F. VanVleet makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:01.0,,,,,,F. VanVleet,F. VanVleet makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:44.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt layup from 2 ft (block by P. Siakam ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,0:42.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,0:41.0,,,,,,L. James,Personal foul by L. James (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:41.0,,,,,,G. Trent,G. Trent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:41.0,,,,,,G. Trent,G. Trent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:41.0,,,,,,W. Ellington,W. Ellington enters the game for W. Gabriel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,0:37.0,,,,,,L. James,Turnover by L. James (lost ball; steal by T. Young ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,0:33.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt dunk from 2 ft (assist by T. Young ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:24.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:23.0,,,,,,R. Westbrook,Offensive rebound by R. Westbrook,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:23.0,,,,,,T. Young,Shooting foul by T. Young (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:23.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:23.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,0:23.0,,,,,,S. Johnson,S. Johnson enters the game for M. Monk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,0:23.0,,,,,,R. Westbrook,R. Westbrook makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:02.0,,,,,,P. Siakam,P. Siakam misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:02.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:57.0,,,,,,A. Reaves,Turnover by A. Reaves (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,11:57.0,,,,,,W. Gabriel,Loose ball foul by W. Gabriel (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,11:45.0,,,,,,M. Monk,Shooting foul by M. Monk (drawn by S. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,11:45.0,,,,,,S. Barnes,S. Barnes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:45.0,,,,,,S. Barnes,S. Barnes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:20.0,,,,,,M. Monk,M. Monk makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:09.0,,,,,,M. Monk,Personal foul by M. Monk (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,10:56.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:52.0,,,,,,W. Gabriel,Defensive rebound by W. Gabriel,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:45.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:44.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,10:32.0,,,,,,P. Achiuwa,Turnover by P. Achiuwa (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,10:23.0,,,,,,M. Monk,Turnover by M. Monk (bad pass; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,10:14.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 3 ft (assist by G. Trent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:04.0,,,,,,W. Gabriel,W. Gabriel misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:01.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,9:52.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt layup from 2 ft (assist by F. VanVleet ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:38.0,,,,,,L. James,L. James makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:31.0,,,,,,S. Barnes,S. Barnes misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:29.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:28.0,,,,,,S. Barnes,S. Barnes misses 2-pt layup from 2 ft (block by W. Gabriel ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,9:28.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,9:14.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt layup from 2 ft (block by S. Barnes ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,9:12.0,,,,,,W. Gabriel,Offensive rebound by W. Gabriel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:12.0,,,,,,W. Gabriel,W. Gabriel misses 2-pt layup from 1 ft (block by S. Barnes ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,9:12.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,9:12.0,,,,,,W. Gabriel,Personal foul by W. Gabriel (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,8:50.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:47.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:46.0,,,,,,P. Siakam,P. Siakam makes 3-pt jump shot from 26 ft (assist by S. Barnes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:27.0,,,,,,M. Monk,Turnover by M. Monk (bad pass; steal by P. Achiuwa ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,8:20.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:17.0,,,,,,M. Monk,Defensive rebound by M. Monk,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:08.0,,,,,,L. James,L. James makes 3-pt jump shot from 28 ft (assist by W. Gabriel ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:08.0,,,,,,P. Achiuwa,Shooting foul by P. Achiuwa (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,8:08.0,,,,,,C. Anthony,C. Anthony enters the game for W. Gabriel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,8:08.0,,,,,,L. James,L. James misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:06.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:49.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:45.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:41.0,,,,,,L. James,L. James misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:38.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:28.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 25 ft (assist by F. VanVleet ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:28.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,7:21.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:06.0,,,,,,P. Siakam,P. Siakam makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:44.0,,,,,,A. Reaves,A. Reaves makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:24.0,,,,,,S. Barnes,S. Barnes misses 2-pt layup from 3 ft (block by L. James ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,6:21.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:19.0,,,,,,P. Achiuwa,P. Achiuwa misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:16.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:03.0,,,,,,A. Reaves,A. Reaves misses 2-pt layup from 2 ft (block by P. Achiuwa ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,6:00.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:00.0,,,,,,R. Westbrook,Personal take foul by R. Westbrook (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,6:00.0,,,,,,P. Siakam,P. Siakam misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:00.0,,,,,,P. Siakam,P. Siakam makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:46.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:44.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,5:38.0,,,,,,P. Siakam,P. Siakam misses 2-pt jump shot from 9 ft (block by L. James ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,5:35.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,5:35.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:11.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 24 ft (assist by F. VanVleet ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:58.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt layup from 2 ft (block by G. Trent ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,4:52.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:47.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:45.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:40.0,,,,,,L. James,L. James misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:34.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:32.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:23.0,,,,,,M. Monk,M. Monk misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:23.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:14.0,,,,,,P. Siakam,P. Siakam misses 2-pt layup from 4 ft (block by C. Anthony ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,4:11.0,,,,,,G. Trent,Offensive rebound by G. Trent,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:08.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:08.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:08.0,,,,,,K. Birch,K. Birch enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:08.0,,,,,,S. Johnson,S. Johnson enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,4:08.0,,,,,,P. Siakam,P. Siakam makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:51.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 25 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:31.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 18 ft (assist by S. Barnes ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:17.0,,,,,,M. Monk,M. Monk misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:14.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,3:04.0,,,,,,C. Anthony,Shooting foul by C. Anthony (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,3:04.0,,,,,,G. Trent,G. Trent makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:04.0,,,,,,G. Trent,G. Trent makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:04.0,,,,,,C. Boucher,C. Boucher enters the game for P. Siakam,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,3:04.0,,,,,,W. Ellington,W. Ellington enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,3:04.0,,,,,,R. Westbrook,R. Westbrook enters the game for M. Monk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,3:04.0,,,,,,G. Trent,G. Trent misses free throw 3 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:02.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:55.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 26 ft (assist by S. Johnson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:37.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:29.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 2 ft (block by K. Birch ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,2:26.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:23.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:18.0,,,,,,S. Johnson,Defensive rebound by S. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:17.0,,,,,,K. Birch,Shooting foul by K. Birch (drawn by S. Johnson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,2:17.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,2:17.0,,,,,,D. Banton,D. Banton enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:17.0,,,,,,T. Young,T. Young enters the game for F. VanVleet,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,2:17.0,,,,,,S. Johnson,S. Johnson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:17.0,,,,,,S. Johnson,S. Johnson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:58.0,,,,,,C. Anthony,Shooting foul by C. Anthony (drawn by D. Banton ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,1:58.0,,,,,,D. Banton,D. Banton misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:58.0,,,,,,D. Banton,D. Banton makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:48.0,,,,,,W. Ellington,W. Ellington makes 3-pt jump shot from 28 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:20.0,,,,,,T. Young,T. Young misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:17.0,,,,,,T. Young,Offensive rebound by T. Young,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:11.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:07.0,,,,,,S. Johnson,Defensive rebound by S. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,1:03.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:01.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,0:53.0,,,,,,D. Banton,Turnover by D. Banton (lost ball; steal by C. Anthony ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,0:51.0,,,,,,T. Young,Shooting foul by T. Young (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:51.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:51.0,,,,,,R. Westbrook,R. Westbrook misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:48.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,0:29.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:29.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:29.0,,,,,,G. Trent,G. Trent makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:16.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:03.0,,,,,,T. Young,Turnover by T. Young (lost ball; steal by R. Westbrook ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,0:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 3-pt jump shot from 27 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:00.0,,,,,,,Instant Replay (Request: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:38.0,,,,,,T. Young,T. Young misses 2-pt layup from 2 ft (block by S. Johnson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,11:34.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,11:31.0,,,,,,W. Ellington,W. Ellington misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:29.0,,,,,,T. Young,Defensive rebound by T. Young,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,11:25.0,,,,,,A. Brooks,A. Brooks misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,11:22.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,11:15.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:49.0,,,,,,C. Boucher,C. Boucher makes 3-pt jump shot from 25 ft (assist by F. VanVleet ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,10:20.0,,,,,,W. Ellington,W. Ellington makes 3-pt jump shot from 23 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:56.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 27 ft (block by W. Ellington ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,9:55.0,,,,,,A. Brooks,Offensive rebound by A. Brooks,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:55.0,,,,,,A. Brooks,A. Brooks misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:54.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,9:34.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 2 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:25.0,,,,,,T. Horton-Tucker,Personal foul by T. Horton-Tucker (drawn by S. Barnes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,9:25.0,,,,,,P. Siakam,P. Siakam enters the game for T. Young,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,9:16.0,,,,,,S. Johnson,Shooting foul by S. Johnson (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,9:16.0,,,,,,P. Siakam,P. Siakam makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:16.0,,,,,,P. Siakam,P. Siakam makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:14.0,,,,,,L. James,Turnover by L. James (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,9:07.0,,,,,,F. VanVleet,F. VanVleet misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,9:04.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,9:04.0,,,,,,F. VanVleet,Personal take foul by F. VanVleet (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,8:55.0,,,,,,R. Westbrook,R. Westbrook misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:52.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:50.0,,,,,,F. VanVleet,Turnover by F. VanVleet (bad pass; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,8:46.0,,,,,,L. James,L. James misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:42.0,,,,,,F. VanVleet,Defensive rebound by F. VanVleet,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:39.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:36.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,8:29.0,,,,,,S. Johnson,Turnover by S. Johnson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,8:29.0,,,,,,P. Achiuwa,P. Achiuwa enters the game for A. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,8:04.0,,,,,,P. Siakam,P. Siakam misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,8:01.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,7:50.0,,,,,,R. Westbrook,Turnover by R. Westbrook (lost ball; steal by P. Achiuwa ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,7:45.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:41.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:41.0,,,,,,C. Boucher,C. Boucher makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:23.0,,,,,,L. James,L. James makes 3-pt jump shot from 26 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:08.0,,,,,,S. Barnes,S. Barnes misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,7:05.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:59.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:56.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:39.0,,,,,,P. Siakam,P. Siakam misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,6:37.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,6:31.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,6:31.0,,,,,,G. Trent,G. Trent enters the game for C. Boucher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:31.0,,,,,,C. Anthony,C. Anthony enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:31.0,,,,,,M. Monk,M. Monk enters the game for S. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:31.0,,,,,,A. Reaves,A. Reaves enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,6:17.0,,,,,,L. James,L. James makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:56.0,,,,,,P. Siakam,P. Siakam misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:53.0,,,,,,P. Siakam,Offensive rebound by P. Siakam,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:50.0,,,,,,F. VanVleet,F. VanVleet makes 2-pt jump shot from 21 ft (assist by P. Siakam ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:32.0,,,,,,L. James,Turnover by L. James (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203140LAL,1,5:11.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:11.0,,,,,,M. Monk,Shooting foul by M. Monk (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,5:11.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for M. Monk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,5:11.0,,,,,,R. Westbrook,R. Westbrook enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,5:11.0,,,,,,G. Trent,G. Trent misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,5:09.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,5:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:34.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:34.0,,,,,,C. Anthony,Personal foul by C. Anthony (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:27.0,,,,,,P. Siakam,Turnover by P. Siakam (lost ball; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,4:24.0,,,,,,L. James,L. James makes 2-pt dunk from 2 ft (assist by W. Ellington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:24.0,,,,,,G. Trent,Shooting foul by G. Trent (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:24.0,,,,,,L. James,L. James misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:19.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,4:09.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 4 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:09.0,,,,,,L. James,Shooting foul by L. James (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,4:09.0,,,,,,P. Siakam,P. Siakam misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:05.0,,,,,,G. Trent,Offensive rebound by G. Trent,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:02.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,4:00.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:57.0,,,,,,S. Barnes,S. Barnes misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:57.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,3:47.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 28 ft (assist by T. Horton-Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:25.0,,,,,,S. Barnes,Turnover by S. Barnes (lost ball; steal by W. Ellington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203140LAL,1,3:20.0,,,,,,P. Achiuwa,Shooting foul by P. Achiuwa (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,3:20.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:20.0,,,,,,C. Anthony,C. Anthony makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:20.0,,,,,,C. Anthony,C. Anthony makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:10.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt dunk from 3 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,3:00.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:59.0,,,,,,T. Horton-Tucker,Offensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:59.0,,,,,,G. Trent,Shooting foul by G. Trent (drawn by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,2:59.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,2:59.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:59.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:36.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,2:34.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,2:19.0,,,,,,L. James,L. James makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:56.0,,,,,,F. VanVleet,F. VanVleet misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:55.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,1:37.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:35.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,1:20.0,,,,,,C. Anthony,Personal foul by C. Anthony (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,1:20.0,,,,,,P. Siakam,P. Siakam misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:20.0,,,,,,P. Siakam,P. Siakam makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:08.0,,,,,,W. Ellington,W. Ellington misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,1:05.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203140LAL,1,0:56.0,,,,,,G. Trent,G. Trent misses 2-pt layup from 3 ft (block by T. Horton-Tucker ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203140LAL,1,0:55.0,,,,,,G. Trent,Offensive rebound by G. Trent,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:53.0,,,,,,G. Trent,G. Trent misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:53.0,,,,,,L. James,Loose ball foul by L. James (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:53.0,,,,,,G. Trent,G. Trent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:53.0,,,,,,G. Trent,G. Trent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:53.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,0:46.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft (assist by W. Ellington ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:46.0,,,,,,W. Ellington,Personal foul by W. Ellington (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:46.0,,,,,,G. Trent,G. Trent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:46.0,,,,,,G. Trent,G. Trent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:37.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 3 ft (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:29.0,,,,,,T. Horton-Tucker,Personal take foul by T. Horton-Tucker (drawn by F. VanVleet ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:29.0,,,,,,F. VanVleet,F. VanVleet misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:29.0,,,,,,F. VanVleet,F. VanVleet makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:27.0,,,,,,P. Siakam,Personal foul by P. Siakam (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:27.0,,,,,,L. James,L. James makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:27.0,,,,,,L. James,L. James makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:20.0,,,,,,W. Ellington,Personal foul by W. Ellington (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203140LAL,1,0:20.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203140LAL,1,0:20.0,,,,,,,Instant Replay (Challenge: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:20.0,,,,,,P. Siakam,P. Siakam makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203140LAL,1,0:20.0,,,,,,W. Gabriel,W. Gabriel enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,0:20.0,,,,,,S. Johnson,S. Johnson enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,0:20.0,,,,,,A. Reaves,A. Reaves enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203140LAL,1,0:20.0,,,,,,P. Siakam,P. Siakam makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False

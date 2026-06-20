@@ -1,0 +1,537 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202202050LAL,1,11:37.0,,,,,,R. Westbrook,Turnover by R. Westbrook (bad pass; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,11:30.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 22 ft (assist by K. Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:10.0,,,,,,M. Monk,Turnover by M. Monk (bad pass; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,11:04.0,,,,,,E. Fournier,E. Fournier makes 3-pt jump shot from 24 ft (assist by R. Barrett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:47.0,,,,,,A. Davis,A. Davis misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:45.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,10:40.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 26 ft (assist by J. Randle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:39.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,10:23.0,,,,,,L. James,L. James misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:21.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,10:18.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 1 ft (assist by J. Randle ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:06.0,,,,,,S. Johnson,S. Johnson misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:01.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:01.0,,,,,,A. Davis,A. Davis makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:53.0,,,,,,K. Walker,Turnover by K. Walker (bad pass; steal by S. Johnson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,9:48.0,,,,,,S. Johnson,S. Johnson misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:44.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,9:36.0,,,,,,J. Randle,Turnover by J. Randle (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,9:36.0,,,,,,J. Randle,Loose ball foul by J. Randle (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,9:24.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:07.0,,,,,,E. Fournier,E. Fournier makes 3-pt jump shot from 26 ft (assist by K. Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:57.0,,,,,,M. Monk,M. Monk makes 2-pt layup from 3 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:37.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:34.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,8:32.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 2 ft (block by J. Randle ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,8:32.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,8:24.0,,,,,,J. Randle,J. Randle makes 2-pt layup from 2 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:14.0,,,,,,M. Monk,M. Monk misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:10.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,8:02.0,,,,,,K. Walker,K. Walker makes 3-pt jump shot from 23 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:41.0,,,,,,A. Davis,A. Davis misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:38.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:36.0,,,,,,L. James,Shooting foul by L. James (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,7:36.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:36.0,,,,,,R. Barrett,R. Barrett misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:33.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:20.0,,,,,,L. James,L. James misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:17.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:09.0,,,,,,M. Robinson,M. Robinson makes 2-pt dunk from 1 ft (assist by J. Randle ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:09.0,,,,,,R. Westbrook,Shooting foul by R. Westbrook (drawn by M. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,7:09.0,,,,,,M. Robinson,M. Robinson misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:06.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:03.0,,,,,,E. Fournier,Turnover by E. Fournier (bad pass; steal by R. Westbrook ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,6:59.0,,,,,,M. Monk,M. Monk makes 2-pt layup from 3 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:46.0,,,,,,E. Fournier,E. Fournier makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:44.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,6:35.0,,,,,,R. Westbrook,R. Westbrook makes 2-pt layup from 1 ft (assist by M. Monk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:15.0,,,,,,M. Robinson,M. Robinson misses 2-pt dunk from 3 ft (block by A. Davis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,6:15.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:10.0,,,,,,J. Randle,Turnover by J. Randle (off goaltending),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,5:56.0,,,,,,A. Davis,A. Davis makes 2-pt dunk from 2 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:41.0,,,,,,R. Westbrook,Shooting foul by R. Westbrook (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,5:41.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:41.0,,,,,,T. Ariza,T. Ariza enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,5:41.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:34.0,,,,,,M. Robinson,Shooting foul by M. Robinson (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,5:34.0,,,,,,R. Westbrook,R. Westbrook misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:34.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:34.0,,,,,,R. Westbrook,R. Westbrook makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:25.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:21.0,,,,,,R. Barrett,Offensive rebound by R. Barrett,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:21.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:10.0,,,,,,E. Fournier,Personal foul by E. Fournier (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,5:10.0,,,,,,N. Noel,N. Noel enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,4:58.0,,,,,,T. Ariza,T. Ariza makes 3-pt jump shot from 25 ft (assist by S. Johnson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:40.0,,,,,,R. Barrett,R. Barrett makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:26.0,,,,,,T. Ariza,T. Ariza misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:24.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:19.0,,,,,,A. Davis,Shooting foul by A. Davis (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,4:19.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:19.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,4:19.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:07.0,,,,,,S. Johnson,S. Johnson misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:03.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:00.0,,,,,,R. Barrett,Turnover by R. Barrett (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,3:43.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:39.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,3:30.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 25 ft (assist by J. Randle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:16.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 1 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:08.0,,,,,,S. Johnson,Shooting foul by S. Johnson (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,3:08.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:08.0,,,,,,Q. Grimes,Q. Grimes enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,3:08.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:52.0,,,,,,M. Monk,M. Monk misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:48.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,2:40.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:36.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,2:32.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 2 ft (assist by T. Horton-Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:32.0,,,,,,N. Noel,Shooting foul by N. Noel (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,2:32.0,,,,,,A. Burks,A. Burks enters the game for E. Fournier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,2:32.0,,,,,,I. Quickley,I. Quickley enters the game for K. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,2:32.0,,,,,,L. James,L. James enters the game for S. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,2:32.0,,,,,,A. Reaves,A. Reaves enters the game for M. Monk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,2:32.0,,,,,,A. Davis,A. Davis makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:19.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:07.0,,,,,,A. Reaves,A. Reaves makes 2-pt layup from 3 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:54.0,,,,,,I. Quickley,I. Quickley misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:52.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,1:46.0,,,,,,L. James,L. James makes 2-pt jump shot from 2 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:36.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:33.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,1:27.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft (assist by A. Davis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:19.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,1:10.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 17 ft (assist by I. Quickley ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:54.0,,,,,,I. Quickley,Shooting foul by I. Quickley (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,0:54.0,,,,,,A. Reaves,A. Reaves makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:54.0,,,,,,A. Reaves,A. Reaves makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:38.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:27.0,,,,,,A. Davis,A. Davis misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:25.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:07.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:04.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:02.0,,,,,,L. James,Turnover by L. James (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,11:48.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:43.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,11:29.0,,,,,,L. James,L. James makes 3-pt jump shot from 25 ft (assist by T. Ariza ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:09.0,,,,,,T. Ariza,Shooting foul by T. Ariza (drawn by O. Toppin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,11:09.0,,,,,,O. Toppin,O. Toppin misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:09.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:09.0,,,,,,O. Toppin,O. Toppin misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:54.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,10:53.0,,,,,,A. Bradley,A. Bradley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:50.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,10:46.0,,,,,,A. Burks,A. Burks makes 3-pt jump shot from 27 ft (assist by R. Barrett ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:26.0,,,,,,I. Quickley,Personal foul by I. Quickley (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,10:21.0,,,,,,A. Reaves,A. Reaves makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:21.0,,,,,,N. Noel,Shooting foul by N. Noel (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,10:21.0,,,,,,A. Reaves,A. Reaves makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:03.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:58.0,,,,,,N. Noel,Offensive rebound by N. Noel,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:58.0,,,,,,N. Noel,N. Noel misses 2-pt hook shot from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:55.0,,,,,,T. Ariza,Defensive rebound by T. Ariza,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,9:41.0,,,,,,I. Quickley,Personal foul by I. Quickley (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,9:41.0,,,,,,Q. Grimes,Q. Grimes enters the game for N. Noel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,9:41.0,,,,,,M. Robinson,M. Robinson enters the game for I. Quickley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,9:36.0,,,,,,Q. Grimes,Personal foul by Q. Grimes (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,9:24.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:23.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:23.0,,,,,,L. James,L. James misses 2-pt layup from 1 ft (block by A. Burks ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,9:22.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,9:11.0,,,,,,A. Bradley,Shooting foul by A. Bradley (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,9:11.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:11.0,,,,,,D. Jordan,D. Jordan enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,9:11.0,,,,,,R. Westbrook,R. Westbrook enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,9:11.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:53.0,,,,,,T. Ariza,T. Ariza misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:48.0,,,,,,D. Jordan,Offensive rebound by D. Jordan,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:44.0,,,,,,Q. Grimes,Shooting foul by Q. Grimes (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,8:44.0,,,,,,R. Westbrook,R. Westbrook makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:44.0,,,,,,R. Westbrook,R. Westbrook makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:44.0,,,,,,R. Westbrook,R. Westbrook misses free throw 3 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:42.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,8:35.0,,,,,,A. Bradley,Shooting foul by A. Bradley (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,8:35.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:35.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:17.0,,,,,,R. Westbrook,Turnover by R. Westbrook (lost ball; steal by R. Barrett ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,8:13.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:13.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:09.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:09.0,,,,,,O. Toppin,Offensive rebound by O. Toppin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:09.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:09.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,7:58.0,,,,,,O. Toppin,Personal foul by O. Toppin (drawn by T. Ariza ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,7:58.0,,,,,,T. Ariza,T. Ariza makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:58.0,,,,,,T. Ariza,T. Ariza makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:47.0,,,,,,O. Toppin,O. Toppin misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:44.0,,,,,,D. Jordan,Defensive rebound by D. Jordan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:37.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:34.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:24.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:21.0,,,,,,T. Ariza,Defensive rebound by T. Ariza,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:13.0,,,,,,R. Westbrook,Turnover by R. Westbrook (bad pass; steal by M. Robinson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,7:07.0,,,,,,O. Toppin,O. Toppin makes 2-pt layup from 1 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:47.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:45.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,6:38.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:33.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,6:20.0,,,,,,A. Reaves,A. Reaves misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:18.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,6:04.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:04.0,,,,,,D. Jordan,Shooting foul by D. Jordan (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,6:04.0,,,,,,E. Fournier,E. Fournier enters the game for A. Burks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:04.0,,,,,,J. Randle,J. Randle enters the game for Q. Grimes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:04.0,,,,,,K. Walker,K. Walker enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:04.0,,,,,,A. Davis,A. Davis enters the game for T. Ariza,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:04.0,,,,,,S. Johnson,S. Johnson enters the game for D. Jordan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:04.0,,,,,,M. Monk,M. Monk enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:04.0,,,,,,R. Barrett,R. Barrett misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:01.0,,,,,,S. Johnson,Defensive rebound by S. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,5:50.0,,,,,,A. Bradley,A. Bradley misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:47.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,5:41.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 26 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:22.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:18.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,5:13.0,,,,,,J. Randle,J. Randle misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:09.0,,,,,,S. Johnson,Defensive rebound by S. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,5:04.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 2 ft (assist by R. Westbrook ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:39.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 2 ft (assist by J. Randle ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:26.0,,,,,,M. Monk,M. Monk misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:23.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:18.0,,,,,,A. Bradley,Shooting foul by A. Bradley (drawn by E. Fournier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,4:18.0,,,,,,E. Fournier,E. Fournier misses free throw 1 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:18.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:18.0,,,,,,E. Fournier,E. Fournier makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:18.0,,,,,,L. James,L. James enters the game for A. Bradley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,4:18.0,,,,,,E. Fournier,E. Fournier makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:06.0,,,,,,S. Johnson,S. Johnson makes 2-pt layup from 2 ft (assist by A. Davis ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:57.0,,,,,,J. Randle,Offensive foul by J. Randle (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,3:57.0,,,,,,J. Randle,Turnover by J. Randle (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202050LAL,1,3:48.0,,,,,,R. Westbrook,R. Westbrook misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:43.0,,,,,,R. Westbrook,Offensive rebound by R. Westbrook,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:42.0,,,,,,R. Westbrook,R. Westbrook misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:37.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:37.0,,,,,,A. Davis,A. Davis makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:19.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:19.0,,,,,,N. Noel,N. Noel enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,3:09.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:04.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,2:59.0,,,,,,L. James,Turnover by L. James (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,2:59.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,2:50.0,,,,,,S. Johnson,Personal foul by S. Johnson (drawn by N. Noel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,2:50.0,,,,,,N. Noel,N. Noel makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:50.0,,,,,,N. Noel,N. Noel makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:39.0,,,,,,S. Johnson,Turnover by S. Johnson (bad pass; steal by E. Fournier ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,2:35.0,,,,,,K. Walker,K. Walker makes 2-pt jump shot from 23 ft (assist by J. Randle ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:16.0,,,,,,S. Johnson,S. Johnson makes 2-pt layup from 4 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:09.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:05.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,2:01.0,,,,,,R. Westbrook,Turnover by R. Westbrook (lost ball; steal by N. Noel ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,1:57.0,,,,,,J. Randle,J. Randle makes 2-pt dunk from 1 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:51.0,,,,,,M. Monk,M. Monk misses 2-pt layup from 2 ft (block by N. Noel ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,1:51.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:51.0,,,,,,T. Ariza,T. Ariza enters the game for S. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,1:51.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,1:42.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:27.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:24.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,1:20.0,,,,,,L. James,L. James makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:09.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:07.0,,,,,,T. Horton-Tucker,Defensive rebound by T. Horton-Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,1:05.0,,,,,,M. Monk,M. Monk misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:04.0,,,,,,K. Walker,Shooting foul by K. Walker (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,1:04.0,,,,,,A. Davis,A. Davis misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:04.0,,,,,,A. Davis,A. Davis makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:56.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 3 ft (block by A. Davis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,0:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:47.0,,,,,,J. Randle,J. Randle misses 2-pt layup from 6 ft (block by A. Davis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,0:44.0,,,,,,T. Ariza,Defensive rebound by T. Ariza,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:43.0,,,,,,A. Davis,A. Davis makes 2-pt dunk from 1 ft (assist by M. Monk ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:27.0,,,,,,J. Randle,J. Randle makes 3-pt jump shot from 30 ft (assist by K. Walker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:04.0,,,,,,A. Davis,A. Davis misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:03.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:03.0,,,,,,L. James,L. James makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:00.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:41.0,,,,,,E. Fournier,Turnover by E. Fournier (lost ball; steal by L. James ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,11:34.0,,,,,,M. Monk,M. Monk makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:08.0,,,,,,K. Walker,K. Walker misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:06.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,11:00.0,,,,,,M. Monk,M. Monk makes 3-pt jump shot from 25 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:59.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,10:39.0,,,,,,J. Randle,J. Randle makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:21.0,,,,,,L. James,L. James misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:18.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,10:09.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:06.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,9:53.0,,,,,,A. Davis,A. Davis misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:50.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,9:43.0,,,,,,R. Barrett,R. Barrett makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:34.0,,,,,,S. Johnson,S. Johnson makes 2-pt layup from 1 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:11.0,,,,,,S. Johnson,Personal foul by S. Johnson (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,8:56.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:51.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,8:46.0,,,,,,L. James,L. James makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:24.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:21.0,,,,,,S. Johnson,Defensive rebound by S. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,8:15.0,,,,,,J. Randle,Shooting foul by J. Randle (drawn by M. Monk ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,8:15.0,,,,,,M. Monk,M. Monk makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:15.0,,,,,,M. Monk,M. Monk makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:05.0,,,,,,K. Walker,K. Walker misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:02.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:00.0,,,,,,J. Randle,J. Randle misses 2-pt layup from 2 ft (block by A. Davis ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,8:00.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,8:00.0,,,,,,M. Robinson,Personal foul by M. Robinson (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,7:42.0,,,,,,S. Johnson,S. Johnson makes 3-pt jump shot from 26 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:26.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:22.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:16.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:14.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:05.0,,,,,,E. Fournier,E. Fournier misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:59.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:59.0,,,,,,M. Robinson,M. Robinson makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:48.0,,,,,,M. Monk,M. Monk makes 2-pt layup from 2 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:25.0,,,,,,K. Walker,K. Walker makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:13.0,,,,,,M. Monk,M. Monk makes 3-pt jump shot from 28 ft (assist by S. Johnson ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:51.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:47.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,5:43.0,,,,,,A. Davis,Turnover by A. Davis (bad pass; steal by K. Walker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,5:39.0,,,,,,R. Barrett,R. Barrett misses 2-pt layup from 4 ft (block by R. Westbrook ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,5:35.0,,,,,,S. Johnson,Defensive rebound by S. Johnson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,5:34.0,,,,,,M. Monk,M. Monk makes 3-pt jump shot from 23 ft (assist by R. Westbrook ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:34.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,5:20.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:15.0,,,,,,R. Westbrook,Defensive rebound by R. Westbrook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:59.0,,,,,,M. Monk,M. Monk misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:56.0,,,,,,S. Johnson,Offensive rebound by S. Johnson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:49.0,,,,,,L. James,L. James misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:42.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:42.0,,,,,,A. Davis,A. Davis makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:20.0,,,,,,L. James,Shooting foul by L. James (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,4:20.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:20.0,,,,,,N. Noel,N. Noel enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,4:20.0,,,,,,T. Ariza,T. Ariza enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,4:20.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:11.0,,,,,,R. Westbrook,R. Westbrook misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:08.0,,,,,,K. Walker,Defensive rebound by K. Walker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:02.0,,,,,,J. Randle,Turnover by J. Randle (3 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,4:02.0,,,,,,A. Burks,A. Burks enters the game for K. Walker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,3:49.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:49.0,,,,,,N. Noel,Shooting foul by N. Noel (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,3:49.0,,,,,,A. Davis,A. Davis misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:47.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,3:30.0,,,,,,S. Johnson,Shooting foul by S. Johnson (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,3:30.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:30.0,,,,,,T. Horton-Tucker,T. Horton-Tucker enters the game for S. Johnson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,3:30.0,,,,,,A. Reaves,A. Reaves enters the game for R. Westbrook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,3:30.0,,,,,,J. Randle,J. Randle misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:27.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,3:13.0,,,,,,T. Ariza,T. Ariza misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:09.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,3:01.0,,,,,,E. Fournier,E. Fournier makes 2-pt layup from 1 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:47.0,,,,,,M. Monk,M. Monk misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:43.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:43.0,,,,,,A. Davis,A. Davis makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:28.0,,,,,,R. Barrett,R. Barrett misses 2-pt hook shot from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:25.0,,,,,,A. Reaves,Defensive rebound by A. Reaves,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,2:18.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:14.0,,,,,,T. Ariza,Offensive rebound by T. Ariza,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:11.0,,,,,,M. Monk,M. Monk makes 2-pt layup from 1 ft (assist by T. Ariza ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:52.0,,,,,,N. Noel,Turnover by N. Noel (lost ball; steal by A. Davis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,1:29.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:26.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,1:19.0,,,,,,J. Randle,Turnover by J. Randle (lost ball; steal by A. Davis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,1:06.0,,,,,,T. Ariza,T. Ariza misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:03.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:48.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:46.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:46.0,,,,,,Q. Grimes,Q. Grimes enters the game for R. Barrett,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,0:46.0,,,,,,O. Toppin,O. Toppin enters the game for J. Randle,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,0:46.0,,,,,,L. James,L. James enters the game for A. Davis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,0:31.0,,,,,,A. Burks,Personal foul by A. Burks (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,0:31.0,,,,,,R. Barrett,R. Barrett enters the game for E. Fournier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,0:28.0,,,,,,J. Randle,Technical foul by J. Randle,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,0:28.0,,,,,,M. Monk,M. Monk makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:24.0,,,,,,M. Monk,M. Monk misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:22.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:07.0,,,,,,M. Monk,Personal take foul by M. Monk (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,0:07.0,,,,,,A. Bradley,A. Bradley enters the game for M. Monk,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,0:00.0,,,,,,N. Noel,N. Noel misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:39.0,,,,,,L. James,L. James misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:34.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,11:19.0,,,,,,N. Noel,N. Noel makes 2-pt jump shot from 2 ft (assist by A. Burks ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,11:19.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by N. Noel ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,11:19.0,,,,,,N. Noel,N. Noel makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:57.0,,,,,,L. James,L. James makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:48.0,,,,,,T. Horton-Tucker,Shooting foul by T. Horton-Tucker (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,10:48.0,,,,,,A. Burks,A. Burks makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:48.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:25.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:22.0,,,,,,O. Toppin,Defensive rebound by O. Toppin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,10:13.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,10:09.0,,,,,,A. Bradley,Defensive rebound by A. Bradley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,10:04.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:56.0,,,,,,Q. Grimes,Defensive rebound by Q. Grimes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,9:43.0,,,,,,R. Barrett,Turnover by R. Barrett (bad pass; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,9:42.0,,,,,,Q. Grimes,Personal take foul by Q. Grimes (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,9:28.0,,,,,,O. Toppin,Shooting foul by O. Toppin (drawn by A. Reaves ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,9:28.0,,,,,,A. Reaves,A. Reaves makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:28.0,,,,,,A. Reaves,A. Reaves makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,9:12.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 4 ft (block by A. Reaves ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,9:10.0,,,,,,T. Ariza,Defensive rebound by T. Ariza,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,9:10.0,,,,,,A. Burks,Personal take foul by A. Burks (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,9:10.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:55.0,,,,,,L. James,L. James makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:33.0,,,,,,A. Burks,A. Burks makes 2-pt layup from 2 ft (assist by R. Barrett ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,8:11.0,,,,,,A. Burks,Personal foul by A. Burks (drawn by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,8:09.0,,,,,,A. Reaves,Turnover by A. Reaves (off goaltending),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,7:57.0,,,,,,R. Barrett,R. Barrett makes 2-pt layup from 2 ft (assist by N. Noel ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:31.0,,,,,,T. Ariza,T. Ariza misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:31.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:18.0,,,,,,O. Toppin,O. Toppin misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:12.0,,,,,,Q. Grimes,Offensive rebound by Q. Grimes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:12.0,,,,,,Q. Grimes,Q. Grimes misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,7:11.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,7:07.0,,,,,,L. James,L. James makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:59.0,,,,,,A. Burks,Turnover by A. Burks (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,1,6:59.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,6:59.0,,,,,,J. Randle,J. Randle enters the game for O. Toppin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:59.0,,,,,,A. Davis,A. Davis enters the game for A. Bradley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:59.0,,,,,,M. Monk,M. Monk enters the game for L. James,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,6:41.0,,,,,,A. Reaves,A. Reaves misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:37.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,6:24.0,,,,,,R. Barrett,R. Barrett makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,6:00.0,,,,,,A. Davis,A. Davis makes 2-pt jump shot from 7 ft (assist by T. Horton-Tucker ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:48.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:45.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,5:31.0,,,,,,M. Monk,M. Monk makes 3-pt jump shot from 30 ft (assist by A. Davis ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:30.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,5:30.0,,,,,,E. Fournier,E. Fournier enters the game for Q. Grimes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,5:30.0,,,,,,L. James,L. James enters the game for T. Horton-Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,5:30.0,,,,,,R. Westbrook,R. Westbrook enters the game for A. Reaves,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,5:15.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,5:11.0,,,,,,T. Ariza,Defensive rebound by T. Ariza,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:53.0,,,,,,M. Monk,M. Monk makes 2-pt jump shot from 18 ft (assist by L. James ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:30.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:26.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:12.0,,,,,,L. James,L. James misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,4:10.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,4:02.0,,,,,,T. Ariza,Personal foul by T. Ariza (drawn by E. Fournier ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,4:02.0,,,,,,M. Robinson,M. Robinson enters the game for N. Noel,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,3:47.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:43.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:43.0,,,,,,M. Robinson,M. Robinson misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:43.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:40.0,,,,,,J. Randle,J. Randle makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:19.0,,,,,,R. Westbrook,R. Westbrook misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:18.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:18.0,,,,,,A. Davis,A. Davis makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:18.0,,,,,,J. Randle,Shooting foul by J. Randle (drawn by A. Davis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,3:18.0,,,,,,A. Davis,A. Davis misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:14.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,3:04.0,,,,,,A. Davis,Shooting foul by A. Davis (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,3:04.0,,,,,,A. Burks,A. Burks misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:04.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,3:04.0,,,,,,A. Burks,A. Burks makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:52.0,,,,,,E. Fournier,Shooting foul by E. Fournier (drawn by L. James ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,2:52.0,,,,,,L. James,L. James makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:52.0,,,,,,L. James,L. James misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:47.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:46.0,,,,,,L. James,L. James misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:44.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,2:43.0,,,,,,L. James,Shooting foul by L. James (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,2:43.0,,,,,,J. Randle,J. Randle misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:43.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:43.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:27.0,,,,,,L. James,L. James misses 2-pt layup from 2 ft (block by J. Randle ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,2:22.0,,,,,,L. James,Offensive rebound by L. James,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:22.0,,,,,,L. James,L. James makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:08.0,,,,,,T. Ariza,Shooting foul by T. Ariza (drawn by R. Barrett ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,2:08.0,,,,,,R. Barrett,R. Barrett makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,2:08.0,,,,,,R. Barrett,R. Barrett makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:52.0,,,,,,A. Davis,Turnover by A. Davis (bad pass; steal by A. Burks ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,1,1:47.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:44.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:42.0,,,,,,J. Randle,J. Randle misses 2-pt layup from 5 ft (block by T. Ariza ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202050LAL,1,1:42.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:41.0,,,,,,A. Davis,Shooting foul by A. Davis (drawn by J. Randle ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,1:41.0,,,,,,J. Randle,J. Randle makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:41.0,,,,,,J. Randle,J. Randle makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:41.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,1:26.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:17.0,,,,,,T. Ariza,T. Ariza makes 2-pt layup from 3 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,1:17.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,1:05.0,,,,,,E. Fournier,E. Fournier makes 3-pt jump shot from 24 ft (assist by J. Randle ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:57.0,,,,,,M. Robinson,Personal foul by M. Robinson (drawn by R. Westbrook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,0:57.0,,,,,,R. Westbrook,R. Westbrook misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:57.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:57.0,,,,,,R. Westbrook,R. Westbrook misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:55.0,,,,,,M. Robinson,Defensive rebound by M. Robinson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:52.0,,,,,,A. Burks,A. Burks misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:47.0,,,,,,T. Ariza,Defensive rebound by T. Ariza,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:46.0,,,,,,E. Fournier,Personal take foul by E. Fournier (drawn by T. Ariza ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,1,0:46.0,,,,,,T. Ariza,T. Ariza makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:46.0,,,,,,T. Ariza,T. Ariza misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:43.0,,,,,,R. Barrett,Defensive rebound by R. Barrett,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:40.0,,,,,,R. Barrett,R. Barrett makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:40.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:40.0,,,,,,M. Monk,M. Monk misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:16.0,,,,,,M. Monk,M. Monk misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:12.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,1,0:08.0,,,,,,R. Barrett,R. Barrett makes 3-pt jump shot from 26 ft (assist by E. Fournier ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:08.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,1,0:08.0,,,,,,Q. Grimes,Q. Grimes enters the game for E. Fournier,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,1,0:02.0,,,,,,L. James,L. James misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,1,0:02.0,,,,,,A. Burks,Defensive rebound by A. Burks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,4:44.0,,,,,,J. Randle,J. Randle misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,4:40.0,,,,,,M. Robinson,Offensive rebound by M. Robinson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,5,4:32.0,,,,,,E. Fournier,E. Fournier misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,4:26.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,4:10.0,,,,,,T. Horton-Tucker,Turnover by T. Horton-Tucker (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,5,3:46.0,,,,,,A. Burks,A. Burks misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,3:43.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,3:38.0,,,,,,T. Ariza,T. Ariza misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,3:33.0,,,,,,E. Fournier,Defensive rebound by E. Fournier,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,3:24.0,,,,,,R. Barrett,Turnover by R. Barrett (lost ball; steal by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,5,3:23.0,,,,,,L. James,L. James makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,3:01.0,,,,,,R. Barrett,R. Barrett misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,2:59.0,,,,,,L. James,Defensive rebound by L. James,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,2:51.0,,,,,,T. Horton-Tucker,T. Horton-Tucker makes 2-pt layup from 5 ft (assist by L. James ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,2:51.0,,,,,,M. Robinson,Shooting foul by M. Robinson (drawn by T. Horton-Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,5,2:51.0,,,,,,T. Horton-Tucker,T. Horton-Tucker misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,2:48.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,2:40.0,,,,,,J. Randle,J. Randle makes 2-pt layup from 2 ft (assist by A. Burks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,2:40.0,,,,,,,LA Lakers full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,5,2:40.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,2:24.0,,,,,,M. Monk,M. Monk makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,2:05.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,2:01.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,1:44.0,,,,,,L. James,L. James misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,1:38.0,,,,,,A. Davis,Offensive rebound by A. Davis,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,5,1:38.0,,,,,,A. Davis,A. Davis misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,1:38.0,,,,,,J. Randle,Defensive rebound by J. Randle,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,1:36.0,,,,,,E. Fournier,E. Fournier misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,1:36.0,,,,,,T. Ariza,Defensive rebound by T. Ariza,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202050LAL,5,1:12.0,,,,,,T. Ariza,T. Ariza makes 3-pt jump shot from 23 ft (assist by L. James ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,1:12.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,5,1:00.0,,,,,,R. Barrett,R. Barrett misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:58.0,,,,,,J. Randle,Offensive rebound by J. Randle,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:58.0,,,,,,J. Randle,J. Randle makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:33.0,,,,,,L. James,Turnover by L. James (off goaltending),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202050LAL,5,0:33.0,,,,,,,Instant Replay (Request: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:28.0,,,,,,T. Horton-Tucker,Personal foul by T. Horton-Tucker (drawn by A. Burks ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202050LAL,5,0:26.0,,,,,,A. Burks,Turnover by A. Burks (bad pass; steal by A. Davis ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202050LAL,5,0:23.0,,,,,,A. Davis,A. Davis makes 2-pt dunk from 1 ft (assist by T. Ariza ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:23.0,,,,,,,New York full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202050LAL,5,0:23.0,,,,,,Q. Grimes,Q. Grimes enters the game for M. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202050LAL,5,0:17.0,,,,,,Q. Grimes,Q. Grimes misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:12.0,,,,,,A. Burks,Offensive rebound by A. Burks,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:12.0,,,,,,A. Burks,A. Burks misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202050LAL,5,0:12.0,,,,,,A. Davis,Defensive rebound by A. Davis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

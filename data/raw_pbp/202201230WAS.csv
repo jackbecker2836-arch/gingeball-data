@@ -1,0 +1,447 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202201230WAS,1,11:43.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:40.0,,,,,,B. Beal,Defensive rebound by B. Beal,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,11:34.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:31.0,,,,,,K. Kuzma,Offensive rebound by K. Kuzma,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:29.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:26.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,11:21.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 2 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:54.0,,,,,,B. Beal,B. Beal misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:54.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:54.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201230WAS,1,10:45.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 26 ft (assist by R. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:24.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 28 ft (assist by S. Dinwiddie ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:59.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:51.0,,,,,,J. Tatum,Personal foul by J. Tatum (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,9:46.0,,,,,,S. Dinwiddie,Turnover by S. Dinwiddie (bad pass; steal by J. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,9:38.0,,,,,,J. Brown,Turnover by J. Brown (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201230WAS,1,9:16.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:12.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,9:00.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:50.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:34.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:32.0,,,,,,B. Beal,Offensive rebound by B. Beal,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:30.0,,,,,,B. Beal,B. Beal makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:05.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:03.0,,,,,,K. Caldwell-Pope,Defensive rebound by K. Caldwell-Pope,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:52.0,,,,,,B. Beal,B. Beal misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:49.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:45.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:42.0,,,,,,B. Beal,Defensive rebound by B. Beal,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:37.0,,,,,,R. Williams,Shooting foul by R. Williams (drawn by B. Beal ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,7:37.0,,,,,,B. Beal,B. Beal makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:37.0,,,,,,B. Beal,B. Beal makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:22.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:18.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:17.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 28 ft (assist by R. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:01.0,,,,,,K. Kuzma,K. Kuzma makes 3-pt jump shot from 24 ft (assist by B. Beal ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:45.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:23.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:20.0,,,,,,K. Kuzma,Offensive rebound by K. Kuzma,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:18.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:15.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:03.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 24 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:03.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,6:03.0,,,,,,J. Richardson,J. Richardson enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:03.0,,,,,,G. Williams,G. Williams enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:03.0,,,,,,D. Avdija,D. Avdija enters the game for S. Dinwiddie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:03.0,,,,,,T. Bryant,T. Bryant enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,5:48.0,,,,,,B. Beal,B. Beal misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:47.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,5:36.0,,,,,,R. Williams,R. Williams misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:34.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,5:29.0,,,,,,D. Avdija,D. Avdija makes 2-pt layup from 2 ft (assist by K. Kuzma ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:14.0,,,,,,G. Williams,G. Williams makes 3-pt jump shot from 23 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:48.0,,,,,,B. Beal,B. Beal makes 2-pt jump shot from 4 ft (assist by T. Bryant ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:35.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:33.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:27.0,,,,,,K. Kuzma,Turnover by K. Kuzma (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,4:19.0,,,,,,M. Smart,Turnover by M. Smart (lost ball; steal by T. Bryant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,4:02.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:59.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,3:52.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:34.0,,,,,,K. Kuzma,K. Kuzma misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:31.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,3:25.0,,,,,,D. Avdija,Shooting foul by D. Avdija (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,3:25.0,,,,,,M. Smart,M. Smart misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:25.0,,,,,,J. Brown,J. Brown enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:25.0,,,,,,A. Horford,A. Horford enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:25.0,,,,,,R. Hachimura,R. Hachimura enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:25.0,,,,,,C. Kispert,C. Kispert enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:25.0,,,,,,M. Smart,M. Smart makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:03.0,,,,,,T. Bryant,T. Bryant misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:01.0,,,,,,J. Richardson,Defensive rebound by J. Richardson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:50.0,,,,,,M. Smart,Turnover by M. Smart (bad pass; steal by C. Kispert ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,2:42.0,,,,,,B. Beal,B. Beal makes 2-pt layup from 2 ft (assist by R. Hachimura ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:42.0,,,,,,J. Richardson,Shooting foul by J. Richardson (drawn by B. Beal ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,2:42.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,2:42.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,2:42.0,,,,,,B. Beal,B. Beal makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:30.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:27.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:11.0,,,,,,R. Hachimura,R. Hachimura makes 3-pt jump shot from 27 ft (assist by B. Beal ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:46.0,,,,,,J. Richardson,J. Richardson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:43.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,1:37.0,,,,,,D. Avdija,D. Avdija makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:28.0,,,,,,A. Horford,A. Horford makes 3-pt jump shot from 25 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:02.0,,,,,,D. Avdija,D. Avdija makes 3-pt jump shot from 23 ft (assist by B. Beal ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:38.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 26 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:25.0,,,,,,B. Beal,B. Beal misses 2-pt layup from 6 ft (block by G. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,0:23.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:23.0,,,,,,K. Kuzma,K. Kuzma enters the game for D. Avdija,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,0:07.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 2 ft (block by T. Bryant ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,0:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:00.0,,,,,,G. Williams,G. Williams misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:39.0,,,,,,R. Neto,R. Neto misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:36.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,11:21.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:19.0,,,,,,T. Bryant,Defensive rebound by T. Bryant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,11:06.0,,,,,,T. Bryant,T. Bryant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:02.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,10:46.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:44.0,,,,,,R. Neto,Defensive rebound by R. Neto,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,10:37.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt layup from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:35.0,,,,,,S. Dinwiddie,Offensive rebound by S. Dinwiddie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:35.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:35.0,,,,,,S. Dinwiddie,Offensive rebound by S. Dinwiddie,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:35.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by S. Dinwiddie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,10:35.0,,,,,,S. Dinwiddie,S. Dinwiddie makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:35.0,,,,,,R. Langford,R. Langford enters the game for J. Richardson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,10:35.0,,,,,,S. Dinwiddie,S. Dinwiddie makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:19.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 5 ft (assist by A. Horford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:01.0,,,,,,T. Bryant,T. Bryant makes 3-pt jump shot from 27 ft (assist by S. Dinwiddie ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:50.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 27 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:31.0,,,,,,R. Hachimura,R. Hachimura misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:28.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,9:16.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:12.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,9:04.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:59.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,8:51.0,,,,,,T. Bryant,Personal foul by T. Bryant (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,8:51.0,,,,,,J. Tatum,J. Tatum enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,8:51.0,,,,,,R. Williams,R. Williams enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,8:51.0,,,,,,T. Bryant,Technical foul by T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,8:51.0,,,,,,J. Tatum,J. Tatum makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:41.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:38.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,8:17.0,,,,,,R. Hachimura,R. Hachimura makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:02.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 8 ft (block by S. Dinwiddie ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,7:58.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:55.0,,,,,,R. Langford,Turnover by R. Langford (bad pass; steal by R. Neto ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,7:52.0,,,,,,T. Bryant,T. Bryant makes 2-pt layup from 2 ft (assist by R. Neto ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:52.0,,,,,,G. Williams,Shooting foul by G. Williams (drawn by T. Bryant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,7:52.0,,,,,,M. Smart,M. Smart enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,7:52.0,,,,,,K. Kuzma,K. Kuzma enters the game for C. Kispert,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,7:52.0,,,,,,T. Bryant,T. Bryant makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:32.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:22.0,,,,,,R. Williams,Shooting foul by R. Williams (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,7:22.0,,,,,,K. Kuzma,K. Kuzma misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:22.0,,,,,,B. Beal,B. Beal enters the game for T. Bryant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,7:22.0,,,,,,M. Harrell,M. Harrell enters the game for S. Dinwiddie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,7:22.0,,,,,,K. Kuzma,K. Kuzma makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:10.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:08.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:47.0,,,,,,R. Hachimura,R. Hachimura misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:44.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:35.0,,,,,,,Violation by Team (kicked ball),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:35.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,6:35.0,,,,,,J. Brown,J. Brown enters the game for R. Langford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:35.0,,,,,,A. Horford,A. Horford enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:35.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope enters the game for R. Hachimura,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:26.0,,,,,,R. Williams,R. Williams misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:23.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:10.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:07.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,5:45.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 26 ft (assist by R. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:38.0,,,,,,B. Beal,B. Beal makes 2-pt layup from 1 ft (assist by K. Caldwell-Pope ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:36.0,,,,,,K. Caldwell-Pope,Personal foul by K. Caldwell-Pope (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,5:36.0,,,,,,D. Avdija,D. Avdija enters the game for R. Neto,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,5:25.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:22.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:20.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:57.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:54.0,,,,,,D. Avdija,Offensive rebound by D. Avdija,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:53.0,,,,,,D. Avdija,D. Avdija misses 2-pt layup from 2 ft (block by R. Williams ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,4:50.0,,,,,,K. Kuzma,Offensive rebound by K. Kuzma,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:49.0,,,,,,K. Kuzma,Turnover by K. Kuzma (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,4:34.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:33.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:31.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt layup from 2 ft (assist by D. Avdija ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:31.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,4:31.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:27.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:10.0,,,,,,J. Brown,Turnover by J. Brown (bad pass; steal by B. Beal ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,4:00.0,,,,,,M. Harrell,M. Harrell makes 2-pt layup from 1 ft (assist by B. Beal ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:00.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by M. Harrell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,4:00.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,4:00.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,4:00.0,,,,,,M. Harrell,M. Harrell makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:46.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 2 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:28.0,,,,,,M. Smart,Personal foul by M. Smart (drawn by B. Beal ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,3:28.0,,,,,,B. Beal,B. Beal makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:28.0,,,,,,B. Beal,B. Beal makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:17.0,,,,,,J. Tatum,J. Tatum makes 2-pt jump shot from 17 ft (assist by M. Smart ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:07.0,,,,,,B. Beal,B. Beal misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:04.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:55.0,,,,,,D. Avdija,Shooting foul by D. Avdija (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,2:55.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:55.0,,,,,,S. Dinwiddie,S. Dinwiddie enters the game for D. Avdija,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,2:55.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:45.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:42.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:28.0,,,,,,M. Smart,M. Smart makes 2-pt jump shot from 7 ft (assist by J. Tatum ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:12.0,,,,,,M. Harrell,M. Harrell misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:12.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:12.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:12.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,2:12.0,,,,,,J. Brown,J. Brown enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,1:52.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:33.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:31.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,1:17.0,,,,,,S. Dinwiddie,Shooting foul by S. Dinwiddie (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,1:17.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:17.0,,,,,,G. Williams,G. Williams enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,1:17.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:00.0,,,,,,B. Beal,B. Beal misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:58.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:52.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der misses 2-pt layup from 4 ft (block by K. Kuzma ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,0:48.0,,,,,,M. Harrell,Defensive rebound by M. Harrell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:47.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:47.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:39.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:36.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:34.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:30.0,,,,,,B. Beal,Defensive rebound by B. Beal,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:23.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:19.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:04.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:00.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 17 ft (block by R. Williams ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,12:00.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:42.0,,,,,,B. Beal,Turnover by B. Beal (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,11:28.0,,,,,,A. Horford,A. Horford misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:28.0,,,,,,D. Gafford,Defensive rebound by D. Gafford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,11:18.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:01.0,,,,,,R. Williams,Turnover by R. Williams (bad pass; steal by B. Beal ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,10:52.0,,,,,,R. Williams,Shooting foul by R. Williams (drawn by K. Caldwell-Pope ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,10:52.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:52.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:37.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:34.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,10:25.0,,,,,,B. Beal,Turnover by B. Beal (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,10:19.0,,,,,,J. Tatum,J. Tatum makes 2-pt jump shot from 22 ft (assist by M. Smart ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:54.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:52.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,9:49.0,,,,,,J. Tatum,J. Tatum makes 2-pt dunk from 1 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:21.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 18 ft (assist by B. Beal ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:01.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 26 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:43.0,,,,,,B. Beal,B. Beal misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:40.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,8:34.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:31.0,,,,,,S. Dinwiddie,Defensive rebound by S. Dinwiddie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,8:21.0,,,,,,D. Gafford,D. Gafford makes 2-pt hook shot from 6 ft (assist by S. Dinwiddie ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:11.0,,,,,,K. Caldwell-Pope,Shooting foul by K. Caldwell-Pope (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,8:11.0,,,,,,J. Brown,J. Brown makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:11.0,,,,,,J. Brown,J. Brown misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:11.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:11.0,,,,,,J. Brown,J. Brown makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:53.0,,,,,,B. Beal,B. Beal misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:50.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:42.0,,,,,,A. Horford,A. Horford misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:36.0,,,,,,A. Horford,Offensive rebound by A. Horford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:36.0,,,,,,A. Horford,A. Horford misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:36.0,,,,,,S. Dinwiddie,Defensive rebound by S. Dinwiddie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:34.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:30.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:23.0,,,,,,A. Horford,A. Horford misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:21.0,,,,,,A. Horford,Offensive rebound by A. Horford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:19.0,,,,,,A. Horford,A. Horford makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:19.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,7:19.0,,,,,,T. Bryant,T. Bryant enters the game for D. Gafford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:57.0,,,,,,K. Caldwell-Pope,K. Caldwell-Pope makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:37.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:34.0,,,,,,K. Kuzma,Defensive rebound by K. Kuzma,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:32.0,,,,,,M. Smart,Shooting foul by M. Smart (drawn by K. Kuzma ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,6:32.0,,,,,,K. Kuzma,K. Kuzma misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:32.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:32.0,,,,,,D. Avdija,D. Avdija enters the game for S. Dinwiddie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:32.0,,,,,,K. Kuzma,K. Kuzma makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:19.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:03.0,,,,,,B. Beal,B. Beal misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:58.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,5:52.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:48.0,,,,,,B. Beal,Defensive rebound by B. Beal,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,5:45.0,,,,,,K. Kuzma,K. Kuzma makes 2-pt layup from 1 ft (assist by B. Beal ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:22.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 3 ft (block by K. Caldwell-Pope ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,5:22.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:22.0,,,,,,J. Richardson,J. Richardson enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,5:22.0,,,,,,G. Williams,G. Williams enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,5:20.0,,,,,,M. Smart,M. Smart makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:55.0,,,,,,K. Kuzma,K. Kuzma misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:53.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:48.0,,,,,,T. Bryant,Shooting foul by T. Bryant (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,4:48.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:48.0,,,,,,R. Hachimura,R. Hachimura enters the game for K. Caldwell-Pope,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,4:48.0,,,,,,C. Kispert,C. Kispert enters the game for K. Kuzma,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,4:48.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:32.0,,,,,,D. Avdija,D. Avdija misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:29.0,,,,,,J. Richardson,Defensive rebound by J. Richardson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:24.0,,,,,,M. Smart,Turnover by M. Smart (bad pass; steal by T. Bryant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,4:16.0,,,,,,R. Hachimura,R. Hachimura misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:13.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,3:58.0,,,,,,J. Tatum,J. Tatum makes 2-pt dunk from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:41.0,,,,,,T. Bryant,T. Bryant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:38.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,3:26.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 27 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:07.0,,,,,,B. Beal,B. Beal makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:56.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 28 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:54.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,2:54.0,,,,,,A. Horford,A. Horford enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,2:54.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,2:37.0,,,,,,B. Beal,B. Beal makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:23.0,,,,,,J. Tatum,J. Tatum makes 3-pt jump shot from 27 ft (assist by G. Williams ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:56.0,,,,,,B. Beal,B. Beal makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:47.0,,,,,,J. Tatum,Turnover by J. Tatum (lost ball; steal by R. Hachimura ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,1:32.0,,,,,,B. Beal,B. Beal misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:29.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,1:14.0,,,,,,G. Williams,G. Williams makes 2-pt layup from 2 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:52.0,,,,,,C. Kispert,C. Kispert makes 3-pt jump shot from 24 ft (assist by B. Beal ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:37.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:35.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:29.0,,,,,,R. Hachimura,R. Hachimura makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:09.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:05.0,,,,,,J. Richardson,Offensive rebound by J. Richardson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:03.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:03.0,,,,,,G. Williams,Offensive rebound by G. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:00.0,,,,,,G. Williams,G. Williams misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:00.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,11:49.0,,,,,,R. Williams,R. Williams makes 2-pt dunk from 1 ft (assist by D. SchrÃ¶der ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:32.0,,,,,,D. Avdija,D. Avdija makes 2-pt jump shot from 6 ft (assist by S. Dinwiddie ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:13.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,11:11.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,11:04.0,,,,,,S. Dinwiddie,S. Dinwiddie makes 2-pt hook shot from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:49.0,,,,,,J. Richardson,J. Richardson misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:47.0,,,,,,D. BertÄns,Defensive rebound by D. BertÄns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,10:34.0,,,,,,R. Hachimura,R. Hachimura misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,10:31.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,10:19.0,,,,,,D. Avdija,Personal foul by D. Avdija (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,10:13.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass; steal by S. Dinwiddie ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201230WAS,1,10:13.0,,,,,,A. Horford,Personal foul by A. Horford (drawn by S. Dinwiddie ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,10:01.0,,,,,,S. Dinwiddie,Turnover by S. Dinwiddie (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201230WAS,1,9:46.0,,,,,,A. Horford,A. Horford makes 2-pt hook shot from 7 ft (assist by J. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:31.0,,,,,,C. Kispert,C. Kispert misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:28.0,,,,,,J. Richardson,Defensive rebound by J. Richardson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,9:25.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 1 ft (block by S. Dinwiddie ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,9:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:21.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201230WAS,1,9:11.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,9:09.0,,,,,,R. Williams,Defensive rebound by R. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,9:05.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 1 ft (block by C. Kispert ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201230WAS,1,9:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:54.0,,,,,,J. Richardson,J. Richardson misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:51.0,,,,,,R. Williams,Offensive rebound by R. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:50.0,,,,,,R. Williams,R. Williams makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:38.0,,,,,,D. BertÄns,D. BertÄns makes 3-pt jump shot from 24 ft (assist by R. Hachimura ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:17.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 1 ft (assist by R. Williams ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:17.0,,,,,,D. Avdija,Shooting foul by D. Avdija (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,8:17.0,,,,,,M. Smart,M. Smart enters the game for J. Richardson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,8:17.0,,,,,,J. Brown,J. Brown misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:15.0,,,,,,J. Brown,Offensive rebound by J. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:13.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,8:10.0,,,,,,R. Hachimura,Defensive rebound by R. Hachimura,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,8:04.0,,,,,,D. BertÄns,D. BertÄns misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:59.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:56.0,,,,,,D. SchrÃ¶der,Turnover by D. SchrÃ¶der (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201230WAS,1,7:43.0,,,,,,D. Avdija,D. Avdija misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:39.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:33.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:31.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,7:31.0,,,,,,J. Tatum,J. Tatum enters the game for R. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,7:21.0,,,,,,,Washington full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,7:14.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,7:10.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:50.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:47.0,,,,,,D. BertÄns,Defensive rebound by D. BertÄns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:44.0,,,,,,D. Avdija,D. Avdija makes 2-pt dunk from 1 ft (assist by S. Dinwiddie ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:20.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:18.0,,,,,,D. BertÄns,Defensive rebound by D. BertÄns,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,6:11.0,,,,,,M. Smart,Personal foul by M. Smart (drawn by D. BertÄns ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,6:11.0,,,,,,A. Gill,A. Gill enters the game for R. Hachimura,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,6:03.0,,,,,,D. Avdija,D. Avdija makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,6:03.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:53.0,,,,,,M. Smart,Offensive foul by M. Smart (drawn by A. Gill ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,5:53.0,,,,,,M. Smart,Turnover by M. Smart (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202201230WAS,1,5:53.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201230WAS,1,5:43.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:40.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,5:31.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes 2-pt layup from 3 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:31.0,,,,,,S. Dinwiddie,Shooting foul by S. Dinwiddie (drawn by D. SchrÃ¶der ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,5:31.0,,,,,,D. SchrÃ¶der,D. SchrÃ¶der makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:11.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,5:07.0,,,,,,D. SchrÃ¶der,Defensive rebound by D. SchrÃ¶der,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,5:00.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:58.0,,,,,,S. Dinwiddie,Defensive rebound by S. Dinwiddie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:49.0,,,,,,D. BertÄns,D. BertÄns misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:46.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:36.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:16.0,,,,,,S. Dinwiddie,S. Dinwiddie misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:13.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,4:07.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:04.0,,,,,,J. Brown,Offensive rebound by J. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,4:02.0,,,,,,C. Kispert,Personal take foul by C. Kispert (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,4:02.0,,,,,,A. Holiday,A. Holiday enters the game for S. Dinwiddie,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:55.0,,,,,,D. BertÄns,Shooting foul by D. BertÄns (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,3:55.0,,,,,,D. BertÄns,Technical foul by D. BertÄns,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,3:55.0,,,,,,J. Tatum,J. Tatum makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:55.0,,,,,,P. Pritchard,P. Pritchard enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:55.0,,,,,,G. Williams,G. Williams enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:55.0,,,,,,T. Bryant,T. Bryant enters the game for A. Gill,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:55.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:55.0,,,,,,R. Langford,R. Langford enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:55.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:55.0,,,,,,A. Nesmith,A. Nesmith enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:55.0,,,,,,D. SchrÃ¶der,Personal take foul by D. SchrÃ¶der (drawn by A. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,3:45.0,,,,,,A. Holiday,A. Holiday misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:42.0,,,,,,P. Pritchard,Defensive rebound by P. Pritchard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,3:33.0,,,,,,G. Williams,G. Williams makes 3-pt jump shot from 26 ft (assist by D. SchrÃ¶der ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:27.0,,,,,,P. Pritchard,Personal take foul by P. Pritchard (drawn by A. Holiday ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,3:27.0,,,,,,E. Freedom,E. Freedom enters the game for D. SchrÃ¶der,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201230WAS,1,3:13.0,,,,,,C. Kispert,C. Kispert misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:09.0,,,,,,E. Freedom,Defensive rebound by E. Freedom,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,3:05.0,,,,,,P. Pritchard,P. Pritchard misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,3:00.0,,,,,,A. Holiday,Defensive rebound by A. Holiday,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:54.0,,,,,,D. BertÄns,D. BertÄns misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:51.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:45.0,,,,,,A. Nesmith,A. Nesmith misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:41.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:34.0,,,,,,C. Kispert,C. Kispert misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:29.0,,,,,,T. Bryant,Offensive rebound by T. Bryant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:29.0,,,,,,T. Bryant,T. Bryant makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:21.0,,,,,,P. Pritchard,P. Pritchard misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:19.0,,,,,,C. Kispert,Defensive rebound by C. Kispert,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:14.0,,,,,,A. Holiday,A. Holiday misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:11.0,,,,,,T. Bryant,Offensive rebound by T. Bryant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:11.0,,,,,,T. Bryant,T. Bryant misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:11.0,,,,,,A. Nesmith,Defensive rebound by A. Nesmith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,2:11.0,,,,,,A. Holiday,Personal foul by A. Holiday (drawn by A. Nesmith ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,2:11.0,,,,,,A. Nesmith,A. Nesmith misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:11.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201230WAS,1,2:11.0,,,,,,A. Nesmith,A. Nesmith makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:59.0,,,,,,A. Holiday,A. Holiday makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:41.0,,,,,,D. BertÄns,Shooting foul by D. BertÄns (drawn by G. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201230WAS,1,1:41.0,,,,,,G. Williams,G. Williams makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:41.0,,,,,,G. Williams,G. Williams makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:32.0,,,,,,T. Bryant,T. Bryant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:29.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,1:13.0,,,,,,A. Nesmith,A. Nesmith misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:09.0,,,,,,D. Avdija,Defensive rebound by D. Avdija,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,1:03.0,,,,,,T. Bryant,T. Bryant misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,1:01.0,,,,,,A. Nesmith,Defensive rebound by A. Nesmith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:57.0,,,,,,P. Pritchard,Turnover by P. Pritchard (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201230WAS,1,0:47.0,,,,,,D. BertÄns,D. BertÄns misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:44.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201230WAS,1,0:28.0,,,,,,R. Langford,R. Langford makes 3-pt jump shot from 24 ft (assist by P. Pritchard ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201230WAS,1,0:21.0,,,,,,T. Bryant,T. Bryant makes 3-pt jump shot from 26 ft (assist by A. Holiday ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False

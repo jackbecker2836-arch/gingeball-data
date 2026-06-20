@@ -1,0 +1,472 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202202100HOU,1,11:41.0,,,,,,K. Porter,K. Porter makes 3-pt jump shot from 23 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:16.0,,,,,,P. Siakam,P. Siakam makes 2-pt dunk from 1 ft (assist by P. Achiuwa ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:03.0,,,,,,K. Porter,K. Porter makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:56.0,,,,,,K. Porter,Shooting foul by K. Porter (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,10:56.0,,,,,,P. Siakam,P. Siakam misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:56.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:56.0,,,,,,P. Siakam,P. Siakam makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:44.0,,,,,,K. Porter,K. Porter makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:28.0,,,,,,S. Barnes,S. Barnes misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:28.0,,,,,,K. Porter,Defensive rebound by K. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,10:13.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:12.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,10:00.0,,,,,,P. Siakam,P. Siakam makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:42.0,,,,,,J. Tate,J. Tate misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:41.0,,,,,,J. Tate,Offensive rebound by J. Tate,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:40.0,,,,,,K. Porter,K. Porter makes 3-pt jump shot from 24 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:13.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:12.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:08.0,,,,,,P. Siakam,Shooting foul by P. Siakam (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:08.0,,,,,,G. Mathews,G. Mathews makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:08.0,,,,,,G. Mathews,G. Mathews misses free throw 2 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:08.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:08.0,,,,,,G. Mathews,G. Mathews makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:56.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 25 ft (assist by S. Barnes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:38.0,,,,,,J. Tate,Turnover by J. Tate (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,8:20.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:20.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:09.0,,,,,,K. Porter,Turnover by K. Porter (bad pass; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,8:03.0,,,,,,S. Barnes,S. Barnes misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:02.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,7:52.0,,,,,,G. Mathews,G. Mathews makes 2-pt layup from 2 ft (assist by K. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:44.0,,,,,,G. Mathews,Personal foul by G. Mathews (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,7:37.0,,,,,,K. Porter,Personal foul by K. Porter (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,7:30.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt jump shot from 5 ft (assist by G. Trent ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:13.0,,,,,,C. Wood,C. Wood makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:59.0,,,,,,P. Siakam,P. Siakam misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:59.0,,,,,,P. Achiuwa,Offensive rebound by P. Achiuwa,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:49.0,,,,,,P. Achiuwa,P. Achiuwa makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:39.0,,,,,,G. Mathews,G. Mathews makes 3-pt jump shot from 30 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:37.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,6:37.0,,,,,,D. Banton,D. Banton enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,6:37.0,,,,,,C. Boucher,C. Boucher enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,6:14.0,,,,,,P. Siakam,P. Siakam misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:14.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,6:01.0,,,,,,J. Green,J. Green makes 2-pt dunk from 2 ft (assist by K. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:45.0,,,,,,J. Green,Shooting foul by J. Green (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,5:45.0,,,,,,G. Trent,G. Trent misses free throw 1 of 3,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:45.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:45.0,,,,,,G. Trent,G. Trent makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:45.0,,,,,,K. Martin,K. Martin enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,5:45.0,,,,,,G. Trent,G. Trent makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:35.0,,,,,,K. Martin,Turnover by K. Martin (bad pass; steal by D. Banton ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,5:31.0,,,,,,G. Trent,G. Trent makes 2-pt dunk from 1 ft (assist by D. Banton ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:14.0,,,,,,K. Porter,K. Porter makes 2-pt layup from 1 ft (assist by C. Wood ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:55.0,,,,,,P. Siakam,P. Siakam misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:55.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,4:47.0,,,,,,K. Martin,K. Martin makes 2-pt dunk from 1 ft (assist by C. Wood ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:32.0,,,,,,D. Banton,D. Banton makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:21.0,,,,,,D. Banton,Personal foul by D. Banton (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,4:21.0,,,,,,S. Barnes,S. Barnes enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,4:21.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,4:14.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:12.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:10.0,,,,,,K. Martin,K. Martin makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:56.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:46.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 31 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:45.0,,,,,,D. Banton,Defensive rebound by D. Banton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,3:37.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 25 ft (assist by D. Banton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:21.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 1 ft (assist by K. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:54.0,,,,,,D. Banton,D. Banton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:54.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:53.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,2:53.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,2:53.0,,,,,,O. Anunoby,O. Anunoby enters the game for P. Siakam,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,2:53.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:53.0,,,,,,C. Boucher,C. Boucher makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:48.0,,,,,,K. Martin,Turnover by K. Martin (lost ball; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,2:46.0,,,,,,G. Trent,G. Trent makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:35.0,,,,,,K. Martin,Turnover by K. Martin (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,2:35.0,,,,,,J. Christopher,J. Christopher enters the game for G. Mathews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,2:35.0,,,,,,J. Green,J. Green enters the game for K. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,2:23.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:16.0,,,,,,J. Christopher,Turnover by J. Christopher (bad pass; steal by S. Barnes ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,2:13.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:12.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,2:12.0,,,,,,J. Tate,J. Tate enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,2:06.0,,,,,,S. Barnes,Personal foul by S. Barnes (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,1:56.0,,,,,,J. Green,J. Green misses 2-pt dunk from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:54.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,1:52.0,,,,,,S. Barnes,Turnover by S. Barnes (bad pass; steal by J. Tate ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,1:51.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:51.0,,,,,,S. Barnes,Shooting foul by S. Barnes (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,1:51.0,,,,,,J. Tate,J. Tate makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:33.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:32.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:26.0,,,,,,C. Boucher,C. Boucher misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:23.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,1:11.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 23 ft (assist by A. ÅengÃ¼n ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:57.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt dunk from 3 ft (block by A. ÅengÃ¼n ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100HOU,1,0:56.0,,,,,,D. Banton,Offensive rebound by D. Banton,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:56.0,,,,,,D. Banton,D. Banton makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:46.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:36.0,,,,,,S. Barnes,S. Barnes makes 3-pt jump shot from 25 ft (assist by G. Trent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:19.0,,,,,,J. Christopher,J. Christopher makes 3-pt jump shot from 23 ft (assist by A. ÅengÃ¼n ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:00.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:45.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:23.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 2-pt layup from 3 ft (block by P. Achiuwa ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100HOU,1,11:19.0,,,,,,M. Flynn,Defensive rebound by M. Flynn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,11:09.0,,,,,,P. Siakam,P. Siakam makes 2-pt hook shot from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:00.0,,,,,,J. Christopher,J. Christopher misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:58.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,10:45.0,,,,,,P. Siakam,P. Siakam makes 2-pt jump shot from 8 ft (assist by M. Flynn ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:24.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:06.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:05.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:53.0,,,,,,P. Achiuwa,Turnover by P. Achiuwa (bad pass; steal by K. Martin ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,9:49.0,,,,,,J. Green,J. Green makes 2-pt jump shot from 9 ft (assist by J. Tate ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:49.0,,,,,,M. Flynn,Shooting foul by M. Flynn (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:49.0,,,,,,J. Green,J. Green misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:49.0,,,,,,A. ÅengÃ¼n,Offensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:48.0,,,,,,P. Achiuwa,Personal foul by P. Achiuwa (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:39.0,,,,,,P. Achiuwa,Personal foul by P. Achiuwa (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:29.0,,,,,,J. Green,J. Green makes 2-pt layup from 1 ft (assist by A. ÅengÃ¼n ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:18.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:17.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:01.0,,,,,,K. Martin,K. Martin misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:00.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:50.0,,,,,,Y. Watanabe,Y. Watanabe misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:46.0,,,,,,J. Christopher,Defensive rebound by J. Christopher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:34.0,,,,,,K. Martin,K. Martin misses 2-pt dunk from 3 ft (block by Y. Watanabe ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100HOU,1,8:31.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:26.0,,,,,,O. Anunoby,Offensive foul by O. Anunoby (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,8:26.0,,,,,,O. Anunoby,Turnover by O. Anunoby (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100HOU,1,8:26.0,,,,,,S. Barnes,S. Barnes enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,8:26.0,,,,,,K. Birch,K. Birch enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,8:26.0,,,,,,D. Nwaba,D. Nwaba enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,8:01.0,,,,,,J. Christopher,J. Christopher misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:57.0,,,,,,D. Nwaba,Offensive rebound by D. Nwaba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:57.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:51.0,,,,,,J. Christopher,Personal foul by J. Christopher (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,7:51.0,,,,,,C. Wood,C. Wood enters the game for K. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,7:42.0,,,,,,P. Siakam,P. Siakam makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:25.0,,,,,,Y. Watanabe,Personal foul by Y. Watanabe (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,7:25.0,,,,,,G. Trent,G. Trent enters the game for Y. Watanabe,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,7:10.0,,,,,,J. Christopher,J. Christopher misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:09.0,,,,,,K. Birch,Defensive rebound by K. Birch,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,7:02.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 1 ft (assist by P. Siakam ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:02.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,7:02.0,,,,,,K. Porter,K. Porter enters the game for J. Christopher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,7:02.0,,,,,,G. Trent,G. Trent makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:47.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 2 ft (assist by A. ÅengÃ¼n ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:29.0,,,,,,P. Siakam,P. Siakam makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:17.0,,,,,,D. Nwaba,D. Nwaba misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:14.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:10.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:06.0,,,,,,A. ÅengÃ¼n,Offensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:03.0,,,,,,A. ÅengÃ¼n,Turnover by A. ÅengÃ¼n (lost ball; steal by M. Flynn ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,5:58.0,,,,,,D. Nwaba,Shooting foul by D. Nwaba (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,5:58.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,5:58.0,,,,,,G. Mathews,G. Mathews enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,5:58.0,,,,,,P. Siakam,P. Siakam makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:58.0,,,,,,P. Siakam,P. Siakam misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:58.0,,,,,,S. Barnes,Offensive rebound by S. Barnes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:50.0,,,,,,A. ÅengÃ¼n,Shooting foul by A. ÅengÃ¼n (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,5:50.0,,,,,,G. Trent,G. Trent makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:50.0,,,,,,G. Trent,G. Trent makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:49.0,,,,,,A. ÅengÃ¼n,Turnover by A. ÅengÃ¼n (bad pass; steal by K. Birch ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,5:46.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:44.0,,,,,,M. Flynn,Offensive rebound by M. Flynn,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:37.0,,,,,,P. Siakam,P. Siakam makes 3-pt jump shot from 25 ft (assist by M. Flynn ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:16.0,,,,,,G. Trent,Shooting foul by G. Trent (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,5:16.0,,,,,,D. Nwaba,D. Nwaba makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:16.0,,,,,,J. Tate,J. Tate enters the game for A. ÅengÃ¼n,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,5:16.0,,,,,,D. Nwaba,D. Nwaba makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:05.0,,,,,,M. Flynn,M. Flynn misses 2-pt hook shot from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:03.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,5:03.0,,,,,,C. Wood,Turnover by C. Wood (dbl dribble),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,5:03.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,4:51.0,,,,,,M. Flynn,M. Flynn makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:33.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 3 ft (assist by K. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:13.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:01.0,,,,,,J. Tate,Turnover by J. Tate (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,4:01.0,,,,,,C. Boucher,C. Boucher enters the game for K. Birch,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,4:01.0,,,,,,J. Green,J. Green enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,3:54.0,,,,,,P. Siakam,P. Siakam misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:52.0,,,,,,A. ÅengÃ¼n,Defensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,3:52.0,,,,,,C. Boucher,Personal foul by C. Boucher (drawn by A. ÅengÃ¼n ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,3:52.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:52.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:52.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:50.0,,,,,,M. Flynn,Defensive rebound by M. Flynn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,3:28.0,,,,,,P. Siakam,P. Siakam makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:10.0,,,,,,C. Boucher,Shooting foul by C. Boucher (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,3:10.0,,,,,,J. Green,J. Green misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:10.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:10.0,,,,,,J. Green,J. Green makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:00.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 26 ft (assist by S. Barnes ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:49.0,,,,,,K. Porter,K. Porter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:47.0,,,,,,J. Tate,Offensive rebound by J. Tate,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:44.0,,,,,,K. Porter,K. Porter makes 3-pt jump shot from 23 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:32.0,,,,,,G. Trent,Turnover by G. Trent (lost ball; steal by K. Porter ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,2:32.0,,,,,,K. Porter,K. Porter misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:32.0,,,,,,C. Boucher,Defensive rebound by C. Boucher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,2:32.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:32.0,,,,,,J. Tate,Shooting foul by J. Tate (drawn by P. Siakam ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,2:32.0,,,,,,J. Green,Technical foul by J. Green,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,2:32.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,2:32.0,,,,,,G. Trent,Technical foul by G. Trent,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,2:32.0,,,,,,P. Siakam,P. Siakam makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:14.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n misses 2-pt hook shot from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:12.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,2:12.0,,,,,,O. Anunoby,O. Anunoby enters the game for M. Flynn,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,1:57.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:57.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,1:33.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 5 ft (assist by K. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:21.0,,,,,,C. Boucher,C. Boucher misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:19.0,,,,,,A. ÅengÃ¼n,Defensive rebound by A. ÅengÃ¼n,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,1:15.0,,,,,,J. Tate,J. Tate makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:53.0,,,,,,S. Barnes,S. Barnes misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:52.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:51.0,,,,,,A. ÅengÃ¼n,Shooting foul by A. ÅengÃ¼n (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,0:51.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:51.0,,,,,,C. Wood,C. Wood enters the game for A. ÅengÃ¼n,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,0:51.0,,,,,,C. Boucher,C. Boucher makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:33.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:31.0,,,,,,G. Mathews,Offensive rebound by G. Mathews,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:31.0,,,,,,G. Mathews,G. Mathews makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:10.0,,,,,,P. Siakam,P. Siakam makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:03.0,,,,,,C. Boucher,Shooting foul by C. Boucher (drawn by K. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,0:03.0,,,,,,K. Porter,K. Porter misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:03.0,,,,,,K. Porter,K. Porter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:00.0,,,,,,O. Anunoby,O. Anunoby misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:51.0,,,,,,G. Mathews,Personal foul by G. Mathews (drawn by O. Anunoby ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,11:43.0,,,,,,P. Siakam,Turnover by P. Siakam (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,11:33.0,,,,,,O. Anunoby,Personal foul by O. Anunoby (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,11:20.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:05.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:05.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,10:51.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:50.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,10:44.0,,,,,,P. Siakam,Turnover by P. Siakam (bad pass; steal by G. Mathews ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,10:32.0,,,,,,C. Wood,C. Wood misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:31.0,,,,,,P. Achiuwa,Defensive rebound by P. Achiuwa,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,10:23.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 25 ft (assist by P. Achiuwa ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:57.0,,,,,,J. Green,J. Green misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:57.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:55.0,,,,,,P. Achiuwa,Turnover by P. Achiuwa (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,9:38.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:37.0,,,,,,O. Anunoby,Defensive rebound by O. Anunoby,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:28.0,,,,,,J. Tate,Personal foul by J. Tate (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:23.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by P. Achiuwa ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:23.0,,,,,,P. Achiuwa,P. Achiuwa makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:23.0,,,,,,P. Achiuwa,P. Achiuwa makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:05.0,,,,,,J. Tate,J. Tate misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:04.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:58.0,,,,,,P. Achiuwa,P. Achiuwa misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:56.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:55.0,,,,,,P. Siakam,Personal take foul by P. Siakam (drawn by K. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,8:42.0,,,,,,G. Mathews,G. Mathews misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:41.0,,,,,,P. Siakam,Defensive rebound by P. Siakam,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:34.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:31.0,,,,,,O. Anunoby,Offensive rebound by O. Anunoby,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:30.0,,,,,,O. Anunoby,O. Anunoby makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:15.0,,,,,,J. Green,J. Green makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:55.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:54.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,7:45.0,,,,,,G. Mathews,G. Mathews makes 3-pt jump shot from 26 ft (assist by C. Wood ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:31.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:29.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,7:25.0,,,,,,P. Siakam,Shooting foul by P. Siakam (drawn by J. Tate ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,7:25.0,,,,,,J. Tate,J. Tate misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:25.0,,,,,,D. Banton,D. Banton enters the game for P. Achiuwa,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,7:25.0,,,,,,C. Boucher,C. Boucher enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,7:25.0,,,,,,J. Tate,J. Tate makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:05.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 1 ft (assist by P. Siakam ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:59.0,,,,,,P. Siakam,Shooting foul by P. Siakam (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,6:59.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,6:59.0,,,,,,G. Mathews,G. Mathews misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:59.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:59.0,,,,,,G. Mathews,G. Mathews makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:41.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:34.0,,,,,,K. Porter,K. Porter makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:19.0,,,,,,G. Trent,G. Trent makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:10.0,,,,,,K. Porter,K. Porter makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:05.0,,,,,,D. Banton,D. Banton misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:05.0,,,,,,O. Anunoby,Offensive rebound by O. Anunoby,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:05.0,,,,,,O. Anunoby,O. Anunoby makes 3-pt jump shot from 26 ft (assist by P. Siakam ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:48.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 25 ft (assist by C. Wood ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:37.0,,,,,,O. Anunoby,Offensive foul by O. Anunoby (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,5:37.0,,,,,,O. Anunoby,Turnover by O. Anunoby (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100HOU,1,5:25.0,,,,,,J. Tate,J. Tate misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:25.0,,,,,,D. Banton,Defensive rebound by D. Banton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,5:17.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:06.0,,,,,,D. Banton,Personal foul by D. Banton (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,5:06.0,,,,,,C. Wood,C. Wood misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:06.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:06.0,,,,,,S. Barnes,S. Barnes enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,5:06.0,,,,,,C. Wood,C. Wood makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:43.0,,,,,,S. Barnes,S. Barnes misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:42.0,,,,,,K. Porter,Defensive rebound by K. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,4:35.0,,,,,,P. Siakam,Personal foul by P. Siakam (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,4:35.0,,,,,,G. Mathews,G. Mathews makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:35.0,,,,,,O. Anunoby,O. Anunoby enters the game for P. Siakam,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,4:35.0,,,,,,G. Mathews,G. Mathews makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:17.0,,,,,,C. Boucher,C. Boucher makes 2-pt dunk from 1 ft (assist by G. Trent ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:04.0,,,,,,J. Green,J. Green misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:03.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,4:02.0,,,,,,D. Banton,Offensive foul by D. Banton (drawn by K. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,4:02.0,,,,,,D. Banton,Turnover by D. Banton (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100HOU,1,4:02.0,,,,,,J. Christopher,J. Christopher enters the game for G. Mathews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,4:02.0,,,,,,K. Martin,K. Martin enters the game for J. Tate,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,3:50.0,,,,,,C. Wood,C. Wood makes 3-pt jump shot from 26 ft (assist by K. Porter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:37.0,,,,,,C. Boucher,C. Boucher misses 2-pt layup from 3 ft (block by C. Wood ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100HOU,1,3:34.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,3:25.0,,,,,,K. Porter,Turnover by K. Porter (bad pass; steal by C. Boucher ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,3:22.0,,,,,,D. Banton,D. Banton makes 2-pt dunk from 2 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:10.0,,,,,,J. Green,Turnover by J. Green (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,2:55.0,,,,,,G. Trent,G. Trent misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:54.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:53.0,,,,,,C. Boucher,C. Boucher misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:53.0,,,,,,K. Porter,Defensive rebound by K. Porter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,2:44.0,,,,,,K. Martin,K. Martin makes 2-pt layup from 2 ft (assist by K. Porter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:27.0,,,,,,D. Banton,D. Banton makes 2-pt jump shot from 4 ft (assist by S. Barnes ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:57.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:56.0,,,,,,G. Trent,Defensive rebound by G. Trent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,1:42.0,,,,,,C. Boucher,C. Boucher makes 2-pt layup from 2 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:31.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,1:31.0,,,,,,J. Tate,J. Tate enters the game for K. Porter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,1:20.0,,,,,,K. Martin,Turnover by K. Martin (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,1:08.0,,,,,,K. Martin,Shooting foul by K. Martin (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,1:08.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:08.0,,,,,,A. ÅengÃ¼n,A. ÅengÃ¼n enters the game for C. Wood,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,1:08.0,,,,,,C. Boucher,C. Boucher makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:50.0,,,,,,J. Green,Turnover by J. Green (lost ball; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,0:40.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:39.0,,,,,,J. Christopher,Defensive rebound by J. Christopher,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,0:35.0,,,,,,J. Tate,Offensive foul by J. Tate (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,0:35.0,,,,,,J. Tate,Turnover by J. Tate (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100HOU,1,0:28.0,,,,,,G. Trent,Turnover by G. Trent (lost ball; steal by J. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,0:10.0,,,,,,J. Christopher,J. Christopher makes 3-pt jump shot from 25 ft (assist by J. Green ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:00.0,,,,,,C. Boucher,C. Boucher makes 3-pt jump shot from 25 ft (assist by G. Trent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:39.0,,,,,,J. Christopher,J. Christopher misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,11:37.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,11:19.0,,,,,,D. Banton,D. Banton makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:55.0,,,,,,K. Birch,Shooting foul by K. Birch (drawn by D. Nwaba ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,10:55.0,,,,,,D. Nwaba,D. Nwaba misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:55.0,,,,,,D. Nwaba,D. Nwaba makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:33.0,,,,,,O. Anunoby,O. Anunoby makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:07.0,,,,,,D. Nwaba,D. Nwaba misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,10:02.0,,,,,,D. Nwaba,Offensive rebound by D. Nwaba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:59.0,,,,,,D. Nwaba,D. Nwaba misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:56.0,,,,,,M. Flynn,Defensive rebound by M. Flynn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:51.0,,,,,,M. Flynn,M. Flynn misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:49.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:48.0,,,,,,A. ÅengÃ¼n,Loose ball foul by A. ÅengÃ¼n (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:38.0,,,,,,D. Banton,D. Banton misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:34.0,,,,,,D. Nwaba,Defensive rebound by D. Nwaba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:33.0,,,,,,D. Nwaba,D. Nwaba makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:23.0,,,,,,J. Tate,Shooting foul by J. Tate (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,9:23.0,,,,,,C. Boucher,C. Boucher makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:23.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,9:23.0,,,,,,C. Boucher,C. Boucher misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:15.0,,,,,,D. Nwaba,Turnover by D. Nwaba (bad pass; steal by O. Anunoby ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,9:13.0,,,,,,C. Boucher,C. Boucher makes 2-pt dunk from 2 ft (assist by O. Anunoby ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,9:04.0,,,,,,K. Martin,Turnover by K. Martin (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100HOU,1,9:04.0,,,,,,G. Mathews,G. Mathews enters the game for D. Nwaba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,8:48.0,,,,,,K. Birch,K. Birch makes 2-pt dunk from 2 ft (assist by O. Anunoby ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:48.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,8:48.0,,,,,,K. Porter,K. Porter enters the game for J. Christopher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,8:44.0,,,,,,K. Porter,Offensive foul by K. Porter (drawn by C. Boucher ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,8:44.0,,,,,,K. Porter,Turnover by K. Porter (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100HOU,1,8:44.0,,,,,,,Houston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,8:44.0,,,,,,,Instant Replay (Challenge: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:44.0,,,,,,,Violation by Team (delay of game),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:22.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:17.0,,,,,,C. Boucher,Offensive rebound by C. Boucher,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:16.0,,,,,,O. Anunoby,O. Anunoby misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,8:14.0,,,,,,K. Martin,Defensive rebound by K. Martin,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,8:07.0,,,,,,K. Porter,K. Porter makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:50.0,,,,,,M. Flynn,Offensive foul by M. Flynn (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,7:50.0,,,,,,M. Flynn,Turnover by M. Flynn (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100HOU,1,7:50.0,,,,,,C. Wood,C. Wood enters the game for A. ÅengÃ¼n,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,7:39.0,,,,,,J. Tate,J. Tate misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,7:38.0,,,,,,D. Banton,Defensive rebound by D. Banton,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,7:12.0,,,,,,M. Flynn,M. Flynn makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:55.0,,,,,,K. Porter,K. Porter misses 2-pt layup from 3 ft (block by K. Birch ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100HOU,1,6:55.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:55.0,,,,,,S. Barnes,S. Barnes enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,6:55.0,,,,,,P. Siakam,P. Siakam enters the game for D. Banton,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,6:55.0,,,,,,G. Trent,G. Trent enters the game for C. Boucher,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,6:50.0,,,,,,G. Mathews,G. Mathews makes 3-pt jump shot from 23 ft (assist by K. Porter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:31.0,,,,,,P. Siakam,P. Siakam misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:26.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:23.0,,,,,,G. Trent,G. Trent misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,6:20.0,,,,,,J. Tate,Defensive rebound by J. Tate,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,6:14.0,,,,,,K. Porter,K. Porter makes 3-pt jump shot from 26 ft (assist by J. Tate ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:50.0,,,,,,S. Barnes,S. Barnes makes 2-pt jump shot from 6 ft (assist by P. Siakam ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:26.0,,,,,,K. Martin,K. Martin makes 3-pt jump shot from 23 ft (assist by C. Wood ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:14.0,,,,,,P. Siakam,P. Siakam misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:13.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,5:07.0,,,,,,K. Martin,K. Martin makes 2-pt dunk from 1 ft (assist by C. Wood ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,5:05.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,4:57.0,,,,,,M. Flynn,M. Flynn makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:38.0,,,,,,J. Tate,J. Tate misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:36.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:36.0,,,,,,K. Martin,K. Martin misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:36.0,,,,,,K. Martin,Offensive rebound by K. Martin,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:36.0,,,,,,M. Flynn,Personal foul by M. Flynn (drawn by K. Martin ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,4:31.0,,,,,,C. Wood,Turnover by C. Wood (lost ball; steal by G. Trent ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,4:29.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:29.0,,,,,,C. Wood,Shooting foul by C. Wood (drawn by G. Trent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,4:29.0,,,,,,J. Green,J. Green enters the game for G. Mathews,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,4:29.0,,,,,,G. Trent,G. Trent makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:12.0,,,,,,K. Porter,K. Porter misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,4:11.0,,,,,,S. Barnes,Defensive rebound by S. Barnes,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,3:59.0,,,,,,P. Siakam,P. Siakam makes 2-pt layup from 1 ft (assist by S. Barnes ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:46.0,,,,,,K. Porter,K. Porter makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:46.0,,,,,,P. Siakam,Shooting foul by P. Siakam (drawn by K. Porter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,3:46.0,,,,,,,Toronto full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100HOU,1,3:46.0,,,,,,,Instant Replay (Challenge: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:46.0,,,,,,O. Anunoby,O. Anunoby enters the game for P. Siakam,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,3:46.0,,,,,,G. Mathews,G. Mathews enters the game for K. Martin,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,3:46.0,,,,,,K. Porter,K. Porter makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:30.0,,,,,,S. Barnes,S. Barnes misses 2-pt jump shot from 18 ft (block by J. Tate ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100HOU,1,3:26.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,3:25.0,,,,,,K. Birch,Shooting foul by K. Birch (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,3:25.0,,,,,,C. Wood,C. Wood misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:25.0,,,,,,C. Wood,C. Wood makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:12.0,,,,,,G. Trent,G. Trent misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:07.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:07.0,,,,,,K. Birch,K. Birch misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,3:06.0,,,,,,G. Mathews,Defensive rebound by G. Mathews,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,2:59.0,,,,,,K. Porter,K. Porter misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:55.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:54.0,,,,,,C. Wood,C. Wood makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:36.0,,,,,,S. Barnes,S. Barnes makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:25.0,,,,,,G. Trent,Shooting foul by G. Trent (drawn by G. Mathews ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,2:25.0,,,,,,G. Mathews,G. Mathews misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:25.0,,,,,,G. Mathews,G. Mathews makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:07.0,,,,,,M. Flynn,M. Flynn misses 2-pt layup from 3 ft (block by C. Wood ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100HOU,1,2:04.0,,,,,,K. Birch,Offensive rebound by K. Birch,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,2:02.0,,,,,,O. Anunoby,O. Anunoby makes 3-pt jump shot from 25 ft (assist by K. Birch ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:57.0,,,,,,J. Green,Turnover by J. Green (lost ball; steal by M. Flynn ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,1:51.0,,,,,,G. Trent,G. Trent makes 3-pt jump shot from 26 ft (assist by M. Flynn ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:32.0,,,,,,G. Mathews,Turnover by G. Mathews (bad pass; steal by K. Birch ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100HOU,1,1:24.0,,,,,,G. Trent,G. Trent makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:17.0,,,,,,M. Flynn,Personal take foul by M. Flynn (drawn by C. Wood ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100HOU,1,1:17.0,,,,,,C. Wood,C. Wood makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:17.0,,,,,,D. Banton,D. Banton enters the game for O. Anunoby,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,1:17.0,,,,,,S. Mykhailiuk,S. Mykhailiuk enters the game for S. Barnes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,1:17.0,,,,,,Y. Watanabe,Y. Watanabe enters the game for G. Trent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100HOU,1,1:17.0,,,,,,C. Wood,C. Wood makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:03.0,,,,,,S. Mykhailiuk,S. Mykhailiuk misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,1:03.0,,,,,,C. Wood,Defensive rebound by C. Wood,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,0:53.0,,,,,,C. Wood,C. Wood misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:52.0,,,,,,M. Flynn,Defensive rebound by M. Flynn,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100HOU,1,0:42.0,,,,,,Y. Watanabe,Y. Watanabe makes 3-pt jump shot from 26 ft (assist by D. Banton ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:28.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:27.0,,,,,,C. Wood,Offensive rebound by C. Wood,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:27.0,,,,,,C. Wood,C. Wood makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100HOU,1,0:03.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

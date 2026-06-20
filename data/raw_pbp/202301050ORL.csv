@@ -1,0 +1,455 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202301050ORL,1,11:32.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050ORL,1,11:14.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:10.0,,,,,,M. Fultz,Defensive rebound by M. Fultz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,11:04.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:00.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:47.0,,,,,,S. Adams,S. Adams misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:45.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:35.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:31.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:23.0,,,,,,J. Morant,J. Morant misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:18.0,,,,,,J. Morant,Offensive rebound by J. Morant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:18.0,,,,,,J. Morant,J. Morant makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:09.0,,,,,,G. Harris,Turnover by G. Harris (bad pass; steal by S. Adams ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,9:49.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:40.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:35.0,,,,,,P. Banchero,Offensive rebound by P. Banchero,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:33.0,,,,,,P. Banchero,P. Banchero misses 2-pt dunk from 6 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050ORL,1,9:33.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,9:28.0,,,,,,J. Jackson,Turnover by J. Jackson (bad pass; steal by M. Fultz ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,9:22.0,,,,,,G. Harris,G. Harris makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:22.0,,,,,,D. Brooks,Shooting foul by D. Brooks (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,9:22.0,,,,,,G. Harris,G. Harris misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:19.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,9:02.0,,,,,,D. Brooks,D. Brooks misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:59.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:44.0,,,,,,W. Carter,W. Carter misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:42.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:37.0,,,,,,G. Harris,Personal foul by G. Harris (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,8:33.0,,,,,,S. Adams,S. Adams misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:31.0,,,,,,M. Fultz,Defensive rebound by M. Fultz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:27.0,,,,,,M. Fultz,M. Fultz misses 2-pt layup from 3 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050ORL,1,8:27.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:21.0,,,,,,J. Konchar,J. Konchar misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:21.0,,,,,,G. Harris,Defensive rebound by G. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:06.0,,,,,,J. Konchar,Personal foul by J. Konchar (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,7:58.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:54.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:49.0,,,,,,P. Banchero,Personal foul by P. Banchero (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,7:43.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:31.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:31.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:16.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by P. Banchero ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,7:06.0,,,,,,M. Fultz,M. Fultz makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:58.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:55.0,,,,,,M. Fultz,Defensive rebound by M. Fultz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,6:48.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,6:48.0,,,,,,J. Suggs,J. Suggs enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,6:37.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:34.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,6:20.0,,,,,,J. Jackson,J. Jackson makes 3-pt jump shot from 26 ft (assist by D. Brooks ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:03.0,,,,,,J. Suggs,J. Suggs misses 2-pt layup from 6 ft (block by J. Jackson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050ORL,1,6:03.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:03.0,,,,,,S. Aldama,S. Aldama enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,6:03.0,,,,,,S. Adams,Shooting foul by S. Adams (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,6:03.0,,,,,,G. Harris,G. Harris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:03.0,,,,,,G. Harris,G. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:51.0,,,,,,D. Brooks,D. Brooks misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:49.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,5:40.0,,,,,,M. Fultz,M. Fultz makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:29.0,,,,,,S. Adams,Turnover by S. Adams (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050ORL,1,5:29.0,,,,,,T. Jones,T. Jones enters the game for D. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:13.0,,,,,,M. Fultz,M. Fultz misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:10.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,5:03.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:00.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:49.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:45.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:42.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:38.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:31.0,,,,,,W. Carter,W. Carter makes 3-pt jump shot from 26 ft (assist by P. Banchero ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:16.0,,,,,,S. Adams,S. Adams misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:15.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:08.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 3 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:08.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,4:08.0,,,,,,D. Roddy,D. Roddy enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,4:08.0,,,,,,X. Tillman,X. Tillman enters the game for J. Konchar,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,4:08.0,,,,,,C. Anthony,C. Anthony enters the game for G. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,3:53.0,,,,,,T. Jones,T. Jones misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:49.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,3:37.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:25.0,,,,,,S. Aldama,S. Aldama misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:23.0,,,,,,X. Tillman,Offensive rebound by X. Tillman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:23.0,,,,,,X. Tillman,X. Tillman makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:03.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:01.0,,,,,,X. Tillman,Defensive rebound by X. Tillman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,2:48.0,,,,,,J. Morant,J. Morant makes 3-pt jump shot from 26 ft (assist by S. Aldama ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:33.0,,,,,,C. Anthony,Turnover by C. Anthony (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050ORL,1,2:33.0,,,,,,M. Bamba,M. Bamba enters the game for P. Banchero,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,2:33.0,,,,,,A. Schofield,A. Schofield enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,2:33.0,,,,,,F. Wagner,F. Wagner enters the game for M. Fultz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,2:12.0,,,,,,T. Jones,T. Jones makes 3-pt jump shot from 23 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:55.0,,,,,,J. Suggs,J. Suggs makes 2-pt jump shot from 20 ft (assist by M. Bamba ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:41.0,,,,,,D. Roddy,D. Roddy makes 3-pt jump shot from 25 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:32.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:27.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:27.0,,,,,,M. Bamba,M. Bamba misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:27.0,,,,,,X. Tillman,Defensive rebound by X. Tillman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,1:24.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by D. Roddy ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,1:24.0,,,,,,D. Brooks,D. Brooks enters the game for J. Morant,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,1:24.0,,,,,,T. Ross,T. Ross enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,1:24.0,,,,,,D. Roddy,D. Roddy misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:24.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:24.0,,,,,,D. Roddy,D. Roddy misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:21.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,1:04.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:00.0,,,,,,T. Jones,Defensive rebound by T. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:52.0,,,,,,T. Jones,T. Jones misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:47.0,,,,,,X. Tillman,Offensive rebound by X. Tillman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:47.0,,,,,,X. Tillman,X. Tillman misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:46.0,,,,,,X. Tillman,Offensive rebound by X. Tillman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:44.0,,,,,,D. Roddy,D. Roddy misses 2-pt jump shot from 6 ft (block by M. Bamba ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050ORL,1,0:44.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:36.0,,,,,,T. Ross,Turnover by T. Ross (lost ball; steal by T. Jones ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,0:33.0,,,,,,T. Jones,T. Jones makes 2-pt layup from 3 ft (assist by X. Tillman ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:09.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 27 ft (assist by A. Schofield ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:41.0,,,,,,T. Jones,T. Jones misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:37.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,11:31.0,,,,,,A. Schofield,A. Schofield misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:28.0,,,,,,T. Jones,Defensive rebound by T. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,11:26.0,,,,,,J. Jackson,J. Jackson makes 3-pt jump shot from 25 ft (assist by T. Jones ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:26.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,11:26.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:08.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:06.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:59.0,,,,,,D. Brooks,D. Brooks makes 2-pt jump shot from 15 ft (assist by T. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:44.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by A. Schofield ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,10:44.0,,,,,,A. Schofield,A. Schofield makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:44.0,,,,,,A. Schofield,A. Schofield makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:28.0,,,,,,A. Schofield,Shooting foul by A. Schofield (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,10:28.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:28.0,,,,,,J. Jackson,J. Jackson misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:27.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:13.0,,,,,,D. Brooks,Shooting foul by D. Brooks (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,10:13.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:13.0,,,,,,C. Anthony,C. Anthony makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:56.0,,,,,,J. Jackson,J. Jackson misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:56.0,,,,,,J. Jackson,Offensive rebound by J. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:56.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:56.0,,,,,,,Violation by Team (def goaltending),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:43.0,,,,,,F. Wagner,F. Wagner makes 2-pt hook shot from 8 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:28.0,,,,,,D. Brooks,D. Brooks makes 2-pt jump shot from 13 ft (assist by T. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:20.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:15.0,,,,,,A. Schofield,Offensive rebound by A. Schofield,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:08.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 25 ft (assist by A. Schofield ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:52.0,,,,,,Z. Williams,Z. Williams makes 2-pt layup from 4 ft (assist by T. Jones ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:40.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:38.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:33.0,,,,,,Z. Williams,Z. Williams makes 3-pt jump shot from 24 ft (assist by D. Brooks ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:33.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,8:15.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:11.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:00.0,,,,,,D. Brooks,D. Brooks makes 2-pt jump shot from 10 ft (assist by T. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:41.0,,,,,,F. Wagner,Turnover by F. Wagner (bad pass; steal by T. Jones ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,7:29.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 4 ft (assist by T. Jones ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:16.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:12.0,,,,,,X. Tillman,Defensive rebound by X. Tillman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:08.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:04.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,6:55.0,,,,,,A. Schofield,A. Schofield makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:50.0,,,,,,Z. Williams,Z. Williams makes 2-pt layup from 2 ft (assist by D. Brooks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:50.0,,,,,,F. Wagner,Shooting foul by F. Wagner (drawn by Z. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,6:50.0,,,,,,J. Konchar,J. Konchar enters the game for D. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,6:50.0,,,,,,P. Banchero,P. Banchero enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,6:50.0,,,,,,W. Carter,W. Carter enters the game for A. Schofield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,6:50.0,,,,,,Z. Williams,Z. Williams makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:23.0,,,,,,W. Carter,W. Carter misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:21.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,6:11.0,,,,,,T. Jones,T. Jones makes 2-pt jump shot from 4 ft (assist by J. Jackson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:56.0,,,,,,P. Banchero,Turnover by P. Banchero (lost ball; steal by J. Jackson ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,5:39.0,,,,,,Z. Williams,Z. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:36.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,5:27.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:25.0,,,,,,S. Adams,S. Adams enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:25.0,,,,,,S. Aldama,S. Aldama enters the game for T. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:25.0,,,,,,J. Morant,J. Morant enters the game for X. Tillman,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:25.0,,,,,,D. Roddy,D. Roddy enters the game for Z. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:25.0,,,,,,M. Fultz,M. Fultz enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:25.0,,,,,,G. Harris,G. Harris enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:17.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:01.0,,,,,,D. Roddy,D. Roddy misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:00.0,,,,,,W. Carter,Loose ball foul by W. Carter (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,4:48.0,,,,,,S. Aldama,Turnover by S. Aldama (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050ORL,1,4:36.0,,,,,,P. Banchero,P. Banchero misses 2-pt layup from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:32.0,,,,,,D. Roddy,Defensive rebound by D. Roddy,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:22.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:22.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,4:08.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:47.0,,,,,,D. Roddy,D. Roddy makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:30.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:28.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,3:24.0,,,,,,S. Aldama,S. Aldama misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:22.0,,,,,,T. Ross,Defensive rebound by T. Ross,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,3:07.0,,,,,,S. Adams,Shooting foul by S. Adams (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,3:07.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:07.0,,,,,,F. Wagner,F. Wagner enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,3:07.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:56.0,,,,,,J. Morant,J. Morant makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:39.0,,,,,,W. Carter,Offensive foul by W. Carter (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,2:39.0,,,,,,W. Carter,Turnover by W. Carter (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050ORL,1,2:26.0,,,,,,S. Adams,S. Adams makes 2-pt layup from 3 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:26.0,,,,,,F. Wagner,Shooting foul by F. Wagner (drawn by S. Adams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,2:26.0,,,,,,S. Adams,S. Adams misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:21.0,,,,,,M. Fultz,Defensive rebound by M. Fultz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,2:16.0,,,,,,S. Aldama,Personal foul by S. Aldama (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,2:16.0,,,,,,J. Jackson,J. Jackson enters the game for S. Aldama,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,2:08.0,,,,,,W. Carter,W. Carter makes 2-pt dunk from 3 ft (assist by G. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:53.0,,,,,,J. Konchar,J. Konchar misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:46.0,,,,,,J. Jackson,Offensive rebound by J. Jackson,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:46.0,,,,,,J. Jackson,J. Jackson makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:36.0,,,,,,D. Roddy,Shooting foul by D. Roddy (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,1:36.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:36.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:21.0,,,,,,M. Fultz,Personal foul by M. Fultz (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,1:21.0,,,,,,J. Jackson,J. Jackson makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:21.0,,,,,,J. Jackson,J. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:09.0,,,,,,G. Harris,G. Harris makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:47.0,,,,,,D. Roddy,D. Roddy makes 3-pt jump shot from 24 ft (assist by J. Konchar ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:35.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:31.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:14.0,,,,,,J. Konchar,J. Konchar makes 3-pt jump shot from 23 ft (assist by J. Morant ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:02.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 55 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:45.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by J. Jackson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,11:45.0,,,,,,J. Jackson,J. Jackson misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:45.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:45.0,,,,,,J. Jackson,J. Jackson makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:31.0,,,,,,M. Fultz,M. Fultz misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:28.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:27.0,,,,,,W. Carter,W. Carter misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:26.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:26.0,,,,,,S. Adams,Personal foul by S. Adams (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,11:15.0,,,,,,P. Banchero,P. Banchero makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:49.0,,,,,,J. Konchar,J. Konchar misses 2-pt layup from 5 ft (block by G. Harris ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050ORL,1,10:45.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:43.0,,,,,,W. Carter,Offensive foul by W. Carter (drawn by J. Konchar ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,10:43.0,,,,,,W. Carter,Turnover by W. Carter (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050ORL,1,10:22.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:20.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:12.0,,,,,,P. Banchero,P. Banchero makes 3-pt jump shot from 25 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:59.0,,,,,,S. Adams,S. Adams makes 2-pt dunk from 2 ft (assist by D. Brooks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:48.0,,,,,,P. Banchero,P. Banchero makes 3-pt jump shot from 25 ft (assist by F. Wagner ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:36.0,,,,,,D. Brooks,D. Brooks makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:22.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:20.0,,,,,,P. Banchero,Offensive rebound by P. Banchero,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:18.0,,,,,,P. Banchero,P. Banchero makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:17.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,8:58.0,,,,,,J. Jackson,J. Jackson makes 2-pt dunk from 2 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:46.0,,,,,,G. Harris,Turnover by G. Harris (bad pass; steal by J. Morant ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,8:42.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:42.0,,,,,,P. Banchero,Shooting foul by P. Banchero (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,8:42.0,,,,,,J. Morant,J. Morant makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:30.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:28.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:17.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 4 ft (assist by D. Brooks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:17.0,,,,,,P. Banchero,Shooting foul by P. Banchero (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,8:17.0,,,,,,J. Morant,J. Morant makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:02.0,,,,,,W. Carter,W. Carter makes 2-pt dunk from 1 ft (assist by M. Fultz ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:42.0,,,,,,D. Brooks,D. Brooks misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:40.0,,,,,,J. Jackson,J. Jackson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:36.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:28.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:25.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:16.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:12.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:07.0,,,,,,S. Adams,Shooting foul by S. Adams (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,7:07.0,,,,,,W. Carter,W. Carter makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:07.0,,,,,,X. Tillman,X. Tillman enters the game for S. Adams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,7:07.0,,,,,,C. Anthony,C. Anthony enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,7:07.0,,,,,,W. Carter,W. Carter makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:56.0,,,,,,J. Morant,J. Morant misses 2-pt jump shot from 6 ft (block by W. Carter ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202301050ORL,1,6:51.0,,,,,,J. Morant,Offensive rebound by J. Morant,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:50.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:38.0,,,,,,M. Fultz,Turnover by M. Fultz (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050ORL,1,6:30.0,,,,,,J. Jackson,Turnover by J. Jackson (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202301050ORL,1,6:12.0,,,,,,P. Banchero,P. Banchero misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:10.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,5:51.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:50.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,5:29.0,,,,,,M. Fultz,M. Fultz misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:27.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,5:07.0,,,,,,D. Brooks,D. Brooks misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:05.0,,,,,,G. Harris,Defensive rebound by G. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,5:04.0,,,,,,P. Banchero,P. Banchero makes 2-pt dunk from 1 ft (assist by G. Harris ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:04.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,5:04.0,,,,,,T. Jones,T. Jones enters the game for D. Brooks,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,5:04.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:47.0,,,,,,J. Morant,Turnover by J. Morant (lost ball; steal by G. Harris ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,4:36.0,,,,,,M. Fultz,M. Fultz misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:34.0,,,,,,J. Konchar,Defensive rebound by J. Konchar,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:25.0,,,,,,G. Harris,Personal foul by G. Harris (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,4:25.0,,,,,,G. Harris,Technical foul by G. Harris,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,4:25.0,,,,,,T. Jones,T. Jones misses technical free throw,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:25.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:25.0,,,,,,S. Aldama,S. Aldama enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,4:25.0,,,,,,D. Roddy,D. Roddy enters the game for J. Konchar,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,4:25.0,,,,,,A. Schofield,A. Schofield enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,4:19.0,,,,,,S. Aldama,S. Aldama misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:17.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:08.0,,,,,,M. Fultz,M. Fultz makes 2-pt dunk from 2 ft (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:57.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:56.0,,,,,,P. Banchero,Defensive rebound by P. Banchero,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,3:48.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:42.0,,,,,,X. Tillman,Defensive rebound by X. Tillman,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,3:22.0,,,,,,J. Morant,J. Morant misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:20.0,,,,,,X. Tillman,Offensive rebound by X. Tillman,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:20.0,,,,,,G. Harris,Shooting foul by G. Harris (drawn by X. Tillman ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,3:20.0,,,,,,X. Tillman,X. Tillman makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:20.0,,,,,,T. Ross,T. Ross enters the game for M. Fultz,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,3:20.0,,,,,,F. Wagner,F. Wagner enters the game for G. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,3:20.0,,,,,,X. Tillman,X. Tillman makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:00.0,,,,,,A. Schofield,A. Schofield makes 2-pt layup from 4 ft (assist by T. Ross ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:45.0,,,,,,S. Aldama,Offensive foul by S. Aldama (drawn by T. Ross ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,2:45.0,,,,,,S. Aldama,Turnover by S. Aldama (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050ORL,1,2:33.0,,,,,,P. Banchero,P. Banchero makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:33.0,,,,,,S. Aldama,Shooting foul by S. Aldama (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,2:33.0,,,,,,P. Banchero,P. Banchero misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:30.0,,,,,,S. Aldama,Defensive rebound by S. Aldama,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,2:20.0,,,,,,T. Ross,Shooting foul by T. Ross (drawn by T. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,2:20.0,,,,,,T. Jones,T. Jones makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:20.0,,,,,,T. Jones,T. Jones makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:11.0,,,,,,D. Roddy,Personal foul by D. Roddy (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,2:11.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:11.0,,,,,,F. Wagner,F. Wagner misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:08.0,,,,,,S. Aldama,Defensive rebound by S. Aldama,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,1:46.0,,,,,,X. Tillman,X. Tillman makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:32.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:28.0,,,,,,P. Banchero,Offensive rebound by P. Banchero,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:27.0,,,,,,P. Banchero,P. Banchero makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:12.0,,,,,,T. Jones,T. Jones misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:12.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,1:04.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 25 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:46.0,,,,,,S. Aldama,S. Aldama misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:41.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:37.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 26 ft (assist by F. Wagner ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:37.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,0:37.0,,,,,,J. Jackson,J. Jackson enters the game for S. Aldama,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,0:29.0,,,,,,J. Morant,J. Morant makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:11.0,,,,,,D. Roddy,Shooting foul by D. Roddy (drawn by P. Banchero ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,0:11.0,,,,,,P. Banchero,P. Banchero makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:11.0,,,,,,P. Banchero,P. Banchero makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:11.0,,,,,,P. Banchero,P. Banchero makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,C. Anthony,Shooting foul by C. Anthony (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,0:00.0,,,,,,J. Morant,J. Morant misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:00.0,,,,,,A. Schofield,Defensive rebound by A. Schofield,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,11:46.0,,,,,,F. Wagner,F. Wagner misses 2-pt hook shot from 9 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:43.0,,,,,,J. Jackson,Defensive rebound by J. Jackson,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,11:39.0,,,,,,J. Jackson,J. Jackson makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:30.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:27.0,,,,,,Z. Williams,Defensive rebound by Z. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,11:24.0,,,,,,Z. Williams,Z. Williams makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:09.0,,,,,,Z. Williams,Shooting foul by Z. Williams (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,11:09.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,11:09.0,,,,,,C. Anthony,C. Anthony makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:54.0,,,,,,J. Jackson,J. Jackson makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:40.0,,,,,,A. Schofield,A. Schofield makes 2-pt layup from 3 ft (assist by F. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:20.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:16.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,10:08.0,,,,,,S. Adams,Shooting foul by S. Adams (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,10:08.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,10:08.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:53.0,,,,,,Z. Williams,Z. Williams makes 3-pt jump shot from 23 ft (assist by T. Jones ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:44.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:41.0,,,,,,T. Jones,Defensive rebound by T. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,9:36.0,,,,,,T. Jones,T. Jones makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:36.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,9:23.0,,,,,,F. Wagner,F. Wagner misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,9:19.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:59.0,,,,,,D. Brooks,D. Brooks misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:58.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:51.0,,,,,,Z. Williams,Offensive foul by Z. Williams (drawn by T. Ross ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,8:51.0,,,,,,Z. Williams,Turnover by Z. Williams (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050ORL,1,8:45.0,,,,,,J. Jackson,Shooting foul by J. Jackson (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,8:45.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:45.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:32.0,,,,,,Z. Williams,Z. Williams makes 2-pt dunk from 1 ft (assist by D. Brooks ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:21.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,8:17.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,8:01.0,,,,,,D. Brooks,D. Brooks misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:58.0,,,,,,C. Houstan,Defensive rebound by C. Houstan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:53.0,,,,,,T. Ross,T. Ross makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:33.0,,,,,,S. Adams,Turnover by S. Adams (bad pass; steal by F. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,7:29.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:29.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,7:29.0,,,,,,J. Morant,J. Morant enters the game for J. Jackson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,7:29.0,,,,,,D. Roddy,D. Roddy enters the game for T. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,7:29.0,,,,,,P. Banchero,P. Banchero enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,7:29.0,,,,,,W. Carter,W. Carter enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,7:29.0,,,,,,M. Fultz,M. Fultz enters the game for A. Schofield,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,7:11.0,,,,,,D. Roddy,D. Roddy misses 2-pt hook shot from 8 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,7:09.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,7:01.0,,,,,,W. Carter,W. Carter makes 3-pt jump shot from 27 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:41.0,,,,,,W. Carter,Personal foul by W. Carter (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,6:33.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,6:16.0,,,,,,P. Banchero,P. Banchero makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:51.0,,,,,,D. Brooks,D. Brooks makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:44.0,,,,,,D. Roddy,Shooting foul by D. Roddy (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,5:44.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:44.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:23.0,,,,,,J. Morant,J. Morant makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,5:03.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 9 ft (assist by M. Fultz ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:59.0,,,,,,D. Brooks,Offensive foul by D. Brooks (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,4:59.0,,,,,,D. Brooks,Turnover by D. Brooks (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050ORL,1,4:53.0,,,,,,F. Wagner,Offensive foul by F. Wagner (drawn by D. Roddy ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,4:53.0,,,,,,F. Wagner,Turnover by F. Wagner (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202301050ORL,1,4:35.0,,,,,,D. Brooks,D. Brooks misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:31.0,,,,,,C. Houstan,Defensive rebound by C. Houstan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,4:27.0,,,,,,M. Fultz,M. Fultz makes 2-pt layup from 1 ft (assist by P. Banchero ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,4:27.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,4:27.0,,,,,,J. Jackson,J. Jackson enters the game for D. Roddy,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,4:27.0,,,,,,J. Konchar,J. Konchar enters the game for Z. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,4:07.0,,,,,,J. Jackson,J. Jackson makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:55.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 27 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:35.0,,,,,,J. Konchar,Turnover by J. Konchar (lost ball; steal by F. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,3:31.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft (assist by M. Fultz ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:06.0,,,,,,J. Morant,Turnover by J. Morant (bad pass; steal by M. Fultz ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202301050ORL,1,3:03.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft (assist by M. Fultz ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,3:03.0,,,,,,,Memphis full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,3:03.0,,,,,,T. Jones,T. Jones enters the game for J. Konchar,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,2:40.0,,,,,,J. Jackson,J. Jackson makes 2-pt hook shot from 5 ft (assist by T. Jones ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:27.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 23 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,2:00.0,,,,,,J. Jackson,J. Jackson makes 2-pt dunk from 1 ft (assist by J. Morant ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:53.0,,,,,,C. Houstan,C. Houstan makes 3-pt jump shot from 25 ft (assist by M. Fultz ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:33.0,,,,,,T. Jones,T. Jones misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:29.0,,,,,,S. Adams,Offensive rebound by S. Adams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:29.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:21.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,1:21.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202301050ORL,1,1:21.0,,,,,,,Instant Replay (Challenge: Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:21.0,,,,,,A. Schofield,A. Schofield enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202301050ORL,1,1:21.0,,,,,,J. Morant,J. Morant makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:21.0,,,,,,J. Morant,J. Morant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:11.0,,,,,,D. Brooks,Personal foul by D. Brooks (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,1:11.0,,,,,,F. Wagner,F. Wagner makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:11.0,,,,,,F. Wagner,F. Wagner misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,1:08.0,,,,,,D. Brooks,Defensive rebound by D. Brooks,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:49.0,,,,,,T. Jones,T. Jones misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:46.0,,,,,,M. Fultz,Defensive rebound by M. Fultz,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:40.0,,,,,,M. Fultz,M. Fultz misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:39.0,,,,,,S. Adams,Defensive rebound by S. Adams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:36.0,,,,,,F. Wagner,Personal take foul by F. Wagner (drawn by J. Morant ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202301050ORL,1,0:36.0,,,,,,J. Morant,J. Morant misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:36.0,,,,,,J. Morant,J. Morant makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:29.0,,,,,,P. Banchero,P. Banchero misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202301050ORL,1,0:26.0,,,,,,J. Morant,Defensive rebound by J. Morant,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202301050ORL,1,0:03.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

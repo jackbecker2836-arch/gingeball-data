@@ -1,0 +1,455 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202203300BOS,1,11:44.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:41.0,,,,,,A. Horford,Offensive rebound by A. Horford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:36.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:33.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,11:17.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 2 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:05.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 26 ft (assist by A. Horford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:56.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 23 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:52.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,10:26.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:24.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,10:20.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 25 ft (assist by P. Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:10.0,,,,,,J. Brown,Offensive foul by J. Brown (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,10:10.0,,,,,,J. Brown,Turnover by J. Brown (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,9:50.0,,,,,,K. Lowry,K. Lowry misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:48.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,9:33.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,9:33.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:33.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:19.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:17.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,9:01.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:59.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,8:52.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 5 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:44.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 4 ft (block by P. Tucker ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202203300BOS,1,8:43.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,8:27.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by A. Horford ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,8:25.0,,,,,,M. Strus,Personal foul by M. Strus (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,8:13.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 24 ft (assist by M. Smart ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:46.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:43.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,7:36.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 29 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:12.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 25 ft (assist by P. Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:57.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 27 ft (assist by J. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:38.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:36.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,6:24.0,,,,,,J. Brown,Turnover by J. Brown (bad pass; steal by P. Tucker ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,6:17.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:14.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,6:06.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:03.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,5:59.0,,,,,,P. Tucker,P. Tucker misses 2-pt hook shot from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:57.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:56.0,,,,,,J. Butler,J. Butler makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:28.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:26.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,5:26.0,,,,,,T. Herro,T. Herro enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:26.0,,,,,,D. Theis,D. Theis enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:26.0,,,,,,D. White,D. White enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:07.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk from 2 ft (assist by T. Herro ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:46.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:38.0,,,,,,T. Herro,Turnover by T. Herro (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,4:22.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:19.0,,,,,,A. Horford,Offensive rebound by A. Horford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:09.0,,,,,,A. Horford,A. Horford misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:06.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,4:03.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 5 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:03.0,,,,,,D. White,Shooting foul by D. White (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,4:03.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:55.0,,,,,,K. Lowry,Personal foul by K. Lowry (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,3:55.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,3:46.0,,,,,,D. White,D. White makes 2-pt jump shot from 4 ft (assist by J. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:24.0,,,,,,P. Tucker,P. Tucker makes 2-pt hook shot from 5 ft (assist by T. Herro ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:06.0,,,,,,D. Theis,D. Theis makes 3-pt jump shot from 24 ft (assist by A. Horford ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:54.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:50.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:46.0,,,,,,D. White,Turnover by D. White (bad pass; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,2:36.0,,,,,,M. Smart,Shooting foul by M. Smart (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,2:36.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,2:36.0,,,,,,G. Vincent,G. Vincent enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,2:36.0,,,,,,J. Tatum,J. Tatum enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,2:36.0,,,,,,G. Williams,G. Williams enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,2:36.0,,,,,,D. Dedmon,D. Dedmon misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:36.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:36.0,,,,,,D. Dedmon,D. Dedmon misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:36.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:21.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:18.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:02.0,,,,,,G. Vincent,G. Vincent misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:59.0,,,,,,D. White,Defensive rebound by D. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,1:54.0,,,,,,D. White,D. White misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:52.0,,,,,,G. Williams,Offensive rebound by G. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:49.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,1:49.0,,,,,,J. Butler,J. Butler enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,1:49.0,,,,,,D. Robinson,D. Robinson enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,1:41.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:38.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,1:25.0,,,,,,D. White,Personal foul by D. White (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,1:20.0,,,,,,D. Dedmon,Offensive foul by D. Dedmon (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,1:20.0,,,,,,D. Dedmon,Turnover by D. Dedmon (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,1:07.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 3 ft (assist by D. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:56.0,,,,,,G. Vincent,Turnover by G. Vincent (bad pass; steal by D. White ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,0:47.0,,,,,,J. Tatum,Offensive foul by J. Tatum (drawn by D. Robinson ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:47.0,,,,,,J. Tatum,Turnover by J. Tatum (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,0:38.0,,,,,,T. Herro,Turnover by T. Herro (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,0:35.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 2 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:35.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:35.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:28.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:26.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:06.0,,,,,,G. Williams,G. Williams makes 2-pt layup from 4 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:06.0,,,,,,G. Vincent,Shooting foul by G. Vincent (drawn by G. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:06.0,,,,,,J. Brown,J. Brown enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,0:06.0,,,,,,G. Williams,G. Williams misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:06.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:00.0,,,,,,T. Herro,T. Herro makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:00.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:52.0,,,,,,D. Robinson,Offensive foul by D. Robinson (drawn by G. Williams ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,11:52.0,,,,,,D. Robinson,Turnover by D. Robinson (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,11:39.0,,,,,,D. Dedmon,Shooting foul by D. Dedmon (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,11:39.0,,,,,,D. Theis,D. Theis makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:39.0,,,,,,D. Theis,D. Theis misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:39.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,11:16.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:14.0,,,,,,G. Williams,Defensive rebound by G. Williams,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,11:04.0,,,,,,D. Dedmon,Personal foul by D. Dedmon (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,11:04.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,10:53.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:51.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,10:41.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:39.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:33.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:31.0,,,,,,P. Pritchard,Defensive rebound by P. Pritchard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,10:18.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:16.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,10:05.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:03.0,,,,,,D. Theis,Defensive rebound by D. Theis,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,9:49.0,,,,,,D. White,Turnover by D. White (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,9:35.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:18.0,,,,,,G. Vincent,Personal foul by G. Vincent (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,9:12.0,,,,,,G. Williams,G. Williams misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:10.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,9:08.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:06.0,,,,,,P. Pritchard,Defensive rebound by P. Pritchard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,8:53.0,,,,,,D. Theis,D. Theis makes 2-pt jump shot from 8 ft (assist by J. Tatum ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:33.0,,,,,,D. Robinson,D. Robinson makes 2-pt layup from 3 ft (assist by B. Adebayo ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:18.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:15.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,7:53.0,,,,,,T. Herro,T. Herro makes 2-pt jump shot from 12 ft (assist by J. Butler ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:53.0,,,,,,J. Brown,J. Brown enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:53.0,,,,,,A. Horford,A. Horford enters the game for D. Theis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:34.0,,,,,,P. Pritchard,P. Pritchard makes 3-pt jump shot from 31 ft (assist by J. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:19.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 25 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:03.0,,,,,,P. Pritchard,P. Pritchard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:00.0,,,,,,A. Horford,Offensive rebound by A. Horford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:58.0,,,,,,A. Horford,A. Horford makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:58.0,,,,,,T. Herro,Shooting foul by T. Herro (drawn by A. Horford ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,6:58.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,6:58.0,,,,,,A. Horford,A. Horford makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:46.0,,,,,,G. Vincent,Turnover by G. Vincent (bad pass; steal by A. Horford ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,6:37.0,,,,,,D. White,D. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:34.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,6:30.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:27.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,6:16.0,,,,,,G. Williams,G. Williams makes 2-pt layup from 2 ft (assist by A. Horford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:05.0,,,,,,T. Herro,T. Herro makes 2-pt jump shot from 20 ft (assist by B. Adebayo ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:52.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 3 ft (block by D. Robinson ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203300BOS,1,5:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:50.0,,,,,,K. Lowry,K. Lowry enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:50.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:50.0,,,,,,P. Tucker,P. Tucker enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:42.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:20.0,,,,,,T. Herro,T. Herro makes 3-pt jump shot from 26 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:09.0,,,,,,G. Williams,Offensive foul by G. Williams (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,5:09.0,,,,,,G. Williams,Turnover by G. Williams (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,5:09.0,,,,,,J. Tatum,J. Tatum enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,4:45.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 22 ft (assist by T. Herro ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:27.0,,,,,,T. Herro,Shooting foul by T. Herro (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,4:27.0,,,,,,J. Brown,J. Brown makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:27.0,,,,,,M. Smart,M. Smart enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,4:27.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:15.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:11.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,4:03.0,,,,,,M. Smart,Turnover by M. Smart (lost ball; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,3:58.0,,,,,,M. Strus,Turnover by M. Strus (bad pass; steal by P. Pritchard ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,3:52.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 3 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:39.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:36.0,,,,,,P. Pritchard,Defensive rebound by P. Pritchard,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,3:26.0,,,,,,J. Tatum,Turnover by J. Tatum (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,3:22.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:19.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,3:05.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:02.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,3:00.0,,,,,,P. Tucker,Turnover by P. Tucker (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,2:58.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 4 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:56.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,2:56.0,,,,,,J. Butler,J. Butler enters the game for T. Herro,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,2:39.0,,,,,,K. Lowry,K. Lowry makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:23.0,,,,,,M. Smart,Turnover by M. Smart (lost ball; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,2:03.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:00.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:59.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 2 ft (block by A. Horford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203300BOS,1,1:57.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,1:56.0,,,,,,M. Smart,Turnover by M. Smart (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,1:55.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 27 ft (assist by K. Lowry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:38.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 3 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:21.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:19.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,1:19.0,,,,,,B. Adebayo,Loose ball foul by B. Adebayo (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,1:19.0,,,,,,M. Smart,M. Smart misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:19.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:19.0,,,,,,M. Smart,M. Smart makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:07.0,,,,,,A. Horford,Shooting foul by A. Horford (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,1:07.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:07.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,1:07.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:52.0,,,,,,J. Tatum,Turnover by J. Tatum (bad pass; steal by D. Dedmon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,0:35.0,,,,,,J. Tatum,Personal foul by J. Tatum (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:35.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:35.0,,,,,,J. Tatum,Technical foul by J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:35.0,,,,,,J. Butler,J. Butler makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:35.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:30.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 3 ft (block by D. Dedmon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203300BOS,1,0:28.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:09.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:07.0,,,,,,A. Horford,Loose ball foul by A. Horford (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:07.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:07.0,,,,,,D. Dedmon,D. Dedmon misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:07.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:01.0,,,,,,M. Smart,M. Smart misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:48.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 3 ft (assist by P. Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:30.0,,,,,,J. Tatum,J. Tatum makes 2-pt dunk from 1 ft (assist by A. Horford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:10.0,,,,,,P. Tucker,P. Tucker misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:08.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,11:03.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:00.0,,,,,,J. Tatum,Offensive rebound by J. Tatum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:58.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 2 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:43.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 27 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:22.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:18.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,10:06.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:39.0,,,,,,M. Smart,Turnover by M. Smart (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,9:33.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:32.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,9:32.0,,,,,,D. White,D. White enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,9:20.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:17.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,9:10.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 5 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:45.0,,,,,,M. Smart,M. Smart misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:43.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,8:36.0,,,,,,B. Adebayo,Turnover by B. Adebayo (bad pass; steal by J. Tatum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,8:33.0,,,,,,J. Tatum,J. Tatum makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:21.0,,,,,,,Turnover by  (8 sec),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,8:19.0,,,,,,J. Brown,Turnover by J. Brown (bad pass; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,8:16.0,,,,,,M. Strus,M. Strus makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:02.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:00.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,7:51.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 3 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:36.0,,,,,,M. Smart,M. Smart misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:33.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,7:30.0,,,,,,J. Brown,Personal foul by J. Brown (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,7:25.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:21.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,7:04.0,,,,,,J. Brown,J. Brown makes 3-pt jump shot from 26 ft (assist by D. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:45.0,,,,,,M. Strus,Turnover by M. Strus (lost ball; steal by J. Tatum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,6:43.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,6:43.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:43.0,,,,,,J. Tatum,J. Tatum makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:26.0,,,,,,D. White,Personal foul by D. White (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,6:22.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:20.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,6:14.0,,,,,,M. Smart,M. Smart makes 3-pt jump shot from 23 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:14.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,5:50.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:49.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:49.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,5:34.0,,,,,,D. White,D. White makes 2-pt jump shot from 5 ft (assist by J. Brown ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:34.0,,,,,,P. Tucker,Shooting foul by P. Tucker (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,5:34.0,,,,,,M. Strus,Technical foul by M. Strus,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,5:34.0,,,,,,J. Tatum,J. Tatum makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:34.0,,,,,,D. White,D. White makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:34.0,,,,,,T. Herro,T. Herro enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:22.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:19.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,5:07.0,,,,,,A. Horford,A. Horford misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:04.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,5:00.0,,,,,,M. Smart,Personal foul by M. Smart (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,4:53.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:51.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,4:51.0,,,,,,G. Williams,G. Williams enters the game for J. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,4:40.0,,,,,,K. Lowry,Shooting foul by K. Lowry (drawn by D. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,4:40.0,,,,,,D. White,D. White misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:40.0,,,,,,D. White,D. White makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:31.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:28.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,4:20.0,,,,,,A. Horford,A. Horford makes 2-pt dunk from 2 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:20.0,,,,,,K. Lowry,Shooting foul by K. Lowry (drawn by A. Horford ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,4:20.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,4:20.0,,,,,,A. Horford,A. Horford makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:12.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 28 ft (assist by T. Herro ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:49.0,,,,,,D. White,D. White misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:46.0,,,,,,A. Horford,Offensive rebound by A. Horford,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:41.0,,,,,,G. Williams,G. Williams misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:37.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,3:23.0,,,,,,T. Herro,T. Herro makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:06.0,,,,,,M. Smart,M. Smart misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:03.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:58.0,,,,,,M. Smart,Personal foul by M. Smart (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,2:58.0,,,,,,D. Robinson,D. Robinson enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,2:58.0,,,,,,D. Theis,D. Theis enters the game for A. Horford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,2:52.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt jump shot from 8 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:34.0,,,,,,D. Dedmon,Shooting foul by D. Dedmon (drawn by J. Tatum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,2:34.0,,,,,,J. Tatum,J. Tatum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:34.0,,,,,,J. Tatum,J. Tatum misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:31.0,,,,,,G. Williams,Offensive rebound by G. Williams,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:23.0,,,,,,D. White,D. White misses 2-pt layup from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:20.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:12.0,,,,,,K. Lowry,Turnover by K. Lowry (bad pass; steal by M. Smart ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,2:09.0,,,,,,J. Tatum,J. Tatum makes 2-pt dunk from 2 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:52.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:49.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,1:44.0,,,,,,D. Theis,D. Theis makes 2-pt dunk from 1 ft (assist by M. Smart ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:23.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt layup from 5 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:07.0,,,,,,J. Tatum,J. Tatum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:04.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:53.0,,,,,,J. Tatum,Personal foul by J. Tatum (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:53.0,,,,,,K. Lowry,K. Lowry makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:53.0,,,,,,J. Butler,J. Butler enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,0:53.0,,,,,,J. Brown,J. Brown enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,0:53.0,,,,,,P. Pritchard,P. Pritchard enters the game for J. Tatum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,0:53.0,,,,,,K. Lowry,K. Lowry misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:53.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:33.0,,,,,,J. Brown,J. Brown makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:26.0,,,,,,J. Butler,Turnover by J. Butler (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,0:12.0,,,,,,D. Theis,D. Theis makes 2-pt dunk from 1 ft (assist by J. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:00.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 30 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:44.0,,,,,,G. Williams,G. Williams misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:41.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,11:28.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:26.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,11:19.0,,,,,,J. Butler,Personal foul by J. Butler (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,11:10.0,,,,,,D. White,D. White misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,11:08.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,10:58.0,,,,,,G. Williams,Shooting foul by G. Williams (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,10:58.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:58.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:37.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 3 ft (block by D. Dedmon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203300BOS,1,10:35.0,,,,,,J. Brown,Offensive rebound by J. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:34.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,10:22.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt layup from 6 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,10:01.0,,,,,,G. Williams,Turnover by G. Williams (bad pass; steal by D. Dedmon ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,9:49.0,,,,,,J. Brown,Shooting foul by J. Brown (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,9:49.0,,,,,,J. Butler,J. Butler misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:49.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:49.0,,,,,,J. Tatum,J. Tatum enters the game for G. Williams,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,9:49.0,,,,,,J. Butler,J. Butler misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:49.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,9:26.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,9:23.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,9:15.0,,,,,,D. Dedmon,Offensive foul by D. Dedmon (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,9:15.0,,,,,,D. Dedmon,Turnover by D. Dedmon (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,9:00.0,,,,,,P. Pritchard,P. Pritchard misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:57.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,8:47.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:28.0,,,,,,D. Theis,D. Theis makes 2-pt layup from 2 ft (assist by J. Tatum ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:14.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,8:12.0,,,,,,J. Brown,Defensive rebound by J. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,8:08.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:50.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:48.0,,,,,,D. White,Defensive rebound by D. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,7:43.0,,,,,,D. Theis,D. Theis makes 2-pt layup from 2 ft (assist by D. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:43.0,,,,,,D. Dedmon,Shooting foul by D. Dedmon (drawn by D. Theis ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,7:43.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:43.0,,,,,,M. Smart,M. Smart enters the game for P. Pritchard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:43.0,,,,,,D. Theis,D. Theis makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:40.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,7:40.0,,,,,,K. Lowry,K. Lowry enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:40.0,,,,,,M. Strus,M. Strus enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:40.0,,,,,,A. Horford,A. Horford enters the game for D. Theis,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:40.0,,,,,,P. Pritchard,P. Pritchard enters the game for D. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,7:30.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 26 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,7:08.0,,,,,,M. Smart,Turnover by M. Smart (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202203300BOS,1,7:00.0,,,,,,M. Strus,Turnover by M. Strus (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,7:00.0,,,,,,K. Lowry,Loose ball foul by K. Lowry (drawn by M. Smart ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,6:44.0,,,,,,A. Horford,A. Horford misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:41.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,6:36.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:32.0,,,,,,M. Smart,Defensive rebound by M. Smart,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,6:28.0,,,,,,J. Brown,J. Brown makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,6:07.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 27 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:47.0,,,,,,J. Tatum,J. Tatum misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:45.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,5:32.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 13 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:10.0,,,,,,J. Butler,Shooting foul by J. Butler (drawn by J. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,5:10.0,,,,,,J. Brown,J. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:10.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,5:10.0,,,,,,D. White,D. White enters the game for P. Pritchard,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,5:10.0,,,,,,J. Brown,J. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:58.0,,,,,,A. Horford,Shooting foul by A. Horford (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,4:58.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:58.0,,,,,,B. Adebayo,B. Adebayo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:45.0,,,,,,J. Brown,J. Brown misses 2-pt dunk from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:41.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,4:38.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 14 ft (assist by M. Strus ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:21.0,,,,,,D. White,D. White makes 3-pt jump shot from 24 ft (assist by J. Tatum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,4:01.0,,,,,,T. Herro,T. Herro misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:59.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,3:50.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:47.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,3:41.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,3:34.0,,,,,,A. Horford,Shooting foul by A. Horford (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,3:34.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:34.0,,,,,,B. Adebayo,B. Adebayo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:34.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,3:22.0,,,,,,M. Smart,Offensive foul by M. Smart (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,3:22.0,,,,,,M. Smart,Turnover by M. Smart (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,3:09.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,3:06.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:55.0,,,,,,J. Tatum,J. Tatum misses 2-pt layup from 7 ft (block by M. Strus ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203300BOS,1,2:53.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:47.0,,,,,,J. Brown,J. Brown misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:45.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:31.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:28.0,,,,,,A. Horford,Defensive rebound by A. Horford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:19.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,2:17.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,2:00.0,,,,,,K. Lowry,K. Lowry makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:48.0,,,,,,J. Brown,J. Brown misses 2-pt layup from 4 ft (block by M. Strus ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202203300BOS,1,1:45.0,,,,,,T. Herro,Defensive rebound by T. Herro,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,1:43.0,,,,,,J. Butler,J. Butler makes 2-pt dunk from 2 ft (assist by T. Herro ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:43.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,1:40.0,,,,,,J. Tatum,J. Tatum makes 2-pt layup from 4 ft (assist by J. Brown ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:18.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:16.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202203300BOS,1,1:11.0,,,,,,M. Smart,M. Smart misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,1:09.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:53.0,,,,,,K. Lowry,K. Lowry misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:50.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:40.0,,,,,,T. Herro,T. Herro misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:37.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:33.0,,,,,,J. Tatum,Offensive foul by J. Tatum (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:33.0,,,,,,J. Tatum,Turnover by J. Tatum (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202203300BOS,1,0:33.0,,,,,,,Boston full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,0:33.0,,,,,,,Instant Replay (Challenge: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:33.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202203300BOS,1,0:27.0,,,,,,M. Smart,Personal take foul by M. Smart (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:27.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:27.0,,,,,,B. Adebayo,B. Adebayo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:26.0,,,,,,J. Tatum,Defensive rebound by J. Tatum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:21.0,,,,,,D. White,D. White misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:19.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202203300BOS,1,0:10.0,,,,,,D. White,Personal take foul by D. White (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:10.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:10.0,,,,,,M. Smart,M. Smart ejected from game,False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:10.0,,,,,,M. Smart,Technical foul by M. Smart,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202203300BOS,1,0:10.0,,,,,,J. Butler,J. Butler makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:10.0,,,,,,G. Williams,G. Williams enters the game for M. Smart,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202203300BOS,1,0:10.0,,,,,,B. Adebayo,B. Adebayo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:06.0,,,,,,J. Brown,J. Brown misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202203300BOS,1,0:02.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False

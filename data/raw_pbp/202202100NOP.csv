@@ -1,0 +1,443 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202202100NOP,1,11:45.0,,,,,,H. Jones,Turnover by H. Jones (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100NOP,1,11:26.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 25 ft (assist by P. Tucker ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:09.0,,,,,,B. Ingram,B. Ingram makes 2-pt jump shot from 15 ft (assist by C. McCollum ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:03.0,,,,,,J. ValanÄiÅ«nas,Personal foul by J. ValanÄiÅ«nas (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,10:56.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:53.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,10:41.0,,,,,,B. Ingram,B. Ingram misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:37.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,10:32.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 4 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:20.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 13 ft (assist by D. Graham ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:57.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:57.0,,,,,,D. Graham,Shooting foul by D. Graham (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,9:57.0,,,,,,J. Butler,J. Butler makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:49.0,,,,,,D. Graham,D. Graham makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:40.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 15 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:29.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:26.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,9:23.0,,,,,,B. Ingram,Personal foul by B. Ingram (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,9:11.0,,,,,,J. Butler,J. Butler misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:09.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,9:04.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:01.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,8:47.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 4 ft (block by J. ValanÄiÅ«nas ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,8:43.0,,,,,,D. Graham,Defensive rebound by D. Graham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,8:41.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:40.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:40.0,,,,,,P. Tucker,Loose ball foul by P. Tucker (drawn by H. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,8:28.0,,,,,,C. McCollum,C. McCollum misses 2-pt layup from 2 ft (block by J. Butler ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,8:27.0,,,,,,C. McCollum,Offensive rebound by C. McCollum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:27.0,,,,,,C. McCollum,C. McCollum makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:06.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 12 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:48.0,,,,,,B. Ingram,B. Ingram makes 3-pt jump shot from 26 ft (assist by J. ValanÄiÅ«nas ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:21.0,,,,,,K. Lowry,K. Lowry makes 2-pt layup from 4 ft (assist by D. Robinson ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:10.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt jump shot from 6 ft (assist by D. Graham ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:01.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 5 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:41.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:38.0,,,,,,H. Jones,Offensive rebound by H. Jones,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:36.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:34.0,,,,,,D. Graham,Offensive rebound by D. Graham,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:32.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:30.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,6:09.0,,,,,,H. Jones,Shooting foul by H. Jones (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,6:09.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,6:09.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:09.0,,,,,,G. Clark,G. Clark enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:09.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:09.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:49.0,,,,,,H. Jones,H. Jones makes 2-pt dunk from 2 ft (assist by D. Graham ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:49.0,,,,,,D. Robinson,Shooting foul by D. Robinson (drawn by H. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,5:49.0,,,,,,J. Alvarado,J. Alvarado enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:49.0,,,,,,H. Jones,H. Jones makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:31.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt layup from 2 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:10.0,,,,,,D. Dedmon,Shooting foul by D. Dedmon (drawn by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,5:10.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:10.0,,,,,,G. Vincent,G. Vincent enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:10.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:48.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 16 ft (assist by G. Vincent ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:29.0,,,,,,J. Alvarado,J. Alvarado misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:27.0,,,,,,G. Vincent,Defensive rebound by G. Vincent,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,4:12.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:07.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,4:01.0,,,,,,J. ValanÄiÅ«nas,Offensive foul by J. ValanÄiÅ«nas (drawn by G. Vincent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,4:01.0,,,,,,J. ValanÄiÅ«nas,Turnover by J. ValanÄiÅ«nas (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100NOP,1,4:01.0,,,,,,J. Hayes,J. Hayes enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,3:46.0,,,,,,H. Jones,Shooting foul by H. Jones (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,3:46.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:46.0,,,,,,M. Strus,M. Strus enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,3:46.0,,,,,,N. Marshall,N. Marshall enters the game for H. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,3:46.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:31.0,,,,,,B. Ingram,B. Ingram misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:28.0,,,,,,J. Hayes,Offensive rebound by J. Hayes,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:25.0,,,,,,N. Marshall,N. Marshall misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:25.0,,,,,,G. Clark,Offensive rebound by G. Clark,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:25.0,,,,,,D. Dedmon,Shooting foul by D. Dedmon (drawn by G. Clark ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,3:25.0,,,,,,G. Clark,G. Clark makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:25.0,,,,,,G. Clark,G. Clark makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:14.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:10.0,,,,,,D. Dedmon,Offensive rebound by D. Dedmon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:09.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:49.0,,,,,,B. Ingram,B. Ingram misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:45.0,,,,,,N. Marshall,Offensive rebound by N. Marshall,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:44.0,,,,,,N. Marshall,N. Marshall makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:30.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:28.0,,,,,,J. Alvarado,Defensive rebound by J. Alvarado,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,2:16.0,,,,,,B. Ingram,B. Ingram makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:52.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by G. Clark ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,1:47.0,,,,,,N. Marshall,N. Marshall misses 2-pt layup from 2 ft (block by D. Dedmon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,1:42.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,1:40.0,,,,,,M. Strus,Turnover by M. Strus (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100NOP,1,1:40.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,1:40.0,,,,,,B. Adebayo,B. Adebayo enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,1:40.0,,,,,,C. McCollum,C. McCollum enters the game for B. Ingram,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,1:11.0,,,,,,N. Marshall,N. Marshall misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:08.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:55.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:52.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:47.0,,,,,,J. Alvarado,J. Alvarado misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:44.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:44.0,,,,,,K. Lowry,K. Lowry enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:30.0,,,,,,C. McCollum,Shooting foul by C. McCollum (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,0:30.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:30.0,,,,,,B. Adebayo,B. Adebayo misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:28.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:07.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:04.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:00.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:46.0,,,,,,G. Vincent,G. Vincent misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:42.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,11:20.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 26 ft (assist by G. Temple ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:02.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:55.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:55.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:40.0,,,,,,G. Temple,G. Temple misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:39.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,10:30.0,,,,,,G. Clark,Personal foul by G. Clark (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,10:30.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas enters the game for G. Clark,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,10:19.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:16.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:14.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:52.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt hook shot from 7 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:40.0,,,,,,M. Strus,Turnover by M. Strus (bad pass; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,9:36.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:32.0,,,,,,O. Yurtseven,Defensive rebound by O. Yurtseven,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,9:25.0,,,,,,O. Yurtseven,O. Yurtseven makes 2-pt layup from 2 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:15.0,,,,,,G. Vincent,Personal foul by G. Vincent (drawn by D. Graham ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,9:09.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:05.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,8:59.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 3 ft (assist by K. Lowry ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:51.0,,,,,,J. ValanÄiÅ«nas,Turnover by J. ValanÄiÅ«nas (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100NOP,1,8:48.0,,,,,,J. Hayes,Shooting foul by J. Hayes (drawn by O. Yurtseven ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,8:48.0,,,,,,O. Yurtseven,O. Yurtseven misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:48.0,,,,,,O. Yurtseven,O. Yurtseven makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:37.0,,,,,,D. Graham,D. Graham makes 3-pt jump shot from 24 ft (assist by G. Temple ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:25.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:14.0,,,,,,D. Graham,D. Graham makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:04.0,,,,,,K. Lowry,Turnover by K. Lowry (step out of bounds),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100NOP,1,8:04.0,,,,,,H. Jones,H. Jones enters the game for J. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,7:50.0,,,,,,G. Temple,G. Temple makes 3-pt jump shot from 23 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:26.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 3 ft (block by G. Temple ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,7:22.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:21.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 27 ft (assist by B. Adebayo ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:01.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:58.0,,,,,,J. ValanÄiÅ«nas,Offensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:58.0,,,,,,K. Lowry,Personal foul by K. Lowry (drawn by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,6:58.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,6:58.0,,,,,,J. Butler,J. Butler enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:58.0,,,,,,D. Dedmon,D. Dedmon enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:58.0,,,,,,D. Robinson,D. Robinson enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:58.0,,,,,,P. Tucker,P. Tucker enters the game for O. Yurtseven,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:58.0,,,,,,B. Ingram,B. Ingram enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:43.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:27.0,,,,,,D. Dedmon,D. Dedmon misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:22.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,6:07.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 26 ft (assist by J. ValanÄiÅ«nas ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:41.0,,,,,,D. Robinson,D. Robinson makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:32.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:32.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,5:19.0,,,,,,D. Dedmon,D. Dedmon misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:16.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,5:09.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:09.0,,,,,,J. ValanÄiÅ«nas,Offensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:09.0,,,,,,D. Dedmon,Shooting foul by D. Dedmon (drawn by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,5:09.0,,,,,,D. Dedmon,Technical foul by D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,5:09.0,,,,,,B. Ingram,B. Ingram makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:09.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:09.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:09.0,,,,,,J. Alvarado,J. Alvarado enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:09.0,,,,,,G. Clark,G. Clark enters the game for G. Temple,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:09.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:57.0,,,,,,B. Adebayo,Turnover by B. Adebayo (bad pass; steal by H. Jones ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,4:52.0,,,,,,H. Jones,H. Jones makes 2-pt dunk from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:36.0,,,,,,P. Tucker,Turnover by P. Tucker (bad pass; steal by G. Clark ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,4:24.0,,,,,,J. Alvarado,J. Alvarado misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:22.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,4:17.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 23 ft (block by H. Jones ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,4:17.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:17.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,4:17.0,,,,,,K. Lowry,K. Lowry enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,4:17.0,,,,,,M. Strus,M. Strus enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,4:14.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 23 ft (assist by K. Lowry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:49.0,,,,,,H. Jones,Turnover by H. Jones (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,3:42.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:40.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,3:35.0,,,,,,G. Clark,G. Clark misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:32.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,3:28.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:25.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,3:12.0,,,,,,B. Ingram,B. Ingram makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:56.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 23 ft (block by H. Jones ),False,0,True,False,above_break_3,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,2:52.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,2:41.0,,,,,,J. Butler,Personal foul by J. Butler (drawn by J. ValanÄiÅ«nas ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,2:41.0,,,,,,D. Graham,D. Graham enters the game for J. Alvarado,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,2:41.0,,,,,,C. McCollum,C. McCollum enters the game for G. Clark,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,2:27.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:23.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,2:22.0,,,,,,K. Lowry,Turnover by K. Lowry (bad pass; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,2:16.0,,,,,,D. Graham,D. Graham makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:03.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:50.0,,,,,,B. Ingram,B. Ingram misses 2-pt jump shot from 13 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:48.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,1:48.0,,,,,,J. Butler,Turnover by J. Butler (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100NOP,1,1:27.0,,,,,,D. Robinson,Personal foul by D. Robinson (drawn by B. Ingram ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,1:27.0,,,,,,B. Ingram,B. Ingram misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:27.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:27.0,,,,,,G. Vincent,G. Vincent enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,1:27.0,,,,,,B. Ingram,B. Ingram makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:08.0,,,,,,G. Vincent,G. Vincent misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:05.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:05.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:52.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:50.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:44.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 25 ft (assist by K. Lowry ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:25.0,,,,,,B. Adebayo,Shooting foul by B. Adebayo (drawn by H. Jones ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,0:25.0,,,,,,H. Jones,H. Jones makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:25.0,,,,,,G. Clark,G. Clark enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:25.0,,,,,,N. Marshall,N. Marshall enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:25.0,,,,,,H. Jones,H. Jones makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:02.0,,,,,,H. Jones,Shooting foul by H. Jones (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,0:02.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:02.0,,,,,,J. Hayes,J. Hayes enters the game for G. Clark,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:02.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:00.0,,,,,,H. Jones,Turnover by H. Jones (bad pass; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,0:00.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 62 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:48.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 6 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:42.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:42.0,,,,,,J. Butler,J. Butler makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:26.0,,,,,,H. Jones,H. Jones misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:23.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,11:12.0,,,,,,C. McCollum,Personal foul by C. McCollum (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,11:04.0,,,,,,D. Robinson,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:51.0,,,,,,B. Ingram,Turnover by B. Ingram (bad pass; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,10:47.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:47.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,10:36.0,,,,,,B. Ingram,B. Ingram makes 2-pt jump shot from 13 ft (assist by C. McCollum ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:18.0,,,,,,P. Tucker,P. Tucker misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:18.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,10:18.0,,,,,,P. Tucker,Loose ball foul by P. Tucker (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,10:06.0,,,,,,P. Tucker,Personal foul by P. Tucker (drawn by B. Ingram ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,9:53.0,,,,,,C. McCollum,C. McCollum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:39.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:37.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,9:31.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:27.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,9:21.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:20.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:20.0,,,,,,H. Jones,Loose ball foul by H. Jones (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,9:20.0,,,,,,G. Clark,G. Clark enters the game for H. Jones,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,9:19.0,,,,,,D. Robinson,Turnover by D. Robinson (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202100NOP,1,8:58.0,,,,,,G. Clark,G. Clark misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:53.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,8:46.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 9 ft (assist by D. Robinson ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:35.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt jump shot from 7 ft (assist by D. Graham ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:23.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:21.0,,,,,,P. Tucker,Offensive rebound by P. Tucker,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:11.0,,,,,,P. Tucker,P. Tucker misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:09.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,8:04.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:01.0,,,,,,B. Adebayo,Defensive rebound by B. Adebayo,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,7:41.0,,,,,,J. Butler,Turnover by J. Butler (bad pass; steal by C. McCollum ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,7:41.0,,,,,,K. Lowry,Personal take foul by K. Lowry (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,7:30.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:26.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,7:22.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:19.0,,,,,,D. Graham,Defensive rebound by D. Graham,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,7:12.0,,,,,,D. Graham,Turnover by D. Graham (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,7:06.0,,,,,,D. Graham,Shooting foul by D. Graham (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,7:06.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:06.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:58.0,,,,,,J. ValanÄiÅ«nas,Offensive foul by J. ValanÄiÅ«nas (drawn by K. Lowry ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,6:58.0,,,,,,J. ValanÄiÅ«nas,Turnover by J. ValanÄiÅ«nas (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100NOP,1,6:34.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:31.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,6:27.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt dunk at rim (assist by B. Ingram ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:24.0,,,,,,B. Ingram,Personal foul by B. Ingram (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,6:24.0,,,,,,J. Hayes,J. Hayes enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,6:12.0,,,,,,D. Robinson,Turnover by D. Robinson (bad pass; steal by D. Graham ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,6:07.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:03.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,6:02.0,,,,,,J. Butler,J. Butler makes 2-pt dunk at rim (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:52.0,,,,,,P. Tucker,Personal foul by P. Tucker (drawn by B. Ingram ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,5:52.0,,,,,,M. Strus,M. Strus enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:52.0,,,,,,G. Vincent,G. Vincent enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:36.0,,,,,,B. Ingram,B. Ingram makes 2-pt jump shot from 18 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:12.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 6 ft (assist by G. Vincent ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:54.0,,,,,,D. Graham,Turnover by D. Graham (lost ball; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,4:37.0,,,,,,D. Robinson,D. Robinson makes 2-pt layup from 3 ft (assist by J. Butler ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:13.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:08.0,,,,,,D. Graham,Offensive rebound by D. Graham,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:06.0,,,,,,D. Graham,D. Graham misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:04.0,,,,,,J. Butler,Defensive rebound by J. Butler,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,3:57.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:55.0,,,,,,J. Butler,Offensive rebound by J. Butler,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:53.0,,,,,,M. Strus,M. Strus makes 3-pt jump shot from 23 ft (assist by J. Butler ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:51.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,3:51.0,,,,,,D. Dedmon,D. Dedmon enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,3:51.0,,,,,,J. Alvarado,J. Alvarado enters the game for D. Graham,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,3:51.0,,,,,,G. Temple,G. Temple enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,3:39.0,,,,,,J. Alvarado,J. Alvarado makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:18.0,,,,,,D. Robinson,D. Robinson misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:14.0,,,,,,D. Dedmon,Offensive rebound by D. Dedmon,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:13.0,,,,,,B. Ingram,Shooting foul by B. Ingram (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,3:13.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:13.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:49.0,,,,,,J. Alvarado,J. Alvarado makes 2-pt layup from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:42.0,,,,,,D. Dedmon,Offensive foul by D. Dedmon (drawn by J. Alvarado ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,2:42.0,,,,,,D. Dedmon,Turnover by D. Dedmon (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100NOP,1,2:34.0,,,,,,B. Ingram,B. Ingram misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:30.0,,,,,,M. Strus,Defensive rebound by M. Strus,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,2:22.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:21.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,2:08.0,,,,,,G. Clark,G. Clark misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:03.0,,,,,,G. Temple,Offensive rebound by G. Temple,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:03.0,,,,,,K. Lowry,K. Lowry enters the game for D. Robinson,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,1:56.0,,,,,,B. Ingram,Turnover by B. Ingram (bad pass; steal by M. Strus ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,1:50.0,,,,,,B. Ingram,Personal foul by B. Ingram (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,1:50.0,,,,,,D. Dedmon,D. Dedmon misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:50.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:50.0,,,,,,C. McCollum,C. McCollum enters the game for B. Ingram,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,1:50.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:40.0,,,,,,J. Alvarado,J. Alvarado makes 2-pt jump shot from 10 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:24.0,,,,,,G. Vincent,G. Vincent makes 3-pt jump shot from 23 ft (assist by M. Strus ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:00.0,,,,,,C. McCollum,Turnover by C. McCollum (lost ball; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,0:58.0,,,,,,J. Hayes,Shooting foul by J. Hayes (drawn by M. Strus ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,0:58.0,,,,,,M. Strus,M. Strus makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:58.0,,,,,,M. Strus,M. Strus misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:56.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:41.0,,,,,,J. Hayes,J. Hayes makes 2-pt dunk from 1 ft (assist by J. Alvarado ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:33.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 32 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:30.0,,,,,,G. Clark,Defensive rebound by G. Clark,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:15.0,,,,,,J. Alvarado,J. Alvarado misses 2-pt jump shot from 4 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:13.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:00.0,,,,,,K. Lowry,Turnover by K. Lowry (bad pass; steal by G. Clark ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,11:47.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:45.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:35.0,,,,,,J. Alvarado,J. Alvarado makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:13.0,,,,,,G. Vincent,G. Vincent misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,11:10.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,11:01.0,,,,,,C. McCollum,C. McCollum misses 2-pt layup from 2 ft (block by D. Dedmon ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,11:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:53.0,,,,,,M. Strus,Shooting foul by M. Strus (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,10:53.0,,,,,,C. McCollum,C. McCollum makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:53.0,,,,,,C. McCollum,C. McCollum misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:50.0,,,,,,D. Dedmon,Defensive rebound by D. Dedmon,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,10:42.0,,,,,,J. Alvarado,Shooting foul by J. Alvarado (drawn by G. Vincent ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,10:42.0,,,,,,G. Vincent,G. Vincent makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:42.0,,,,,,G. Vincent,G. Vincent makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:42.0,,,,,,G. Vincent,G. Vincent makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:32.0,,,,,,G. Temple,G. Temple misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,10:30.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,10:12.0,,,,,,D. Dedmon,D. Dedmon makes 2-pt dunk from 2 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:59.0,,,,,,J. Alvarado,J. Alvarado makes 3-pt jump shot from 23 ft (assist by G. Temple ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:44.0,,,,,,N. Marshall,Shooting foul by N. Marshall (drawn by D. Dedmon ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,9:44.0,,,,,,D. Dedmon,D. Dedmon makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:44.0,,,,,,D. Graham,D. Graham enters the game for N. Marshall,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,9:44.0,,,,,,H. Jones,H. Jones enters the game for G. Temple,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,9:44.0,,,,,,D. Dedmon,D. Dedmon makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:27.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:12.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt dunk from 2 ft (block by H. Jones ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,9:09.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,9:03.0,,,,,,C. McCollum,Turnover by C. McCollum (lost ball; steal by B. Adebayo ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,9:01.0,,,,,,D. Graham,Shooting foul by D. Graham (drawn by B. Adebayo ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,9:01.0,,,,,,B. Adebayo,B. Adebayo makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,9:01.0,,,,,,B. Adebayo,B. Adebayo makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:49.0,,,,,,J. Alvarado,J. Alvarado makes 3-pt jump shot from 25 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:33.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt jump shot from 16 ft (assist by G. Vincent ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:12.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas makes 2-pt jump shot from 4 ft (assist by H. Jones ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,8:12.0,,,,,,,Miami full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,8:12.0,,,,,,P. Tucker,P. Tucker enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,7:56.0,,,,,,M. Strus,M. Strus misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:52.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,7:40.0,,,,,,J. Alvarado,J. Alvarado makes 3-pt jump shot from 26 ft (assist by J. ValanÄiÅ«nas ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:20.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt hook shot from 7 ft (assist by P. Tucker ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,7:00.0,,,,,,D. Graham,D. Graham makes 3-pt jump shot from 23 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:47.0,,,,,,K. Lowry,K. Lowry makes 3-pt jump shot from 27 ft (assist by M. Strus ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:23.0,,,,,,J. Alvarado,J. Alvarado misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:20.0,,,,,,H. Jones,Offensive rebound by H. Jones,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:13.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:07.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,6:03.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,6:00.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,5:49.0,,,,,,H. Jones,H. Jones misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:48.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:48.0,,,,,,J. Butler,J. Butler enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:48.0,,,,,,D. Dedmon,D. Dedmon enters the game for G. Vincent,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:48.0,,,,,,J. Hayes,J. Hayes enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:48.0,,,,,,B. Ingram,B. Ingram enters the game for J. ValanÄiÅ«nas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,5:35.0,,,,,,D. Graham,D. Graham misses 2-pt jump shot from 21 ft (block by M. Strus ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,5:28.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,5:20.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,5:00.0,,,,,,H. Jones,Turnover by H. Jones (lost ball; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,4:56.0,,,,,,J. Butler,J. Butler misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:54.0,,,,,,B. Ingram,Defensive rebound by B. Ingram,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,4:50.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:45.0,,,,,,B. Ingram,Offensive rebound by B. Ingram,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:44.0,,,,,,D. Graham,D. Graham misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:41.0,,,,,,P. Tucker,Defensive rebound by P. Tucker,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,4:20.0,,,,,,J. Butler,J. Butler misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:15.0,,,,,,H. Jones,Defensive rebound by H. Jones,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,4:10.0,,,,,,K. Lowry,Shooting foul by K. Lowry (drawn by J. Hayes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,4:10.0,,,,,,J. Hayes,J. Hayes makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,4:10.0,,,,,,B. Adebayo,B. Adebayo enters the game for D. Dedmon,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,4:10.0,,,,,,G. Vincent,G. Vincent enters the game for M. Strus,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,4:10.0,,,,,,C. McCollum,C. McCollum enters the game for J. Alvarado,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,4:10.0,,,,,,J. Hayes,J. Hayes makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:49.0,,,,,,P. Tucker,P. Tucker makes 3-pt jump shot from 23 ft (assist by G. Vincent ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,3:31.0,,,,,,G. Vincent,Personal foul by G. Vincent (drawn by J. Hayes ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,3:31.0,,,,,,J. ValanÄiÅ«nas,J. ValanÄiÅ«nas enters the game for J. Hayes,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,3:31.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,3:18.0,,,,,,D. Graham,D. Graham makes 3-pt jump shot from 23 ft (assist by H. Jones ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:53.0,,,,,,P. Tucker,P. Tucker misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:50.0,,,,,,J. ValanÄiÅ«nas,Defensive rebound by J. ValanÄiÅ«nas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,2:37.0,,,,,,B. Ingram,Turnover by B. Ingram (bad pass; steal by K. Lowry ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,2:29.0,,,,,,C. McCollum,Shooting foul by C. McCollum (drawn by J. Butler ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,2:29.0,,,,,,J. Butler,J. Butler makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:29.0,,,,,,J. Butler,J. Butler makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,2:14.0,,,,,,B. Ingram,Offensive foul by B. Ingram (drawn by P. Tucker ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,2:14.0,,,,,,B. Ingram,Turnover by B. Ingram (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202100NOP,1,1:54.0,,,,,,K. Lowry,K. Lowry misses 3-pt jump shot from 29 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:49.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:38.0,,,,,,J. Butler,J. Butler makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:24.0,,,,,,B. Ingram,Turnover by B. Ingram (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,1:19.0,,,,,,K. Lowry,K. Lowry misses 2-pt layup from 1 ft (block by B. Ingram ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202100NOP,1,1:19.0,,,,,,B. Adebayo,Offensive rebound by B. Adebayo,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:19.0,,,,,,B. Adebayo,B. Adebayo makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:19.0,,,,,,,New Orleans full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202100NOP,1,1:14.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,1:12.0,,,,,,K. Lowry,Defensive rebound by K. Lowry,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,1:11.0,,,,,,J. Butler,J. Butler makes 2-pt layup from 1 ft (assist by K. Lowry ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:59.0,,,,,,D. Graham,Turnover by D. Graham (bad pass; steal by J. Butler ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202100NOP,1,0:37.0,,,,,,B. Adebayo,B. Adebayo misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:34.0,,,,,,B. Ingram,Defensive rebound by B. Ingram,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:30.0,,,,,,P. Tucker,Personal take foul by P. Tucker (drawn by B. Ingram ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202100NOP,1,0:30.0,,,,,,K. Guy,K. Guy enters the game for B. Adebayo,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:30.0,,,,,,D. Robinson,D. Robinson enters the game for J. Butler,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:30.0,,,,,,M. Strus,M. Strus enters the game for K. Lowry,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:30.0,,,,,,O. Yurtseven,O. Yurtseven enters the game for P. Tucker,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202100NOP,1,0:25.0,,,,,,B. Ingram,B. Ingram misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202100NOP,1,0:21.0,,,,,,O. Yurtseven,Defensive rebound by O. Yurtseven,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202100NOP,1,0:00.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

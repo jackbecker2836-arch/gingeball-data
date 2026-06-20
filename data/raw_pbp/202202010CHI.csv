@@ -1,0 +1,434 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202202010CHI,1,11:45.0,,,,,,M. Bamba,Turnover by M. Bamba (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202010CHI,1,11:23.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:18.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:18.0,,,,,,J. Green,J. Green misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:17.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,11:14.0,,,,,,W. Carter,W. Carter makes 3-pt jump shot from 25 ft (assist by J. Suggs ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:59.0,,,,,,D. DeRozan,D. DeRozan misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:55.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:53.0,,,,,,F. Wagner,F. Wagner makes 2-pt dunk at rim (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:53.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,10:38.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:33.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:24.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:22.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:18.0,,,,,,F. Wagner,Shooting foul by F. Wagner (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,10:18.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:18.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:58.0,,,,,,W. Carter,W. Carter makes 2-pt dunk at rim (assist by F. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:46.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:42.0,,,,,,N. VuÄeviÄ,Offensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:42.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:34.0,,,,,,W. Carter,Turnover by W. Carter (bad pass; steal by J. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,9:31.0,,,,,,J. Green,J. Green misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:29.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,9:23.0,,,,,,J. Suggs,J. Suggs misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:21.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,9:16.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 26 ft (assist by A. Dosunmu ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:02.0,,,,,,F. Wagner,Turnover by F. Wagner (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202010CHI,1,8:49.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:45.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,8:34.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 1 ft (block by N. VuÄeviÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,8:31.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,8:18.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:14.0,,,,,,D. DeRozan,Offensive rebound by D. DeRozan,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:10.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 8 ft (assist by D. DeRozan ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:54.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 6 ft (assist by J. Suggs ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:39.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:38.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:30.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 11 ft (assist by A. Dosunmu ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:14.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:11.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,6:59.0,,,,,,A. Dosunmu,A. Dosunmu misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:56.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:56.0,,,,,,J. Green,J. Green makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:55.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,6:55.0,,,,,,G. Harris,G. Harris enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,6:42.0,,,,,,W. Carter,W. Carter makes 2-pt hook shot from 6 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:21.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:07.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:53.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 13 ft (assist by Z. LaVine ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:29.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 10 ft (assist by C. Anthony ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:10.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:07.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,5:02.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 26 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:41.0,,,,,,A. Dosunmu,A. Dosunmu makes 3-pt jump shot from 24 ft (assist by D. DeRozan ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:32.0,,,,,,C. Anthony,C. Anthony makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:18.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:13.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,4:07.0,,,,,,G. Harris,G. Harris makes 3-pt jump shot from 25 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:52.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 8 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:49.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,3:40.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:39.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,3:39.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,3:39.0,,,,,,C. Okeke,C. Okeke enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,3:39.0,,,,,,T. Ross,T. Ross enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,3:39.0,,,,,,T. Brown,T. Brown enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,3:39.0,,,,,,C. White,C. White enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,3:24.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 4 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:23.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,3:23.0,,,,,,N. VuÄeviÄ,Loose ball foul by N. VuÄeviÄ (drawn by C. Okeke ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,3:07.0,,,,,,T. Ross,T. Ross makes 2-pt jump shot from 7 ft (assist by C. Anthony ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:47.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt hook shot from 4 ft (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:36.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:33.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,2:26.0,,,,,,T. Brown,T. Brown misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:22.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,2:13.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:11.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,2:05.0,,,,,,C. Anthony,Shooting foul by C. Anthony (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,2:05.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:05.0,,,,,,J. Suggs,J. Suggs enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:05.0,,,,,,M. Wagner,M. Wagner enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:05.0,,,,,,T. Bradley,T. Bradley enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:05.0,,,,,,M. Thomas,M. Thomas enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:05.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:04.0,,,,,,M. Thomas,Personal take foul by M. Thomas (drawn by J. Suggs ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,2:04.0,,,,,,D. DeRozan,D. DeRozan enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,1:59.0,,,,,,T. Ross,T. Ross makes 3-pt jump shot from 25 ft (assist by J. Suggs ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:45.0,,,,,,C. White,Turnover by C. White (bad pass; steal by M. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,1:33.0,,,,,,M. Wagner,M. Wagner makes 2-pt layup from 1 ft (assist by C. Okeke ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:13.0,,,,,,T. Bradley,T. Bradley makes 2-pt jump shot from 13 ft (assist by C. White ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:01.0,,,,,,M. Wagner,M. Wagner makes 3-pt jump shot from 25 ft (assist by T. Ross ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:51.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:51.0,,,,,,C. Okeke,Shooting foul by C. Okeke (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,0:51.0,,,,,,D. DeRozan,D. DeRozan misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:49.0,,,,,,D. DeRozan,Offensive rebound by D. DeRozan,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:41.0,,,,,,D. DeRozan,D. DeRozan makes 3-pt jump shot from 27 ft (assist by T. Bradley ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:30.0,,,,,,J. Suggs,J. Suggs misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:29.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,0:11.0,,,,,,T. Brown,T. Brown makes 3-pt jump shot from 23 ft (assist by D. DeRozan ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:01.0,,,,,,M. Wagner,M. Wagner misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:01.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:49.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt dunk from 2 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:34.0,,,,,,G. Harris,G. Harris misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:33.0,,,,,,T. Bradley,Loose ball foul by T. Bradley (drawn by M. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,11:26.0,,,,,,M. Wagner,M. Wagner misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:26.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,11:15.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 8 ft (block by C. Okeke ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,11:12.0,,,,,,D. DeRozan,Offensive rebound by D. DeRozan,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:06.0,,,,,,C. White,C. White misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:02.0,,,,,,T. Bradley,Offensive rebound by T. Bradley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:59.0,,,,,,C. White,C. White misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:57.0,,,,,,J. Suggs,Defensive rebound by J. Suggs,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:46.0,,,,,,G. Harris,G. Harris makes 2-pt layup from 2 ft (assist by T. Ross ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:20.0,,,,,,T. Brown,T. Brown makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:08.0,,,,,,M. Wagner,M. Wagner makes 2-pt layup from 3 ft (assist by J. Suggs ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:59.0,,,,,,T. Bradley,Offensive foul by T. Bradley (drawn by C. Okeke ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,9:59.0,,,,,,T. Bradley,Turnover by T. Bradley (offensive foul),False,0,False,,,False,,False,False,False,True,False,False,True,False,False,False,False
+202202010CHI,1,9:59.0,,,,,,T. Cook,T. Cook enters the game for T. Bradley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,9:59.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for T. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,9:49.0,,,,,,M. Wagner,M. Wagner makes 2-pt dunk from 1 ft (assist by C. Okeke ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:37.0,,,,,,T. Cook,T. Cook makes 2-pt layup at rim (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:27.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:24.0,,,,,,M. Thomas,Defensive rebound by M. Thomas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,9:13.0,,,,,,M. Thomas,M. Thomas makes 3-pt jump shot from 28 ft (assist by A. Dosunmu ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:49.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:45.0,,,,,,T. Cook,Defensive rebound by T. Cook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,8:40.0,,,,,,T. Cook,T. Cook makes 2-pt dunk at rim (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:40.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,8:40.0,,,,,,M. Bamba,M. Bamba enters the game for M. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,8:33.0,,,,,,G. Harris,G. Harris misses 2-pt layup from 2 ft (block by T. Cook ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,8:33.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:30.0,,,,,,G. Harris,G. Harris makes 2-pt jump shot from 20 ft (assist by J. Suggs ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:06.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:52.0,,,,,,G. Harris,G. Harris misses 2-pt jump shot from 19 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:47.0,,,,,,M. Bamba,Offensive rebound by M. Bamba,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:47.0,,,,,,M. Bamba,M. Bamba makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:34.0,,,,,,G. Harris,Shooting foul by G. Harris (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,7:34.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:34.0,,,,,,F. Wagner,F. Wagner enters the game for G. Harris,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:34.0,,,,,,J. Green,J. Green enters the game for T. Cook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:34.0,,,,,,Z. LaVine,Z. LaVine enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:34.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for M. Thomas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:34.0,,,,,,D. DeRozan,D. DeRozan makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:15.0,,,,,,J. Suggs,J. Suggs makes 2-pt dunk from 1 ft (assist by F. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:59.0,,,,,,C. White,C. White makes 3-pt jump shot from 25 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:44.0,,,,,,J. Suggs,J. Suggs makes 2-pt jump shot from 20 ft (assist by T. Ross ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:29.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 6 ft (block by M. Bamba ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,6:29.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:29.0,,,,,,C. Anthony,C. Anthony enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,6:29.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,6:21.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:19.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,6:10.0,,,,,,M. Bamba,M. Bamba misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:06.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,6:01.0,,,,,,N. VuÄeviÄ,Turnover by N. VuÄeviÄ (bad pass; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,5:53.0,,,,,,C. Okeke,C. Okeke misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:51.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,5:47.0,,,,,,C. White,C. White misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:45.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,5:35.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 1 ft (block by N. VuÄeviÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,5:31.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,5:31.0,,,,,,J. Suggs,Shooting foul by J. Suggs (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,5:31.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:31.0,,,,,,W. Carter,W. Carter enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,5:31.0,,,,,,J. Green,J. Green makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:31.0,,,,,,J. Green,J. Green misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:28.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,5:12.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 10 ft (block by J. Green ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,5:12.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:08.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:05.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,4:49.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup from 4 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:25.0,,,,,,F. Wagner,F. Wagner makes 2-pt jump shot from 6 ft (assist by C. Anthony ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:13.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:55.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:47.0,,,,,,C. Okeke,Personal foul by C. Okeke (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,3:47.0,,,,,,T. Ross,T. Ross enters the game for C. Okeke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,3:47.0,,,,,,D. DeRozan,D. DeRozan enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,3:47.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,3:38.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:17.0,,,,,,C. Anthony,C. Anthony makes 2-pt layup from 1 ft (assist by F. Wagner ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:17.0,,,,,,A. Dosunmu,Shooting foul by A. Dosunmu (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,3:17.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:59.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:55.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,2:40.0,,,,,,M. Bamba,M. Bamba makes 3-pt jump shot from 23 ft (assist by W. Carter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:21.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:05.0,,,,,,W. Carter,W. Carter makes 2-pt dunk at rim (assist by T. Ross ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:50.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:46.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,1:26.0,,,,,,C. Anthony,Turnover by C. Anthony (bad pass; steal by J. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,1:24.0,,,,,,C. Anthony,Shooting foul by C. Anthony (drawn by A. Dosunmu ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,1:24.0,,,,,,A. Dosunmu,A. Dosunmu makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:24.0,,,,,,J. Suggs,J. Suggs enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,1:24.0,,,,,,A. Dosunmu,A. Dosunmu makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:11.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:09.0,,,,,,C. Anthony,Offensive rebound by C. Anthony,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:09.0,,,,,,C. Anthony,C. Anthony makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:09.0,,,,,,C. Anthony,Technical foul by C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,1:09.0,,,,,,Z. LaVine,Z. LaVine makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:03.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 16 ft (assist by A. Dosunmu ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:50.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:46.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,0:36.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 21 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:36.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,0:36.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:36.0,,,,,,W. Carter,Technical foul by W. Carter,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,0:36.0,,,,,,Z. LaVine,Z. LaVine makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:28.0,,,,,,C. Anthony,C. Anthony makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:09.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:04.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:00.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 21 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:00.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:44.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:41.0,,,,,,M. Bamba,Defensive rebound by M. Bamba,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,11:25.0,,,,,,J. Suggs,J. Suggs misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:22.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,11:18.0,,,,,,J. Green,J. Green makes 2-pt dunk from 1 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:00.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:57.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:47.0,,,,,,A. Dosunmu,A. Dosunmu misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:46.0,,,,,,J. Suggs,Defensive rebound by J. Suggs,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:33.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:12.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:10.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:01.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 7 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:45.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 10 ft (assist by D. DeRozan ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:36.0,,,,,,F. Wagner,F. Wagner misses 2-pt layup from 3 ft (block by D. DeRozan ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,9:34.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,9:28.0,,,,,,A. Dosunmu,Turnover by A. Dosunmu (bad pass; steal by F. Wagner ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,9:28.0,,,,,,D. DeRozan,Personal take foul by D. DeRozan (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,9:16.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:16.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:16.0,,,,,,A. Dosunmu,Loose ball foul by A. Dosunmu (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,9:09.0,,,,,,Z. LaVine,Personal foul by Z. LaVine (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,9:02.0,,,,,,C. Anthony,C. Anthony misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:00.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,8:55.0,,,,,,M. Bamba,Shooting foul by M. Bamba (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,8:55.0,,,,,,J. Green,J. Green makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:55.0,,,,,,J. Green,J. Green makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:40.0,,,,,,J. Green,Personal foul by J. Green (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,8:25.0,,,,,,W. Carter,W. Carter makes 2-pt layup from 2 ft (assist by J. Suggs ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:14.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt dunk at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:59.0,,,,,,J. Suggs,J. Suggs makes 3-pt jump shot from 26 ft (assist by W. Carter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:45.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:43.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,7:31.0,,,,,,W. Carter,Turnover by W. Carter (lost ball; steal by D. DeRozan ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,7:26.0,,,,,,D. DeRozan,Turnover by D. DeRozan (lost ball; steal by J. Suggs ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,7:23.0,,,,,,W. Carter,W. Carter makes 2-pt dunk from 1 ft (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:23.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,7:23.0,,,,,,T. Brown,T. Brown enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:07.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:44.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:41.0,,,,,,T. Brown,Defensive rebound by T. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,6:27.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 6 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:25.0,,,,,,D. DeRozan,Offensive rebound by D. DeRozan,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:23.0,,,,,,D. DeRozan,D. DeRozan makes 3-pt jump shot from 22 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:08.0,,,,,,M. Bamba,M. Bamba makes 3-pt jump shot from 23 ft (assist by W. Carter ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:57.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,5:57.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:57.0,,,,,,G. Harris,G. Harris enters the game for M. Bamba,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,5:57.0,,,,,,C. Okeke,C. Okeke enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,5:57.0,,,,,,C. White,C. White enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,5:57.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:50.0,,,,,,A. Dosunmu,Shooting foul by A. Dosunmu (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,5:50.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:50.0,,,,,,C. Anthony,C. Anthony makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:38.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:28.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 27 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:12.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 10 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:10.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,5:01.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:45.0,,,,,,A. Dosunmu,A. Dosunmu makes 3-pt jump shot from 25 ft (assist by N. VuÄeviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:27.0,,,,,,W. Carter,Turnover by W. Carter (lost ball; steal by A. Dosunmu ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,4:15.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 14 ft (assist by A. Dosunmu ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:05.0,,,,,,T. Brown,Personal foul by T. Brown (drawn by F. Wagner ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,4:05.0,,,,,,F. Wagner,F. Wagner misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:05.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:05.0,,,,,,J. Green,J. Green enters the game for T. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,4:05.0,,,,,,F. Wagner,F. Wagner makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:49.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 15 ft (assist by C. White ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:31.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:29.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,3:28.0,,,,,,Z. LaVine,Turnover by Z. LaVine (lost ball; steal by C. Anthony ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,3:24.0,,,,,,C. Anthony,C. Anthony makes 3-pt jump shot from 26 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:02.0,,,,,,C. White,C. White makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:48.0,,,,,,C. Okeke,C. Okeke makes 2-pt layup from 2 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:28.0,,,,,,J. Green,Turnover by J. Green (lost ball; steal by C. Okeke ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,2:26.0,,,,,,C. Anthony,Turnover by C. Anthony (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202010CHI,1,2:26.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,2:26.0,,,,,,T. Ross,T. Ross enters the game for C. Anthony,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:26.0,,,,,,J. Suggs,J. Suggs enters the game for W. Carter,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:26.0,,,,,,M. Wagner,M. Wagner enters the game for F. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:26.0,,,,,,T. Brown,T. Brown enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:26.0,,,,,,T. Cook,T. Cook enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:26.0,,,,,,D. DeRozan,D. DeRozan enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:26.0,,,,,,M. Thomas,M. Thomas enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,2:10.0,,,,,,C. White,C. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:07.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,2:03.0,,,,,,G. Harris,G. Harris makes 3-pt jump shot from 22 ft (assist by C. Okeke ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:48.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt layup from 3 ft (block by C. Okeke ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,1:45.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,1:40.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:36.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,1:31.0,,,,,,J. Suggs,Shooting foul by J. Suggs (drawn by T. Cook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,1:31.0,,,,,,T. Cook,T. Cook makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:31.0,,,,,,T. Cook,T. Cook misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:28.0,,,,,,C. Okeke,Defensive rebound by C. Okeke,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,1:15.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:11.0,,,,,,T. Cook,Defensive rebound by T. Cook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,1:02.0,,,,,,C. White,C. White makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:44.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:42.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,0:42.0,,,,,,M. Wagner,Loose ball foul by M. Wagner (drawn by T. Brown ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,0:42.0,,,,,,T. Brown,T. Brown misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:42.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:42.0,,,,,,T. Brown,T. Brown makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:30.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:28.0,,,,,,T. Cook,Defensive rebound by T. Cook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,0:07.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:02.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:01.0,,,,,,T. Brown,Defensive rebound by T. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,11:45.0,,,,,,J. Suggs,J. Suggs misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:43.0,,,,,,T. Cook,Defensive rebound by T. Cook,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,11:28.0,,,,,,C. White,C. White makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:12.0,,,,,,T. Ross,T. Ross misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,11:10.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,11:08.0,,,,,,T. Ross,Personal foul by T. Ross (drawn by T. Cook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,11:06.0,,,,,,G. Harris,Personal foul by G. Harris (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,10:59.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:45.0,,,,,,T. Ross,Turnover by T. Ross (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202010CHI,1,10:33.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 9 ft (block by C. Okeke ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,10:30.0,,,,,,G. Harris,Defensive rebound by G. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:28.0,,,,,,T. Brown,Shooting foul by T. Brown (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,10:28.0,,,,,,G. Harris,G. Harris misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:28.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:28.0,,,,,,G. Harris,G. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:17.0,,,,,,C. White,C. White misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:15.0,,,,,,T. Cook,Offensive rebound by T. Cook,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:15.0,,,,,,T. Cook,T. Cook misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,10:14.0,,,,,,G. Harris,Defensive rebound by G. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,10:01.0,,,,,,C. Okeke,C. Okeke makes 3-pt jump shot from 23 ft (assist by M. Wagner ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:39.0,,,,,,C. White,C. White misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:38.0,,,,,,C. White,Offensive rebound by C. White,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:25.0,,,,,,C. White,C. White misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:22.0,,,,,,J. Suggs,Defensive rebound by J. Suggs,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,9:15.0,,,,,,C. Okeke,C. Okeke misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,9:13.0,,,,,,T. Brown,Defensive rebound by T. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,9:13.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,9:13.0,,,,,,C. Anthony,C. Anthony enters the game for J. Suggs,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,9:13.0,,,,,,W. Carter,W. Carter enters the game for M. Wagner,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,8:56.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:54.0,,,,,,G. Harris,Defensive rebound by G. Harris,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,8:52.0,,,,,,C. White,Shooting foul by C. White (drawn by G. Harris ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,8:52.0,,,,,,G. Harris,G. Harris makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:52.0,,,,,,G. Harris,G. Harris makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:35.0,,,,,,T. Ross,Shooting foul by T. Ross (drawn by T. Cook ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,8:35.0,,,,,,T. Cook,T. Cook misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:35.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:35.0,,,,,,J. Green,J. Green enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,8:35.0,,,,,,Z. LaVine,Z. LaVine enters the game for M. Thomas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,8:35.0,,,,,,T. Cook,T. Cook makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:35.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for T. Cook,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,8:16.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,8:13.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,8:05.0,,,,,,T. Brown,T. Brown makes 3-pt jump shot from 22 ft (assist by C. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:52.0,,,,,,C. Anthony,C. Anthony misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:51.0,,,,,,W. Carter,Offensive rebound by W. Carter,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:51.0,,,,,,W. Carter,W. Carter makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:51.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by W. Carter ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,7:51.0,,,,,,F. Wagner,F. Wagner enters the game for T. Ross,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:51.0,,,,,,W. Carter,W. Carter makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:38.0,,,,,,J. Green,J. Green makes 2-pt layup from 1 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:38.0,,,,,,C. Okeke,Shooting foul by C. Okeke (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,7:38.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for T. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:38.0,,,,,,J. Green,J. Green misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:36.0,,,,,,W. Carter,Defensive rebound by W. Carter,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,7:25.0,,,,,,F. Wagner,F. Wagner makes 2-pt layup from 1 ft (assist by C. Anthony ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:08.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 7 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:07.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,7:00.0,,,,,,C. Anthony,C. Anthony makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,7:00.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by C. Anthony ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,7:00.0,,,,,,J. Suggs,J. Suggs enters the game for C. Okeke,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,7:00.0,,,,,,C. Anthony,C. Anthony makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:37.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:34.0,,,,,,C. Anthony,Defensive rebound by C. Anthony,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,6:31.0,,,,,,F. Wagner,F. Wagner makes 3-pt jump shot from 26 ft (assist by C. Anthony ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,6:06.0,,,,,,Z. LaVine,Turnover by Z. LaVine (lost ball; steal by C. Anthony ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,6:02.0,,,,,,J. Suggs,J. Suggs makes 2-pt layup from 1 ft (assist by W. Carter ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:46.0,,,,,,W. Carter,Shooting foul by W. Carter (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,5:46.0,,,,,,J. Green,J. Green makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:46.0,,,,,,D. DeRozan,D. DeRozan enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,5:46.0,,,,,,J. Green,J. Green makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:34.0,,,,,,W. Carter,W. Carter makes 2-pt jump shot from 10 ft (assist by J. Suggs ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:10.0,,,,,,A. Dosunmu,A. Dosunmu misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,5:08.0,,,,,,F. Wagner,Defensive rebound by F. Wagner,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,4:52.0,,,,,,C. Anthony,Turnover by C. Anthony (bad pass; steal by D. DeRozan ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202202010CHI,1,4:52.0,,,,,,C. White,C. White enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202202010CHI,1,4:35.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:33.0,,,,,,J. Suggs,Defensive rebound by J. Suggs,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,4:19.0,,,,,,G. Harris,G. Harris misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:15.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,4:07.0,,,,,,C. White,C. White misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,4:02.0,,,,,,J. Suggs,Defensive rebound by J. Suggs,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,3:47.0,,,,,,F. Wagner,F. Wagner misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:44.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,3:35.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:29.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,3:29.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,3:15.0,,,,,,F. Wagner,F. Wagner misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,3:13.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,2:54.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 19 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:39.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,2:36.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,2:19.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt jump shot from 17 ft (assist by D. DeRozan ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:54.0,,,,,,J. Suggs,J. Suggs misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:52.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,1:46.0,,,,,,A. Dosunmu,A. Dosunmu makes 3-pt jump shot from 23 ft (assist by N. VuÄeviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:46.0,,,,,,,Orlando full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202202010CHI,1,1:30.0,,,,,,J. Suggs,J. Suggs misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:27.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,1:17.0,,,,,,W. Carter,Personal take foul by W. Carter (drawn by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202202010CHI,1,1:17.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:17.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,1:07.0,,,,,,C. Anthony,C. Anthony misses 2-pt layup from 2 ft (block by N. VuÄeviÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202202010CHI,1,1:05.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,0:51.0,,,,,,Z. LaVine,Turnover by Z. LaVine (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202202010CHI,1,0:39.0,,,,,,W. Carter,W. Carter misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202202010CHI,1,0:35.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202202010CHI,1,0:13.0,,,,,,,Turnover by Team (shot clock),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False

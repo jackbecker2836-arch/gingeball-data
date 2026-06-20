@@ -1,0 +1,402 @@
+game_id,period,time_remaining,away_score,home_score,away_team,home_team,team,player,event_text,is_scoring,points,is_shot,shot_made,shot_zone,is_ft,ft_made,is_rebound,is_off_rebound,is_def_rebound,is_turnover,is_steal,is_block,is_foul,is_timeout,is_sub,is_live_ball_tov,is_dead_ball
+202201300CHI,1,11:40.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:28.0,,,,,,A. Dosunmu,A. Dosunmu makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:04.0,,,,,,A. Simons,Turnover by A. Simons (lost ball; steal by A. Dosunmu ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,11:00.0,,,,,,J. Green,J. Green makes 2-pt dunk from 1 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:41.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt layup from 3 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:39.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,10:27.0,,,,,,J. Green,J. Green makes 2-pt layup from 1 ft (assist by D. DeRozan ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:14.0,,,,,,A. Simons,A. Simons makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:55.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 11 ft (assist by Z. LaVine ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:42.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 26 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:20.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:17.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,9:05.0,,,,,,N. Powell,N. Powell makes 3-pt jump shot from 22 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:43.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:25.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 3-pt jump shot from 26 ft (assist by R. Covington ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:09.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 23 ft (assist by N. VuÄeviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:57.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:54.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:46.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:41.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:30.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 26 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:29.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,7:11.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 3-pt jump shot from 25 ft (assist by D. DeRozan ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:50.0,,,,,,N. Powell,N. Powell makes 3-pt jump shot from 25 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:28.0,,,,,,D. DeRozan,Turnover by D. DeRozan (bad pass; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,6:21.0,,,,,,N. Powell,Turnover by N. Powell (bad pass; steal by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,6:14.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 22 ft (assist by N. VuÄeviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:47.0,,,,,,C. McCollum,C. McCollum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:35.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:31.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:23.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 19 ft (assist by J. NurkiÄ ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:10.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt layup from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:55.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 24 ft (assist by C. McCollum ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:54.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,4:54.0,,,,,,B. McLemore,B. McLemore enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:54.0,,,,,,T. Brown,T. Brown enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:54.0,,,,,,M. Thomas,M. Thomas enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:54.0,,,,,,C. White,C. White enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:42.0,,,,,,R. Covington,Personal foul by R. Covington (drawn by M. Thomas ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,4:37.0,,,,,,C. White,C. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:33.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:28.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 20 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:23.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:06.0,,,,,,C. White,C. White misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:03.0,,,,,,A. Simons,Defensive rebound by A. Simons,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,3:51.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 25 ft (assist by N. Powell ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:24.0,,,,,,C. White,C. White makes 2-pt jump shot from 8 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:11.0,,,,,,T. Brown,Personal foul by T. Brown (drawn by N. Powell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,3:11.0,,,,,,T. Watford,T. Watford enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,3:03.0,,,,,,B. McLemore,B. McLemore makes 2-pt jump shot from 21 ft (assist by R. Covington ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:44.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt dunk at rim (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:27.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:25.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,2:14.0,,,,,,N. Powell,Shooting foul by N. Powell (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,2:14.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:14.0,,,,,,C. McCollum,C. McCollum enters the game for N. Powell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:14.0,,,,,,D. Smith,D. Smith enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:14.0,,,,,,T. Bradley,T. Bradley enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:14.0,,,,,,Z. LaVine,Z. LaVine makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:57.0,,,,,,T. Watford,T. Watford makes 2-pt jump shot from 7 ft (assist by C. McCollum ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:44.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:40.0,,,,,,B. McLemore,Defensive rebound by B. McLemore,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,1:33.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:31.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:31.0,,,,,,D. DeRozan,D. DeRozan enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,1:29.0,,,,,,B. McLemore,B. McLemore misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:26.0,,,,,,M. Thomas,Defensive rebound by M. Thomas,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,1:16.0,,,,,,M. Thomas,M. Thomas misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:12.0,,,,,,T. Bradley,Offensive rebound by T. Bradley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:10.0,,,,,,M. Thomas,M. Thomas misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:05.0,,,,,,M. Thomas,Offensive rebound by M. Thomas,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:53.0,,,,,,C. White,C. White misses 2-pt jump shot from 3 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:53.0,,,,,,C. White,Offensive rebound by C. White,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:53.0,,,,,,C. White,C. White misses 2-pt layup at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:53.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,0:44.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:40.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,0:31.0,,,,,,M. Thomas,M. Thomas makes 2-pt jump shot from 15 ft (assist by D. DeRozan ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:14.0,,,,,,M. Thomas,Personal foul by M. Thomas (drawn by B. McLemore ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,0:14.0,,,,,,J. Green,J. Green enters the game for M. Thomas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,0:00.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 16 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:48.0,,,,,,T. Watford,Shooting foul by T. Watford (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,11:48.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:48.0,,,,,,D. DeRozan,D. DeRozan makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:31.0,,,,,,C. McCollum,C. McCollum makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:19.0,,,,,,C. White,C. White makes 3-pt jump shot from 25 ft (assist by D. DeRozan ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:01.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 18 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:58.0,,,,,,T. Bradley,Defensive rebound by T. Bradley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,10:50.0,,,,,,T. Brown,T. Brown makes 3-pt jump shot from 23 ft (assist by D. DeRozan ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:33.0,,,,,,N. Powell,N. Powell makes 2-pt layup from 2 ft (assist by T. Watford ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:21.0,,,,,,C. White,C. White makes 3-pt jump shot from 25 ft (assist by T. Brown ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:59.0,,,,,,T. Watford,T. Watford misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:56.0,,,,,,D. Smith,Offensive rebound by D. Smith,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:54.0,,,,,,N. Powell,N. Powell makes 3-pt jump shot from 26 ft (assist by D. Smith ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:37.0,,,,,,C. White,C. White makes 3-pt jump shot from 22 ft (assist by D. DeRozan ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:35.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,9:35.0,,,,,,A. Simons,A. Simons enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,9:26.0,,,,,,T. Brown,Shooting foul by T. Brown (drawn by N. Powell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,9:26.0,,,,,,N. Powell,N. Powell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:26.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,9:26.0,,,,,,N. Powell,N. Powell misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:23.0,,,,,,T. Bradley,Defensive rebound by T. Bradley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,9:11.0,,,,,,T. Bradley,T. Bradley makes 2-pt dunk from 1 ft (assist by D. DeRozan ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:59.0,,,,,,N. Powell,N. Powell makes 3-pt jump shot from 26 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:41.0,,,,,,T. Bradley,T. Bradley makes 2-pt layup from 1 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:26.0,,,,,,N. Powell,Turnover by N. Powell (bad pass; steal by T. Bradley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,8:23.0,,,,,,A. Dosunmu,A. Dosunmu misses 2-pt dunk at rim,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:21.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,8:08.0,,,,,,T. Watford,T. Watford makes 2-pt jump shot from 4 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:53.0,,,,,,T. Bradley,T. Bradley makes 2-pt layup from 1 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:33.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 22 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:31.0,,,,,,T. Bradley,Defensive rebound by T. Bradley,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:24.0,,,,,,T. Bradley,T. Bradley misses 2-pt layup from 2 ft (block by T. Watford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201300CHI,1,7:21.0,,,,,,T. Brown,Offensive rebound by T. Brown,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:19.0,,,,,,T. Brown,T. Brown misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:16.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:11.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 12 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:59.0,,,,,,C. White,C. White misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:57.0,,,,,,T. Snell,Defensive rebound by T. Snell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,6:53.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:52.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,6:52.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,6:52.0,,,,,,B. McLemore,B. McLemore enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,6:52.0,,,,,,J. NurkiÄ,J. NurkiÄ enters the game for T. Watford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,6:52.0,,,,,,J. Green,J. Green enters the game for T. Bradley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,6:52.0,,,,,,Z. LaVine,Z. LaVine enters the game for T. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,6:52.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,6:37.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:34.0,,,,,,B. McLemore,Defensive rebound by B. McLemore,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,6:19.0,,,,,,J. NurkiÄ,J. NurkiÄ misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:19.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,6:04.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup at rim (assist by Z. LaVine ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:47.0,,,,,,N. Powell,N. Powell makes 2-pt jump shot from 12 ft (assist by A. Simons ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:47.0,,,,,,M. Thomas,M. Thomas enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,5:31.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:29.0,,,,,,T. Snell,Defensive rebound by T. Snell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:21.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 16 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:19.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:12.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 11 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:10.0,,,,,,N. Powell,Defensive rebound by N. Powell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:07.0,,,,,,N. Powell,N. Powell misses 2-pt layup from 3 ft (block by Z. LaVine ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201300CHI,1,5:07.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:04.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:00.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:54.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:50.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:47.0,,,,,,A. Dosunmu,Personal foul by A. Dosunmu (drawn by A. Simons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,4:47.0,,,,,,R. Covington,R. Covington enters the game for T. Snell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:41.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:37.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:31.0,,,,,,J. Green,J. Green makes 2-pt dunk at rim (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:13.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (lost ball; steal by J. Green ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,4:07.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup at rim (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:07.0,,,,,,B. McLemore,Shooting foul by B. McLemore (drawn by N. VuÄeviÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,4:07.0,,,,,,C. McCollum,C. McCollum enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:07.0,,,,,,D. DeRozan,D. DeRozan enters the game for M. Thomas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:07.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:55.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:40.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 23 ft (assist by A. Dosunmu ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:26.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:22.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,3:16.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:16.0,,,,,,J. NurkiÄ,Shooting foul by J. NurkiÄ (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,3:16.0,,,,,,Z. LaVine,Z. LaVine makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:08.0,,,,,,J. Green,Personal foul by J. Green (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,3:08.0,,,,,,C. White,C. White enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,3:02.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 7 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:00.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,2:50.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt dunk at rim (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:50.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,2:38.0,,,,,,R. Covington,R. Covington misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:34.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,2:30.0,,,,,,A. Dosunmu,Turnover by A. Dosunmu (bad pass; steal by A. Simons ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,2:11.0,,,,,,J. NurkiÄ,J. NurkiÄ makes 2-pt hook shot from 4 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:53.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:51.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,1:48.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201300CHI,1,1:27.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:13.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,1:13.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:13.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:00.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt dunk from 1 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:47.0,,,,,,A. Simons,Turnover by A. Simons (lost ball; steal by D. DeRozan ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,0:44.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt dunk at rim (assist by D. DeRozan ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:34.0,,,,,,C. McCollum,C. McCollum makes 3-pt jump shot from 28 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:16.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt layup from 3 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:16.0,,,,,,C. McCollum,Shooting foul by C. McCollum (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,0:16.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:05.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 24 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:01.0,,,,,,C. White,C. White misses 3-pt jump shot from 33 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:01.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,11:36.0,,,,,,J. Green,J. Green makes 2-pt dunk from 1 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:11.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:07.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,10:58.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 15 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:58.0,,,,,,,Defensive rebound by Team,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,10:47.0,,,,,,A. Dosunmu,Personal foul by A. Dosunmu (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,10:33.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 23 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:20.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 14 ft (assist by A. Dosunmu ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:09.0,,,,,,J. Green,Personal foul by J. Green (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,10:03.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:02.0,,,,,,N. Powell,Offensive rebound by N. Powell,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:02.0,,,,,,N. Powell,Turnover by N. Powell (bad pass; steal by A. Dosunmu ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,9:55.0,,,,,,Z. LaVine,Z. LaVine misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:55.0,,,,,,J. Green,Offensive rebound by J. Green,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:55.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by J. Green ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,9:55.0,,,,,,J. Green,J. Green makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:55.0,,,,,,J. Green,J. Green makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:38.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (lost ball; steal by Z. LaVine ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,9:34.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:34.0,,,,,,R. Covington,Shooting foul by R. Covington (drawn by Z. LaVine ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,9:34.0,,,,,,Z. LaVine,Z. LaVine misses free throw 1 of 1,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:31.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,9:14.0,,,,,,Z. LaVine,Personal foul by Z. LaVine (drawn by N. Powell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,9:05.0,,,,,,A. Simons,A. Simons misses 2-pt jump shot from 9 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:03.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,8:52.0,,,,,,Z. LaVine,Z. LaVine makes 2-pt jump shot from 20 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:50.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,8:37.0,,,,,,J. Green,Shooting foul by J. Green (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,8:37.0,,,,,,J. NurkiÄ,J. NurkiÄ misses free throw 1 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:37.0,,,,,,,Offensive rebound by Team,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:37.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:24.0,,,,,,J. Green,J. Green makes 3-pt jump shot from 23 ft (assist by A. Dosunmu ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:07.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:04.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:57.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 12 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:53.0,,,,,,N. Powell,Defensive rebound by N. Powell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:53.0,,,,,,T. Brown,T. Brown enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,7:46.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:43.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:38.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:35.0,,,,,,N. VuÄeviÄ,Offensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:33.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt hook shot from 5 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:32.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:26.0,,,,,,N. VuÄeviÄ,Shooting foul by N. VuÄeviÄ (drawn by J. NurkiÄ ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,7:26.0,,,,,,J. NurkiÄ,J. NurkiÄ makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:26.0,,,,,,J. NurkiÄ,J. NurkiÄ misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:24.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:08.0,,,,,,T. Brown,Turnover by T. Brown (bad pass; steal by R. Covington ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,7:05.0,,,,,,R. Covington,R. Covington makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:49.0,,,,,,Z. LaVine,Z. LaVine makes 3-pt jump shot from 25 ft (assist by N. VuÄeviÄ ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:36.0,,,,,,T. Brown,Shooting foul by T. Brown (drawn by N. Powell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,6:36.0,,,,,,N. Powell,N. Powell makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:36.0,,,,,,B. McLemore,B. McLemore enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,6:36.0,,,,,,N. Powell,N. Powell makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:15.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:13.0,,,,,,J. NurkiÄ,Defensive rebound by J. NurkiÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,6:06.0,,,,,,A. Simons,A. Simons misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:04.0,,,,,,T. Brown,Defensive rebound by T. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:52.0,,,,,,A. Dosunmu,A. Dosunmu makes 3-pt jump shot from 25 ft (assist by D. DeRozan ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:37.0,,,,,,A. Simons,A. Simons misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:36.0,,,,,,T. Brown,Defensive rebound by T. Brown,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:36.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,5:36.0,,,,,,T. Watford,T. Watford enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,5:36.0,,,,,,C. White,C. White enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,5:23.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:21.0,,,,,,N. Powell,Defensive rebound by N. Powell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:11.0,,,,,,N. Powell,N. Powell misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:10.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:04.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt layup from 1 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:37.0,,,,,,N. Powell,N. Powell makes 3-pt jump shot from 23 ft (assist by B. McLemore ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:16.0,,,,,,N. VuÄeviÄ,Turnover by N. VuÄeviÄ (bad pass; steal by B. McLemore ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,4:09.0,,,,,,A. Simons,A. Simons makes 3-pt jump shot from 25 ft,True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:51.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt hook shot from 7 ft (assist by C. White ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:37.0,,,,,,Z. LaVine,Personal foul by Z. LaVine (drawn by R. Covington ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,3:37.0,,,,,,R. Covington,R. Covington makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:37.0,,,,,,C. McCollum,C. McCollum enters the game for N. Powell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,3:37.0,,,,,,J. Green,J. Green enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,3:37.0,,,,,,R. Covington,R. Covington makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:19.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 28 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:15.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,3:02.0,,,,,,A. Simons,A. Simons misses 2-pt layup from 2 ft (block by N. VuÄeviÄ ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201300CHI,1,2:59.0,,,,,,C. McCollum,Offensive rebound by C. McCollum,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:54.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 13 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:38.0,,,,,,J. Green,J. Green misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:34.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,2:25.0,,,,,,B. McLemore,B. McLemore makes 3-pt jump shot from 23 ft (assist by A. Simons ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:02.0,,,,,,T. Watford,Shooting foul by T. Watford (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,2:02.0,,,,,,C. White,C. White makes free throw 1 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:02.0,,,,,,C. White,C. White makes free throw 2 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:02.0,,,,,,D. Smith,D. Smith enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:02.0,,,,,,T. Bradley,T. Bradley enters the game for T. Brown,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:02.0,,,,,,D. DeRozan,D. DeRozan enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:02.0,,,,,,M. Thomas,M. Thomas enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:02.0,,,,,,C. White,C. White makes free throw 3 of 3,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:51.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:48.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,1:42.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 17 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:42.0,,,,,,T. Watford,Shooting foul by T. Watford (drawn by D. DeRozan ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,1:42.0,,,,,,D. DeRozan,D. DeRozan makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:27.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 2 ft (assist by T. Watford ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:14.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 22 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:58.0,,,,,,T. Watford,T. Watford makes 2-pt jump shot from 6 ft (assist by D. Smith ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:38.0,,,,,,C. White,Turnover by C. White (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201300CHI,1,0:30.0,,,,,,C. McCollum,C. McCollum misses 2-pt layup from 3 ft (block by J. Green ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201300CHI,1,0:27.0,,,,,,B. McLemore,Offensive rebound by B. McLemore,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:24.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:22.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,0:06.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 23 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:06.0,,,,,,T. Bradley,Offensive rebound by T. Bradley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:03.0,,,,,,T. Bradley,T. Bradley misses 2-pt layup from 1 ft (block by T. Watford ),False,0,True,False,rim,False,,False,False,False,False,False,True,False,False,False,False,False
+202201300CHI,1,0:03.0,,,,,,T. Watford,Defensive rebound by T. Watford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,11:48.0,,,,,,C. McCollum,C. McCollum misses 2-pt jump shot from 14 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:44.0,,,,,,D. DeRozan,Defensive rebound by D. DeRozan,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,11:35.0,,,,,,C. White,C. White misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,11:29.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,11:22.0,,,,,,T. Watford,T. Watford makes 2-pt jump shot from 11 ft (assist by D. Smith ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:57.0,,,,,,M. Thomas,M. Thomas makes 2-pt jump shot from 22 ft (assist by J. Green ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:57.0,,,,,,,Instant Replay (Request: Ruling Stands),False,0,False,,,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:39.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:17.0,,,,,,M. Thomas,M. Thomas misses 2-pt jump shot from 18 ft (block by T. Watford ),False,0,True,False,midrange,False,,False,False,False,False,False,True,False,False,False,False,False
+202201300CHI,1,10:15.0,,,,,,T. Bradley,Offensive rebound by T. Bradley,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,10:13.0,,,,,,T. Bradley,T. Bradley makes 2-pt layup at rim,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:53.0,,,,,,T. Snell,T. Snell misses 3-pt jump shot from 23 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:53.0,,,,,,J. Green,Defensive rebound by J. Green,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,9:53.0,,,,,,,Chicago full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,9:53.0,,,,,,A. Dosunmu,A. Dosunmu enters the game for J. Green,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,9:38.0,,,,,,T. Bradley,T. Bradley makes 2-pt hook shot from 6 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:26.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:23.0,,,,,,C. White,Defensive rebound by C. White,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,9:18.0,,,,,,B. McLemore,Shooting foul by B. McLemore (drawn by C. White ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,9:18.0,,,,,,C. White,C. White makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:18.0,,,,,,C. White,C. White makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,9:06.0,,,,,,B. McLemore,B. McLemore makes 3-pt jump shot from 24 ft (assist by D. Smith ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:44.0,,,,,,M. Thomas,M. Thomas makes 3-pt jump shot from 24 ft (assist by C. White ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:29.0,,,,,,C. McCollum,Turnover by C. McCollum (bad pass),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201300CHI,1,8:09.0,,,,,,M. Thomas,M. Thomas makes 2-pt jump shot from 19 ft (assist by D. DeRozan ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,8:09.0,,,,,,J. NurkiÄ,J. NurkiÄ enters the game for T. Snell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,8:09.0,,,,,,N. Powell,N. Powell enters the game for T. Watford,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,7:48.0,,,,,,C. McCollum,C. McCollum misses 3-pt jump shot from 22 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:44.0,,,,,,J. NurkiÄ,Offensive rebound by J. NurkiÄ,False,0,False,,,False,,True,True,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:43.0,,,,,,B. McLemore,B. McLemore misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:40.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:26.0,,,,,,M. Thomas,M. Thomas misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:24.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,7:17.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 6 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:17.0,,,,,,M. Thomas,Shooting foul by M. Thomas (drawn by C. McCollum ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,7:17.0,,,,,,R. Covington,R. Covington enters the game for B. McLemore,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,7:17.0,,,,,,Z. LaVine,Z. LaVine enters the game for T. Bradley,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,7:17.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ enters the game for M. Thomas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,7:17.0,,,,,,C. McCollum,C. McCollum makes free throw 1 of 1,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,7:17.0,,,,,,A. Simons,A. Simons enters the game for D. Smith,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,7:01.0,,,,,,D. DeRozan,D. DeRozan makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:43.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 14 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:28.0,,,,,,D. DeRozan,D. DeRozan makes 3-pt jump shot from 26 ft (assist by Z. LaVine ),True,3,True,True,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,6:09.0,,,,,,C. McCollum,C. McCollum makes 2-pt jump shot from 11 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:50.0,,,,,,D. DeRozan,D. DeRozan misses 2-pt jump shot from 17 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:48.0,,,,,,C. McCollum,Defensive rebound by C. McCollum,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,5:40.0,,,,,,J. NurkiÄ,Turnover by J. NurkiÄ (bad pass; steal by D. DeRozan ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,5:26.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 17 ft (assist by C. White ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:13.0,,,,,,C. White,Shooting foul by C. White (drawn by A. Simons ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,5:13.0,,,,,,C. White,Technical foul by C. White,False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,5:13.0,,,,,,A. Simons,A. Simons makes technical free throw,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:13.0,,,,,,A. Simons,A. Simons makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:13.0,,,,,,M. Thomas,M. Thomas enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,5:13.0,,,,,,A. Simons,A. Simons misses free throw 2 of 2,False,0,True,False,,True,False,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,5:11.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:54.0,,,,,,N. VuÄeviÄ,N. VuÄeviÄ makes 2-pt jump shot from 21 ft (assist by Z. LaVine ),True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:38.0,,,,,,A. Simons,A. Simons makes 2-pt jump shot from 9 ft,True,2,True,True,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:25.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 27 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:25.0,,,,,,R. Covington,Defensive rebound by R. Covington,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:15.0,,,,,,N. Powell,N. Powell misses 3-pt jump shot from 24 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:11.0,,,,,,A. Dosunmu,Defensive rebound by A. Dosunmu,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,4:02.0,,,,,,C. White,C. White makes 2-pt layup from 1 ft (assist by A. Dosunmu ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,4:02.0,,,,,,,Portland full timeout,False,0,False,,,False,,False,False,False,False,False,False,False,True,False,False,True
+202201300CHI,1,4:02.0,,,,,,K. Blevins,K. Blevins enters the game for R. Covington,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:02.0,,,,,,G. Brown,G. Brown enters the game for C. McCollum,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:02.0,,,,,,D. Smith,D. Smith enters the game for J. NurkiÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:02.0,,,,,,T. Snell,T. Snell enters the game for N. Powell,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:02.0,,,,,,T. Watford,T. Watford enters the game for A. Simons,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,4:02.0,,,,,,D. DeRozan,D. DeRozan enters the game for M. Thomas,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,3:43.0,,,,,,G. Brown,G. Brown makes 2-pt dunk at rim (assist by D. Smith ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:22.0,,,,,,A. Dosunmu,Turnover by A. Dosunmu (out of bounds lost ball),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201300CHI,1,3:09.0,,,,,,D. Smith,D. Smith misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,3:07.0,,,,,,N. VuÄeviÄ,Defensive rebound by N. VuÄeviÄ,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,2:48.0,,,,,,A. Dosunmu,Turnover by A. Dosunmu (traveling),False,0,False,,,False,,False,False,False,True,False,False,False,False,False,False,False
+202201300CHI,1,2:48.0,,,,,,M. Thomas,M. Thomas enters the game for D. DeRozan,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,2:37.0,,,,,,T. Snell,T. Snell misses 2-pt jump shot from 5 ft,False,0,True,False,midrange,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:35.0,,,,,,Z. LaVine,Defensive rebound by Z. LaVine,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,2:21.0,,,,,,Z. LaVine,Z. LaVine misses 3-pt jump shot from 26 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,2:17.0,,,,,,T. Watford,Defensive rebound by T. Watford,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,2:10.0,,,,,,T. Watford,T. Watford makes 2-pt layup from 2 ft,True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:52.0,,,,,,T. Snell,Shooting foul by T. Snell (drawn by A. Dosunmu ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,1:52.0,,,,,,T. Bradley,T. Bradley enters the game for Z. LaVine,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,1:52.0,,,,,,T. Brown,T. Brown enters the game for N. VuÄeviÄ,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,1:52.0,,,,,,A. Dosunmu,A. Dosunmu makes free throw 1 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:52.0,,,,,,A. Dosunmu,A. Dosunmu makes free throw 2 of 2,True,1,True,True,,True,True,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:38.0,,,,,,K. Blevins,Turnover by K. Blevins (lost ball; steal by T. Brown ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,1:17.0,,,,,,T. Brown,T. Brown misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,1:15.0,,,,,,T. Snell,Defensive rebound by T. Snell,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,1:10.0,,,,,,T. Brown,Personal foul by T. Brown (drawn by T. Snell ),False,0,False,,,False,,False,False,False,False,False,False,True,False,False,False,True
+202201300CHI,1,1:10.0,,,,,,M. Hill,M. Hill enters the game for A. Dosunmu,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,1:10.0,,,,,,A. McKinnie,A. McKinnie enters the game for C. White,False,0,False,,,False,,False,False,False,False,False,False,False,False,True,False,True
+202201300CHI,1,0:52.0,,,,,,K. Blevins,Turnover by K. Blevins (bad pass; steal by T. Bradley ),False,0,False,,,False,,False,False,False,True,True,False,False,False,False,True,False
+202201300CHI,1,0:48.0,,,,,,A. McKinnie,A. McKinnie misses 2-pt layup from 1 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:46.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,0:43.0,,,,,,G. Brown,G. Brown makes 2-pt dunk from 1 ft (assist by K. Blevins ),True,2,True,True,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:27.0,,,,,,M. Hill,M. Hill misses 3-pt jump shot from 25 ft,False,0,True,False,above_break_3,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:25.0,,,,,,D. Smith,Defensive rebound by D. Smith,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
+202201300CHI,1,0:18.0,,,,,,D. Smith,D. Smith misses 2-pt layup from 2 ft,False,0,True,False,rim,False,,False,False,False,False,False,False,False,False,False,False,False
+202201300CHI,1,0:15.0,,,,,,A. McKinnie,Defensive rebound by A. McKinnie,False,0,False,,,False,,True,False,True,False,False,False,False,False,False,False,False
