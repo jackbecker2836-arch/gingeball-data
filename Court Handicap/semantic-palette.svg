@@ -1,0 +1,59 @@
+<svg viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&amp;family=Space+Mono:wght@400;700&amp;family=Fraunces:ital,opsz,wght@1,9..144,400&amp;display=swap');
+      .title { font-family:'Bricolage Grotesque',sans-serif; font-weight:800; }
+      .sect  { font-family:'Bricolage Grotesque',sans-serif; font-weight:600; letter-spacing:.14em; }
+      .mono  { font-family:'Space Mono',monospace; }
+      .serif { font-family:'Fraunces',serif; font-style:italic; }
+    </style>
+    <pattern id="prov" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#1A1C28"/>
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#E49B18" stroke-width="3"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="#09090B"/>
+
+  <text x="40" y="50" class="title" font-size="28" fill="#F0EBE1">SEMANTIC PALETTE &amp; BADGE SYSTEM</text>
+  <text x="40" y="74" class="mono" font-size="12" fill="#968D82">color is meaning, not decoration — every token answers a truth · Phase 10A</text>
+  <line x1="40" y1="90" x2="1240" y2="90" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- ===== SOURCE STATE ===== -->
+  <text x="40" y="116" class="sect" font-size="12" fill="#5BA8D4">SOURCE STATE — how much to trust where the number came from</text>
+  <!-- LIVE -->
+  <g transform="translate(40,126)"><rect width="224" height="46" fill="#1B6BA8"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">LIVE</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#5BA8D4">#1B6BA8</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">fresh + complete signal — the only badge that reads "trust"</text></g>
+  <!-- STALE -->
+  <g transform="translate(280,126)"><rect width="224" height="46" fill="#B8862F"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">LIVE · STALE</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#B8862F">#B8862F</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">oxidized gold — real, but aging past freshness</text></g>
+  <!-- LKG -->
+  <g transform="translate(520,126)"><rect width="224" height="46" fill="#6E6A60"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">LAST-KNOWN-GOOD</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#6E6A60">#6E6A60</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">dulled — a cached truth, not a current one</text></g>
+  <!-- FALLBACK -->
+  <g transform="translate(760,126)"><rect width="224" height="46" fill="#1A1C28" stroke="#4A4744"/><text x="0" y="64" class="title" font-size="13" fill="#968D82">FALLBACK</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#4A4744">#1A1C28</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">bench surface — must never read as live</text></g>
+  <!-- SYNTHETIC -->
+  <g transform="translate(1000,126)"><rect width="224" height="46" fill="#968D82"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">SYNTHETIC</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#968D82">#968D82</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">bone neutral — a model demonstration, not measured</text></g>
+
+  <!-- ===== CONFIDENCE ===== -->
+  <text x="40" y="252" class="sect" font-size="12" fill="#5BA8D4">CONFIDENCE — how much the system believes itself</text>
+  <g transform="translate(40,262)"><rect width="224" height="46" fill="#B32424"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">LOW</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#CC6B6B">#B32424</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">thin evidence — read with caution</text></g>
+  <g transform="translate(280,262)"><rect width="224" height="46" fill="#E49B18"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">MEDIUM</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#E49B18">#E49B18</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">defensible, not definitive</text></g>
+  <g transform="translate(520,262)"><rect width="224" height="46" fill="#357A4E"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">HIGH</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#357A4E">#357A4E</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">earned — measured + clean inputs</text></g>
+  <g transform="translate(760,262)"><rect width="224" height="46" fill="url(#prov)"/><text x="0" y="64" class="title" font-size="13" fill="#E49B18">PROVISIONAL</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#E49B18">hatch</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">overlay, not a color — any non-live input flags it</text></g>
+
+  <!-- ===== PRESSURE & TRANSLATION ===== -->
+  <text x="40" y="388" class="sect" font-size="12" fill="#5BA8D4">PRESSURE &amp; TRANSLATION — who is bending the court</text>
+  <g transform="translate(40,398)"><rect width="224" height="46" fill="#E49B18"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">MARKET PRESSURE</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#E49B18">#E49B18</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">the line's suppression of the par</text></g>
+  <g transform="translate(280,398)"><rect width="224" height="46" fill="#B32424"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">LINEUP PRESSURE</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#CC6B6B">#B32424</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">the five further shaping the floor</text></g>
+  <g transform="translate(520,398)"><rect width="224" height="46" fill="#CC6B6B"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">ARCHETYPE HOSTILITY</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#CC6B6B">#CC6B6B</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">the matchup difficulty for this player</text></g>
+  <g transform="translate(760,398)"><rect width="224" height="46" fill="#5BA8D4"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">RELIEF</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#5BA8D4">#5BA8D4</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">the court easing — the inversion (rim protector)</text></g>
+
+  <!-- ===== PROOF / SHADOW / WITHHELD ===== -->
+  <text x="40" y="524" class="sect" font-size="12" fill="#5BA8D4">PROOF · SHADOW · WITHHELD — the evidence layer</text>
+  <g transform="translate(40,534)"><rect width="224" height="46" fill="#CF4E15"/><text x="0" y="64" class="title" font-size="13" fill="#F0EBE1">PROOF TRAIL</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#CF4E15">#CF4E15</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">ember — lit by actual possessions</text></g>
+  <g transform="translate(280,534)"><rect width="224" height="46" fill="#968D82" fill-opacity="0.30" stroke="#4A4744" stroke-dasharray="4 4"/><text x="0" y="64" class="title" font-size="13" fill="#968D82">SHADOW · NOT APPLIED</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#4A4744">35% ghost</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">ghosted — an audition, never authority</text></g>
+  <g transform="translate(520,534)"><rect width="224" height="46" fill="#0D0E14" stroke="#4A4744" stroke-dasharray="3 5"/><text x="0" y="64" class="title" font-size="13" fill="#4A4744">WITHHELD METRIC</text><text x="224" y="64" text-anchor="end" class="mono" font-size="10" fill="#4A4744">empty + dash</text><text x="0" y="80" class="serif" font-size="11" fill="#968D82">a number not earned — shown as absent, named</text></g>
+
+  <!-- footer: honest collision + a11y -->
+  <line x1="40" y1="636" x2="1240" y2="636" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="40" y="662" class="mono" font-size="11" fill="#CC6B6B">⚠ COLLISION FOUND — amber is overloaded: MEDIUM confidence, MARKET pressure, and STALE all sit near #E49B18. Disambiguate by shape/label, not hue alone.</text>
+  <text x="40" y="682" class="mono" font-size="11" fill="#968D82">A11Y — every state also carries a text label + icon; color is never the sole signal. Target WCAG AA on chalk #F0EBE1 text over dark surfaces.</text>
+  <text x="40" y="702" class="serif" font-size="12" fill="#CF4E15">the badge tells the truth even in grayscale.</text>
+</svg>

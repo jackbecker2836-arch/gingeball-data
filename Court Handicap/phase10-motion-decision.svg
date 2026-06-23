@@ -1,0 +1,75 @@
+<svg viewBox="0 0 1200 660" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&amp;family=Anton&amp;family=Fraunces:ital,wght@1,500&amp;family=Space+Mono:wght@400;700&amp;display=swap');
+      .title{font-family:'Bricolage Grotesque',sans-serif;font-weight:800}
+      .sect{font-family:'Bricolage Grotesque',sans-serif;font-weight:600;letter-spacing:.14em}
+      .mono{font-family:'Space Mono',monospace}
+      .serif{font-family:'Fraunces',serif;font-style:italic}
+      .num{font-family:'Anton',sans-serif}
+    </style>
+  </defs>
+  <rect width="1200" height="660" fill="#09090B"/>
+  <text x="40" y="50" class="title" font-size="27" fill="#F0EBE1">PHASE 10 — MOTION DECISION</text>
+  <text x="40" y="74" class="mono" font-size="12" fill="#968D82">the living court stays truthful before it becomes deeper · 3D earned by truth, not desire</text>
+  <rect x="980" y="28" width="180" height="40" fill="#357A4E"/>
+  <text x="1070" y="54" text-anchor="middle" class="title" font-size="17" fill="#09090B">LOCK_2D</text>
+  <line x1="40" y1="90" x2="1160" y2="90" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- spine: each sentence carried by 2D -->
+  <text x="40" y="120" class="sect" font-size="12" fill="#5BA8D4">THE SPINE — every sentence carried by the 2D system</text>
+  <g class="mono" font-size="13">
+    <g transform="translate(40,138)">
+      <rect width="540" height="40" fill="#0D0E14" stroke="#357A4E" stroke-opacity="0.5"/><text x="14" y="25" fill="#F0EBE1">the market sets it</text><text x="526" y="25" text-anchor="end" fill="#357A4E">✓ chips collapse · burn · source-aware</text>
+    </g>
+    <g transform="translate(40,186)">
+      <rect width="540" height="40" fill="#0D0E14" stroke="#357A4E" stroke-opacity="0.5"/><text x="14" y="25" fill="#F0EBE1">the lineup shapes it</text><text x="526" y="25" text-anchor="end" fill="#357A4E">✓ nodes + seams</text>
+    </g>
+    <g transform="translate(40,234)">
+      <rect width="540" height="40" fill="#0D0E14" stroke="#357A4E" stroke-opacity="0.5"/><text x="14" y="25" fill="#F0EBE1">the archetype translates it</text><text x="526" y="25" text-anchor="end" fill="#357A4E">✓ warp lens</text>
+    </g>
+    <g transform="translate(40,282)">
+      <rect width="540" height="40" fill="#0D0E14" stroke="#357A4E" stroke-opacity="0.5"/><text x="14" y="25" fill="#F0EBE1">the possessions prove it</text><text x="526" y="25" text-anchor="end" fill="#357A4E">✓ beads accrue</text>
+    </g>
+    <g transform="translate(40,330)">
+      <rect width="540" height="40" fill="#0D0E14" stroke="#357A4E" stroke-opacity="0.5"/><text x="14" y="25" fill="#F0EBE1">the verdict rules it</text><text x="526" y="25" text-anchor="end" fill="#357A4E">✓ after proof (10F)</text>
+    </g>
+    <g transform="translate(40,378)">
+      <rect width="540" height="40" fill="#0D0E14" stroke="#357A4E" stroke-opacity="0.5"/><text x="14" y="25" fill="#F0EBE1">confidence confesses</text><text x="526" y="25" text-anchor="end" fill="#357A4E">✓ ring = earned arc</text>
+    </g>
+  </g>
+
+  <!-- 3D candidates: deferred -->
+  <text x="620" y="120" class="sect" font-size="12" fill="#C2611C">3D CANDIDATES — judged against "depth reveals truth flat cannot"</text>
+  <g class="mono" font-size="12">
+    <g transform="translate(620,138)">
+      <rect width="540" height="58" fill="#0D0E14" stroke="#4A4744"/><text x="14" y="24" class="title" font-size="13" fill="#968D82">court tilt depth</text><text x="14" y="44" fill="#968D82">flat tilt + slope card already encode it · closest future case</text><text x="526" y="24" text-anchor="end" fill="#C2611C">DEFER</text>
+    </g>
+    <g transform="translate(620,204)">
+      <rect width="540" height="50" fill="#0D0E14" stroke="#4A4744"/><text x="14" y="22" class="title" font-size="13" fill="#968D82">archetype lens depth</text><text x="14" y="40" fill="#968D82">2D warp + fit/difficulty already show translation</text><text x="526" y="22" text-anchor="end" fill="#C2611C">DEFER</text>
+    </g>
+    <g transform="translate(620,262)">
+      <rect width="540" height="50" fill="#0D0E14" stroke="#4A4744"/><text x="14" y="22" class="title" font-size="13" fill="#968D82">pressure-field z-layer</text><text x="14" y="40" fill="#968D82">hazard rings + weighted proof already mark pressure</text><text x="526" y="22" text-anchor="end" fill="#C2611C">DEFER</text>
+    </g>
+    <g transform="translate(620,320)">
+      <rect width="540" height="50" fill="#0D0E14" stroke="#4A4744"/><text x="14" y="22" class="title" font-size="13" fill="#968D82">proof z-layering</text><text x="14" y="40" fill="#968D82">flat accrual reads in order; z adds occlusion, not clarity</text><text x="526" y="22" text-anchor="end" fill="#C2611C">DEFER</text>
+    </g>
+  </g>
+
+  <!-- locked invariants -->
+  <line x1="40" y1="450" x2="1160" y2="450" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="40" y="478" class="sect" font-size="12" fill="#5BA8D4">LOCKED INVARIANTS — the lock holds only while these hold (enforced by motionLockHeld)</text>
+  <g class="mono" font-size="11.5" fill="#968D82">
+    <text x="40" y="506">› proof completes before the verdict</text>
+    <text x="40" y="528">› the ring fills to the earned arc, never celebrates</text>
+    <text x="40" y="550">› only a live read breathes; degraded states never animate live</text>
+    <text x="620" y="506">› no ambient / looping motion</text>
+    <text x="620" y="528">› reduced-motion collapses to the truthful end-state</text>
+    <text x="620" y="550">› DOM/SVG text is the truth carrier; WebGL never carries facts</text>
+  </g>
+
+  <line x1="40" y1="582" x2="1160" y2="582" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="40" y="610" class="mono" font-size="11" fill="#357A4E">539 self-checks green · 20 suites · strict typecheck clean · canonical math byte-stable · no new motion</text>
+  <text x="40" y="632" class="serif" font-size="14" fill="#CF4E15">make it breathe · make it legible · unmistakably Gingeball · never let it lie</text>
+  <text x="1160" y="632" text-anchor="end" class="mono" font-size="11" fill="#968D82">open step: in-app pixel / Frame.io pass</text>
+</svg>

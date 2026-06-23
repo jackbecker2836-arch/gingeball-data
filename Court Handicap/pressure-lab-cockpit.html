@@ -1,0 +1,144 @@
+<meta charset="utf-8">
+<title>Court Handicap — Internal Pressure Lab (synthetic)</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;700&family=Anton&family=Space+Mono:wght@400;700&family=Fraunces:ital,opsz,wght@1,9..144,500&display=swap');
+  :root{
+    --void:#09090B; --pitch:#0D0E14; --bench:#1A1C28; --chalk:#F0EBE1; --bone:#968D82; --fade:#4A4744;
+    --ember:#CF4E15; --score:#E49B18; --bp:#1B6BA8; --bpText:#5BA8D4; --cr:#B32424; --crText:#CC6B6B;
+    --green:#357A4E; --rust:#C2611C; --cached:#6E6A60; --hair:rgba(255,255,255,0.08);
+    --f-title:'Bricolage Grotesque',sans-serif; --f-num:'Anton',sans-serif; --f-mono:'Space Mono',monospace; --f-serif:'Fraunces',serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:radial-gradient(120% 90% at 20% -10%,#12131c 0%,var(--void) 60%);color:var(--chalk);font-family:var(--f-mono);font-size:13px;line-height:1.5;padding:26px 22px 40px}
+  .wrap{max-width:1080px;margin:0 auto}
+  .top{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px;border-bottom:1px solid var(--hair);padding-bottom:14px}
+  h1{font-family:var(--f-title);font-weight:700;font-size:23px;letter-spacing:-0.02em;margin:0;color:var(--chalk)}
+  h1 small{display:block;font-family:var(--f-serif);font-style:italic;font-weight:500;font-size:14px;color:var(--bone);letter-spacing:0}
+  .stamp{font-family:var(--f-mono);font-size:11px;text-transform:uppercase;letter-spacing:0.14em;color:var(--rust);border:1px solid var(--rust);border-radius:3px;padding:5px 9px}
+  .spine{font-family:var(--f-serif);font-style:italic;font-size:14px;color:var(--bpText);margin:16px 0 22px}
+  h2{font-family:var(--f-title);font-weight:600;font-size:14px;text-transform:uppercase;letter-spacing:0.10em;color:var(--bone);margin:26px 0 10px;display:flex;gap:10px;align-items:center}
+  h2::after{content:"";flex:1;height:1px;background:var(--hair)}
+  table{width:100%;border-collapse:collapse;font-size:12px}
+  th,td{text-align:left;padding:7px 9px;border-bottom:1px solid var(--hair);vertical-align:top}
+  th{font-family:var(--f-title);font-weight:600;font-size:10px;text-transform:uppercase;letter-spacing:0.08em;color:var(--fade)}
+  td.arch{font-family:var(--f-title);font-weight:600;color:var(--chalk);font-size:12.5px}
+  .team{font-family:var(--f-num);font-size:15px;letter-spacing:0.04em}
+  .tX{color:var(--score)} .tY{color:var(--bpText)}
+  .pill{display:inline-block;font-size:10px;letter-spacing:0.06em;text-transform:uppercase;padding:2px 7px;border-radius:10px;border:1px solid}
+  .c-covered{color:#7FCF9E;border-color:var(--green);background:rgba(53,122,78,0.14)}
+  .c-partial{color:var(--score);border-color:var(--score);background:rgba(228,155,24,0.10)}
+  .c-missing{color:var(--cached);border-color:var(--cached);background:rgba(110,106,96,0.10)}
+  .help{color:#7FCF9E} .hurtself{color:var(--crText)}
+  .delta{font-family:var(--f-num);font-size:14px}
+  .dim{color:var(--fade)}
+  .mono-s{color:var(--bone)}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  .card{border:1px solid var(--hair);border-radius:6px;padding:14px 15px;background:rgba(13,14,20,0.6)}
+  .card h3{font-family:var(--f-title);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:0.08em;color:var(--bone);margin:0 0 9px}
+  .kv{display:flex;justify-content:space-between;gap:10px;padding:3px 0;border-bottom:1px dotted var(--hair)}
+  .kv span:first-child{color:var(--bone)} .kv span:last-child{color:var(--chalk);text-align:right}
+  .ck{display:flex;justify-content:space-between;gap:8px;padding:4px 0;border-bottom:1px dotted var(--hair)}
+  .ok{color:#7FCF9E} .no{color:var(--crText)}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:8px;color:var(--bone);font-size:11px}
+  .legend b{font-weight:400;color:var(--chalk)}
+  .foot{margin-top:26px;border-top:1px solid var(--hair);padding-top:12px;color:var(--fade);font-size:11px}
+  .barwrap{display:flex;height:10px;border-radius:5px;overflow:hidden;border:1px solid var(--hair);margin:6px 0 2px}
+  .barwrap i{display:block;height:100%}
+</style>
+<div class="wrap">
+  <div class="top">
+    <h1>Court Handicap — Internal Pressure Lab<small>audit cockpit · makes failures loud · not a product surface</small></h1>
+    <div class="stamp">Synthetic · Internal</div>
+  </div>
+  <div class="spine">The court is made of both teams. The player reads the court — and changes it.</div>
+
+  <h2>Two-Team Archetype Impact Matrix — active set (engine-tested)</h2>
+  <table>
+    <thead><tr>
+      <th>Archetype</th><th>Team</th><th>Self-read</th><th>Own-team impact</th><th>Opponent impact</th><th>Coverage</th>
+    </tr></thead>
+    <tbody>
+      <tr><td class="arch" rowspan="2">scoring_guard</td><td><span class="team tX">X</span></td><td>d<b>75</b> / f<b>28</b> <span class="mono-s">engine</span></td><td class="dim">— (hero read)</td><td class="dim">—</td><td rowspan="2"><span class="pill c-covered">covered</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td>d<b>62</b> / f<b>36</b> <span class="mono-s">engine</span></td><td class="dim">— (hero read)</td><td class="dim">—</td></tr>
+
+      <tr><td class="arch" rowspan="2">rim_protector</td><td><span class="team tX">X</span></td><td>d<b>56</b> / f<b>71</b> <span class="mono-s">engine</span></td><td class="dim">—</td><td>rim↑ → opp diff <span class="delta help">+6</span> <span class="help">✓</span></td><td rowspan="2"><span class="pill c-covered">covered</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td>d<b>50</b> / f<b>62</b> <span class="mono-s">engine</span></td><td class="dim">—</td><td>rim↑ → opp diff <span class="delta help">+6</span> <span class="help">✓</span></td></tr>
+
+      <tr><td class="arch" rowspan="2">roll_big</td><td><span class="team tX">X</span></td><td class="mono-s">estimate</td><td>synergy↑ → fit <span class="delta help">+6</span> <span class="help">✓</span></td><td class="dim">—</td><td rowspan="2"><span class="pill c-partial">partial</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td class="mono-s">estimate</td><td>synergy↑ → fit <span class="delta help">+5</span> <span class="help">✓</span></td><td class="dim">—</td></tr>
+
+      <tr><td class="arch" rowspan="2">spot_up_wing</td><td><span class="team tX">X</span></td><td class="mono-s">estimate</td><td>spacing↓ → diff <span class="delta help">−8</span> <span class="help">✓</span></td><td class="dim">—</td><td rowspan="2"><span class="pill c-partial">partial</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td class="mono-s">estimate</td><td>spacing↓ → diff <span class="delta help">−8</span> <span class="help">✓</span></td><td class="dim">—</td></tr>
+
+      <tr><td class="arch" rowspan="2">connector</td><td><span class="team tX">X</span></td><td class="mono-s">estimate</td><td>synergy↑ → fit <span class="delta help">+6</span> <span class="help">✓</span></td><td class="dim">—</td><td rowspan="2"><span class="pill c-partial">partial</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td class="mono-s">estimate</td><td>synergy↑ → fit <span class="delta help">+5</span> <span class="help">✓</span></td><td class="dim">—</td></tr>
+
+      <tr><td class="arch" rowspan="2">defensive_stopper</td><td><span class="team tX">X</span></td><td class="mono-s">estimate</td><td class="dim">—</td><td>poa↑ → opp diff <span class="delta help">+8</span> <span class="help">✓</span></td><td rowspan="2"><span class="pill c-partial">partial</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td class="mono-s">estimate</td><td class="dim">—</td><td>poa↑ → opp diff <span class="delta help">+8</span> <span class="help">✓</span></td></tr>
+
+      <tr><td class="arch" rowspan="2">secondary_creator</td><td><span class="team tX">X</span></td><td class="dim">not modeled</td><td class="dim">—</td><td class="dim">—</td><td rowspan="2"><span class="pill c-missing">missing</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td class="dim">not modeled</td><td class="dim">—</td><td class="dim">—</td></tr>
+      <tr><td class="arch" rowspan="2">high_usage_star</td><td><span class="team tX">X</span></td><td class="dim">not modeled</td><td class="dim">—</td><td class="dim">—</td><td rowspan="2"><span class="pill c-missing">missing</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td class="dim">not modeled</td><td class="dim">—</td><td class="dim">—</td></tr>
+      <tr><td class="arch" rowspan="2">low_usage_specialist</td><td><span class="team tX">X</span></td><td class="dim">not modeled</td><td class="dim">—</td><td class="dim">—</td><td rowspan="2"><span class="pill c-missing">missing</span></td></tr>
+      <tr><td><span class="team tY">Y</span></td><td class="dim">not modeled</td><td class="dim">—</td><td class="dim">—</td></tr>
+    </tbody>
+  </table>
+  <div class="legend">
+    <span><b>self-read</b> engine = modeled translation · estimate = fixture estimate (self-par not modeled)</span>
+    <span><b>impact</b> = signal-sensitivity delta on the real chain, not a roster re-sim</span>
+    <span class="help">✓ effect holds for the acting team</span>
+  </div>
+  <div style="margin-top:12px">
+    <div class="barwrap">
+      <i style="width:3.4%;background:var(--green)"></i><i style="width:17.2%;background:var(--score)"></i><i style="width:79.3%;background:var(--cached)"></i>
+    </div>
+    <span class="dim">deep registry — 58 archetypes across 8 families:</span>
+    <span class="ok">2 modeled self-read</span> · <span style="color:var(--score)">10 engine-tested impact (estimate self-read)</span> · <span style="color:var(--cached)">46 scaffolded / missing (named)</span>
+  </div>
+
+  <h2>Taxonomy Coverage by Family</h2>
+  <table>
+    <thead><tr><th>Family</th><th>Total</th><th>Modeled self-read</th><th>Engine-tested impact</th><th>Scaffolded (missing)</th></tr></thead>
+    <tbody>
+      <tr><td class="arch">guard</td><td>10</td><td class="ok">1</td><td style="color:var(--score)">1</td><td class="dim">8</td></tr>
+      <tr><td class="arch">wing</td><td>9</td><td class="dim">0</td><td style="color:var(--score)">2</td><td class="dim">7</td></tr>
+      <tr><td class="arch">forward</td><td>6</td><td class="dim">0</td><td class="dim">0</td><td class="dim">6</td></tr>
+      <tr><td class="arch">big</td><td>11</td><td class="ok">1</td><td style="color:var(--score)">4</td><td class="dim">7</td></tr>
+      <tr><td class="arch">star</td><td>5</td><td class="dim">0</td><td style="color:var(--score)">1</td><td class="dim">4</td></tr>
+      <tr><td class="arch">defense</td><td>5</td><td class="dim">0</td><td style="color:var(--score)">1</td><td class="dim">4</td></tr>
+      <tr><td class="arch">connector</td><td>5</td><td class="dim">0</td><td style="color:var(--score)">1</td><td class="dim">4</td></tr>
+      <tr><td class="arch">specialist</td><td>7</td><td class="dim">0</td><td style="color:var(--score)">1</td><td class="dim">6</td></tr>
+    </tbody>
+  </table>
+  <div class="legend"><span>Each archetype declares axes, impact levers, proof expectations, and confidence vulnerabilities — the lab knows what basketball language it understands and what it still has to learn.</span></div>
+
+  <h2>Scenario Trace — “Crossing court · rim protector side”</h2>
+  <div class="grid2">
+    <div class="card">
+      <h3>Expected vs Actual</h3>
+      <div class="ck"><span>archetypeModeled = true</span><span class="ok">true ✓</span></div>
+      <div class="ck"><span>rim difficulty &lt; 50 (favorable)</span><span class="ok">47 ✓</span></div>
+      <div class="ck"><span>same court, guard side &gt; 50</span><span class="ok">72 ✓</span></div>
+      <div class="ck"><span>synthetic provenance explicit</span><span class="ok">synthetic_audit ✓</span></div>
+      <div class="ck" style="border:none"><span>motion lock held</span><span class="ok">true ✓</span></div>
+    </div>
+    <div class="card">
+      <h3>Layer Traces</h3>
+      <div class="kv"><span>market</span><span>par 24.5 · low-total grind · win prob —</span></div>
+      <div class="kv"><span>lineup</span><span>par 11.4 · conf 0.62</span></div>
+      <div class="kv"><span>archetype</span><span>diff 47 · fit 73 · modeled</span></div>
+      <div class="kv"><span>proof</span><span>actual/100 32.5 · beat +4.0</span></div>
+      <div class="kv"><span>confidence</span><span>0.53 · MEDIUM · provisional</span></div>
+      <div class="kv"><span>verdict</span><span style="color:var(--score)">BEAT THE COURT</span></div>
+      <div class="kv" style="border:none"><span>render-state</span><span>SYNTHETIC badge · est. basis where unmodeled</span></div>
+    </div>
+  </div>
+
+  <div class="foot">
+    Snapshot of the synthetic audit universe — every value is engine-computed over <b>synthetic_audit_fixture</b> inputs or
+    a labeled fixture estimate. No live data. Impacts are signal-sensitivity deltas, not roster re-simulations.
+    Self-read par is modeled only for scoring_guard and rim_protector; all other rows confess an estimate.
+    Internal audit surface — not the public product.
+  </div>
+</div>

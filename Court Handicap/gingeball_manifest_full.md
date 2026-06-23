@@ -1,0 +1,209 @@
+# Gingeball data manifest (sim-relevant)
+
+Source: local gbtree
+
+**Join rules:** `entity_id` and team ids are stats.nba.com ids (player ids resolve to names via nba_api static list, verified 100% on 2425totals). Lineup ids are `-`-joined player ids **sorted as strings** (e.g. `1629029-1630162-201142-203500-203999`; string sort, not numeric). The per100/score100poss lineup files key on last-name `ShortName` + `TeamAbbreviation`.
+
+## grain: player_name  (131 files)
+- **2021to2526pbpalladvantage.csv** [ok] season=20-21 rows=430 cols=30 key=`Name` → yes (name join)
+- **202526touchdata.csv** [ok] season=25-26 rows=2500 cols=23 key=`Player` → yes (name join)
+- **2324touchdata.csv** [ok] season=23-24 rows=2500 cols=23 key=`Player` → yes (name join)
+- **2425def.csv.xlsx** [ok] season=24-25 rows=588 cols=9 key=`Player` → yes (name join)
+- **2425extras.csv.xlsx** [ok] season=24-25 rows=500 cols=31 key=`Name` → yes (name join)
+- **2425reb.csv.xlsx** [ok] season=24-25 rows=583 cols=11 key=`Player` → yes (name join)
+- **2425rebtotals.csv.xlsx** [ok] season=24-25 rows=7172 cols=27 key=`Player` → yes (name join)
+- **2425shotstotals.csv.xlsx** [ok] season=24-25 rows=26986 cols=42 key=`Player` → yes (name join)
+- **2425touchdata.csv** [ok] season=24-25 rows=2500 cols=23 key=`Player` → yes (name join)
+- **component_data_all/component_defense.csv** [ok] season=? rows=596 cols=12 key=`player` → yes (name join)
+- **component_data_all/component_drives.csv** [ok] season=? rows=1184 cols=13 key=`player` → yes (name join)
+- **component_data_all/component_elbow.csv** [ok] season=? rows=596 cols=22 key=`Player` → yes (name join)
+- **component_data_all/component_paint.csv** [ok] season=? rows=596 cols=23 key=`player` → yes (name join)
+- **component_data_all/component_passing.csv** [ok] season=? rows=1184 cols=11 key=`player` → yes (name join)
+- **component_data_all/component_possessions.csv** [ok] season=? rows=1767 cols=14 key=`player` → yes (name join)
+- **component_data_all/component_post.csv** [ok] season=? rows=596 cols=23 key=`player` → yes (name join)
+- **component_data_all/component_rebounds.csv** [ok] season=? rows=592 cols=17 key=`player` → yes (name join)
+- **component_data_all/component_self_created.csv** [ok] season=? rows=2261 cols=9 key=`player` → yes (name join)
+- **component_data_all/component_touch.csv** [ok] season=? rows=1159 cols=10 key=`player` → yes (name join)
+- **component_data_all/component_tough_shots.csv** [ok] season=? rows=596 cols=9 key=`player` → yes (name join)
+- **component_data_all/pbp_advantage_all_seasons.csv** [ok] season=? rows=430 cols=32 key=`player` → yes (name join)
+- **component_data_all/pbp_touch_season.csv** [ok] season=? rows=848 cols=12 key=`player` → yes (name join)
+- **component_master_2526.csv** [ok] season=25-26 rows=707 cols=40 key=`player` → yes (name join)
+- **def1314.csv.xlsx** [ok] season=13-14 rows=488 cols=9 key=`Player` → yes (name join)
+- **def1415.csv.xlsx** [ok] season=14-15 rows=500 cols=9 key=`Player` → yes (name join)
+- **def1516.csv.xlsx** [ok] season=15-16 rows=484 cols=9 key=`Player` → yes (name join)
+- **def2122.csv.xlsx** [ok] season=21-22 rows=620 cols=9 key=`Player` → yes (name join)
+- **def2223.csv.xlsx** [ok] season=22-23 rows=556 cols=9 key=`Player` → yes (name join)
+- **def2324.csv.xlsx** [ok] season=23-24 rows=591 cols=9 key=`Player` → yes (name join)
+- **def2425.csv.xlsx** [ok] season=24-25 rows=588 cols=9 key=`Player` → yes (name join) — DUP of 2425def.csv.xlsx
+- **def2526.csv.xlsx** [ok] season=25-26 rows=596 cols=9 key=`Player` → yes (name join)
+- **defense2526.csv.xlsx** [ok] season=25-26 rows=596 cols=9 key=`Player` → yes (name join) — DUP of def2526.csv.xlsx
+- **drives1314.csv.xlsx** [ok] season=13-14 rows=488 cols=20 key=`Player` → yes (name join)
+- **drives1415.csv.xlsx** [ok] season=14-15 rows=500 cols=20 key=`Player` → yes (name join)
+- **drives1516.csv.xlsx** [ok] season=15-16 rows=484 cols=20 key=`Player` → yes (name join)
+- **drives1617.csv.xlsx** [ok] season=16-17 rows=496 cols=20 key=`Player` → yes (name join)
+- **drives1718.csv.xlsx** [ok] season=17-18 rows=554 cols=20 key=`Player` → yes (name join)
+- **drives1819.csv.xlsx** [ok] season=18-19 rows=542 cols=20 key=`Player` → yes (name join)
+- **drives1920.csv.xlsx** [ok] season=19-20 rows=542 cols=20 key=`Player` → yes (name join)
+- **drives2021.csv.xlsx** [ok] season=20-21 rows=554 cols=20 key=`Player` → yes (name join)
+- **drives2122.csv.xlsx** [ok] season=21-22 rows=620 cols=20 key=`Player` → yes (name join)
+- **drives2223.csv.xlsx** [ok] season=22-23 rows=556 cols=20 key=`Player` → yes (name join)
+- **drives2324.csv.xlsx** [ok] season=23-24 rows=591 cols=20 key=`Player` → yes (name join)
+- **drives2425.csv.xlsx** [ok] season=24-25 rows=588 cols=20 key=`Player` → yes (name join)
+- **drives2526.csv.xlsx** [ok] season=25-26 rows=596 cols=20 key=`Player` → yes (name join)
+- **elbow1617.csv.xlsx** [ok] season=16-17 rows=496 cols=21 key=`Player` → yes (name join)
+- **elbow1718.csv.xlsx** [ok] season=17-18 rows=554 cols=21 key=`Player` → yes (name join)
+- **elbow1819.csv.xlsx** [ok] season=18-19 rows=542 cols=21 key=`Player` → yes (name join)
+- **elbow1920.csv.xlsx** [ok] season=19-20 rows=542 cols=21 key=`Player` → yes (name join)
+- **elbow2021.csv.xlsx** [ok] season=20-21 rows=554 cols=21 key=`Player` → yes (name join)
+- **elbow2122.csv.xlsx** [ok] season=21-22 rows=620 cols=21 key=`Player` → yes (name join)
+- **elbow2223.csv.xlsx** [ok] season=22-23 rows=556 cols=21 key=`Player` → yes (name join)
+- **elbow2324.csv.xlsx** [ok] season=23-24 rows=591 cols=21 key=`Player` → yes (name join)
+- **elbow2526.csv.xlsx** [ok] season=25-26 rows=596 cols=21 key=`Player` → yes (name join)
+- **paint1718.csv.xlsx** [ok] season=17-18 rows=554 cols=21 key=`Player` → yes (name join)
+- **paint1819.csv.xlsx** [ok] season=18-19 rows=542 cols=21 key=`Player` → yes (name join)
+- **paint1920.csv.xlsx** [ok] season=19-20 rows=542 cols=21 key=`Player` → yes (name join)
+- **paint2021.csv.xlsx** [ok] season=20-21 rows=554 cols=21 key=`Player` → yes (name join)
+- **paint2122.csv.xlsx** [ok] season=21-22 rows=620 cols=21 key=`Player` → yes (name join)
+- **paint2223.csv.xlsx** [ok] season=22-23 rows=556 cols=21 key=`Player` → yes (name join)
+- **paint2324.csv.xlsx** [ok] season=23-24 rows=591 cols=21 key=`Player` → yes (name join)
+- **paint2526.csv.xlsx** [ok] season=25-26 rows=596 cols=21 key=`Player` → yes (name join)
+- **painttouches1617.csv.xlsx** [ok] season=16-17 rows=496 cols=21 key=`Player` → yes (name join)
+- **pass1314.csv.xlsx** [ok] season=13-14 rows=488 cols=14 key=`Player` → yes (name join)
+- **pass1415.csv.xlsx** [ok] season=14-15 rows=500 cols=14 key=`Player` → yes (name join)
+- **pass1516.csv.xlsx** [ok] season=15-16 rows=484 cols=14 key=`Player` → yes (name join)
+- **pass1617.csv.xlsx** [ok] season=16-17 rows=496 cols=14 key=`Player` → yes (name join)
+- **pass1718.csv.xlsx** [ok] season=17-18 rows=554 cols=14 key=`Player` → yes (name join)
+- **pass1819.csv.xlsx** [ok] season=18-19 rows=542 cols=14 key=`Player` → yes (name join)
+- **pass1920.csv.xlsx** [ok] season=19-20 rows=542 cols=14 key=`Player` → yes (name join)
+- **pass2021.csv.xlsx** [ok] season=20-21 rows=554 cols=14 key=`Player` → yes (name join)
+- **pass2122.csv.xlsx** [ok] season=21-22 rows=620 cols=14 key=`Player` → yes (name join)
+- **pass2223.csv.xlsx** [ok] season=22-23 rows=556 cols=14 key=`Player` → yes (name join)
+- **pass2324.csv.xlsx** [ok] season=23-24 rows=591 cols=14 key=`Player` → yes (name join)
+- **passes2425.csv.xlsx** [ok] season=24-25 rows=588 cols=14 key=`Player` → yes (name join)
+- **passing2526.csv.xlsx** [ok] season=25-26 rows=596 cols=14 key=`Player` → yes (name join)
+- **playerdefense2122.csv.xlsx** [ok] season=21-22 rows=620 cols=9 key=`Player` → yes (name join) — DUP of def2122.csv.xlsx
+- **playerdefense2223.csv.xlsx** [ok] season=22-23 rows=556 cols=9 key=`Player` → yes (name join) — DUP of def2223.csv.xlsx
+- **poss2425.csv.xlsx** [ok] season=24-25 rows=588 cols=17 key=`Player` → yes (name join)
+- **possessions2223.csv.xlsx** [ok] season=22-23 rows=556 cols=17 key=`Player` → yes (name join)
+- **possessions2324.csv.xlsx** [ok] season=23-24 rows=591 cols=17 key=`Player` → yes (name join)
+- **possessions2425.csv.xlsx** [ok] season=24-25 rows=588 cols=17 key=`Player` → yes (name join) — DUP of poss2425.csv.xlsx
+- **possessions2526.csv.xlsx** [ok] season=25-26 rows=588 cols=17 key=`Player` → yes (name join) — DUP of poss2425.csv.xlsx
+- **post1617.csv.xlsx** [ok] season=16-17 rows=496 cols=21 key=`Player` → yes (name join)
+- **post1718.csv.xlsx** [ok] season=17-18 rows=554 cols=21 key=`Player` → yes (name join)
+- **post1819.csv.xlsx** [ok] season=18-19 rows=542 cols=21 key=`Player` → yes (name join)
+- **post1920.csv.xlsx** [ok] season=19-20 rows=542 cols=21 key=`Player` → yes (name join)
+- **post2021.csv.xlsx** [ok] season=20-21 rows=554 cols=21 key=`Player` → yes (name join)
+- **post2122.csv.xlsx** [ok] season=21-22 rows=620 cols=21 key=`Player` → yes (name join)
+- **post2223.csv.xlsx** [ok] season=22-23 rows=556 cols=21 key=`Player` → yes (name join)
+- **post2324.csv.xlsx** [ok] season=23-24 rows=591 cols=21 key=`Player` → yes (name join)
+- **post2526.csv.xlsx** [ok] season=25-26 rows=596 cols=21 key=`Player` → yes (name join)
+- **reb1617.xlsx** [ok] season=16-17 rows=496 cols=11 key=`Player` → yes (name join)
+- **reb1718.csv.xlsx** [ok] season=17-18 rows=554 cols=11 key=`Player` → yes (name join)
+- **reb1819.csv.xlsx** [ok] season=18-19 rows=542 cols=11 key=`Player` → yes (name join)
+- **reb1920.csv.xlsx** [ok] season=19-20 rows=542 cols=11 key=`Player` → yes (name join)
+- **reb2021.csv.xlsx** [ok] season=20-21 rows=554 cols=11 key=`Player` → yes (name join)
+- **reb2122.csv.xlsx** [ok] season=21-22 rows=620 cols=11 key=`Player` → yes (name join)
+- **reb2223.csv.xlsx** [ok] season=22-23 rows=556 cols=11 key=`Player` → yes (name join)
+- **reb2324.csv.xlsx** [ok] season=23-24 rows=579 cols=11 key=`Player` → yes (name join)
+- **rebound2526.csv.xlsx** [ok] season=25-26 rows=592 cols=11 key=`Player` → yes (name join)
+- **selfcreated2223csv.xlsx** [ok] season=22-23 rows=537 cols=26 key=`Player` → yes (name join)
+- **selfcreated2324.xlsx** [ok] season=23-24 rows=572 cols=26 key=`Player` → yes (name join)
+- **selfcreated2425.xlsx** [ok] season=24-25 rows=569 cols=26 key=`Player` → yes (name join)
+- **selfcreated2526.xlsx** [ok] season=25-26 rows=583 cols=26 key=`Player` → yes (name join)
+- **shotdif1314.csv.xlsx** [ok] season=13-14 rows=486 cols=25 key=`Name` → yes (name join)
+- **shotdif1415.csv.xlsx** [ok] season=14-15 rows=498 cols=25 key=`Name` → yes (name join)
+- **shotdif1516.csv.xlsx** [ok] season=15-16 rows=483 cols=25 key=`Name` → yes (name join)
+- **shotdif1617.csv.xlsx** [ok] season=16-17 rows=495 cols=25 key=`Name` → yes (name join)
+- **shotdif1718.csv.xlsx** [ok] season=17-18 rows=551 cols=25 key=`Name` → yes (name join)
+- **shotdif1819.csv.xlsx** [ok] season=18-19 rows=538 cols=25 key=`Name` → yes (name join)
+- **shotdif1920.csv.xlsx** [ok] season=19-20 rows=540 cols=25 key=`Name` → yes (name join)
+- **shotdif2021.csv.xlsx** [ok] season=20-21 rows=553 cols=25 key=`Name` → yes (name join)
+- **shotdif2122.csv.xlsx** [ok] season=21-22 rows=610 cols=25 key=`Name` → yes (name join)
+- **shotdif2223.csv.xlsx** [ok] season=22-23 rows=554 cols=25 key=`Name` → yes (name join)
+- **shotdif2324.csv.xlsx** [ok] season=23-24 rows=587 cols=25 key=`Name` → yes (name join)
+- **shotdif2425.csv.xlsx** [ok] season=24-25 rows=585 cols=25 key=`Name` → yes (name join)
+- **shotdif2526.csv.xlsx** [ok] season=25-26 rows=596 cols=25 key=`Name` → yes (name join)
+- **shotdif_all_seasons.csv** [ok] season=? rows=7075 cols=16 key=`name` → yes (name join)
+- **shottrackingdata.csv.xlsx** [ok] season=? rows=26986 cols=42 key=`Player` → yes (name join) — DUP of 2425shotstotals.csv.xlsx
+- **speeddistance2526.csv.xlsx** [ok] season=25-26 rows=596 cols=6 key=`Player` → yes (name join)
+- **speedist1617.csv.xlsx** [ok] season=16-17 rows=496 cols=6 key=`Player` → yes (name join)
+- **speedist1718.csv.xlsx** [ok] season=17-18 rows=554 cols=6 key=`Player` → yes (name join)
+- **speedist1819.csv.xlsx** [ok] season=18-19 rows=542 cols=6 key=`Player` → yes (name join)
+- **speedist1920.csv.xlsx** [ok] season=19-20 rows=542 cols=6 key=`Player` → yes (name join)
+- **speedist2021.csv.xlsx** [ok] season=20-21 rows=554 cols=6 key=`Player` → yes (name join)
+- **speedist2122.csv.xlsx** [ok] season=21-22 rows=620 cols=6 key=`Player` → yes (name join)
+- **speedist2223.csv.xlsx** [ok] season=22-23 rows=556 cols=6 key=`Player` → yes (name join)
+- **speedist2324.csv.xlsx** [ok] season=23-24 rows=591 cols=6 key=`Player` → yes (name join)
+- **toughshotmaking2526.csv.xlsx** [ok] season=25-26 rows=596 cols=25 key=`Name` → yes (name join) — DUP of shotdif2526.csv.xlsx
+- **tracking_upgrades_2017_2024.csv** [ok] season=20-17 rows=4443 cols=30 key=`name` → yes (name join)
+
+## grain: player_id  (28 files)
+- **2018shotdataall.csv.xlsx** [ok] season=20-18 rows=40998 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **2019shotdataall.csv.xlsx** [ok] season=20-19 rows=36839 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **2020shotdataallcsv.xlsx** [ok] season=20-20 rows=37876 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **2425totals.csv.xlsx** [ok] season=24-25 rows=564 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **2425trackingshottotals.csv.xlsx** [ok] season=24-25 rows=39964 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **component_data_all/component_opponent_team.csv** [ok] season=? rows=60 cols=79 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **component_historical_2014_2024.csv** [ok] season=20-14 rows=5211 cols=53 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **component_historical_2019_2024.csv** [ok] season=20-19 rows=3296 cols=36 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **component_historical_2019_2024.csv.xlsx** [ok] season=20-19 rows=3296 cols=36 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of component_historical_2019_2024.csv
+- **opponent2425.csv.xlsx** [ok] season=24-25 rows=30 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **opponent2526.csv.xlsx** [ok] season=25-26 rows=30 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **pbpstats-tracking-shots.csv.xlsx** [ok] season=? rows=40538 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **players2122.csv.xlsx** [ok] season=21-22 rows=605 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **players2223.csv.xlsx** [ok] season=22-23 rows=539 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **players2324.csv.xlsx** [ok] season=23-24 rows=560 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **shotdat2425.csv.xlsx** [ok] season=24-25 rows=39964 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of 2425trackingshottotals.csv.xlsx
+- **shotzone1718.csv.xlsx** [ok] season=17-18 rows=40056 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **shotzone2122.csv.xlsx** [ok] season=21-22 rows=40406 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **shotzone2223.csv.xlsx** [ok] season=22-23 rows=38407 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **shotzone2324.csv.xlsx** [ok] season=23-24 rows=39581 cols=14 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **shotzone_2018_stubs.csv** [ok] season=20-18 rows=537 cols=21 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **shotzone_agg_2018_2022_2023_2024.csv** [ok] season=20-18 rows=2237 cols=27 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved)
+- **tracking_opponent_totals (1).csv** [ok] season=? rows=30 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of opponent2425.csv.xlsx
+- **tracking_opponent_totals.csv** [ok] season=? rows=30 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of opponent2526.csv.xlsx
+- **tracking_player_totals (2).csv.xlsx** [ok] season=? rows=560 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of players2324.csv.xlsx
+- **tracking_player_totals (3).csv** [ok] season=? rows=560 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of players2324.csv.xlsx
+- **tracking_player_totals (4).csv** [ok] season=? rows=539 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of players2223.csv.xlsx
+- **tracking_player_totals (5).csv** [ok] season=? rows=605 cols=76 key=`entity_id` → yes (entity_id = stats.nba.com id; 100% name-resolved) — DUP of players2122.csv.xlsx
+
+## grain: lineup  (10 files)
+- **2526score100poss.csv.xlsx** [ok] season=25-26 rows=500 cols=31 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100MSC2526.csv.xlsx** [ok] season=25-26 rows=500 cols=24 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100PS2526.csv.xlsx** [ok] season=25-26 rows=500 cols=36 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100SQ2526.csv.xlsx** [ok] season=25-26 rows=500 cols=48 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100TOs2526.csv.xlsx** [ok] season=25-26 rows=500 cols=16 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100assists2526.csv.xlsx** [ok] season=25-26 rows=500 cols=13 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100fouls2526.csv.xlsx** [ok] season=25-26 rows=500 cols=19 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100ftsource2526.csv.xlsx** [ok] season=25-26 rows=500 cols=14 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100reb2526.csv.xlsx** [ok] season=25-26 rows=500 cols=33 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+- **per100scp2526.csv.xlsx** [ok] season=25-26 rows=500 cols=33 key=`lineup_5man` → engine/matchup grain (subs, Gap-B, MIN/+-)
+
+## grain: team  (14 files)
+- **team2425offstealmisc.csv.xlsx** [ok] season=24-25 rows=30 cols=21 key=`Name` → engine calibration / matchup
+- **team2chance2425.csv.xlsx** [ok] season=24-25 rows=30 cols=31 key=`Name` → engine calibration / matchup
+- **teamfoul2425.csv.xlsx** [ok] season=24-25 rows=30 cols=17 key=`Name` → engine calibration / matchup
+- **teamftsource2425.csv.xlsx** [ok] season=24-25 rows=30 cols=12 key=`Name` → engine calibration / matchup
+- **teammisc2425.csv.xlsx** [ok] season=24-25 rows=30 cols=22 key=`Name` → engine calibration / matchup
+- **teamoffFTmissmisc2425.csv.xlsx** [ok] season=24-25 rows=30 cols=21 key=`Name` → engine calibration / matchup
+- **teamoffmakemisc2425.csv.xlsx** [ok] season=24-25 rows=30 cols=21 key=`Name` → engine calibration / matchup
+- **teamoffmissmisc2425.csv.xlsx** [ok] season=24-25 rows=30 cols=21 key=`Name` → engine calibration / matchup
+- **teampass2425.csv.xlsx** [ok] season=24-25 rows=30 cols=11 key=`Name` → engine calibration / matchup
+- **teampen2425.csv.xlsx** [ok] season=24-25 rows=30 cols=34 key=`Name` → engine calibration / matchup
+- **teamreb2425.csv.xlsx** [ok] season=24-25 rows=30 cols=31 key=`Name` → engine calibration / matchup
+- **teamscore2425.csv.xlsx** [ok] season=24-25 rows=30 cols=28 key=`te` → engine calibration / matchup
+- **teamshotdis2425.csv.xlsx** [ok] season=24-25 rows=30 cols=46 key=`Name` → engine calibration / matchup
+- **teamto2425.csv.xlsx** [ok] season=24-25 rows=30 cols=14 key=`Name` → engine calibration / matchup
+
+## grain: unknown  (11 files)
+- **1314periodlog.csv.xlsx** [ok] season=13-14 rows=182816 cols=15 key=`?` → inspect manually
+- **1415gamelog.csv.xlsx** [ok] season=14-15 rows=167496 cols=14 key=`?` → inspect manually
+- **1516GL.csv.xlsx** [ok] season=15-16 rows=167496 cols=14 key=`?` → inspect manually — DUP of 1415gamelog.csv.xlsx
+- **1617gamelog.csv.xlsx** [ok] season=16-17 rows=170912 cols=14 key=`?` → inspect manually
+- **201314gamelogs.csv.xlsx** [ok] season=13-14 rows=165720 cols=14 key=`?` → inspect manually
+- **tracking_game_logs (1).csv** [ok] season=? rows=26047 cols=81 key=`?` → inspect manually
+- **tracking_game_logs (2).csv** [ok] season=? rows=26207 cols=81 key=`?` → inspect manually
+- **tracking_game_logs (3).csv** [ok] season=? rows=25806 cols=81 key=`?` → inspect manually
+- **tracking_game_logs (4).csv** [ok] season=? rows=25930 cols=81 key=`?` → inspect manually
+- **tracking_game_logs (5).csv** [ok] season=? rows=23062 cols=81 key=`?` → inspect manually
+- **tracking_game_logs.csv** [ok] season=? rows=26576 cols=81 key=`?` → inspect manually

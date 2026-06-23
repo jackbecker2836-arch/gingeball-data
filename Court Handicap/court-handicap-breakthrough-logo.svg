@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 520" width="880" height="520">
+  <!-- COURT HANDICAP · THE BREAKTHROUGH — official product mark -->
+  <!-- A struck par line with a stroke cutting through it. Through = beat the court. -->
+  <defs>
+    <style>
+      .ink { fill: #F0EBE1; }
+      .bone { fill: #968D82; }
+      .ember { stroke: #CF4E15; fill: none; }
+      .par { stroke: #968D82; fill: none; }
+      .amber { stroke: #E49B18; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="880" height="520" fill="#0D0E14"/>
+
+  <!-- ===== PRIMARY MARK ===== -->
+  <g transform="translate(232 60)">
+    <!-- par line: struck, slightly hand-drawn -->
+    <path class="par" d="M 70 250 C 160 245, 300 252, 410 246" stroke-width="14" stroke-linecap="round"/>
+    <!-- breakthrough stroke: rises from the baseline and cuts up through par -->
+    <path class="ember" d="M 150 360 C 200 250, 250 150, 360 40" stroke-width="26" stroke-linecap="round"/>
+    <path class="amber" d="M 150 360 C 200 250, 250 150, 360 40" stroke-width="8" stroke-linecap="round" opacity="0.65"/>
+    <!-- arrow head where the cut breaks free -->
+    <path d="M 360 40 l -7 34 l 33 -12 z" fill="#CF4E15"/>
+  </g>
+
+  <!-- ===== WORDMARK ===== -->
+  <text x="440" y="470" text-anchor="middle" font-family="Anton, Impact, sans-serif" font-size="58" letter-spacing="2" class="ink">COURT HANDICAP</text>
+  <text x="440" y="500" text-anchor="middle" font-family="'Space Mono', monospace" font-size="14" letter-spacing="6" class="bone">BEAT&#160;&#160;THE&#160;&#160;COURT</text>
+</svg>

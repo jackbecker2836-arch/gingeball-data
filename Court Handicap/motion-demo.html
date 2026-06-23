@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Court Handicap — Meaningful Motion v1</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Anton&family=Fraunces:ital,wght@1,500&family=Space+Mono:wght@400;700&family=Rubik+Dirt&display=swap');
+  :root{
+    --void:#09090B; --pitch:#0D0E14; --bench:#1A1C28; --chalk:#F0EBE1; --bone:#968D82; --fade:#4A4744;
+    --ember:#CF4E15; --scoreboard:#E49B18; --blueprint:#1B6BA8; --bpText:#5BA8D4; --crimson:#B32424; --green:#357A4E;
+    --hair:rgba(255,255,255,.08);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--void);color:var(--chalk);font-family:'Space Mono',monospace;padding:28px 22px 48px}
+  h1{font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:26px;margin:0 0 4px}
+  .sub{color:var(--bone);font-size:12px;margin-bottom:20px}
+  .panel{background:var(--pitch);border:1px solid var(--hair);padding:20px;margin-bottom:18px}
+  .ptitle{font-family:'Bricolage Grotesque',sans-serif;font-weight:600;letter-spacing:.14em;font-size:12px;color:var(--bpText);text-transform:uppercase;margin-bottom:14px}
+  .controls{display:flex;gap:16px;align-items:center;margin-bottom:18px;flex-wrap:wrap}
+  button{font-family:'Rubik Dirt',system-ui;font-size:13px;color:var(--ember);background:rgba(207,78,21,.12);border:1px solid rgba(207,78,21,.28);padding:6px 14px;cursor:pointer;text-transform:uppercase}
+  label{font-size:12px;color:var(--bone);display:inline-flex;gap:7px;align-items:center;cursor:pointer}
+  .note{font-family:'Fraunces',serif;font-style:italic;font-size:13px;color:var(--bone);margin-top:12px}
+  .caption{font-size:9.5px;color:var(--fade);margin-top:8px}
+
+  /* ---- entrance demo: base = end-state (everything visible) ---- */
+  .s{opacity:1;transform:none}
+  .stage.play .s{opacity:0;animation:up .5s ease both}
+  .stage.play .s[data-stage="market"]{animation-delay:0ms}
+  .stage.play .s[data-stage="court"]{animation-delay:180ms}
+  .stage.play .s[data-stage="nodes"]{animation-delay:380ms}
+  .stage.play .s[data-stage="arch"]{animation-delay:560ms}
+  .stage.play .s[data-stage="proof"]{animation-delay:780ms}
+  .stage.play .s[data-stage="verdict"]{animation-delay:1040ms}
+  .stage.reduced .s{opacity:1!important;animation:none!important}
+  @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+  /* ---- ring settle: base = earned arc shown ---- */
+  .ring-fill{stroke-dashoffset:var(--off)}
+  .rings.play .ring-fill{stroke-dashoffset:var(--circ);animation:ring var(--dur) var(--ease) 300ms both}
+  .rings.reduced .ring-fill{stroke-dashoffset:var(--off)!important;animation:none!important}
+  @keyframes ring{to{stroke-dashoffset:var(--off)}}
+
+  .seq{display:flex;gap:10px;align-items:flex-end;flex-wrap:wrap}
+  .step{display:flex;flex-direction:column;align-items:center;gap:6px;width:96px;text-align:center}
+  .step .lab{font-size:8.5px;color:var(--bone);text-transform:uppercase;letter-spacing:.06em}
+  .ringrow{display:flex;gap:40px;flex-wrap:wrap;align-items:flex-start}
+  .ringbox{display:flex;flex-direction:column;align-items:center;gap:8px}
+  .ringbox .t{font-size:10px;color:var(--bone)}
+</style>
+</head>
+<body>
+  <h1>COURT HANDICAP — MEANINGFUL MOTION v1</h1>
+  <div class="sub">a motion study using the production timing tokens (motion.ts). the court breathes; it never claims more than the data earned.</div>
+
+  <div class="controls">
+    <button id="replay">▶ replay</button>
+    <label><input type="checkbox" id="reduced"/> simulate prefers-reduced-motion</label>
+    <span class="caption">reduced-motion shows the full truth instantly — no fact is motion-only.</span>
+  </div>
+
+  <div class="panel">
+    <div class="ptitle">1 · CourtGraph entrance — the order is the spine</div>
+    <div class="stage seq" id="stage">
+      <div class="step"><svg class="s" data-stage="market" width="70" height="70" viewBox="0 0 70 70"><circle cx="35" cy="35" r="16" fill="none" stroke="var(--ember)" stroke-width="2"/><circle cx="35" cy="35" r="4" fill="var(--ember)"/></svg><span class="lab">market sets it</span></div>
+      <div class="step"><svg class="s" data-stage="court" width="70" height="70" viewBox="0 0 70 70"><line x1="8" y1="45" x2="62" y2="45" stroke="var(--chalk)" stroke-width="2"/><line x1="8" y1="30" x2="62" y2="30" stroke="var(--hair)"/></svg><span class="lab">court drawn</span></div>
+      <div class="step"><svg class="s" data-stage="nodes" width="70" height="70" viewBox="0 0 70 70"><line x1="8" y1="48" x2="62" y2="48" stroke="var(--chalk)" stroke-width="1.5"/><circle cx="18" cy="48" r="6" fill="none" stroke="var(--bpText)"/><circle cx="35" cy="48" r="8" fill="var(--ember)"/><circle cx="52" cy="48" r="6" fill="none" stroke="var(--crimson)"/></svg><span class="lab">lineup shapes it</span></div>
+      <div class="step"><svg class="s" data-stage="arch" width="70" height="70" viewBox="0 0 70 70"><ellipse cx="35" cy="40" rx="24" ry="16" fill="rgba(27,107,168,.10)" stroke="var(--bpText)"/><path d="M16 40 Q35 30 54 40" stroke="var(--bpText)" fill="none"/></svg><span class="lab">archetype lens</span></div>
+      <div class="step"><svg class="s" data-stage="proof" width="70" height="70" viewBox="0 0 70 70"><line x1="8" y1="40" x2="62" y2="40" stroke="var(--chalk)" stroke-width="1.5" opacity=".5"/><path d="M10 56 L26 50 L40 40 L54 26" fill="none" stroke="var(--scoreboard)" stroke-width="2.5"/><path d="M46 40 l10 -6" stroke="var(--ember)" stroke-width="3"/></svg><span class="lab">possessions prove</span></div>
+      <div class="step"><svg class="s" data-stage="verdict" width="70" height="70" viewBox="0 0 70 70"><text x="35" y="34" text-anchor="middle" style="font-family:'Rubik Dirt';font-size:13px;fill:var(--ember)">BEAT</text><text x="35" y="52" text-anchor="middle" style="font-family:Anton;font-size:18px;fill:var(--chalk)">+8.6</text></svg><span class="lab">verdict rules</span></div>
+    </div>
+    <div class="note">the verdict never arrives before the proof. confidence settles last — after the ruling, not before it.</div>
+  </div>
+
+  <div class="panel">
+    <div class="ptitle">2 · Confidence ring settle — arc = the earned number, never a celebration</div>
+    <div class="rings ringrow" id="rings">
+      <div class="ringbox">
+        <svg width="92" height="92" viewBox="0 0 92 92" style="--circ:251.3;--off:145.8;--dur:1100ms;--ease:cubic-bezier(.22,.61,.36,1)">
+          <circle cx="46" cy="46" r="40" fill="none" stroke="var(--hair)" stroke-width="6"/>
+          <circle class="ring-fill" cx="46" cy="46" r="40" fill="none" stroke="var(--crimson)" stroke-width="6" stroke-linecap="round" stroke-dasharray="251.3" transform="rotate(-90 46 46)" opacity=".92"/>
+          <text x="46" y="52" text-anchor="middle" style="font-family:Anton;font-size:20px;fill:var(--chalk)">42</text>
+        </svg>
+        <span class="t">LOW · settles slow + quiet</span>
+      </div>
+      <div class="ringbox">
+        <svg width="92" height="92" viewBox="0 0 92 92" style="--circ:251.3;--off:100.5;--dur:900ms;--ease:cubic-bezier(.22,.61,.36,1)">
+          <circle cx="46" cy="46" r="40" fill="none" stroke="var(--hair)" stroke-width="6"/>
+          <circle class="ring-fill" cx="46" cy="46" r="40" fill="none" stroke="var(--scoreboard)" stroke-width="6" stroke-linecap="round" stroke-dasharray="251.3" transform="rotate(-90 46 46)" opacity=".92"/>
+          <text x="46" y="52" text-anchor="middle" style="font-family:Anton;font-size:20px;fill:var(--chalk)">60</text>
+          <circle cx="74" cy="18" r="5" fill="var(--scoreboard)"/>
+        </svg>
+        <span class="t">MEDIUM · restrained · ● PROVISIONAL</span>
+      </div>
+      <div class="ringbox">
+        <svg width="92" height="92" viewBox="0 0 92 92" style="--circ:251.3;--off:55.3;--dur:760ms;--ease:cubic-bezier(.16,.84,.44,1)">
+          <circle cx="46" cy="46" r="40" fill="none" stroke="var(--hair)" stroke-width="6"/>
+          <circle class="ring-fill" cx="46" cy="46" r="40" fill="none" stroke="var(--green)" stroke-width="6" stroke-linecap="round" stroke-dasharray="251.3" transform="rotate(-90 46 46)"/>
+          <text x="46" y="52" text-anchor="middle" style="font-family:Anton;font-size:20px;fill:var(--chalk)">78</text>
+        </svg>
+        <span class="t">HIGH · firmer, never absolute</span>
+      </div>
+    </div>
+    <div class="caption">LOW 0.42 → 42% arc · MEDIUM 0.60 → 60% · HIGH 0.78 → 78%. no tier completes the loop; no tier overshoots. the ring shows exactly what the engine earned.</div>
+  </div>
+
+<script>
+  const stage = document.getElementById('stage');
+  const rings = document.getElementById('rings');
+  const reduced = document.getElementById('reduced');
+  function play(){
+    const isReduced = reduced.checked;
+    [stage, rings].forEach(el=>{
+      el.classList.remove('play');
+      el.classList.toggle('reduced', isReduced);
+      void el.offsetWidth; // reflow to retrigger
+      if(!isReduced) el.classList.add('play');
+    });
+  }
+  document.getElementById('replay').addEventListener('click', play);
+  reduced.addEventListener('change', play);
+  // honor the real OS setting on first load
+  if(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches){ reduced.checked = true; }
+  play();
+</script>
+</body>
+</html>
